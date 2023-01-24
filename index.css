@@ -1,0 +1,146 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: #000000;
+}
+
+.border-white {
+  height: 2px;
+  width: 100px;
+  background-color: #fff;
+}
+
+.border-black {
+  height: 3px;
+  width: 100px;
+  background-color: #000000;
+}
+
+/* header section start */
+
+.navbar .logo {
+  max-width: 100px;
+}
+
+.navbar .top-links .btn {
+  background-color: #f2f5f7;
+  border-color: #f2f5f7;
+  color: #386aa6;
+  box-shadow: 1px 1px 3px #c6c6c6;
+}
+
+.navbar .top-links .btn:hover,
+.navbar .top-links .btn:active,
+.navbar .top-links .btn:focus {
+  color: #0075ff;
+  box-shadow: none;
+}
+
+.navbar .top-links .btn .fa-whatsapp {
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.navbar .top-links .btn.btn-blue {
+  background-color: #0075ff;
+  border-color: #0075ff;
+  color: #fff;
+  font-weight: 500;
+  box-shadow: 1px 1px 3px #0075ff;
+}
+
+.navbar .top-links .btn.btn-blue:hover,
+.navbar .top-links .btn.btn-blue:active,
+.navbar .top-links .btn.btn-blue:focus {
+  box-shadow: none;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .show > .nav-link {
+  color: #0075ff;
+  border-bottom: 2px solid #0075ff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-weight: 500;
+  color: #000000;
+}
+
+/* header section end */
+
+/* hero section end */
+.hero-section {
+  background-image: url("./images/home/hero.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 100%;
+  height: 570px;
+}
+
+.hero-section .hero-image {
+  height: 100%;
+}
+
+.hero-section .hero-image .hero-text {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+  padding-left: 100px;
+}
+
+.hero-section .hero-image .hero-text p {
+  font-size: 1.2rem;
+}
+
+.hero-section .hero-image .hero-text h1 {
+  font-size: 3.2rem;
+  line-height: 4.5rem;
+  font-weight: 600;
+  letter-spacing: 0.1rem;
+}
+
+.hero-section .hero-image .hero-text a.solution-link {
+  color: #ffcb77;
+  max-width: 210px;
+}
+
+.hero-section .hero-image .hero-text a.solution-link:hover {
+  color: #fff;
+}
+/* hero section end */
+
+/* contact btn section start */
+.contact-btn-section a {
+  border: 2px solid #fa9500;
+  color: #000000;
+  border-radius: 7px;
+  box-shadow: 1px 1px 3px #ffc165;
+  font-weight: 400;
+}
+
+.contact-btn-section a:hover {
+  box-shadow: none;
+  background-color: #fa9500;
+  color: #fff;
+  transition: 0.25s ease all;
+}
+/* contact btn section end */
+
+/* media query start */
+@media (max-width: 576px) {
+  .hero-section .hero-image .hero-text {
+    padding-left: 0px;
+  }
+}
+/* media query end */
