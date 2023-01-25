@@ -86,6 +86,10 @@ body {
   color: #000000;
 }
 
+.navbar-light .navbar-toggler {
+  color: #0075ff;
+  border-color: #0075ff;
+}
 /* header section end */
 
 /* hero section end */
