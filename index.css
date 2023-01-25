@@ -23,6 +23,18 @@ body {
   background-color: #000000;
 }
 
+.border-yellow {
+  height: 3px;
+  width: 100px;
+  background-color: #fa9500;
+}
+
+.border-blue {
+  height: 3px;
+  width: 100px;
+  background-color: #0075ff;
+}
+
 /* header section start */
 
 .navbar .logo {
@@ -122,9 +134,11 @@ body {
 
 /* contact btn section start */
 .contact-btn-section a {
+  display: block;
+  max-width: 500px;
   border: 2px solid #fa9500;
   color: #000000;
-  border-radius: 7px;
+  border-radius: 0.5rem;
   box-shadow: 1px 1px 3px #ffc165;
   font-weight: 400;
 }
@@ -136,6 +150,298 @@ body {
   transition: 0.25s ease all;
 }
 /* contact btn section end */
+
+/* industry developers section start */
+.industry-developer-section .card {
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.125);
+  min-height: 400px;
+}
+
+.industry-developer-section .card img {
+  max-width: 100px;
+  padding: 2rem 0 0 2rem;
+}
+
+.industry-developer-section .card-body {
+  padding: 2rem;
+}
+
+.industry-developer-section .card-text {
+  padding-top: 1rem;
+}
+
+.industry-developer-section a.get-developer-btn {
+  display: block;
+  max-width: 250px;
+  padding: 1rem;
+  border: 2px solid #fa9500;
+  color: #000000;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px #ffc165;
+  font-weight: 400;
+}
+
+.industry-developer-section a.get-developer-btn:hover {
+  box-shadow: none;
+  background-color: #fa9500;
+  color: #fff;
+  transition: 0.25s ease all;
+}
+/* industry developers section end */
+
+/* inovation-section start */
+.inovation-section {
+  background-image: url("./images/home/inovation.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: #fff;
+}
+/* inovation-section end */
+
+/* why buildnetic section start */
+.why-buildnetic-section {
+  background-color: #f2f5f7;
+}
+
+.why-buildnetic-section .card {
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.125);
+  min-height: 215px;
+}
+
+.why-buildnetic-section .card img {
+  max-width: 100px;
+  padding: 2rem 0 0 2rem;
+}
+
+.why-buildnetic-section .card-body {
+  padding: 2rem;
+}
+
+.why-buildnetic-section a.discuss-btn {
+  display: block;
+  max-width: 350px;
+  padding: 1rem;
+  border: 2px solid #fa9500;
+  color: #000000;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px #ffc165;
+  font-weight: 400;
+}
+
+.why-buildnetic-section a.discuss-btn:hover {
+  box-shadow: none;
+  background-color: #fa9500;
+  color: #fff;
+  transition: 0.25s ease all;
+}
+/* why buildnetic section end */
+
+/* technology section start */
+.technology-section {
+  margin-bottom: 150px;
+}
+
+.technology-section .card {
+  border: none;
+}
+
+.technology-section hr {
+  background-color: #0075ff;
+}
+
+.technology-section .card img {
+  max-width: 100px;
+  padding-left: 2rem;
+}
+
+.technology-section .card-body {
+  padding: 2rem;
+}
+
+.technology-section .card-body h5 {
+  color: #0075ff;
+  font-weight: 600;
+}
+
+.technology-section .card-body p {
+  font-weight: 600;
+}
+
+.technology-section .card-body p span {
+  font-weight: 400;
+  font-size: 0.9rem;
+}
+/* technology section end */
+
+/* clients review section start */
+.clients-review-section {
+  background-color: #2f3854;
+  color: #fff;
+  padding-top: 123px;
+}
+
+.clients-review-section .container {
+  position: relative;
+}
+
+.clients-review-section h2 {
+  font-weight: 600;
+}
+
+.clients-review-section .carousel-item {
+  background-color: #2f3854;
+  height: 500px;
+}
+
+.clients-review-section .carousel-item .carousel-caption {
+  max-width: 700px;
+  bottom: auto;
+  top: 15%;
+  left: 28%;
+}
+
+.clients-review-section .carousel-item .carousel-caption .block {
+  border: 2px solid #005ac2;
+  border-bottom: none;
+  border-radius: 10px;
+  padding: 3rem 5rem;
+  position: relative;
+}
+
+.clients-review-section .carousel-item .carousel-caption .block::before {
+  font-family: "Font Awesome\ 5 Free";
+  content: "\f10d";
+  font-weight: 900;
+  position: absolute;
+  left: 28px;
+  top: 20px;
+  font-size: 35px;
+}
+
+.clients-review-section .carousel-item .carousel-caption .block::after {
+  font-family: "Font Awesome\ 5 Free";
+  content: "\f10e";
+  font-weight: 900;
+  position: absolute;
+  right: 28px;
+  bottom: 20px;
+  font-size: 35px;
+}
+/* clients review section end */
+
+/* award section start */
+.award-section {
+  max-width: 1200px;
+  background-color: #fff;
+  position: absolute;
+  top: -240px;
+  left: 10%;
+  z-index: 999;
+  color: #000000;
+  box-shadow: 0px 0px 8px #c6c6c6;
+  border-radius: 5px;
+}
+
+.award-section .left-block .img-block {
+  max-width: 100px;
+}
+
+.award-section .left-block .img-block img {
+  width: 100%;
+}
+
+.award-section .right-block h3 span {
+  color: #0075ff;
+}
+
+.award-section a.get-in-touch-btn {
+  display: block;
+  max-width: 200px;
+  padding: 0.8rem;
+  border: 2px solid #0075ff;
+  background-color: #0075ff;
+  color: #000000;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px #0075ff;
+  font-weight: 400;
+  color: #fff;
+}
+
+.award-section a.get-in-touch-btn:hover {
+  box-shadow: none;
+  background-color: #005ac2;
+  border-color: #005ac2;
+  transition: 0.25s ease all;
+}
+/* award section end */
+
+/* blogs section start */
+.blogs-section .card {
+  border-radius: 20px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.125);
+}
+
+.blogs-section .card a.read-more {
+  max-width: 400px;
+  font-weight: 500;
+  color: #0075ff;
+  font-size: 1.2rem;
+  border-bottom: 2px solid #0075ff;
+}
+
+.blogs-section .card a.read-more:hover,
+.blogs-section .card a.read-more:hover i {
+  color: #005ac2;
+}
+
+.blogs-section .card a.blog-link {
+  color: #000000;
+  font-weight: 500;
+}
+
+.blogs-section .card a.blog-link:hover {
+  color: #0075ff;
+  transition: all 0.25s ease;
+}
+/* blogs section end */
+
+/* footer section start */
+.footer-section {
+  background-color: #f4fbff;
+}
+
+.footer-section a {
+  color: #000000;
+}
+
+.footer-section a:hover {
+  color: #0075ff;
+  transition: all 0.25s ease;
+}
+
+.footer-section .social-media-links a {
+  background-color: #0075ff;
+  color: #fff;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding-top: 4px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 3px #0075ff;
+}
+
+.footer-section .social-media-links a:hover {
+  background-color: #005ac2;
+  box-shadow: none;
+}
+
+.footer-section .logo {
+  max-width: 100px;
+}
+/* footer section end */
 
 /* media query start */
 @media (max-width: 576px) {
