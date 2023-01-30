@@ -35,7 +35,23 @@ body {
   background-color: #0075ff;
 }
 
+/*---------- HOME PAGE start ----------*/
 /* header section start */
+
+.navbar {
+  background-color: #fff;
+  transition: all 0.5s ease-in-out;
+}
+
+.navbar.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+  background-color: #fff;
+  box-shadow: 3px 0px 5px #c6c6c6;
+}
 
 .navbar .logo {
   max-width: 100px;
@@ -89,6 +105,30 @@ body {
 .navbar-light .navbar-toggler {
   color: #0075ff;
   border-color: #0075ff;
+}
+
+.it-soln.dropdown-menu {
+  height: 400px;
+  overflow-y: scroll;
+}
+
+.it-soln.dropdown-menu::-webkit-scrollbar {
+  width: 4px;
+}
+
+.it-soln.dropdown-menu::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+.it-soln.dropdown-menu::-webkit-scrollbar-thumb {
+  background: #0075ff;
+  border-radius: 10px;
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+  color: #0a58ca;
 }
 /* header section end */
 
@@ -159,7 +199,7 @@ body {
 .industry-developer-section .card {
   border-radius: 0.5rem;
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.125);
-  min-height: 400px;
+  min-height: 410px;
 }
 
 .industry-developer-section .card img {
@@ -171,8 +211,9 @@ body {
   padding: 2rem;
 }
 
-.industry-developer-section .card-text {
+.industry-developer-section p.card-text {
   padding-top: 1rem;
+  text-align: justify;
 }
 
 .industry-developer-section a.get-developer-btn {
@@ -200,6 +241,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  background-attachment: fixed;
   color: #fff;
 }
 /* inovation-section end */
@@ -418,6 +460,7 @@ body {
 /* footer section start */
 .footer-section {
   background-color: #f4fbff;
+  box-shadow: 0px -2px 3px #f4fbff;
 }
 
 .footer-section a {
@@ -449,6 +492,93 @@ body {
   max-width: 100px;
 }
 /* footer section end */
+
+/*---------- HOME PAGE end ----------*/
+
+/*---------- SERVICES MAIN PAGE START ----------*/
+
+/* title section start */
+.title-section {
+  background-image: url("./images/services/services-title.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  color: #fff;
+}
+/* title section end */
+
+/* service offerings section start */
+.services-page .service-offerings-section .card {
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.125);
+  transition: all 0.25s ease-in;
+  color: #000000;
+}
+
+.services-page .service-offerings-section .card:hover {
+  background-color: #1262c0;
+  color: #fff;
+}
+
+.services-page .service-offerings-section .card.active {
+  background-color: #1262c0;
+  color: #fff;
+}
+
+.services-page .service-offerings-section .card img {
+  max-width: 80px;
+  padding-top: 2rem;
+}
+
+.services-page .service-offerings-section .card-body {
+  padding: 2rem;
+}
+
+.services-page .service-offerings-section p.card-text {
+  padding-top: 1rem;
+  text-align: justify;
+}
+/* service offerings section end */
+
+/* part of solutions section start */
+.services-page .part-of-solutions-section {
+  background-color: #2f3854;
+  color: #fff;
+}
+
+.services-page .part-of-solutions-section a.get-in-touch-btn {
+  display: block;
+  max-width: 200px;
+  padding: 0.8rem 1rem;
+  border: 2px solid #0075ff;
+  background-color: #0075ff;
+  color: #000000;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px #0075ff;
+  font-weight: 400;
+  color: #fff;
+  transition: all 0.25s linear;
+}
+
+.services-page .part-of-solutions-section a.get-in-touch-btn:hover {
+  box-shadow: none;
+  background-color: #005ac2;
+  border-color: #005ac2;
+}
+/* part of solutions section end */
+
+/* technical expertise section start */
+.services-page .technical-expertise-section {
+  background-color: #f2f5f7;
+}
+
+.services-page .technical-expertise-section img {
+  max-width: 500px;
+}
+/* technical expertise section end */
+
+/*---------- SERVICES MAIN PAGE end ----------*/
 
 /* media query start */
 @media (min-width: 1600px) {
@@ -506,6 +636,15 @@ body {
 }
 
 @media (max-width: 768px) {
+  .hero-section .hero-image .hero-text {
+    padding-left: 50px;
+  }
+
+  .hero-section .hero-image .hero-text h1 {
+    font-size: 2.8rem;
+    line-height: 4rem;
+  }
+
   .clients-review-section .carousel-item .carousel-caption {
     top: 10%;
   }
@@ -531,6 +670,11 @@ body {
 @media (max-width: 576px) {
   .hero-section .hero-image .hero-text {
     padding-left: 0px;
+  }
+
+  .hero-section .hero-image .hero-text h1 {
+    font-size: 2.2rem;
+    line-height: 3.5rem;
   }
 
   .clients-review-section .carousel-item .carousel-caption {
@@ -695,6 +839,11 @@ body {
 }
 
 @media (max-width: 375px) {
+  .hero-section .hero-image .hero-text h1 {
+    font-size: 1.8rem;
+    line-height: 2.5rem;
+  }
+
   .award-section {
     top: -230px;
   }
