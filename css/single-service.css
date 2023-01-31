@@ -1,0 +1,86 @@
+/* title section start */
+.single-service-page .title-section {
+  background-image: url("../images/services/single-services/mobile-development/title.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  /* background-attachment: fixed; */
+  color: #fff;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+/* title section end */
+
+/* services we offer section start */
+.single-service-page .services-we-offer-section .card {
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.125);
+}
+
+.single-service-page .services-we-offer-section .card img {
+  max-width: 100px;
+  padding: 2rem 0 0 2rem;
+}
+
+.single-service-page .services-we-offer-section .card-body {
+  padding: 2rem;
+}
+
+.single-service-page .services-we-offer-section .card-body p {
+  text-align: justify;
+}
+/* services we offer section end */
+
+/* technical expertise section start */
+.single-service-page .technical-expertise-section {
+  background-color: #f2f5f7;
+}
+/* technical expertise section end */
+
+/* success stories section start */
+.single-service-page .success-stories-section .card {
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.125);
+  color: #000000;
+}
+
+.single-service-page .success-stories-section .card:hover {
+  box-shadow: none;
+}
+
+.single-service-page .success-stories-section .card:hover .card-body h5 {
+  color: #0075ff;
+}
+
+.single-service-page .success-stories-section .card img {
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+/* success stories section end */
+
+/* part of solutions section start */
+.single-service-page .part-of-solutions-section {
+  background-color: #2f3854;
+  color: #fff;
+}
+
+.single-service-page .part-of-solutions-section a.get-in-touch-btn {
+  display: block;
+  max-width: 200px;
+  padding: 0.8rem 1rem;
+  border: 2px solid #0075ff;
+  background-color: #0075ff;
+  color: #000000;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px #0075ff;
+  font-weight: 400;
+  color: #fff;
+  transition: all 0.25s linear;
+}
+
+.single-service-page .part-of-solutions-section a.get-in-touch-btn:hover {
+  box-shadow: none;
+  background-color: #005ac2;
+  border-color: #005ac2;
+}
+/* part of solutions section end */

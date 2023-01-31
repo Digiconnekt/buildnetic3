@@ -1,0 +1,25 @@
+/* title section start */
+.about-us-page .title-section {
+  background-image: url("../images/about/about-us-banner.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  /* background-attachment: fixed; */
+  color: #fff;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+/* title section end */
+
+/* why choose us section start */
+.about-us-page .why-choose-us-section {
+  background-color: #f2f5f7;
+}
+/* why choose us section end */
+
+/* award section start */
+.about-us-page .award-and-rec-section {
+  background-color: #2f3854;
+  color: #fff;
+}
+/* award section end */

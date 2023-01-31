@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Buildnetic</title>
+
+    <!-- bootstrap 5 CSS cdn link -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+
+    <!-- custom CSS link -->
+    <link rel="stylesheet" href="../css/index.css" />
+
+    <!-- custom CSS link for SERVICES MAIN page-->
+    <link rel="stylesheet" href="../css/single-service.css" />
+
+    <!-- fontawesome link -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+      integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <!-- header section start -->
+    <nav class="navbar sticky-nav navbar-expand-lg navbar-light">
+      <div class="container">
+        <!-- logo start -->
+        <a class="navbar-brand" href="../index.html">
+          <img
+            class="logo"
+            src="../images/buildnetic-logo.png"
+            alt="Buildnetic"
+          />
+        </a>
+        <!-- logo end -->
+
+        <!-- mobile menu btn start -->
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- mobile menu btn end -->
+
+        <!-- links block start -->
+        <div
+          class="collapse navbar-collapse flex-column align-items-end"
+          id="navbarSupportedContent"
+        >
+          <!-- top links block start -->
+          <div class="top-links my-2">
+            <a class="btn me-2" href="#" role="button"
+              ><i class="fa-solid fa-phone"></i
+            ></a>
+            <a class="btn me-2" href="#" role="button"
+              ><i class="fa-brands fa-whatsapp"></i
+            ></a>
+            <a class="btn me-2" href="#" role="button"
+              ><i class="fa-solid fa-envelope"></i
+            ></a>
+            <a class="btn btn-blue" href="#" role="button">Get In Touch</a>
+          </div>
+          <!-- top links block end -->
+
+          <!-- bottom links block start -->
+          <ul class="navbar-nav ml-auto mb-2 mb-lg-0 my-2">
+            <li class="nav-item me-xl-4 me-lg-2">
+              <a
+                class="nav-link active"
+                aria-current="page"
+                href="../index.html"
+                >Home</a
+              >
+            </li>
+            <li class="nav-item me-xl-4 me-lg-2 dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Company
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li>
+                  <a class="dropdown-item" href="../about-us.html">About</a>
+                </li>
+                <li><a class="dropdown-item" href="#">Careers</a></li>
+                <li><a class="dropdown-item" href="#">FAQ</a></li>
+              </ul>
+            </li>
+            <li class="nav-item me-xl-4 me-lg-2 dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                IT Solutions
+              </a>
+              <ul
+                class="it-soln dropdown-menu"
+                aria-labelledby="navbarDropdown"
+              >
+                <li>
+                  <a class="dropdown-item" href="../services.html"
+                    >IT Services</a
+                  >
+                </li>
+                <li><a class="dropdown-item" href="#">IT Support</a></li>
+                <li><a class="dropdown-item" href="#">Web Development</a></li>
+                <li>
+                  <a
+                    class="dropdown-item"
+                    href="../services/mobile-development.html"
+                    >Mobile Development</a
+                  >
+                </li>
+                <li><a class="dropdown-item" href="#">Cloud Computing</a></li>
+                <li>
+                  <a class="dropdown-item" href="#">E-Learning Solutions</a>
+                </li>
+                <li><a class="dropdown-item" href="#">Cyber Security</a></li>
+                <li>
+                  <a class="dropdown-item" href="#"
+                    >Business Intelligence Consulting</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="#">E-Commerce Solutions</a>
+                </li>
+                <li><a class="dropdown-item" href="#">UI-UX Solutions</a></li>
+                <li>
+                  <a class="dropdown-item" href="#">Software Test Management</a>
+                </li>
+              </ul>
+            </li>
+            <li class="nav-item me-xl-4 me-lg-2">
+              <a class="nav-link" href="../engagement-model.html"
+                >Engagement Models</a
+              >
+            </li>
+            <li class="nav-item me-xl-4 me-lg-2">
+              <a class="nav-link" href="../blogs.html">Blogs</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="../contact-us.html">Contact Us</a>
+            </li>
+          </ul>
+          <!-- bottom links block end -->
+        </div>
+        <!-- links block end -->
+      </div>
+    </nav>
+    <!-- header section end -->
+
+    <div class="single-service-page">
+      <!-- title section start -->
+      <div class="title-section container-fuild mt-5">
+        <div class="px-4 py-5 text-center">
+          <h4 class="mb-3">Modern Web Development Platform</h4>
+          <h1 class="display-5 fw-bold mb-3">
+            Angular Application Development
+          </h1>
+        </div>
+      </div>
+      <!-- title section end -->
+
+      <!-- development section start -->
+      <div class="development-section container my-5">
+        <div class="row">
+          <div class="col-12 col-md-6 mb-3 mb-md-0">
+            <img
+              src="../images/services/single-services/mobile-development/mobile-development.png"
+              alt="Mobile Development"
+              class="img-fluid"
+            />
+          </div>
+          <div class="col-12 col-md-6">
+            <h2>Angular Application Development</h2>
+            <div class="border-black mb-3"></div>
+            <p>
+              A cutting-edge web development platform and application design
+              framework for building effective single-page apps is called
+              Angular. Built with a variety of capabilities on TypeScript, it
+              facilitates the creation of complicated single-page enterprise
+              apps as well as scalable online applications. Faster performance,
+              scalable development, and a contemporary approach to web
+              application worldwide deployment are all guaranteed by Angular.
+            </p>
+            <ul>
+              <li>A technique for creating cross-platform applications.</li>
+              <li>Scalable on web platforms at the fastest possible rate.</li>
+              <li>Prebuilt templates make it simple to develop features.</li>
+              <li>Support for global deployment development.</li>
+              <li>Zero-step installation and high performance.</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- development section end -->
+
+      <!-- services we offer section start -->
+      <div class="services-we-offer-section container-fluid my-5">
+        <div class="container">
+          <h2 class="text-center">Services We Offer</h2>
+          <div class="border-yellow mx-auto mb-5"></div>
+          <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/mobile-development/we-offer-1.png"
+                  class="card-img-top"
+                  alt="Industry Developers"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">UI/UX Development for Angular</h5>
+                  <p class="card-text">
+                    While reusing the codes, create, design, and convert complex
+                    design components. We support the creation of UX/UI design
+                    for faster installation and higher performance.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/mobile-development/we-offer-1.png"
+                  class="card-img-top"
+                  alt="Industry Developers"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Custom Angular Development</h5>
+                  <p class="card-text">
+                    With the assistance of our team of professionals, customise
+                    your web development to meet your business objectives. We
+                    assist in offering quicker, more effective, and
+                    uncompromising solutions.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/mobile-development/we-offer-1.png"
+                  class="card-img-top"
+                  alt="Industry Developers"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Angular Support and Maintenance</h5>
+                  <p class="card-text">
+                    For efficient operations, we offer maintenance and support
+                    services. In addition to speed optimization, we also offer
+                    security updates, plugin updates, version upgrades, etc.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/mobile-development/we-offer-1.png"
+                  class="card-img-top"
+                  alt="Industry Developers"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Testing for Angular Quality</h5>
+                  <p class="card-text">
+                    We've selected tests to evaluate the effectiveness and
+                    quality of your angular components. Our customer service
+                    team wants your web experience to be seamless and
+                    uncomplicated.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- services we offer section end -->
+
+      <!-- technical expertise section start -->
+      <div class="technical-expertise-section container-fluid py-5">
+        <div class="container py-5">
+          <div class="row">
+            <div class="col-md-6 col-12">
+              <h2 class="fw-bold">Technical Expertise</h2>
+              <p>
+                Building scalable secure web applications by leveraging cutting
+                edge technologies
+              </p>
+            </div>
+            <div class="col-md-6 col-12 text-center">
+              <img
+                class="img-fluid"
+                src="../images/services/single-services/mobile-development/technical-expertise.png"
+                alt="Technical Expertise"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- technical expertise section end -->
+
+      <!-- success stories section start -->
+      <div class="success-stories-section container-fluid my-5">
+        <div class="container">
+          <h2>Success Stories?</h2>
+          <div class="border-yellow mb-5"></div>
+          <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col-lg-3 col-md-6">
+              <a href="#" class="card text-decoration-none">
+                <img
+                  src="../images/services/single-services/mobile-development/success-stories-1.png"
+                  class="card-img-top"
+                  alt="Success Stories"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Group shopping app</h5>
+                  <p class="card-text">
+                    Built for the next 100 Cr. Indian users
+                  </p>
+                </div>
+              </a>
+            </div>
+            <div class="col-lg-3 col-md-6">
+              <a href="#" class="card text-decoration-none">
+                <img
+                  src="../images/services/single-services/mobile-development/success-stories-1.png"
+                  class="card-img-top"
+                  alt="Success Stories"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Group shopping app</h5>
+                  <p class="card-text">
+                    Built for the next 100 Cr. Indian users
+                  </p>
+                </div>
+              </a>
+            </div>
+            <div class="col-lg-3 col-md-6">
+              <a href="#" class="card text-decoration-none">
+                <img
+                  src="../images/services/single-services/mobile-development/success-stories-1.png"
+                  class="card-img-top"
+                  alt="Success Stories"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Group shopping app</h5>
+                  <p class="card-text">
+                    Built for the next 100 Cr. Indian users
+                  </p>
+                </div>
+              </a>
+            </div>
+            <div class="col-lg-3 col-md-6">
+              <a href="#" class="card text-decoration-none">
+                <img
+                  src="../images/services/single-services/mobile-development/success-stories-1.png"
+                  class="card-img-top"
+                  alt="Success Stories"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Group shopping app</h5>
+                  <p class="card-text">
+                    Built for the next 100 Cr. Indian users
+                  </p>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- success stories section end -->
+
+      <!-- part of solution section start -->
+      <div class="part-of-solutions-section container-fuild mt-5">
+        <div class="px-4 py-5 text-center">
+          <h1 class="display-5 mb-3">Be a part of the solution!</h1>
+          <a class="btn get-in-touch-btn mx-auto" href="#" role="button"
+            >Get In Touch <i class="fa-solid fa-arrow-right-long ms-2"></i
+          ></a>
+        </div>
+      </div>
+      <!-- part of solution section end -->
+    </div>
+
+    <!-- footer section start -->
+    <footer class="footer-section container-fluid py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <p>
+              <a href="../index.html">
+                <img
+                  class="img-fluid logo"
+                  src="../images/buildnetic-logo.png"
+                  alt="Buildnetic"
+                />
+              </a>
+            </p>
+            <p>
+              <a href="mailto:info@buildnetic.com" class="text-decoration-none">
+                <i class="fa-solid fa-envelope me-2"></i>info@buildnetic.com
+              </a>
+            </p>
+            <p>
+              <a href="tel:+65 87993124" class="text-decoration-none"
+                ><i class="fa-solid fa-phone me-2"></i>+65 87993124</a
+              >
+            </p>
+            <p class="social-media-links d-flex">
+              <a href="#" class="me-3"
+                ><i class="fa-brands fa-facebook-f"></i
+              ></a>
+              <a href="#" class="me-3"><i class="fa-brands fa-twitter"></i></a>
+              <a href="#" class="me-3"
+                ><i class="fa-brands fa-linkedin-in"></i
+              ></a>
+            </p>
+          </div>
+          <div class="col-lg-3 col-sm-6 mt-3 mt-sm-0">
+            <h5>COMPANY</h5>
+            <div class="border-yellow mb-4"></div>
+            <p>
+              <a href="../services.html" class="text-decoration-none"
+                >Services</a
+              >
+            </p>
+            <p>
+              <a href="../engagement-model.html" class="text-decoration-none"
+                >Engagement Model</a
+              >
+            </p>
+            <p>
+              <a href="../success-stories.html" class="text-decoration-none"
+                >Success Stories</a
+              >
+            </p>
+            <p>
+              <a href="../about-us.html" class="text-decoration-none"
+                >About Us</a
+              >
+            </p>
+            <p>
+              <a href="../contact-us.html" class="text-decoration-none"
+                >Contact Us</a
+              >
+            </p>
+            <p>
+              <a href="../blogs.html" class="text-decoration-none">Blogs</a>
+            </p>
+          </div>
+          <div class="col-lg-3 col-sm-6 mt-3 mt-sm-5 mt-lg-0">
+            <h5>SERVICES</h5>
+            <div class="border-yellow mb-4"></div>
+            <p>
+              <a
+                href="../services/mobile-development.html"
+                class="text-decoration-none"
+                >Mobile Application Development</a
+              >
+            </p>
+            <p>
+              <a
+                href="../services/custom-application-development.html"
+                class="text-decoration-none"
+                >Custom Application Development</a
+              >
+            </p>
+            <p>
+              <a
+                href="../services/devops-solutions.html"
+                class="text-decoration-none"
+                >DevOps Solutions & Services</a
+              >
+            </p>
+            <p>
+              <a
+                href="../services/product-re-engineering.html"
+                class="text-decoration-none"
+                >Product Re-Engineering</a
+              >
+            </p>
+            <p>
+              <a
+                href="../services/e-commerce-solutions.html"
+                class="text-decoration-none"
+                >E-commerce Solutions</a
+              >
+            </p>
+            <p>
+              <a
+                href="../services/dedicated-developers.html"
+                class="text-decoration-none"
+                >Dedicated Developers</a
+              >
+            </p>
+            <p>
+              <a
+                href="../services/data-analytics.html"
+                class="text-decoration-none"
+                >Data Analytics</a
+              >
+            </p>
+            <p>
+              <a href="../services/testing.html" class="text-decoration-none"
+                >Testing</a
+              >
+            </p>
+          </div>
+          <div class="col-lg-3 col-sm-6 mt-3 mt-sm-5 mt-lg-0">
+            <h5>TECHNOLOGY</h5>
+            <div class="border-yellow mb-4"></div>
+            <p>
+              <a
+                href="../services/nodejs-development.html"
+                class="text-decoration-none"
+                >NodeJS</a
+              >
+            </p>
+            <p>
+              <a href="../services/java.html" class="text-decoration-none"
+                >Java</a
+              >
+            </p>
+            <p>
+              <a href="../services/python.html" class="text-decoration-none"
+                >Python</a
+              >
+            </p>
+            <p>
+              <a
+                href="../services/android-development.html"
+                class="text-decoration-none"
+                >Android</a
+              >
+            </p>
+            <p>
+              <a
+                href="../services/ios-development.html"
+                class="text-decoration-none"
+                >iOS</a
+              >
+            </p>
+            <p>
+              <a
+                href="../services/reactjs-development.html"
+                class="text-decoration-none"
+                >ReactJS</a
+              >
+            </p>
+            <p>
+              <a
+                href="../services/react-native.html"
+                class="text-decoration-none"
+                >React Native</a
+              >
+            </p>
+            <p>
+              <a
+                href="../services/angular-development.html"
+                class="text-decoration-none"
+                >Angular</a
+              >
+            </p>
+            <p>
+              <a
+                href="../services/blockchain-development.html"
+                class="text-decoration-none"
+                >Blockchain</a
+              >
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- footer section end -->
+
+    <!-- bootstrap 5 JS cdn link -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- custom JS link start -->
+    <script src="../index.js"></script>
+  </body>
+</html>

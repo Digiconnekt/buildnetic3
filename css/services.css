@@ -1,0 +1,65 @@
+/* service offerings section start */
+.services-page .service-offerings-section .card {
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.125);
+  transition: all 0.25s ease-in;
+  color: #000000;
+}
+
+.services-page .service-offerings-section .card:hover {
+  background-color: #1262c0;
+  color: #fff;
+}
+
+.services-page .service-offerings-section .card.active {
+  background-color: #1262c0;
+  color: #fff;
+}
+
+.services-page .service-offerings-section .card img {
+  max-width: 80px;
+  padding-top: 2rem;
+}
+
+.services-page .service-offerings-section .card-body {
+  padding: 2rem;
+}
+
+.services-page .service-offerings-section p.card-text {
+  padding-top: 1rem;
+  text-align: justify;
+}
+/* service offerings section end */
+
+/* part of solutions section start */
+.services-page .part-of-solutions-section {
+  background-color: #2f3854;
+  color: #fff;
+}
+
+.services-page .part-of-solutions-section a.get-in-touch-btn {
+  display: block;
+  max-width: 200px;
+  padding: 0.8rem 1rem;
+  border: 2px solid #0075ff;
+  background-color: #0075ff;
+  color: #000000;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px #0075ff;
+  font-weight: 400;
+  color: #fff;
+  transition: all 0.25s linear;
+}
+
+.services-page .part-of-solutions-section a.get-in-touch-btn:hover {
+  box-shadow: none;
+  background-color: #005ac2;
+  border-color: #005ac2;
+}
+/* part of solutions section end */
+
+/* technical expertise section start */
+.services-page .technical-expertise-section {
+  background-color: #f2f5f7;
+}
+/* technical expertise section end */

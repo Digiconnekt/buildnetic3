@@ -1,0 +1,33 @@
+.contact-page .contact-banner-section {
+  background-color: #f2f5f7;
+}
+
+.contact-page .contact-banner-section h2 {
+  margin-top: 20%;
+}
+
+.contact-page {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.contact-page .contact-form form {
+  max-width: 900px;
+  margin: 0 auto;
+  border: 2px solid #f2f5f7;
+  border-radius: 8px;
+  padding: 50px;
+  box-shadow: 1px 1px 5px #f2f5f7;
+}
+
+.contact-page .contact-form button {
+  background-color: #0075ff;
+  border-color: #0075ff;
+  color: #fff;
+  font-weight: 500;
+  box-shadow: 1px 1px 3px #0075ff;
+}
+
+.contact-page .contact-form button:hover {
+  box-shadow: none;
+}
