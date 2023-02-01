@@ -1,0 +1,199 @@
+.get-in-touch-page .get-in-touch-banner-section {
+  background-color: #f2f5f7;
+}
+
+.get-in-touch-page .get-in-touch-banner-section h2 {
+  margin-top: 20%;
+}
+
+input[type="radio"] {
+  display: none;
+}
+
+.block {
+  margin-bottom: 25px;
+}
+
+.block h2 {
+  margin-bottom: 20px;
+  margin-left: 10px;
+}
+
+.block h2 span.second {
+  font-weight: 400;
+  font-size: 14px;
+  display: block;
+  margin-top: 10px;
+}
+
+.block .select-block {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+/* .block .select-block input[type="radio"] {
+  display: none;
+} */
+
+.block .select-block label {
+  display: inline-block;
+  color: #333333;
+  font-size: 18px;
+  border-radius: 5px;
+  font-weight: 500;
+  padding: 4px 25px;
+  line-height: 42px;
+  margin: 0 10px 10px 10px;
+  cursor: pointer;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  box-shadow: 0 0 0 0.4rem rgb(255 255 255 / 25%);
+}
+
+.block ul.listing {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.block ul.listing li {
+  width: 50%;
+  display: inline-flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin: 0;
+  padding: 0 0 20px 10px;
+}
+
+.block ul.listing li div.radio {
+  flex-basis: 100%;
+  height: 100%;
+}
+
+.block ul.listing li label {
+  display: flex;
+  text-align: center;
+  width: 90%;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  border-radius: 5px;
+  padding: 20px 10px;
+  margin: 4px 0 0 4px;
+  box-shadow: 0 0 0 0.4rem rgb(255 255 255 / 25%);
+  height: 100%;
+  font-size: 18px;
+  font-weight: 500;
+  color: #333;
+  justify-content: center;
+  align-items: center;
+}
+
+.block .textarea {
+  padding-left: 10px;
+}
+
+.block .textarea textarea {
+  background: #fbfbfb;
+  border: 1px solid #d6e4ec;
+  border-radius: 4px;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #343c44;
+  padding: 10px 15px;
+  width: 100%;
+  resize: none;
+  height: 100px;
+}
+
+.block label.char-count {
+  display: block;
+  text-align: right;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 14px;
+  color: #343c44;
+}
+
+.block .upload-file-block {
+  padding-left: 10px;
+}
+
+.block .upload-file-block input::file-selector-button {
+  font-weight: bold;
+  color: #343c44;
+  padding: 0.5em;
+  border: 1px solid #343c44;
+  border-radius: 3px;
+}
+
+.block .upload-file-block span {
+  font-weight: 400;
+  font-size: 14px;
+  display: block;
+  margin-top: 10px;
+}
+
+.block .details-block {
+  max-width: 470px;
+  padding-left: 10px;
+}
+
+.block .details-block .email,
+.block .details-block .company,
+.block .details-block .contact-name,
+.block .details-block .contact-number {
+  display: flex;
+  align-items: center;
+  border: 1px solid #343c44;
+  margin-bottom: 10px;
+  padding: 7px;
+  border-radius: 2px;
+  box-shadow: 0 0 0 0.4rem rgb(255 255 255 / 25%);
+}
+
+.block .details-block .email img,
+.block .details-block .company img,
+.block .details-block .contact-name img,
+.block .details-block .contact-number img {
+  margin-right: 8px;
+}
+
+.block .details-block .email input,
+.block .details-block .company input,
+.block .details-block .contact-name input,
+.block .details-block .contact-number input {
+  border: none;
+  outline: none;
+  width: 100%;
+}
+
+.block .submit-btn {
+  padding-left: 10px;
+}
+
+.block .submit-btn button {
+  font-size: 14px;
+  font-weight: 700;
+  color: #251b00;
+  background: #f5b300;
+  padding: 17px 70px;
+  text-transform: uppercase;
+  display: inline-block;
+  -webkit-border-radius: 31px;
+  -moz-border-radius: 31px;
+  border-radius: 31px;
+  border: 1px solid #f5b300;
+  margin: 20px 30px 0 0;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.iti__selected-flag {
+  padding-left: 0;
+}

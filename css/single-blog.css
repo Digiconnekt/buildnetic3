@@ -1,3 +1,13 @@
 .single-blog-page .blog-content h4 {
   color: #0075ff;
 }
+
+.single-blog-page .title-section .blog-nav,
+.single-blog-page .title-section .blog-nav a {
+  color: #ffffff;
+}
+
+.single-blog-page .title-section .blog-nav a:hover {
+  transition: all 0.25s linear;
+  color: #fa9500;
+}

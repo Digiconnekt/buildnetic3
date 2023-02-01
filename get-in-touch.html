@@ -1,0 +1,991 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Buildnetic</title>
+
+    <!-- bootstrap 5 CSS cdn link -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+
+    <!-- custom CSS link for INDEX page -->
+    <link rel="stylesheet" href="./css/index.css" />
+
+    <!-- custom CSS link for CONTACT page -->
+    <link rel="stylesheet" href="./css/get-in-touch.css" />
+
+    <!-- fontawesome link -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+      integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <!-- header section start -->
+    <nav class="navbar sticky-nav navbar-expand-lg navbar-light">
+      <div class="container">
+        <!-- logo start -->
+        <a class="navbar-brand" href="./index.html">
+          <img
+            class="logo"
+            src="./images/buildnetic-logo.png"
+            alt="Buildnetic"
+          />
+        </a>
+        <!-- logo end -->
+
+        <!-- mobile menu btn start -->
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- mobile menu btn end -->
+
+        <!-- links block start -->
+        <div
+          class="collapse navbar-collapse flex-column align-items-end"
+          id="navbarSupportedContent"
+        >
+          <!-- top links block start -->
+          <div class="top-links my-2">
+            <a class="btn me-2" href="#" role="button"
+              ><i class="fa-solid fa-phone"></i
+            ></a>
+            <a class="btn me-2" href="#" role="button"
+              ><i class="fa-brands fa-whatsapp"></i
+            ></a>
+            <a class="btn me-2" href="#" role="button"
+              ><i class="fa-solid fa-envelope"></i
+            ></a>
+            <a class="btn btn-blue" href="#" role="button">Get In Touch</a>
+          </div>
+          <!-- top links block end -->
+
+          <!-- bottom links block start -->
+          <ul class="navbar-nav ml-auto mb-2 mb-lg-0 my-2">
+            <li class="nav-item me-xl-4 me-lg-2">
+              <a class="nav-link active" aria-current="page" href="./index.html"
+                >Home</a
+              >
+            </li>
+            <li class="nav-item me-xl-4 me-lg-2 dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Company
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li>
+                  <a class="dropdown-item" href="./about-us.html">About</a>
+                </li>
+                <li><a class="dropdown-item" href="#">Careers</a></li>
+                <li><a class="dropdown-item" href="#">FAQ</a></li>
+              </ul>
+            </li>
+            <li class="nav-item me-xl-4 me-lg-2 dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                IT Solutions
+              </a>
+              <ul
+                class="it-soln dropdown-menu"
+                aria-labelledby="navbarDropdown"
+              >
+                <li>
+                  <a class="dropdown-item" href="./services.html"
+                    >IT Services</a
+                  >
+                </li>
+                <li><a class="dropdown-item" href="#">IT Support</a></li>
+                <li><a class="dropdown-item" href="#">Web Development</a></li>
+                <li>
+                  <a
+                    class="dropdown-item"
+                    href="./services/mobile-development.html"
+                    >Mobile Development</a
+                  >
+                </li>
+                <li><a class="dropdown-item" href="#">Cloud Computing</a></li>
+                <li>
+                  <a class="dropdown-item" href="#">E-Learning Solutions</a>
+                </li>
+                <li><a class="dropdown-item" href="#">Cyber Security</a></li>
+                <li>
+                  <a class="dropdown-item" href="#"
+                    >Business Intelligence Consulting</a
+                  >
+                </li>
+                <li>
+                  <a class="dropdown-item" href="#">E-Commerce Solutions</a>
+                </li>
+                <li><a class="dropdown-item" href="#">UI-UX Solutions</a></li>
+                <li>
+                  <a class="dropdown-item" href="#">Software Test Management</a>
+                </li>
+              </ul>
+            </li>
+            <li class="nav-item me-xl-4 me-lg-2">
+              <a class="nav-link" href="./engagement-model.html"
+                >Engagement Models</a
+              >
+            </li>
+            <li class="nav-item me-xl-4 me-lg-2">
+              <a class="nav-link" href="./blogs.html">Blogs</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./contact-us.html">Contact Us</a>
+            </li>
+          </ul>
+          <!-- bottom links block end -->
+        </div>
+        <!-- links block end -->
+      </div>
+    </nav>
+    <!-- header section end -->
+
+    <!-- contact page start -->
+    <div class="get-in-touch-page">
+      <div class="get-in-touch-banner-section container-fluid mt-2 mb-5">
+        <div class="container py-4">
+          <div class="row">
+            <div class="col-12 col-md-6 mb-5 mb-md-0">
+              <h2 class="display-5 fw-bold">
+                Get <br />
+                In Touch
+              </h2>
+              <div class="border-black"></div>
+            </div>
+            <div class="col-12 col-md-6">
+              <img
+                src="./images//contact/contact-banner.png"
+                alt="Contact"
+                class="img-fluid"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="get-in-touch-form container py-5">
+        <div class="row">
+          <div class="col-lg-5 mb-4 mb-lg-0">
+            <img
+              src="./images/services/technical-expertise.png"
+              alt="Get In Touch"
+              class="img-fluid"
+            />
+          </div>
+          <div class="col-lg-7">
+            <div class="get-in-touch">
+              <!-- step 1 start -->
+              <div id="stepOne" class="block">
+                <h2>What are you looking for?</h2>
+                <div class="select-block">
+                  <input
+                    title="stepTwo"
+                    type="radio"
+                    id="hireTeam"
+                    name="selectPlan"
+                    value="hireTeam"
+                  />
+                  <label for="hireTeam">I want to hire a team</label>
+                  <input
+                    title="stepEleven"
+                    type="radio"
+                    id="haveProject"
+                    name="selectPlan"
+                    value="haveProject"
+                  />
+                  <label for="haveProject">I have a project</label>
+                  <input
+                    title="stepTwo"
+                    type="radio"
+                    id="somethingElse"
+                    name="selectPlan"
+                    value="somethingElse"
+                  />
+                  <label for="somethingElse">Something else</label>
+                </div>
+              </div>
+              <!-- step 1 end -->
+
+              <!-- step 2 start -->
+              <div id="stepTwo" class="block">
+                <h2>What are you looking for?</h2>
+                <ul class="listing">
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepThree"
+                        id="new_project"
+                        type="radio"
+                        name="typeofproject"
+                        value="New idea or project"
+                      />
+                      <label for="new_project">
+                        <div class="content">
+                          <p>New idea or project</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepThree"
+                        id="existing_project"
+                        type="radio"
+                        name="typeofproject"
+                        value="Existing project that needs more resources"
+                      />
+                      <label for="existing_project">
+                        <div class="content">
+                          <p>Existing project that needs more resources</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepThree"
+                        id="ongoing_assistance"
+                        type="radio"
+                        name="typeofproject"
+                        value="Ongoing assistance or consultation"
+                      />
+                      <label for="ongoing_assistance">
+                        <div class="content">
+                          <p>Ongoing assistance or consultation</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepThree"
+                        id="none"
+                        type="radio"
+                        name="typeofproject"
+                        value="Something else"
+                      />
+                      <label for="none">
+                        <div class="content">
+                          <p>Something else</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <!-- step 2 end -->
+
+              <!-- step 3 start -->
+              <div id="stepThree" class="block">
+                <h2>Tell us about your hiring needs?</h2>
+                <div class="select-block">
+                  <input
+                    title="stepFour"
+                    type="radio"
+                    id="fulltime"
+                    name="selectHiringNeeds"
+                    value="fulltime"
+                    data-gaconnector-tracked="true"
+                  />
+                  <label for="fulltime">Full-time</label>
+                  <input
+                    title="stepFour"
+                    type="radio"
+                    id="parttime"
+                    name="selectHiringNeeds"
+                    value="parttime"
+                    data-gaconnector-tracked="true"
+                  />
+                  <label for="parttime">Part-time</label>
+                  <input
+                    title="stepFour"
+                    type="radio"
+                    id="couldBeBoth"
+                    name="selectHiringNeeds"
+                    value="couldBeBoth"
+                    data-gaconnector-tracked="true"
+                  />
+                  <label for="couldBeBoth">Both</label>
+                </div>
+              </div>
+              <!-- step 3 end -->
+
+              <!-- step 4 start -->
+              <div id="stepFour" class="block">
+                <h2>What suits you the best?</h2>
+                <ul class="listing">
+                  <li>
+                    <div class="radio">
+                      <input
+                        id="offshore"
+                        title="stepFive"
+                        type="radio"
+                        name="openfor"
+                        value="offshore"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="offshore">
+                        <div class="content">
+                          <p>Offshore<span>(Cost advantage)</span></p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        id="nearshore"
+                        title="stepFive"
+                        type="radio"
+                        name="openfor"
+                        value="nearshore"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="nearshore">
+                        <div class="content">
+                          <p>
+                            Nearshore<span
+                              >(Same time zone and slight cost advantage)</span
+                            >
+                          </p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        id="onshore"
+                        title="stepFive"
+                        type="radio"
+                        name="openfor"
+                        value="onshore"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="onshore">
+                        <div class="content">
+                          <p>
+                            Onshore- remote or onsite<span
+                              >(A local native resource)</span
+                            >
+                          </p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        id="open"
+                        title="stepFive"
+                        type="radio"
+                        name="openfor"
+                        value="open for discussion"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="open">
+                        <div class="content">
+                          <p>Open for discussion</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <!-- step 4 end -->
+
+              <!-- step 5 start -->
+              <div id="stepFive" class="block">
+                <h2>How many resources do you need?</h2>
+                <ul class="listing">
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepSix"
+                        id="multiple"
+                        type="radio"
+                        name="numberofresources"
+                        value="Multiple"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="multiple">
+                        <div class="content">
+                          <p>Multiple</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepSix"
+                        id="only_1"
+                        type="radio"
+                        name="numberofresources"
+                        value="Only one"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="only_1">
+                        <div class="content">
+                          <p>Only one</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepSix"
+                        id="num_resources_not_sure"
+                        type="radio"
+                        name="numberofresources"
+                        value="Not sure, I will decide later"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="num_resources_not_sure">
+                        <div class="content">
+                          <p>Not sure, I'll decide later</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <!-- step 5 end -->
+
+              <!-- step 6 start -->
+              <div id="stepSix" class="block">
+                <h2>How long do you need the resource for?</h2>
+                <ul class="listing">
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepSeven"
+                        id="longer_than_6_months"
+                        type="radio"
+                        name="durationofproject"
+                        value="Longer than 6 months"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="longer_than_6_months">
+                        <div class="content">
+                          <p>Longer than 6 months</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepSeven"
+                        id="3_to_6_months"
+                        type="radio"
+                        name="durationofproject"
+                        value="3 to 6 months"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="3_to_6_months">
+                        <div class="content">
+                          <p>2 to 6 months</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepSeven"
+                        id="1_to_4_weeks"
+                        type="radio"
+                        name="durationofproject"
+                        value="1 to 4 weeks"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="1_to_4_weeks">
+                        <div class="content">
+                          <p>A month or less</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepSeven"
+                        id="not_sure_I_ll_decide_later"
+                        type="radio"
+                        name="durationofproject"
+                        value="Not sure, I will decide later"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="not_sure_I_ll_decide_later">
+                        <div class="content">
+                          <p>Not sure, I'll decide later</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <!-- step 6 end -->
+
+              <!-- step 7 start -->
+              <div id="stepSeven" class="block">
+                <h2>
+                  What skills would you like to see in your new hire or the
+                  team?
+                  <span class="second"
+                    >Tell us a little more about what you’re looking for or
+                    attach the job descriptions if you have them ready</span
+                  >
+                </h2>
+                <div class="textarea">
+                  <textarea
+                    maxlength="1000"
+                    rows="3"
+                    id="contact_message"
+                    name="contact_message"
+                    placeholder="Desired areas of expertise (e.g., Javascript, Ruby etc )"
+                    class="bm-input no-icon"
+                  ></textarea>
+                </div>
+                <label id="charNum" class="char-count"
+                  >0 out of 1000 characters</label
+                >
+                <div class="upload-file-block">
+                  <input type="file" name="" id="" class="custom-file-input" />
+                  <br />
+                  <span
+                    >(Allowed - doc, ppt, pdf, xls, jpg, jpeg, png, gif, bmp,
+                    pptx, xlsx)</span
+                  >
+                </div>
+              </div>
+              <!-- step 7 end -->
+
+              <!-- step 8 start -->
+              <div id="stepEight" class="block">
+                <h2>How soon do you need the resource(s)?</h2>
+                <ul class="listing">
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepNine"
+                        id="withinNintyDays"
+                        type="radio"
+                        name="wantToGetStarted"
+                        value="Within 90 days"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="withinNintyDays">
+                        <div class="content">
+                          <p>60-90 Days</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepNine"
+                        id="withinamonth"
+                        type="radio"
+                        name="wantToGetStarted"
+                        value="Within a month"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="withinamonth">
+                        <div class="content">
+                          <p>Within a month</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepNine"
+                        id="sevenToFifteen"
+                        type="radio"
+                        name="wantToGetStarted"
+                        value="7 days to 15 days"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="sevenToFifteen">
+                        <div class="content">
+                          <p>2-4 Weeks</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="radio">
+                      <input
+                        title="stepNine"
+                        id="donotKnow"
+                        type="radio"
+                        name="wantToGetStarted"
+                        value="Donot know yet"
+                        data-gaconnector-tracked="true"
+                      />
+                      <label for="donotKnow">
+                        <div class="content">
+                          <p>Don't know yet</p>
+                        </div>
+                      </label>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+              <!-- step 8 end -->
+
+              <!-- step 9 start -->
+              <div id="stepNine" class="block">
+                <h2>What's your company size?</h2>
+                <div class="select-block">
+                  <input
+                    title="stepTen"
+                    type="radio"
+                    id="currentEmployeeTen"
+                    name="currentEmployee"
+                    value="1-10"
+                    data-gaconnector-tracked="true"
+                  />
+                  <label for="currentEmployeeTen">1-10</label>
+                  <input
+                    title="stepTen"
+                    type="radio"
+                    id="currentEmployeeFifty"
+                    name="currentEmployee"
+                    value="11-50"
+                    data-gaconnector-tracked="true"
+                  />
+                  <label for="currentEmployeeFifty">11-50</label>
+                  <input
+                    title="stepTen"
+                    type="radio"
+                    id="currentEmployeeFiftyOne"
+                    name="currentEmployee"
+                    value="51-250"
+                    data-gaconnector-tracked="true"
+                  />
+                  <label for="currentEmployeeFiftyOne">51-250</label>
+                  <input
+                    title="stepTen"
+                    type="radio"
+                    id="currentEmployeeTwoFiftyOne"
+                    name="currentEmployee"
+                    value="251-10K"
+                    data-gaconnector-tracked="true"
+                  />
+                  <label for="currentEmployeeTwoFiftyOne">251-10K</label>
+                  <input
+                    title="stepTen"
+                    type="radio"
+                    id="currentEmployeeTenPlus"
+                    name="currentEmployee"
+                    value="10K+"
+                    data-gaconnector-tracked="true"
+                  />
+                  <label for="currentEmployeeTenPlus">10K+</label>
+                </div>
+              </div>
+              <!-- step 9 end -->
+
+              <!-- step 10 start -->
+              <div id="stepTen" class="block">
+                <h2>How can we get in touch with you?</h2>
+                <div class="details-block">
+                  <div class="email">
+                    <img src="./images/get-in-touch/email.png" alt="email" />
+                    <input type="email" placeholder="Email" name="" id="" />
+                  </div>
+                  <div class="company">
+                    <img
+                      src="./images/get-in-touch/company.png"
+                      alt="company"
+                    />
+                    <input
+                      type="text"
+                      placeholder="Company Name"
+                      name=""
+                      id=""
+                    />
+                  </div>
+                  <div class="contact-name">
+                    <img
+                      src="./images/get-in-touch/name.png"
+                      alt="contact name"
+                    />
+                    <input
+                      type="text"
+                      placeholder="Contact Name"
+                      name=""
+                      id=""
+                    />
+                  </div>
+                  <div class="contact-number">
+                    <form id="login" onsubmit="process(event)">
+                      <input id="phone" type="tel" name="phone" />
+                    </form>
+                  </div>
+                </div>
+
+                <!-- submit btn start -->
+                <div class="submit-btn">
+                  <button type="submit" id="submitcontactForm">Submit</button>
+                </div>
+                <!-- submit btn end -->
+              </div>
+              <!-- step 10 end -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- contact page end -->
+
+    <!-- footer section start -->
+    <footer class="footer-section container-fluid mt-5 py-5">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <p>
+              <a href="./index.html">
+                <img
+                  class="img-fluid logo"
+                  src="./images/buildnetic-logo.png"
+                  alt="Buildnetic"
+                />
+              </a>
+            </p>
+            <p>
+              <a href="mailto:info@buildnetic.com" class="text-decoration-none">
+                <i class="fa-solid fa-envelope me-2"></i>info@buildnetic.com
+              </a>
+            </p>
+            <p>
+              <a href="tel:+65 87993124" class="text-decoration-none"
+                ><i class="fa-solid fa-phone me-2"></i>+65 87993124</a
+              >
+            </p>
+            <p class="social-media-links d-flex">
+              <a href="#" class="me-3"
+                ><i class="fa-brands fa-facebook-f"></i
+              ></a>
+              <a href="#" class="me-3"><i class="fa-brands fa-twitter"></i></a>
+              <a href="#" class="me-3"
+                ><i class="fa-brands fa-linkedin-in"></i
+              ></a>
+            </p>
+          </div>
+          <div class="col-lg-3 col-sm-6 mt-3 mt-sm-0">
+            <h5>COMPANY</h5>
+            <div class="border-yellow mb-4"></div>
+            <p>
+              <a href="./services.html" class="text-decoration-none"
+                >Services</a
+              >
+            </p>
+            <p>
+              <a href="./engagement-model.html" class="text-decoration-none"
+                >Engagement Model</a
+              >
+            </p>
+            <p>
+              <a href="./success-stories.html" class="text-decoration-none"
+                >Success Stories</a
+              >
+            </p>
+            <p>
+              <a href="./about-us.html" class="text-decoration-none"
+                >About Us</a
+              >
+            </p>
+            <p>
+              <a href="./contact-us.html" class="text-decoration-none"
+                >Contact Us</a
+              >
+            </p>
+            <p><a href="./blogs.html" class="text-decoration-none">Blogs</a></p>
+          </div>
+          <div class="col-lg-3 col-sm-6 mt-3 mt-sm-5 mt-lg-0">
+            <h5>SERVICES</h5>
+            <div class="border-yellow mb-4"></div>
+            <p>
+              <a
+                href="./services/mobile-development.html"
+                class="text-decoration-none"
+                >Mobile Application Development</a
+              >
+            </p>
+            <p>
+              <a
+                href="./services/custom-application-development.html"
+                class="text-decoration-none"
+                >Custom Application Development</a
+              >
+            </p>
+            <p>
+              <a
+                href="./services/devops-solutions.html"
+                class="text-decoration-none"
+                >DevOps Solutions & Services</a
+              >
+            </p>
+            <p>
+              <a
+                href="./services/product-re-engineering.html"
+                class="text-decoration-none"
+                >Product Re-Engineering</a
+              >
+            </p>
+            <p>
+              <a
+                href="./services/e-commerce-solutions.html"
+                class="text-decoration-none"
+                >E-commerce Solutions</a
+              >
+            </p>
+            <p>
+              <a
+                href="./services/dedicated-developers.html"
+                class="text-decoration-none"
+                >Dedicated Developers</a
+              >
+            </p>
+            <p>
+              <a
+                href="./services/data-analytics.html"
+                class="text-decoration-none"
+                >Data Analytics</a
+              >
+            </p>
+            <p>
+              <a href="./services/testing.html" class="text-decoration-none"
+                >Testing</a
+              >
+            </p>
+          </div>
+          <div class="col-lg-3 col-sm-6 mt-3 mt-sm-5 mt-lg-0">
+            <h5>TECHNOLOGY</h5>
+            <div class="border-yellow mb-4"></div>
+            <p>
+              <a
+                href="./services/nodejs-development.html"
+                class="text-decoration-none"
+                >NodeJS</a
+              >
+            </p>
+            <p>
+              <a href="./services/java.html" class="text-decoration-none"
+                >Java</a
+              >
+            </p>
+            <p>
+              <a href="./services/python.html" class="text-decoration-none"
+                >Python</a
+              >
+            </p>
+            <p>
+              <a
+                href="./services/android-development.html"
+                class="text-decoration-none"
+                >Android</a
+              >
+            </p>
+            <p>
+              <a
+                href="./services/ios-development.html"
+                class="text-decoration-none"
+                >iOS</a
+              >
+            </p>
+            <p>
+              <a
+                href="./services/reactjs-development.html"
+                class="text-decoration-none"
+                >ReactJS</a
+              >
+            </p>
+            <p>
+              <a
+                href="./services/react-native.html"
+                class="text-decoration-none"
+                >React Native</a
+              >
+            </p>
+            <p>
+              <a
+                href="./services/angular-development.html"
+                class="text-decoration-none"
+                >Angular</a
+              >
+            </p>
+            <p>
+              <a
+                href="./services/blockchain-development.html"
+                class="text-decoration-none"
+                >Blockchain</a
+              >
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- footer section end -->
+
+    <!-- bootstrap 5 JS cdn link -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- custom JS link start -->
+    <script src="./index.js"></script>
+
+    <!-- script for contact number country flag and code start -->
+    <script>
+      const phoneInputField = document.querySelector("#phone");
+      const phoneInput = window.intlTelInput(phoneInputField, {
+        utilsScript:
+          "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js",
+      });
+    </script>
+    <!-- script for contact number country flag and code end -->
+  </body>
+</html>
