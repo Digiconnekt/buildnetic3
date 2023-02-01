@@ -6,19 +6,19 @@
   margin-top: 20%;
 }
 
-.contact-page {
+/* .contact-page .contact-form {
   margin-left: 2%;
   margin-right: 2%;
-}
+} */
 
-.contact-page .contact-form form {
+/* .contact-page .contact-form form {
   max-width: 900px;
   margin: 0 auto;
   border: 2px solid #f2f5f7;
   border-radius: 8px;
   padding: 50px;
   box-shadow: 1px 1px 5px #f2f5f7;
-}
+} */
 
 .contact-page .contact-form button {
   background-color: #0075ff;
@@ -30,4 +30,16 @@
 
 .contact-page .contact-form button:hover {
   box-shadow: none;
+}
+
+@media (max-width: 425px) {
+  .contact-page .contact-form form {
+    padding: 30px;
+  }
+}
+
+@media (max-width: 375px) {
+  .contact-page .contact-form form {
+    padding: 20px;
+  }
 }

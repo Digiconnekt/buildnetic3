@@ -173,10 +173,10 @@
     <!-- contact page start -->
     <div class="contact-page">
       <div class="contact-banner-section container-fluid mt-2 mb-5">
-        <div class="container">
+        <div class="container py-4">
           <div class="row">
             <div class="col-12 col-md-6 mb-5 mb-md-0">
-              <h2>
+              <h2 class="display-5 fw-bold">
                 Let us discuss <br />
                 your requirement
               </h2>
@@ -184,8 +184,8 @@
             </div>
             <div class="col-12 col-md-6">
               <img
-                src="./images/about/why-choose-us.png"
-                alt=""
+                src="./images//contact/contact-banner.png"
+                alt="Contact"
                 class="img-fluid"
               />
             </div>
@@ -193,62 +193,73 @@
         </div>
       </div>
 
-      <div class="contact-form">
-        <form>
-          <div class="mb-3">
-            <div class="row">
-              <div class="col-12 col-md-6">
-                <label for="fullName" class="form-label">Full Name:</label>
-                <input type="text" class="form-control" id="fullName" />
+      <div class="contact-form container py-5">
+        <div class="row">
+          <div class="col-lg-5 mb-4 mb-lg-0">
+            <img
+              src="./images/services/technical-expertise.png"
+              alt="contact"
+              class="img-fluid"
+            />
+          </div>
+          <div class="col-lg-7">
+            <form>
+              <div class="mb-3">
+                <div class="row">
+                  <div class="col-12 col-md-6">
+                    <label for="fullName" class="form-label">Full Name:</label>
+                    <input type="text" class="form-control" id="fullName" />
+                  </div>
+                  <div class="col-12 col-md-6 mt-3 mt-md-0">
+                    <label for="organization" class="form-label"
+                      >Organization:</label
+                    >
+                    <input type="text" class="form-control" id="organization" />
+                  </div>
+                </div>
               </div>
-              <div class="col-12 col-md-6 mt-3 mt-md-0">
-                <label for="organization" class="form-label"
-                  >Organization:</label
+              <div class="mb-3">
+                <div class="row">
+                  <div class="col-12 col-md-6">
+                    <label for="email" class="form-label">Email:</label>
+                    <input type="email" class="form-control" id="email" />
+                  </div>
+                  <div class="col-12 col-md-6 mt-3 mt-md-0">
+                    <label for="phone" class="form-label">Phone Number:</label>
+                    <input type="tel" class="form-control" id="phone" />
+                  </div>
+                </div>
+              </div>
+              <div class="mb-3">
+                <div class="row">
+                  <div class="col-12 col-md-6">
+                    <label for="companySize" class="form-label"
+                      >Company size:</label
+                    >
+                    <input type="text" class="form-control" id="companySize" />
+                  </div>
+                  <div class="col-12 col-md-6 mt-3 mt-md-0">
+                    <label for="inquiry" class="form-label"
+                      >What’s your inquiry about?</label
+                    >
+                    <input type="text" class="form-control" id="inquiry" />
+                  </div>
+                </div>
+              </div>
+              <div class="mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label"
+                  >How can we help you?</label
                 >
-                <input type="text" class="form-control" id="organization" />
+                <textarea
+                  class="form-control"
+                  id="exampleFormControlTextarea1"
+                  rows="3"
+                ></textarea>
               </div>
-            </div>
+              <button type="submit" class="btn btn-primary mt-3">Submit</button>
+            </form>
           </div>
-          <div class="mb-3">
-            <div class="row">
-              <div class="col-12 col-md-6">
-                <label for="email" class="form-label">Email:</label>
-                <input type="email" class="form-control" id="email" />
-              </div>
-              <div class="col-12 col-md-6 mt-3 mt-md-0">
-                <label for="phone" class="form-label">Phone Number:</label>
-                <input type="tel" class="form-control" id="phone" />
-              </div>
-            </div>
-          </div>
-          <div class="mb-3">
-            <div class="row">
-              <div class="col-12 col-md-6">
-                <label for="companySize" class="form-label"
-                  >Company size:</label
-                >
-                <input type="text" class="form-control" id="companySize" />
-              </div>
-              <div class="col-12 col-md-6 mt-3 mt-md-0">
-                <label for="inquiry" class="form-label"
-                  >What’s your inquiry about?</label
-                >
-                <input type="text" class="form-control" id="inquiry" />
-              </div>
-            </div>
-          </div>
-          <div class="mb-3">
-            <label for="exampleFormControlTextarea1" class="form-label"
-              >How can we help you?</label
-            >
-            <textarea
-              class="form-control"
-              id="exampleFormControlTextarea1"
-              rows="3"
-            ></textarea>
-          </div>
-          <button type="submit" class="btn btn-primary mt-3">Submit</button>
-        </form>
+        </div>
       </div>
     </div>
     <!-- contact page end -->

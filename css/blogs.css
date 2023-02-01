@@ -1,0 +1,28 @@
+.blogs-page .blog-content-section a {
+  color: #000000;
+  box-shadow: 1px 1px 3px #c4c4c4;
+  border-radius: 10px;
+  transition: all 0.25s linear;
+}
+
+.blogs-page .blog-content-section a:hover {
+  box-shadow: none;
+}
+
+.blogs-page .blog-content-section a:hover h5 {
+  transition: all 0.25s linear;
+  color: #0075ff;
+}
+
+.blogs-page .blog-content-section span {
+  color: #0075ff;
+}
+
+.blogs-page .blog-content-section h4 {
+  color: #0075ff;
+}
+
+.blogs-page .blog-content-section a:hover p.head {
+  transition: all 0.25s linear;
+  color: #0075ff;
+}

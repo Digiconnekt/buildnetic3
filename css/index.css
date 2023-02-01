@@ -48,7 +48,7 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 999;
+  z-index: 9999;
   background-color: #fff;
   box-shadow: 3px 0px 5px #c6c6c6;
 }
@@ -591,6 +591,10 @@ body {
     font-size: 0.8rem;
     max-width: 140px;
   }
+
+  .clients-review-section .carousel-item {
+    height: 900px;
+  }
 }
 
 @media (max-width: 576px) {
@@ -621,6 +625,10 @@ body {
     font-size: 30px;
   }
 
+  .clients-review-section .carousel-item {
+    height: 880px;
+  }
+
   .award-section {
     margin-left: 2%;
     margin-right: 2%;
@@ -633,7 +641,7 @@ body {
   }
 
   .clients-review-section .carousel-item {
-    height: 415px;
+    height: 600px;
   }
 
   .clients-review-section .carousel-item .carousel-caption .block::before {
@@ -768,6 +776,10 @@ body {
   .hero-section .hero-image .hero-text h1 {
     font-size: 1.8rem;
     line-height: 2.5rem;
+  }
+
+  .clients-review-section .carousel-item {
+    height: 700px;
   }
 
   .award-section {
