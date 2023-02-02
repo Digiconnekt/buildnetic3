@@ -1,0 +1,72 @@
+/* title section start */
+.success-stories-page .title-section {
+  background-image: url("../images/about/about-us-banner.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  /* background-attachment: fixed; */
+  color: #fff;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+/* title section end */
+
+/* question our comp start */
+.success-stories-page .question-our-comp-section {
+  background-color: #2f3854;
+}
+
+.success-stories-page .question-our-comp-section h1 {
+  color: #ffffff;
+}
+
+.success-stories-page .question-our-comp-section a.schedule-call-btn {
+  display: block;
+  max-width: 200px;
+  padding: 0.8rem 1rem;
+  border: 2px solid #0075ff;
+  background-color: #0075ff;
+  color: #000000;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px #0075ff;
+  font-weight: 400;
+  color: #fff;
+  transition: all 0.25s linear;
+}
+
+.success-stories-page .question-our-comp-section a.schedule-call-btn:hover {
+  box-shadow: none;
+  background-color: #005ac2;
+  border-color: #005ac2;
+}
+/* question our comp end */
+
+/* success stories section start */
+.success-stories-page .success-stories-section .card {
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.125);
+  color: #000000;
+}
+
+.success-stories-page .success-stories-section .card:hover {
+  box-shadow: none;
+}
+
+.success-stories-page .success-stories-section .card:hover .card-body h5 {
+  color: #0075ff;
+}
+
+.success-stories-page .success-stories-section .card img {
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+/* success stories section end */
+
+/* our clients section start */
+.success-stories-page .out-clients-section .clients-block {
+  max-width: 1024px;
+  border: 1px solid #e4e4e4;
+  border-radius: 8px;
+  box-shadow: 0px 0px 4px #c4c4c4;
+}
+/* our clients section end */

@@ -1,0 +1,40 @@
+.faq-page .faq-title-section {
+  background-color: #f2f5f7;
+}
+
+.faq-page .faq-title-section h1 {
+  color: #000000;
+}
+
+.faq-page .faq {
+  max-width: 900px;
+}
+
+/* contact us start */
+.faq-page .contact-us-section {
+  background-color: #2f3854;
+}
+
+.faq-page .contact-us-section h1 {
+  color: #ffffff;
+}
+
+.faq-page .contact-us-section a.contact-btn {
+  display: block;
+  padding: 0.8rem 1rem;
+  border: 2px solid #0075ff;
+  background-color: #0075ff;
+  color: #000000;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px #0075ff;
+  font-weight: 400;
+  color: #fff;
+  transition: all 0.25s linear;
+}
+
+.faq-page .contact-us-section a.contact-btn:hover {
+  box-shadow: none;
+  background-color: #005ac2;
+  border-color: #005ac2;
+}
+/* contact us end */

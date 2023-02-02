@@ -84,3 +84,15 @@
   border-color: #005ac2;
 }
 /* part of solutions section end */
+
+/* enagement model start */
+.single-service-page .choose-right-engagement-section table th {
+  padding: 20px 0;
+  background-color: #0075ff;
+  color: #ffffff;
+}
+
+.single-service-page .choose-right-engagement-section table td {
+  padding: 20px 0;
+}
+/* enagement model end */
