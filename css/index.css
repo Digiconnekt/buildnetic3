@@ -112,6 +112,10 @@ body {
   left: -100px;
 }
 
+.it-soln.dropdown-menu .border-right {
+  border-right: 1px solid #0075ff;
+}
+
 .dropdown-item:focus,
 .dropdown-item:hover {
   color: #0a58ca;
@@ -575,6 +579,10 @@ body {
 }
 
 @media (max-width: 768px) {
+  .it-soln.dropdown-menu .border-right {
+    border-right: none;
+  }
+
   .hero-section .hero-image .hero-text {
     padding-left: 50px;
   }
