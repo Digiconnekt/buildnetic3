@@ -29,6 +29,15 @@
   padding-top: 1rem;
   text-align: justify;
 }
+
+.services-page .service-offerings-section p.card-text span {
+  color: #0075ff;
+}
+
+.services-page .service-offerings-section .card:hover p.card-text span {
+  color: #fff;
+  transition: all 0.25s ease-in;
+}
 /* service offerings section end */
 
 /* part of solutions section start */

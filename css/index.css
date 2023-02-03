@@ -107,24 +107,10 @@ body {
   border-color: #0075ff;
 }
 
-/* .it-soln.dropdown-menu {
-  height: 400px;
-  overflow-y: scroll;
+.it-soln.dropdown-menu {
+  width: 600px;
+  left: -100px;
 }
-
-.it-soln.dropdown-menu::-webkit-scrollbar {
-  width: 4px;
-}
-
-.it-soln.dropdown-menu::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 5px grey;
-  border-radius: 10px;
-}
-
-.it-soln.dropdown-menu::-webkit-scrollbar-thumb {
-  background: #0075ff;
-  border-radius: 10px;
-} */
 
 .dropdown-item:focus,
 .dropdown-item:hover {
@@ -200,6 +186,16 @@ body {
   border-radius: 0.5rem;
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.125);
   min-height: 410px;
+  color: #000000;
+}
+
+.industry-developer-section .card:hover {
+  box-shadow: none;
+}
+
+.industry-developer-section .card:hover h5 {
+  color: #0075ff;
+  transition: all 0.25s linear;
 }
 
 .industry-developer-section .card img {
@@ -320,6 +316,15 @@ body {
   font-weight: 400;
   font-size: 0.9rem;
 }
+
+.technology-section .card-body p span a {
+  color: #000000;
+}
+
+.technology-section .card-body p span a:hover {
+  color: #0075ff;
+  transition: all 0.2s linear;
+}
 /* technology section end */
 
 /* clients review section start */
@@ -338,7 +343,7 @@ body {
 }
 
 .clients-review-section .carousel-item {
-  height: 700px;
+  height: 600px;
 }
 
 .clients-review-section .carousel-indicators [data-bs-target] {
@@ -552,6 +557,14 @@ body {
 }
 
 @media (max-width: 990px) {
+  .it-soln.dropdown-menu {
+    width: 100%;
+  }
+
+  .it-soln.dropdown-menu {
+    width: 100%;
+  }
+
   .clients-review-section .carousel-item .carousel-caption {
     left: 16%;
   }
@@ -593,7 +606,13 @@ body {
   }
 
   .clients-review-section .carousel-item {
-    height: 900px;
+    height: 650px;
+  }
+}
+
+@media (max-width: 625px) {
+  .clients-review-section .carousel-item {
+    height: 700px;
   }
 }
 
@@ -625,10 +644,6 @@ body {
     font-size: 30px;
   }
 
-  .clients-review-section .carousel-item {
-    height: 880px;
-  }
-
   .award-section {
     margin-left: 2%;
     margin-right: 2%;
@@ -641,7 +656,7 @@ body {
   }
 
   .clients-review-section .carousel-item {
-    height: 600px;
+    height: 500px;
   }
 
   .clients-review-section .carousel-item .carousel-caption .block::before {
@@ -779,7 +794,7 @@ body {
   }
 
   .clients-review-section .carousel-item {
-    height: 700px;
+    height: 550px;
   }
 
   .award-section {

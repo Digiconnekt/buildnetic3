@@ -1,10 +1,15 @@
-.faq-page .faq-title-section {
-  background-color: #f2f5f7;
-}
-
-.faq-page .faq-title-section h1 {
+/* title section start */
+.faq-page .title-section {
+  background-image: url("../images/faq/title-banner.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  /* background-attachment: fixed; */
   color: #000000;
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
 }
+/* title section end */
 
 .faq-page .faq {
   max-width: 900px;

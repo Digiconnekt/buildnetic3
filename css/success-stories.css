@@ -46,19 +46,16 @@
   border-radius: 0.5rem;
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.125);
   color: #000000;
-}
-
-.success-stories-page .success-stories-section .card:hover {
-  box-shadow: none;
-}
-
-.success-stories-page .success-stories-section .card:hover .card-body h5 {
-  color: #0075ff;
+  min-height: 410px;
 }
 
 .success-stories-page .success-stories-section .card img {
   border-top-left-radius: 0.5rem;
   border-top-right-radius: 0.5rem;
+}
+
+.success-stories-page .success-stories-section .card p.card-text span {
+  font-weight: 600;
 }
 /* success stories section end */
 

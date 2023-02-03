@@ -9,6 +9,27 @@
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
 }
+
+.single-service-page .title-section.web-banner {
+  background-image: url("../images/services/single-services/web-development/web-banner.jpg");
+}
+
+.single-service-page .title-section.ui-ux-banner {
+  background-image: url("../images/services/single-services/ui-ux/ui-ux-banner.jpg");
+}
+
+.single-service-page .title-section.e-learning-banner {
+  background-image: url("../images/services/single-services/e-learning/e-learning-banner.jpg");
+}
+
+.single-service-page .title-section.e-commerce-banner {
+  background-image: url("../images/services/single-services/e-commerce/e-commerce-banner.jpg");
+}
+
+.single-service-page .title-section.business-consulting-banner {
+  background-image: url("../images/services/single-services/business-consulting/business-consulting-banner.jpg");
+  background-position: top center;
+}
 /* title section end */
 
 /* services we offer section start */
@@ -42,14 +63,7 @@
   border-radius: 0.5rem;
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.125);
   color: #000000;
-}
-
-.single-service-page .success-stories-section .card:hover {
-  box-shadow: none;
-}
-
-.single-service-page .success-stories-section .card:hover .card-body h5 {
-  color: #0075ff;
+  min-height: 410px;
 }
 
 .single-service-page .success-stories-section .card img {
