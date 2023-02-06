@@ -38,6 +38,39 @@ body {
 /*---------- HOME PAGE start ----------*/
 /* header section start */
 
+.mob-top-links .btn {
+  background-color: #f2f5f7;
+  border-color: #f2f5f7;
+  color: #386aa6;
+  box-shadow: 1px 1px 3px #c6c6c6;
+}
+
+.mob-top-links .btn:hover,
+.mob-top-links .btn:active,
+.mob-top-links .btn:focus {
+  color: #0075ff;
+  box-shadow: none;
+}
+
+.mob-top-links .btn .fa-whatsapp {
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.mob-top-links .btn.btn-blue {
+  background-color: #0075ff;
+  border-color: #0075ff;
+  color: #fff;
+  font-weight: 500;
+  box-shadow: 1px 1px 3px #0075ff;
+}
+
+.mob-top-links .btn.btn-blue:hover,
+.mob-top-links .btn.btn-blue:active,
+.mob-top-links .btn.btn-blue:focus {
+  box-shadow: none;
+}
+
 .navbar {
   background-color: #fff;
   transition: all 0.5s ease-in-out;
@@ -438,8 +471,13 @@ body {
 
 /* blogs section start */
 .blogs-section .card {
-  border-radius: 20px;
+  border-radius: 10px;
   box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.125);
+}
+
+.blogs-section .card:hover {
+  box-shadow: none;
+  transition: all 0.25s ease;
 }
 
 .blogs-section .card a.read-more {
@@ -796,6 +834,19 @@ body {
 }
 
 @media (max-width: 375px) {
+  .mob-top-links a.btn {
+    padding: 9px;
+  }
+
+  .mob-top-links a.btn {
+    font-size: 12px;
+  }
+
+  .mob-top-links .btn .fa-whatsapp {
+    font-size: 14px;
+    font-weight: 900;
+  }
+
   .hero-section .hero-image .hero-text h1 {
     font-size: 1.8rem;
     line-height: 2.5rem;
