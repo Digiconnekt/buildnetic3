@@ -56,6 +56,19 @@
 .single-service-page .technical-expertise-section {
   background-color: #f2f5f7;
 }
+
+.single-service-page .technical-expertise-section .row {
+  align-items: center;
+}
+
+.single-service-page .technical-expertise-section .block a {
+  color: #000000;
+}
+
+.single-service-page .technical-expertise-section .block a:hover {
+  color: #0075ff;
+  transition: all 0.2s linear;
+}
 /* technical expertise section end */
 
 /* success stories section start */
@@ -64,6 +77,10 @@
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.125);
   color: #000000;
   min-height: 410px;
+}
+
+.single-service-page .success-stories-section .card h5 {
+  color: #0075ff;
 }
 
 .single-service-page .success-stories-section .card img {

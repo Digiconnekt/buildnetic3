@@ -1,3 +1,4 @@
+// sticky header start
 window.onload = function () {
   var navbar = document.querySelector(".navbar");
   var sticky = 200;
@@ -9,3 +10,8 @@ window.onload = function () {
     }
   });
 };
+// sticky header end
+
+// animation start
+
+// animation end

@@ -49,6 +49,10 @@
   min-height: 410px;
 }
 
+.success-stories-page .success-stories-section .card h5 {
+  color: #0075ff;
+}
+
 .success-stories-page .success-stories-section .card img {
   border-top-left-radius: 0.5rem;
   border-top-right-radius: 0.5rem;

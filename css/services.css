@@ -71,4 +71,17 @@
 .services-page .technical-expertise-section {
   background-color: #f2f5f7;
 }
+
+.services-page .technical-expertise-section .row {
+  align-items: center;
+}
+
+.services-page .technical-expertise-section .block a {
+  color: #000000;
+}
+
+.services-page .technical-expertise-section .block a:hover {
+  color: #0075ff;
+  transition: all 0.2s linear;
+}
 /* technical expertise section end */

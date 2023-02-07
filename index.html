@@ -25,6 +25,12 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+
+    <!-- animate.css cdn link -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
   </head>
   <body>
     <!-- mobile top links block start -->
@@ -259,22 +265,27 @@
     <!-- header section end -->
 
     <!-- hero section start -->
-    <div class="hero-section container-fluid mt-3 mb-5">
+    <div class="hero-section mt-3 mb-5">
       <div class="hero-image">
-        <div class="hero-text">
-          <!-- <p>Every Device</p> -->
-          <h1>
-            IT OUTSOURCING <br />
-            & SUPPORT SERVICES <br />
-            FOR YOUR BUSINESS
-          </h1>
-          <div class="border-white"></div>
-          <a
-            class="solution-link mt-4 text-decoration-none"
-            href="./services.html"
-            >FIND YOUR SOLUTION <i class="fa-solid fa-arrow-right-long"></i
-          ></a>
-        </div>
+        <img
+          src="./images/home/hero.png"
+          data-src="./images/home/hero-ani.gif"
+          alt="Hero Image"
+          class="lazy"
+        />
+      </div>
+      <div class="black-overlay"></div>
+      <div class="hero-text">
+        <!-- <p>Every Device</p> -->
+        <h1 class="animate__animated animate__bounce">
+          IT OUTSOURCING <br />
+          & SUPPORT SERVICES <br />
+          FOR YOUR BUSINESS
+        </h1>
+        <div class="border-white mb-4"></div>
+        <a class="solution-link text-decoration-none" href="./services.html"
+          >FIND YOUR SOLUTION <i class="fa-solid fa-arrow-right-long"></i
+        ></a>
       </div>
     </div>
     <!-- hero section end -->
@@ -902,7 +913,10 @@
                   class="profile-block d-flex justify-content-start mb-2 mb-sm-4"
                 >
                   <div class="img-block me-2 me-sm-3">
-                    <img src="./images/home/client-review-1.png" alt="" />
+                    <img
+                      src="./images/home/testimonial/sunny.png"
+                      alt="Sunny Nandwani"
+                    />
                   </div>
                   <div class="name-block">
                     <h5 class="text-start">Sunny Nandwani</h5>
@@ -927,7 +941,10 @@
                   class="profile-block d-flex justify-content-start mb-2 mb-sm-4"
                 >
                   <div class="img-block me-2 me-sm-3">
-                    <img src="./images/home/client-review-1.png" alt="" />
+                    <img
+                      src="./images/home/testimonial/amit.png"
+                      alt="Amit Manocha"
+                    />
                   </div>
                   <div class="name-block">
                     <h5 class="text-start">Amit Manocha</h5>
@@ -951,7 +968,10 @@
                   class="profile-block d-flex justify-content-start mb-2 mb-sm-4"
                 >
                   <div class="img-block me-2 me-sm-3">
-                    <img src="./images/home/client-review-1.png" alt="" />
+                    <img
+                      src="./images/home/testimonial/milind.png"
+                      alt="Milind Srivastava"
+                    />
                   </div>
                   <div class="name-block">
                     <h5 class="text-start">Milind Srivastava</h5>
@@ -1300,6 +1320,53 @@
     </footer>
     <!-- footer section end -->
 
+    <!-- cookies modal start -->
+    <div class="cookies-modal">
+      <div
+        class="modal fade"
+        id="staticBackdrop"
+        data-bs-backdrop="static"
+        data-bs-keyboard="false"
+        tabindex="-1"
+        aria-labelledby="staticBackdropLabel"
+        aria-hidden="true"
+      >
+        <div class="modal-dialog modal-sm">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="staticBackdropLabel">Cookies</h5>
+              <button
+                type="button"
+                class="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div class="modal-body">This website accept cookies</div>
+            <div class="modal-footer">
+              <button
+                type="button"
+                class="btn btn-secondary"
+                data-bs-dismiss="modal"
+                onclick="clickedDataHandler('Reject')"
+              >
+                Reject
+              </button>
+              <button
+                type="button"
+                class="btn btn-primary"
+                data-bs-dismiss="modal"
+                onclick="clickedDataHandler('Accept')"
+              >
+                Accept
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- cookies modal end -->
+
     <!-- bootstrap 5 JS cdn link -->
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
@@ -1309,5 +1376,56 @@
 
     <!-- custom JS link start -->
     <script src="./index.js"></script>
+
+    <!-- cookies modal start -->
+    <script>
+      const checkAcceptCookies = localStorage.getItem("acceptCookies");
+
+      const clickedDataHandler = (data) => {
+        localStorage.setItem("acceptCookies", data);
+      };
+
+      if (checkAcceptCookies !== "Accept") {
+        const myModal = new bootstrap.Modal(
+          document.getElementById("staticBackdrop"),
+          {}
+        );
+        document.onreadystatechange = function () {
+          myModal.show();
+        };
+      }
+    </script>
+
+    <!-- lazyloading for hero image -->
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        var lazyImages = [].slice.call(document.querySelectorAll("img.lazy"));
+
+        if ("IntersectionObserver" in window) {
+          let lazyImageObserver = new IntersectionObserver(function (
+            entries,
+            observer
+          ) {
+            entries.forEach(function (entry) {
+              if (entry.isIntersecting) {
+                let lazyImage = entry.target;
+                lazyImage.src = lazyImage.dataset.src;
+                lazyImage.classList.remove("lazy");
+                lazyImageObserver.unobserve(lazyImage);
+              }
+            });
+          });
+
+          lazyImages.forEach(function (lazyImage) {
+            lazyImageObserver.observe(lazyImage);
+          });
+        } else {
+          // Fallback for unsupported browsers
+          lazyImages.forEach(function (lazyImage) {
+            lazyImage.src = lazyImage.dataset.src;
+          });
+        }
+      });
+    </script>
   </body>
 </html>
