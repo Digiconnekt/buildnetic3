@@ -6,6 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Buildnetic</title>
 
+    <!-- favicon link -->
+    <link
+      rel="shortcut icon"
+      href="../images/buildnetic-fav.ico"
+      type="image/x-icon"
+    />
+
     <!-- bootstrap 5 CSS cdn link -->
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
@@ -28,6 +35,37 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+
+    <!-- internal css -->
+    <style>
+      .services-we-offer-section .card {
+        /* min-height: 270px; */
+      }
+
+      @media (max-width: 1440px) {
+        .services-we-offer-section .card {
+          /* min-height: 300px; */
+        }
+      }
+
+      @media (max-width: 1200px) {
+        .services-we-offer-section .card {
+          /* min-height: 290px; */
+        }
+      }
+
+      @media (max-width: 991px) {
+        .services-we-offer-section .card {
+          min-height: 340px;
+        }
+      }
+
+      @media (max-width: 767px) {
+        .services-we-offer-section .card {
+          min-height: auto;
+        }
+      }
+    </style>
   </head>
   <body>
     <!-- header section start -->
@@ -241,11 +279,12 @@
       <div class="development-section container my-5">
         <div class="row">
           <div class="col-12 col-md-6 mb-3 mb-md-0">
-            <img
-              src="../images/services/single-services/software-test/software-test.jpg"
-              alt="Software Test"
-              class="img-fluid"
-            />
+            <div class="img-block mx-auto">
+              <img
+                src="../images/services/single-services/software-test/software-test.jpg"
+                alt="Software Test"
+              />
+            </div>
           </div>
           <div class="col-12 col-md-6">
             <h2>Software Test Management</h2>
@@ -370,14 +409,15 @@
               <div class="block row">
                 <div class="col-12 mb-3">
                   <div class="row align-items-center">
-                    <div class="col-2 text-center">
+                    <div class="col-3 text-center">
                       <img
+                        class="img-fluid"
                         src="../images/home/technology-web-frontend.png"
                         alt="Frontend & UX"
                         width="64px"
                       />
                     </div>
-                    <div class="col-10">
+                    <div class="col-9">
                       <h5>Frontend & UX</h5>
                       <p>
                         <a
@@ -411,14 +451,15 @@
                 </div>
                 <div class="col-12 mb-3">
                   <div class="row align-items-center">
-                    <div class="col-2 text-center">
+                    <div class="col-3 text-center">
                       <img
+                        class="img-fluid"
                         src="../images/home/technology-web-backend.png"
                         alt="Backend"
                         width="64px"
                       />
                     </div>
-                    <div class="col-10">
+                    <div class="col-9">
                       <h5>Backend</h5>
                       <p>
                         <a
@@ -442,14 +483,15 @@
                 </div>
                 <div class="col-12 mb-3">
                   <div class="row align-items-center">
-                    <div class="col-2 text-center">
+                    <div class="col-3 text-center">
                       <img
+                        class="img-fluid"
                         src="../images/home/technology-database.png"
                         alt="Database"
                         width="64px"
                       />
                     </div>
-                    <div class="col-10">
+                    <div class="col-9">
                       <h5>Database</h5>
                       <p>MongoDB, SQL, Redis</p>
                     </div>
@@ -457,14 +499,15 @@
                 </div>
                 <div class="col-12 mb-3">
                   <div class="row align-items-center">
-                    <div class="col-2 text-center">
+                    <div class="col-3 text-center">
                       <img
+                        class="img-fluid"
                         src="../images/home/technology-tools.png"
                         alt="Analytics"
                         width="64px"
                       />
                     </div>
-                    <div class="col-10">
+                    <div class="col-9">
                       <h5>Analytics</h5>
                       <p>Panda, R, Hadoop, Hive</p>
                     </div>
@@ -472,14 +515,15 @@
                 </div>
                 <div class="col-12 mb-3">
                   <div class="row align-items-center">
-                    <div class="col-2 text-center">
+                    <div class="col-3 text-center">
                       <img
+                        class="img-fluid"
                         src="../images/home/technology-devops.png"
                         alt="Cloud and DevOps"
                         width="64px"
                       />
                     </div>
-                    <div class="col-10">
+                    <div class="col-9">
                       <h5>Cloud and DevOps</h5>
                       <p>AWS, Jenkins, Docker, Kubernet</p>
                     </div>

@@ -72,3 +72,27 @@
 }
 
 /* our clients section end */
+
+@media (max-width: 1400px) {
+  .success-stories-page .success-stories-section .card {
+    min-height: auto;
+  }
+}
+
+@media (max-width: 1200px) {
+  .success-stories-page .success-stories-section .card {
+    min-height: 360px;
+  }
+}
+
+@media (max-width: 991px) {
+  .success-stories-page .success-stories-section .card {
+    min-height: 381px;
+  }
+}
+
+@media (max-width: 767px) {
+  .success-stories-page .success-stories-section .card {
+    min-height: auto;
+  }
+}

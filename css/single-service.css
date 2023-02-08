@@ -30,7 +30,20 @@
   background-image: url("../images/services/single-services/business-consulting/business-consulting-banner.jpg");
   background-position: top center;
 }
+
+.single-service-page .title-section.mobile-banner {
+  background-image: url("../images/services/single-services/mobile-development/mobile-banner.jpg");
+  background-position: top center;
+}
 /* title section end */
+
+.single-service-page .development-section .img-block {
+  max-width: 500px;
+}
+
+.single-service-page .development-section .img-block img {
+  width: 100%;
+}
 
 /* services we offer section start */
 .single-service-page .services-we-offer-section .card {
@@ -48,6 +61,26 @@
 }
 
 .single-service-page .services-we-offer-section .card-body p {
+  text-align: justify;
+}
+/* services we offer section end */
+
+/* (custom app dev)on demand section start */
+.single-service-page .on-demand-section .card {
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.125);
+}
+
+.single-service-page .on-demand-section .card img {
+  max-width: 100px;
+  padding: 2rem 0 0 2rem;
+}
+
+.single-service-page .on-demand-section .card-body {
+  padding: 2rem;
+}
+
+.single-service-page .on-demand-section .card-body p {
   text-align: justify;
 }
 /* services we offer section end */
@@ -127,3 +160,27 @@
   padding: 20px 0;
 }
 /* enagement model end */
+
+@media (max-width: 1400px) {
+  .single-service-page .success-stories-section .card {
+    min-height: auto;
+  }
+}
+
+@media (max-width: 1200px) {
+  .single-service-page .success-stories-section .card {
+    min-height: 360px;
+  }
+}
+
+@media (max-width: 991px) {
+  .single-service-page .success-stories-section .card {
+    min-height: 381px;
+  }
+}
+
+@media (max-width: 767px) {
+  .single-service-page .success-stories-section .card {
+    min-height: auto;
+  }
+}

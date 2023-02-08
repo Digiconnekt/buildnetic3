@@ -6,6 +6,62 @@
   margin-top: 20%;
 }
 
+.contact-page .contact-details-section h1 {
+  color: #0075ff;
+}
+
+.contact-page .contact-details-section .block {
+  border: 1px solid #dddddd;
+  box-shadow: 0px 0px 3px #dddddd;
+  border-radius: 5px;
+}
+
+.contact-page .contact-details-section .block h2 {
+  color: #000000;
+}
+
+.contact-page .contact-details-section .block h5 {
+  font-weight: 600;
+  color: #8d8ea3;
+}
+
+.contact-page .contact-details-section .block p {
+  color: #8d8ea3;
+}
+
+.contact-page .contact-details-section .block p a {
+  color: #000000;
+}
+
+.contact-page .contact-details-section .block p a:hover {
+  color: #0075ff;
+  transition: all 0.2s linear;
+}
+
+.contact-page .contact-details-section .mail-block a {
+  display: block;
+  max-width: 450px;
+  border: 2px solid #fa9500;
+  color: #000000;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px #ffc165;
+  font-weight: 400;
+  text-align: center;
+}
+
+.contact-page .contact-details-section .mail-block a:hover {
+  box-shadow: none;
+  background-color: #fa9500;
+  color: #fff;
+  transition: 0.25s ease all;
+}
+
+.contact-page .contact-form form {
+  border: 1px solid #dddddd;
+  box-shadow: 0px 0px 3px #dddddd;
+  border-radius: 5px;
+}
+
 .contact-page .contact-form button {
   background-color: #0075ff;
   border-color: #0075ff;

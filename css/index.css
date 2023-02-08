@@ -95,18 +95,28 @@ body {
   border-color: #f2f5f7;
   color: #386aa6;
   box-shadow: 1px 1px 3px #c6c6c6;
+  transition: all 0.3s ease-in-out;
 }
 
-.navbar .top-links .btn:hover,
-.navbar .top-links .btn:active,
-.navbar .top-links .btn:focus {
+.navbar .top-links .btn:hover {
   color: #0075ff;
   box-shadow: none;
+  transition: all 0.3s ease-in-out;
 }
 
 .navbar .top-links .btn .fa-whatsapp {
   font-weight: bold;
   font-size: 19px;
+}
+
+.navbar .top-links .btn.mob-num span {
+  display: none;
+  transition: all 0.3s ease-in-out;
+}
+
+.navbar .top-links .btn.mob-num:hover span {
+  display: inline-block;
+  transition: all 0.3s ease-in-out;
 }
 
 .navbar .top-links .btn.btn-blue {
@@ -215,7 +225,7 @@ body {
 
 .hero-section .black-overlay {
   position: absolute;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0.7);
   width: 100%;
   height: 100%;
   top: 0;
