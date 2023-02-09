@@ -26,6 +26,79 @@
   background-image: url("../images/services/single-services/e-commerce/e-commerce-banner.jpg");
 }
 
+.single-service-page .title-section.cyber-security-banner {
+  background-image: url("../images/services/single-services/cyber-security/cyber-security-banner.jpg");
+}
+
+.single-service-page .title-section.software-test-banner {
+  background-image: url("../images/services/single-services/software-test/software-test-banner.jpg");
+}
+
+.single-service-page .title-section.java-banner {
+  background-image: url("../images/services/single-services/java/java-banner.jpg");
+}
+
+.single-service-page .title-section.nodejs-banner {
+  background-image: url("../images/services/single-services/node-js/node-js-banner.jpg");
+}
+
+.single-service-page .title-section.python-banner {
+  background-image: url("../images/services/single-services/python/python-banner.jpg");
+}
+
+.single-service-page .title-section.android-banner {
+  background-image: url("../images/services/single-services/android/android-banner.jpg");
+}
+
+.single-service-page .title-section.ios-banner {
+  background-image: url("../images/services/single-services/ios/ios-banner.jpg");
+}
+
+.single-service-page .title-section.reactjs-banner {
+  background-image: url("../images/services/single-services/react-js/react-js-banner.jpg");
+}
+
+.single-service-page .title-section.react-native-banner {
+  background-image: url("../images/services/single-services/react-native/react-native-banner.jpg");
+}
+
+.single-service-page .title-section.angular-banner {
+  background-image: url("../images/services/single-services/angular/angular-banner.jpg");
+}
+
+.single-service-page .title-section.blockchain-banner {
+  background-image: url("../images/services/single-services/blockchain/blockchain-banner.jpg");
+}
+
+.single-service-page .title-section.devops-soln-banner {
+  background-image: url("../images/services/single-services/devops-soln/devops-soln-banner.jpg");
+}
+
+.single-service-page .title-section.dedicated-dev-banner {
+  background-image: url("../images/services/single-services/dedicated-dev/dedicated-dev-banner.jpg");
+}
+
+.single-service-page .title-section.product-re-engg-banner {
+  background-image: url("../images/services/single-services/product-re-engg/product-re-engg-banner.jpg");
+}
+
+.single-service-page .title-section.data-analytics-banner {
+  background-image: url("../images/services/single-services/data-analytics/data-analytics-banner.jpg");
+}
+
+.single-service-page .title-section.testing-banner {
+  background-image: url("../images/services/single-services/testing/testing-banner.jpg");
+}
+
+.single-service-page .title-section.engagement-model-banner {
+  background-image: url("../images/engagement-model/engagement-model-banner.jpg");
+}
+
+.single-service-page .title-section.custom-application-banner {
+  background-image: url("../images/services/single-services/custom-application/custom-application-banner.jpg");
+  background-position: top center;
+}
+
 .single-service-page .title-section.business-consulting-banner {
   background-image: url("../images/services/single-services/business-consulting/business-consulting-banner.jpg");
   background-position: top center;
@@ -34,6 +107,10 @@
 .single-service-page .title-section.mobile-banner {
   background-image: url("../images/services/single-services/mobile-development/mobile-banner.jpg");
   background-position: top center;
+}
+
+.single-service-page .title-section h4 {
+  font-size: 1.2rem;
 }
 /* title section end */
 

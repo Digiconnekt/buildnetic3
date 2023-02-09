@@ -33,15 +33,12 @@
       referrerpolicy="no-referrer"
     />
 
-    <!-- animate.css cdn link -->
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-    />
+    <!-- animate on scroll AOS cdn link -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
   </head>
   <body>
     <!-- mobile top links block start -->
-    <div class="container d-lg-none text-end">
+    <!-- <div class="container d-lg-none text-end">
       <div class="mob-top-links my-2">
         <a class="btn me-2" href="tel:+6587993124" role="button" target="_blank"
           ><i class="fa-solid fa-phone"></i
@@ -64,7 +61,7 @@
           >Get In Touch</a
         >
       </div>
-    </div>
+    </div> -->
     <!-- mobile top links block end -->
 
     <!-- header section start -->
@@ -100,7 +97,7 @@
           id="navbarSupportedContent"
         >
           <!-- top links block start -->
-          <div class="top-links my-2 d-none d-lg-block">
+          <div class="top-links my-2">
             <a
               class="btn me-2 mob-num"
               href="tel:+6587993124"
@@ -132,7 +129,7 @@
           <!-- bottom links block start -->
           <ul class="navbar-nav ml-auto mb-2 mb-lg-0 my-2">
             <li class="nav-item me-xl-4 me-lg-2">
-              <a class="nav-link active" aria-current="page" href="./index.html"
+              <a class="nav-link" aria-current="page" href="./index.html"
                 >Home</a
               >
             </li>
@@ -273,7 +270,7 @@
     <!-- header section end -->
 
     <!-- hero section start -->
-    <div class="hero-section mt-3 mb-5">
+    <div data-aos="zoom-in" class="hero-section mt-3 mb-5">
       <div class="hero-image">
         <img
           src="./images/home/hero.png"
@@ -285,7 +282,7 @@
       <div class="black-overlay"></div>
       <div class="hero-text">
         <!-- <p>Every Device</p> -->
-        <h1 class="animate__animated animate__bounce">
+        <h1 class="">
           IT OUTSOURCING <br />
           & SUPPORT SERVICES <br />
           FOR YOUR BUSINESS
@@ -301,7 +298,7 @@
     <!-- about section start -->
     <div class="about-section container py-md-4">
       <div class="row flex-lg-row align-items-center">
-        <div class="col-lg-6">
+        <div class="col-lg-6" data-aos="fade-right">
           <h1>About Us</h1>
           <div class="border-black mb-4"></div>
           <p>
@@ -324,7 +321,7 @@
             client engagement, and maximize ROI.
           </p>
         </div>
-        <div class="col-12 col-lg-6">
+        <div class="col-12 col-lg-6" data-aos="fade-left">
           <img
             src="./images/home/about.png"
             class="img-fluid"
@@ -375,7 +372,7 @@
         Industry-Experienced Developers, On Demand
       </h2>
       <div class="row row-cols-1 row-cols-md-3 g-4">
-        <div class="col-lg-4 col-md-6">
+        <div class="col-lg-4 col-md-6" data-aos="fade-right">
           <a
             href="./services/custom-application-development.html"
             class="card text-decoration-none"
@@ -421,7 +418,7 @@
             </div>
           </a>
         </div>
-        <div class="col-lg-4 col-md-6">
+        <div class="col-lg-4 col-md-6" data-aos="fade-left">
           <a
             href="./services/e-commerce-solutions.html"
             class="card text-decoration-none"
@@ -478,7 +475,7 @@
           transformation services
         </p>
         <div class="row row-cols-1 row-cols-md-3 g-4">
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up">
             <div class="card">
               <img
                 src="./images/home/why-buildnetic-1.png"
@@ -492,7 +489,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up">
             <div class="card">
               <img
                 src="./images/home/why-buildnetic-2.png"
@@ -506,7 +503,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up">
             <div class="card">
               <img
                 src="./images/home/why-buildnetic-3.png"
@@ -518,7 +515,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up">
             <div class="card">
               <img
                 src="./images/home/why-buildnetic-4.png"
@@ -532,7 +529,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up">
             <div class="card">
               <img
                 src="./images/home/why-buildnetic-5.png"
@@ -546,7 +543,7 @@
               </div>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6" data-aos="fade-up">
             <div class="card">
               <img
                 src="./images/home/why-buildnetic-6.png"
@@ -859,7 +856,11 @@
         </p>
 
         <!-- awards section start -->
-        <div class="award-section py-3 py-xl-5 px-3 px-md-5">
+        <div
+          class="award-section py-3 py-xl-5 px-3 px-md-5"
+          data-aos="fade-up"
+          data-aos-anchor-placement="top-bottom"
+        >
           <div class="award-section-inner d-flex justify-content-between">
             <div class="left-block d-flex align-items-center">
               <div class="img-block me-2 me-sm-3">
@@ -1025,7 +1026,7 @@
     <!-- blogs section start -->
     <div class="blogs-section container my-5">
       <div class="row row-cols-1 row-cols-md-3 g-4">
-        <div class="col-12 col-md-6 col-lg-7 mb-3">
+        <div class="col-12 col-md-6 col-lg-7 mb-3" data-aos="fade-right">
           <div class="card border-0 h-100 shadow-none">
             <div class="card-body d-flex flex-column justify-content-around">
               <h2 class="display-5 fw-bold">
@@ -1040,7 +1041,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-6 col-lg-5 mb-3">
+        <div class="col-12 col-md-6 col-lg-5 mb-3" data-aos="fade-left">
           <div class="card">
             <img
               src="./images/blogs/biggest-it-staff.jpg"
@@ -1059,7 +1060,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-6 col-lg-4 mt-4">
+        <div class="col-12 col-md-6 col-lg-4 mt-4" data-aos="fade-up">
           <div class="card">
             <img
               src="./images/blogs/chatgpt.jpg"
@@ -1078,7 +1079,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-6 col-lg-4 mt-4">
+        <div class="col-12 col-md-6 col-lg-4 mt-4" data-aos="fade-up">
           <div class="card">
             <img
               src="./images/blogs/product-management.jpg"
@@ -1097,7 +1098,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-6 col-lg-4 mt-4">
+        <div class="col-12 col-md-6 col-lg-4 mt-4" data-aos="fade-up">
           <div class="card">
             <img
               src="./images/blogs/exploring-the-latest.jpg"
@@ -1329,7 +1330,7 @@
     <!-- footer section end -->
 
     <!-- cookies modal start -->
-    <div class="cookies-modal">
+    <!-- <div class="cookies-modal">
       <div
         class="modal fade"
         id="staticBackdrop"
@@ -1372,7 +1373,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- cookies modal end -->
 
     <!-- bootstrap 5 JS cdn link -->
@@ -1385,8 +1386,16 @@
     <!-- custom JS link start -->
     <script src="./index.js"></script>
 
-    <!-- cookies modal start -->
+    <!-- animate on scroll AOS -->
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
+      AOS.init({
+        offset: 250,
+      });
+    </script>
+
+    <!-- cookies modal start -->
+    <!-- <script>
       const checkAcceptCookies = localStorage.getItem("acceptCookies");
 
       const clickedDataHandler = (data) => {
@@ -1402,7 +1411,7 @@
           myModal.show();
         };
       }
-    </script>
+    </script> -->
 
     <!-- lazyloading for hero image -->
     <script>

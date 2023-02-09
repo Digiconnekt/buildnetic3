@@ -12,6 +12,30 @@ window.onload = function () {
 };
 // sticky header end
 
-// animation start
+// active class for header start
+const currentLocation = location.href;
 
-// animation end
+const menuItem = document.querySelectorAll(".navbar-nav .nav-item a");
+
+const company = document.querySelectorAll(".navbar-nav .nav-item a.company");
+
+for (let i = 0; i < menuItem.length; i++) {
+  if (menuItem[i].href === currentLocation) {
+    if (menuItem[i].className === "nav-link") {
+      menuItem[i].className = "nav-link active";
+    } else if (menuItem[i].className === "dropdown-item") {
+      menuItem[i].className = "dropdown-item active";
+    }
+  }
+}
+// active class for header end
+
+// footerActive class for footer start
+const footerMenuItem = document.querySelectorAll(".footer-section a");
+
+for (let i = 0; i < footerMenuItem.length; i++) {
+  if (footerMenuItem[i].href === currentLocation) {
+    footerMenuItem[i].className = "text-decoration-none footerActive";
+  }
+}
+// footerActive class for footer end

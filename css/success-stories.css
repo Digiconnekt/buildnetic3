@@ -65,12 +65,14 @@
 
 /* our clients section start */
 .success-stories-page .out-clients-section .clients-block {
-  max-width: 1024px;
-  border: 1px solid #e4e4e4;
-  border-radius: 4px;
-  box-shadow: 0px 0px 2px #c4c4c4;
+  max-width: 1080px;
 }
 
+.success-stories-page .out-clients-section .clients-block .block {
+  border: 1px solid #e4e4e4;
+  border-radius: 4px;
+  box-shadow: 0px 0px 3px #c4c4c4;
+}
 /* our clients section end */
 
 @media (max-width: 1400px) {

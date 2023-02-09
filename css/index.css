@@ -570,7 +570,8 @@ body {
   color: #000000;
 }
 
-.footer-section a:hover {
+.footer-section a:hover,
+.footer-section a.footerActive {
   color: #0075ff;
   transition: all 0.25s ease;
 }

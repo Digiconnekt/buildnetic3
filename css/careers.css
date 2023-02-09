@@ -3,62 +3,55 @@
   background-image: url("../images/carrers/title-banner.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: top center;
   /* background-attachment: fixed; */
   color: #fff;
   padding-top: 2.5rem;
   padding-bottom: 2.5rem;
 }
+
 /* title section end */
 
-.careers-page .form-block {
-  max-width: 800px;
-  border: 1px solid #f8f8f8;
-  background-color: #f8f8f8;
-  border-radius: 8px;
-  box-shadow: 0px 0px 5px#f8f8f8;
+.careers-page h4 a {
+  color: #0075ff;
 }
 
-.careers-page .form-block .submit-btn {
-  background-color: #fa9500;
-  border-color: #fa9500;
-  color: #fff;
-  font-weight: 500;
-  box-shadow: 1px 1px 3px #fa9500;
-}
-
-.careers-page .form-block .submit-btn:hover {
-  box-shadow: none;
+.careers-page h4 a:hover {
+  color: #005ac2;
   transition: all 0.25s linear;
 }
 
-.careers-page .job-posts {
-  max-width: 800px;
+.careers-page .career-section .card {
+  border-radius: 8px;
+  border-color: #dddddd;
+  box-shadow: 0px 0px 3px #dddddd;
 }
 
-.careers-page .job-posts .card {
-  border: none;
+.careers-page .career-section .card img {
+  width: 100px;
 }
 
-.careers-page .job-posts .card img {
-  max-width: 90px;
-}
-
-.careers-page .job-posts .apply-btn {
+.careers-page .career-section a.join-us-btn {
   display: block;
+  max-width: 160px;
+  padding: 0.8rem;
+  border: 2px solid #0075ff;
   background-color: #0075ff;
-  border-color: #0075ff;
-  color: #fff;
-  font-weight: 500;
+  color: #000000;
+  border-radius: 0.5rem;
   box-shadow: 1px 1px 3px #0075ff;
+  font-weight: 400;
+  color: #fff;
 }
 
-.careers-page .job-posts .apply-btn:hover {
+.careers-page .career-section a.join-us-btn:hover {
   box-shadow: none;
+  background-color: #005ac2;
+  border-color: #005ac2;
+  transition: 0.25s ease all;
 }
 
-@media (max-width: 425px) {
-  .careers-page .job-posts .card img {
-    max-width: 70px;
-  }
+.careers-page .why-us-section {
+  background-color: #2f3854;
+  color: #ffffff;
 }
