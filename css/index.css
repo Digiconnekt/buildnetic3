@@ -45,9 +45,7 @@ body {
   box-shadow: 1px 1px 3px #c6c6c6;
 }
 
-.mob-top-links .btn:hover,
-.mob-top-links .btn:active,
-.mob-top-links .btn:focus {
+.mob-top-links .btn:hover {
   color: #0075ff;
   box-shadow: none;
 }
@@ -65,9 +63,7 @@ body {
   box-shadow: 1px 1px 3px #0075ff;
 }
 
-.mob-top-links .btn.btn-blue:hover,
-.mob-top-links .btn.btn-blue:active,
-.mob-top-links .btn.btn-blue:focus {
+.mob-top-links .btn.btn-blue:hover {
   box-shadow: none;
 }
 
@@ -90,6 +86,10 @@ body {
   max-width: 100px;
 }
 
+.navbar .top-links {
+  transition: all 0.3s ease-in-out;
+}
+
 .navbar .top-links .btn {
   background-color: #f2f5f7;
   border-color: #f2f5f7;
@@ -107,6 +107,10 @@ body {
 .navbar .top-links .btn .fa-whatsapp {
   font-weight: bold;
   font-size: 19px;
+}
+
+.navbar .top-links .btn.mob-num i {
+  transition: all 0.3s ease-in-out;
 }
 
 .navbar .top-links .btn.mob-num span {
@@ -544,6 +548,10 @@ body {
   border-bottom: 2px solid #0075ff;
 }
 
+.blogs-section .card h5 {
+  font-size: 1.1rem;
+}
+
 .blogs-section .card a.read-more:hover,
 .blogs-section .card a.read-more:hover i {
   color: #005ac2;
@@ -638,8 +646,16 @@ body {
 }
 
 @media (max-width: 1400px) {
+  .industry-developer-section .card {
+    min-height: 455px;
+  }
+
   .clients-review-section .carousel-item .carousel-caption {
     left: 22%;
+  }
+
+  .blogs-section .card {
+    min-height: 325px;
   }
 
   .award-section {
@@ -648,6 +664,18 @@ body {
 }
 
 @media (max-width: 1200px) {
+  .industry-developer-section .card {
+    min-height: 530px;
+  }
+
+  .why-buildnetic-section .card {
+    min-height: 240px;
+  }
+
+  .blogs-section .card {
+    min-height: auto;
+  }
+
   .clients-review-section .carousel-item .carousel-caption {
     left: 20%;
   }
@@ -669,6 +697,14 @@ body {
 }
 
 @media (max-width: 990px) {
+  .industry-developer-section .card {
+    min-height: 480px;
+  }
+
+  .why-buildnetic-section .card {
+    min-height: 215px;
+  }
+
   .mob-top-links a.btn {
     padding: 5px 9px;
   }
@@ -705,6 +741,14 @@ body {
 }
 
 @media (max-width: 768px) {
+  .industry-developer-section .card {
+    min-height: auto;
+  }
+
+  .why-buildnetic-section .card {
+    min-height: auto;
+  }
+
   .navbar .logo {
     max-width: 80px;
     transition: all 0.25s ease;

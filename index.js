@@ -17,8 +17,6 @@ const currentLocation = location.href;
 
 const menuItem = document.querySelectorAll(".navbar-nav .nav-item a");
 
-const company = document.querySelectorAll(".navbar-nav .nav-item a.company");
-
 for (let i = 0; i < menuItem.length; i++) {
   if (menuItem[i].href === currentLocation) {
     if (menuItem[i].className === "nav-link") {
@@ -29,10 +27,7 @@ for (let i = 0; i < menuItem.length; i++) {
   }
 }
 
-let servicesPath = location.pathname.substr(
-  0,
-  location.pathname.lastIndexOf("/")
-);
+let checkPath = location.pathname.substr(0, location.pathname.lastIndexOf("/"));
 
 if (location.pathname === "/") {
   menuItem[0].className = "nav-link active";
@@ -44,9 +39,11 @@ if (location.pathname === "/") {
   menuItem[1].className = "nav-link dropdown-toggle active";
 } else if (
   location.pathname === "/services.html" ||
-  servicesPath === "/services"
+  checkPath === "/services"
 ) {
   menuItem[5].className = "nav-link dropdown-toggle active";
+} else if (checkPath === "/blogs") {
+  menuItem[18].className = "nav-link active";
 }
 
 // active class for header end
@@ -60,3 +57,44 @@ for (let i = 0; i < footerMenuItem.length; i++) {
   }
 }
 // footerActive class for footer end
+
+//counter section start
+
+const counterSection = document.querySelector(".counter-section");
+
+const counterObserver = new IntersectionObserver(
+  (entries, observer) => {
+    const [entry] = entries;
+    if (!entry.isIntersecting) return;
+
+    const counterNum = document.querySelectorAll(
+      ".counter-section .counter-number"
+    );
+    const counterSpeed = 10;
+
+    counterNum.forEach((curElem) => {
+      const updateNumber = () => {
+        const finalNumber = parseInt(curElem.dataset.number);
+        const initialNumber = parseInt(curElem.innerText);
+
+        const incrementNumber = Math.trunc(finalNumber / counterSpeed);
+
+        if (initialNumber < finalNumber) {
+          curElem.innerText = `${initialNumber + incrementNumber}+`;
+          setTimeout(updateNumber, 50);
+        }
+      };
+
+      updateNumber();
+    });
+
+    observer.unobserve(counterSection);
+  },
+  {
+    root: null,
+    threshold: 0,
+  }
+);
+
+counterObserver.observe(counterSection);
+//counter section end

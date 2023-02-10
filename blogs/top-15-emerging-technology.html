@@ -37,35 +37,39 @@
     />
   </head>
   <body>
-    <!-- mobile top links block start -->
-    <div class="container d-lg-none text-end">
-      <div class="mob-top-links my-2">
-        <a class="btn me-2" href="tel:+6587993124" role="button" target="_blank"
-          ><i class="fa-solid fa-phone"></i
-        ></a>
-        <a
-          class="btn me-2"
-          href="https://wa.me/+918595334605 "
-          role="button"
-          target="_blank"
-          ><i class="fa-brands fa-whatsapp"></i
-        ></a>
-        <a
-          class="btn me-2"
-          href="mailto:sales@buildnetic.com"
-          role="button"
-          target="_blank"
-          ><i class="fa-solid fa-envelope"></i
-        ></a>
-        <a class="btn btn-blue" href="./contact-us.html" role="button"
-          >Get In Touch</a
-        >
-      </div>
-    </div>
-    <!-- mobile top links block end -->
-
     <!-- header section start -->
-    <nav class="navbar sticky-nav navbar-expand-lg navbar-light">
+    <nav class="navbar navbar-expand-lg navbar-light">
+      <!-- mobile top links block start -->
+      <div class="container d-lg-none justify-content-end">
+        <div class="mob-top-links my-1">
+          <a
+            class="btn me-2"
+            href="tel:+6587993124"
+            role="button"
+            target="_blank"
+            ><i class="fa-solid fa-phone"></i
+          ></a>
+          <a
+            class="btn me-2"
+            href="https://wa.me/+918595334605 "
+            role="button"
+            target="_blank"
+            ><i class="fa-brands fa-whatsapp"></i
+          ></a>
+          <a
+            class="btn me-2"
+            href="mailto:sales@buildnetic.com"
+            role="button"
+            target="_blank"
+            ><i class="fa-solid fa-envelope"></i
+          ></a>
+          <a class="btn btn-blue" href="./contact-us.html" role="button"
+            >Get In Touch</a
+          >
+        </div>
+      </div>
+      <!-- mobile top links block end -->
+
       <div class="container">
         <!-- logo start -->
         <a class="navbar-brand" href="../index.html">
@@ -97,14 +101,15 @@
           id="navbarSupportedContent"
         >
           <!-- top links block start -->
-          <div class="top-links my-2">
+          <div class="top-links my-2 d-none d-lg-block">
             <a
-              class="btn me-2"
+              class="btn me-2 mob-num"
               href="tel:+6587993124"
               role="button"
               target="_blank"
               ><i class="fa-solid fa-phone"></i
-            ></a>
+              ><span class="ms-2">+6587993124</span></a
+            >
             <a
               class="btn me-2"
               href="https://wa.me/+918595334605 "
@@ -193,7 +198,7 @@
                       <a
                         class="dropdown-item"
                         href="../services/mobile-development.html"
-                        >Mobile Development</a
+                        >Mobility Solutions</a
                       >
                     </li>
                     <li>
@@ -646,7 +651,7 @@
     </div>
 
     <!-- footer section start -->
-    <footer class="footer-section container-fluid py-5">
+    <footer class="footer-section container-fluid mt-5 py-5">
       <div class="container">
         <div class="row">
           <div class="col-lg-3 col-sm-6">
@@ -734,13 +739,6 @@
             <div class="border-yellow mb-4"></div>
             <p>
               <a
-                href="../services/mobile-development.html"
-                class="text-decoration-none"
-                >Mobile Application Development</a
-              >
-            </p>
-            <p>
-              <a
                 href="../services/custom-application-development.html"
                 class="text-decoration-none"
                 >Custom Application Development</a
@@ -772,6 +770,13 @@
                 href="../services/dedicated-developers.html"
                 class="text-decoration-none"
                 >Dedicated Developers</a
+              >
+            </p>
+            <p>
+              <a
+                href="../services/mobile-development.html"
+                class="text-decoration-none"
+                >Mobility Solutions</a
               >
             </p>
             <p>
@@ -863,6 +868,6 @@
     ></script>
 
     <!-- custom JS link start -->
-    <!-- <script src="../index.js"></script> -->
+    <script src="../index.js"></script>
   </body>
 </html>
