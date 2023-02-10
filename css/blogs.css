@@ -26,3 +26,27 @@
   transition: all 0.25s linear;
   color: #0075ff;
 }
+
+@media (max-width: 1400px) {
+  .blogs-page .blog-content-section .all-blogs a.card {
+    min-height: 445px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .blogs-page .blog-content-section .all-blogs a.card {
+    min-height: 456px;
+  }
+}
+
+@media (max-width: 991px) {
+  .blogs-page .blog-content-section .all-blogs a.card {
+    /* min-height: 340px; */
+  }
+}
+
+@media (max-width: 767px) {
+  .blogs-page .blog-content-section .all-blogs a.card {
+    min-height: auto;
+  }
+}

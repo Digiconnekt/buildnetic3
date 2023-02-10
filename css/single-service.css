@@ -94,6 +94,10 @@
   background-image: url("../images/engagement-model/engagement-model-banner.jpg");
 }
 
+.single-service-page .title-section.cloud-computing-banner {
+  background-image: url("../images/services/single-services/cloud-computing/cloud-computing-banner.jpg");
+}
+
 .single-service-page .title-section.custom-application-banner {
   background-image: url("../images/services/single-services/custom-application/custom-application-banner.jpg");
   background-position: top center;

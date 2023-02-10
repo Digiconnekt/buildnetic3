@@ -85,3 +85,27 @@
   transition: all 0.2s linear;
 }
 /* technical expertise section end */
+
+@media (max-width: 1400px) {
+  .services-page .service-offerings-section a.card {
+    min-height: 420px;
+  }
+}
+
+@media (max-width: 1200px) {
+  .services-page .service-offerings-section a.card {
+    min-height: 470px;
+  }
+}
+
+@media (max-width: 991px) {
+  .services-page .service-offerings-section a.card {
+    min-height: 420px;
+  }
+}
+
+@media (max-width: 767px) {
+  .services-page .service-offerings-section a.card {
+    min-height: auto;
+  }
+}
