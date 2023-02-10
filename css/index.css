@@ -669,6 +669,19 @@ body {
 }
 
 @media (max-width: 990px) {
+  .mob-top-links a.btn {
+    padding: 5px 9px;
+  }
+
+  .mob-top-links a.btn {
+    font-size: 12px;
+  }
+
+  .mob-top-links .btn .fa-whatsapp {
+    font-size: 14px;
+    font-weight: 900;
+  }
+
   .hero-section .hero-text h1 {
     font-size: 3.5rem;
     line-height: 4rem;
@@ -692,6 +705,11 @@ body {
 }
 
 @media (max-width: 768px) {
+  .navbar .logo {
+    max-width: 80px;
+    transition: all 0.25s ease;
+  }
+
   .it-soln.dropdown-menu .border-right {
     border-right: none;
   }
@@ -744,7 +762,7 @@ body {
 @media (max-width: 576px) {
   .hero-image img {
     width: 100%;
-    height: 600px;
+    height: 570px;
   }
 
   .clients-review-section .carousel-item .carousel-caption {
@@ -914,19 +932,6 @@ body {
 }
 
 @media (max-width: 375px) {
-  .mob-top-links a.btn {
-    padding: 9px;
-  }
-
-  .mob-top-links a.btn {
-    font-size: 12px;
-  }
-
-  .mob-top-links .btn .fa-whatsapp {
-    font-size: 14px;
-    font-weight: 900;
-  }
-
   .hero-section .hero-text h1 {
     font-size: 2rem;
     line-height: 3.5rem;
