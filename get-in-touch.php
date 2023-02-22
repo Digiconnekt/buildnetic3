@@ -59,7 +59,7 @@
             <!-- step 2 start -->
             <div id="step2" class="block">
               <div class="team_form">
-                <h2>What are you looking for?</h2>
+                <h2>What type of project are you hiring for?</h2>
                 <ul class="listing">
                   <li>
                     <div class="radio">

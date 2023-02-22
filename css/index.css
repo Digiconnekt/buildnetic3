@@ -603,6 +603,11 @@ body {
 .footer-section .logo {
   max-width: 100px;
 }
+
+.footer-section .copyright-block {
+  border-top: 1px solid #c6c6c6;
+  color: #a7a7a7;
+}
 /* footer section end */
 
 /* cookies modal start */
