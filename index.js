@@ -43,7 +43,7 @@ if (location.pathname === "/") {
 ) {
   menuItem[5].className = "nav-link dropdown-toggle active";
 } else if (checkPath === "/blogs") {
-  menuItem[18].className = "nav-link active";
+  menuItem[20].className = "nav-link active";
 }
 
 // active class for header end

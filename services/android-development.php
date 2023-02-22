@@ -88,13 +88,12 @@
             target="_blank"
             ><i class="fa-solid fa-envelope"></i
           ></a>
-          <a class="btn btn-blue" href="../get-in-touch.html" role="button"
+          <a class="btn btn-blue" href="./contact-us.html" role="button"
             >Get In Touch</a
           >
         </div>
       </div>
       <!-- mobile top links block end -->
-
       <div class="container">
         <!-- logo start -->
         <a class="navbar-brand" href="../index.html">
@@ -105,7 +104,6 @@
           />
         </a>
         <!-- logo end -->
-
         <!-- mobile menu btn start -->
         <button
           class="navbar-toggler"
@@ -119,7 +117,6 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <!-- mobile menu btn end -->
-
         <!-- links block start -->
         <div
           class="collapse navbar-collapse flex-column align-items-end"
@@ -149,12 +146,11 @@
               target="_blank"
               ><i class="fa-solid fa-envelope"></i
             ></a>
-            <a class="btn btn-blue" href="../get-in-touch.html" role="button"
+            <a class="btn btn-blue" href="./contact-us.html" role="button"
               >Get In Touch</a
             >
           </div>
           <!-- top links block end -->
-
           <!-- bottom links block start -->
           <ul class="navbar-nav ml-auto mb-2 mb-lg-0 my-2">
             <li class="nav-item me-xl-4 me-lg-2">
@@ -236,8 +232,15 @@
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../services/e-learning-solutions.html"
-                        >E-Learning Solutions</a
+                        href="../services/custom-application-development.html"
+                        >Custom Application Development</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../services/dedicated-developers.html"
+                        >Dedicated Developers</a
                       >
                     </li>
                   </div>
@@ -275,6 +278,13 @@
                         class="dropdown-item"
                         href="../services/software-test-management.html"
                         >Software Test Management</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../services/e-learning-solutions.html"
+                        >E-Learning Solutions</a
                       >
                     </li>
                   </div>

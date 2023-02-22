@@ -169,8 +169,15 @@
                     <li>
                       <a
                         class="dropdown-item"
-                        href="./services/e-learning-solutions.html"
-                        >E-Learning Solutions</a
+                        href="./services/custom-application-development.html"
+                        >Custom Application Development</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="./services/dedicated-developers.html"
+                        >Dedicated Developers</a
                       >
                     </li>
                   </div>
@@ -208,6 +215,13 @@
                         class="dropdown-item"
                         href="./services/software-test-management.html"
                         >Software Test Management</a
+                      >
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="./services/e-learning-solutions.html"
+                        >E-Learning Solutions</a
                       >
                     </li>
                   </div>
