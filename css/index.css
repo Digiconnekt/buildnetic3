@@ -610,6 +610,28 @@ body {
 }
 /* footer section end */
 
+/* go home button start */
+.thank-you-page a.go-home-btn {
+  display: block;
+  max-width: 200px;
+  padding: 0.8rem;
+  border: 2px solid #0075ff;
+  background-color: #0075ff;
+  color: #000000;
+  border-radius: 0.5rem;
+  box-shadow: 1px 1px 3px #0075ff;
+  font-weight: 400;
+  color: #fff;
+}
+
+.thank-you-page a.go-home-btn:hover {
+  box-shadow: none;
+  background-color: #005ac2;
+  border-color: #005ac2;
+  transition: 0.25s ease all;
+}
+/* go home button end */
+
 /* cookies modal start */
 .cookies-modal .modal-dialog {
   position: absolute;

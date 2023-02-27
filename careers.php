@@ -438,7 +438,7 @@
             </p>
             <a
               class="btn join-us-btn mt-4"
-              href="./contact-us.html"
+              href="mailto:hr@buildnetic.com"
               role="button"
               >Join Us <i class="fa-solid fa-arrow-right-long ms-2"></i
             ></a>
