@@ -17,20 +17,10 @@
                     <a href="tel:+6587993124" class="text-decoration-none" target="_blank"><i class="fa-solid fa-phone me-2"></i>+65 87993124</a>
                 </p>
                 <p>
-                    <a
-                        href="tel:+918595334605"
-                        class="text-decoration-none"
-                        target="_blank"
-                        ><i class="fa-solid fa-phone me-2"></i>+91 85953 34605</a
-                    >
+                    <a href="tel:+918595334605" class="text-decoration-none" target="_blank"><i class="fa-solid fa-phone me-2"></i>+91 85953 34605</a>
                 </p>
                 <p>
-                    <a
-                        href="tel:+12143770359"
-                        class="text-decoration-none"
-                        target="_blank"
-                        ><i class="fa-solid fa-phone me-2"></i>+1 214 377 0359</a
-                    >
+                    <a href="tel:+12143770359" class="text-decoration-none" target="_blank"><i class="fa-solid fa-phone me-2"></i>+1 214 377 0359</a>
                 </p>
                 <p class="social-media-links d-flex">
                     <a href="https://www.facebook.com/buildnetic" class="me-3" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
@@ -120,14 +110,15 @@
         </div>
     </div>
 
-    <div class="copyright-block mt-2">
-        <div class="row">
-          <div class="col-12 pt-4 pb-3 text-center">
-            <p>Copyright &copy; India rights @ Arunarcis Solutions Pvt Ltd, Singapore rights @ Macaire Solutions Pte Ltd</p>
-          </div>
-        </div>
-      </div>
+
 </footer>
+<div class="copyright-block container-fluid bg-dark text-white">
+    <div class="row">
+        <div class="col-12 pt-4 pb-3 text-center">
+            <p>Copyright &copy; India rights @ Arunarcis Solutions Pvt Ltd, Singapore rights @ Macaire Solutions Pte Ltd</p>
+        </div>
+    </div>
+</div>
 <!-- footer section end -->
 
 <!-- bootstrap 5 JS cdn link -->
@@ -140,39 +131,39 @@
 <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 <script>
     AOS.init({
-    offset: 200,
+        offset: 200,
     });
 </script>
 
 <!-- lazyloading for hero image -->
 <script>
-    document.addEventListener("DOMContentLoaded", function () {
-    var lazyImages = [].slice.call(document.querySelectorAll(".hero-section img.lazy"));
+    document.addEventListener("DOMContentLoaded", function() {
+        var lazyImages = [].slice.call(document.querySelectorAll(".hero-section img.lazy"));
 
-    if ("IntersectionObserver" in window) {
-        let lazyImageObserver = new IntersectionObserver(function (
-        entries,
-        observer
-        ) {
-        entries.forEach(function (entry) {
-            if (entry.isIntersecting) {
-            let lazyImage = entry.target;
-            lazyImage.src = lazyImage.dataset.src;
-            lazyImage.classList.remove("lazy");
-            lazyImageObserver.unobserve(lazyImage);
-            }
-        });
-        });
+        if ("IntersectionObserver" in window) {
+            let lazyImageObserver = new IntersectionObserver(function(
+                entries,
+                observer
+            ) {
+                entries.forEach(function(entry) {
+                    if (entry.isIntersecting) {
+                        let lazyImage = entry.target;
+                        lazyImage.src = lazyImage.dataset.src;
+                        lazyImage.classList.remove("lazy");
+                        lazyImageObserver.unobserve(lazyImage);
+                    }
+                });
+            });
 
-        lazyImages.forEach(function (lazyImage) {
-        lazyImageObserver.observe(lazyImage);
-        });
-    } else {
-        // Fallback for unsupported browsers
-        lazyImages.forEach(function (lazyImage) {
-        lazyImage.src = lazyImage.dataset.src;
-        });
-    }
+            lazyImages.forEach(function(lazyImage) {
+                lazyImageObserver.observe(lazyImage);
+            });
+        } else {
+            // Fallback for unsupported browsers
+            lazyImages.forEach(function(lazyImage) {
+                lazyImage.src = lazyImage.dataset.src;
+            });
+        }
     });
 </script>
 
