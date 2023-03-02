@@ -63,5 +63,7 @@ if (!$mail->Send()) {
 } else {
     echo "Email sent successfully";
 }
+header("location: thank-you.php");
+
 
 

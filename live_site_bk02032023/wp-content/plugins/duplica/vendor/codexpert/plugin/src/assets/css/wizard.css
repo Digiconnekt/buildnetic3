@@ -1,0 +1,136 @@
+.cx-setup.wp-core-ui.cx-wizard-body-panel {
+	background: #f0f0f0;
+	font-family: 'Quicksand', sans-serif;
+}
+.cx-wizard-container {
+	width: 960px;
+	margin: auto;
+	background: #f6f7f7;
+	padding: 24px;
+	border-radius: 10px;
+}
+.cx-setup.wp-core-ui.cx-wizard-body-panel {
+	background: #f0f0f0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+.cx-wizard-heading {
+	text-align: center;
+	color: #6829c1;
+}
+.cx-wizard-heading.hide_title {
+	display: none;
+}
+.cx-wizard-heading a{
+	color: #6829c1;
+	text-decoration: none;
+}
+
+/*Step design start*/
+.cx-wizard-stepper-wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.cx-wizard-stepper-item {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1;
+}
+.cx-wizard-stepper-item::before {
+  position: absolute;
+  content: "";
+  border-bottom: 2px solid #ccc;
+  width: 100%;
+  top: 20px;
+  left: -50%;
+  z-index: 2;
+}
+.cx-wizard-stepper-item::after {
+  position: absolute;
+  content: "";
+  border-bottom: 2px solid #ccc;
+  width: 100%;
+  top: 20px;
+  left: 50%;
+  z-index: 2;
+}
+.cx-wizard-stepper-item .cx-wizard-step-counter {
+  position: relative;
+  z-index: 5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #ccc;
+  margin-bottom: 6px;
+}
+.cx-wizard-stepper-item.current-step {
+  font-weight: bold;
+}
+.cx-wizard-stepper-item.passed-step.current-step .cx-wizard-step-counter{
+  background-color: #fff;
+	color: #692bc1;
+	border: 1px solid #692bc1;
+}
+.cx-wizard-stepper-item.passed-step .cx-wizard-step-counter {
+	background-color: #692bc1;
+	color: #fff;
+}
+.cx-wizard-stepper-item.passed-step::after {
+	position: absolute;
+	content: "";
+	border-bottom: 2px solid #692bc1;
+	width: 100%;
+	top: 20px;
+	left: 50%;
+	z-index: 3;
+}
+.cx-wizard-stepper-item:first-child::before {
+  content: none;
+}
+.cx-wizard-stepper-item:last-child::after {
+  content: none;
+}
+.cx-wizard-step-name a{
+	text-decoration: none;
+}
+/*Step design end*/
+
+/*Footer button style start*/
+.cx-wizard-btns {
+	width: 500px;
+	margin: auto;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+	padding-top: 30px;
+}
+.cx-wizard-btn {
+	text-decoration: none;
+	background: #6829c1;
+	color: #fff;
+	border: 1px solid #6829c1;
+	width: 190px;
+	text-align: center;
+	height: 49px;
+	font-size: 16px;
+	line-height: 48px;
+	border-radius: 7px;
+	font-weight: 600;
+	cursor: pointer;
+}
+button.cx-wizard-btn {
+	font-weight: 400;
+}
+.cx-wizard-btn.disabled {
+	display: none;
+}
+/*Footer button style end*/

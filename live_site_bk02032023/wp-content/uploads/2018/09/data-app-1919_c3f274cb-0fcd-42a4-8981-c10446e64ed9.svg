@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="128" height="128">
+  <title>Data App</title>
+  <desc>A solid styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#8d8ea3" d="M34 36.6v22l28-13.2v-22L34 36.6zm-4 0L2 23.4v22l28 13.1V36.6z"></path>
+  <path data-name="layer1" d="M20 19.4c0 2.2-3.1 4-7 4s-7-1.8-7-4 3.1-4 7-4 7 1.8 7 4zm12 2c-3.9 0-7 1.8-7 4s3.1 4 7 4 7-1.8 7-4-3.1-4-7-4zm0-16c-3.9 0-7 1.8-7 4s3.1 4 7 4 7-1.8 7-4-3.1-4-7-4zm19 10c-3.9 0-7 1.8-7 4s3.1 4 7 4 7-1.8 7-4-3.1-4-7-4z"
+  fill="#253858"></path>
+</svg>

@@ -1,0 +1,30 @@
+.notice.cx-notice.cx-survey {
+    padding: 15px;
+}
+.notice .cx-survey-content h3 {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+p.cx-survey-btn-wrapper {
+    margin: 0;
+}
+.cx-survey-btn-wrapper .cx-survey-btn {
+    display: inline-block;
+    padding: 0.75em;
+    background-color: #4c3f93;
+    transition: 0.4s;
+    border-color: #4c3f93;
+    outline: 0;
+}
+.cx-survey-btn-wrapper .cx-survey-btn:hover {
+    background-color: #554d82;
+}
+.cx-survey-img {
+    float: left;
+    height: 122px;
+    margin-right: 20px;
+}
+.cx-notice.cx-survey .button {
+    margin-left: 0px;
+}

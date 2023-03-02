@@ -1,0 +1,80 @@
+
+---Downloaded files---
+The import files for: Import Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://13.235.9.120
+Data file = /var/www/html/wp-content/plugins/alvon-master/demo-importer/demo/demo-content.xml
+Widget file = /var/www/html/wp-content/plugins/alvon-master/demo-importer/demo/widgets.wie
+Customizer file = /var/www/html/wp-content/plugins/alvon-master/demo-importer/demo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+Codestar Framework files loaded.
+
+---Importing widgets---
+Sidebar Widgets : 
+
+Search - Search - Imported
+A::5 Recent Post - Recent Post - Imported
+Categories - Categories - Imported
+Text - Instagram Feed - Imported
+Text - Follow Us - Imported
+Tag Cloud - Tags - Imported
+Text - No Title - Imported
+
+Footer Widgets 1 : 
+
+A::1 About Widget - Alvon - Imported
+A::2 Footer Menu Widget - More Pages - Imported
+A::5 Recent Post - Recent Post - Imported
+A::3 Newsletter Widget - Get Every Single Update - Imported
+
+Footer Widgets 2 : 
+
+A::1 About Widget - Alvon - Imported
+A::2 Footer Menu Widget - More Pages - Imported
+A::5 Recent Post - Recent Post - Imported
+A::4 Instagram Widget - Instagram Feeds - Imported
+
+Faq Widgets : 
+
+Categories - All Categories - Imported
+A::6 Info Widget - Faq Title - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not in a correct format. Please make sure to use the correct customizer import file.
+
+---pt-ocdi/after_import---
+

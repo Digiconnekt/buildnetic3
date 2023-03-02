@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="48" height="48">
+  <title>Bank Notes</title>
+  <desc>A solid styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#8d8ea3" d="M4 45h56v4H4zm0 8h56v4H4z"></path>
+  <path data-name="layer1" d="M4 7v32h56V7zm12 10h-4a2 2 0 0 1 0-4h4a2 2 0 0 1 0 4zm16 14a8 8 0 1 1 8-8 8 8 0 0 1-8 8zm20 2h-4a2 2 0 0 1 0-4h4a2 2 0 0 1 0 4z"
+  fill="#253858"></path>
+</svg>

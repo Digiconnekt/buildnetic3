@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "buildnetic.com",
+  "Id": "bc3260c9-3cfc-4812-a78a-7a4bfd0fc3f8"
+}

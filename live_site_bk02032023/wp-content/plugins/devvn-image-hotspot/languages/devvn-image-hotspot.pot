@@ -1,0 +1,285 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Image Hotspot by DevVN\n"
+"POT-Creation-Date: 2019-02-11 23:47+0700\n"
+"PO-Revision-Date: 2019-02-11 23:47+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: devvn-image-hotspot.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/inc/cpt-ihotspot.php:7
+msgctxt "Post Type General Name"
+msgid "Image Hotspot"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:8
+msgctxt "Post Type Singular Name"
+msgid "Image Hotspot"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:9 admin/inc/cpt-ihotspot.php:10
+#: admin/inc/cpt-ihotspot.php:34 devvn-image-hotspot.php:69
+msgid "Image Hotspot"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:11
+msgid "Item Archives"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:12
+msgid "Parent Item:"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:13
+msgid "All Items"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:14
+msgid "Add New Item"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:15
+msgid "Add New"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:16
+msgid "New Item"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:17
+msgid "Edit Item"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:18
+msgid "Update Item"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:19
+msgid "View Item"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:20
+msgid "Search Item"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:21
+msgid "Not found"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:22
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:23
+msgid "Featured Image"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:24
+msgid "Set featured image"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:25
+msgid "Remove featured image"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:26
+msgid "Use as featured image"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:27
+msgid "Insert into item"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:28
+msgid "Uploaded to this item"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:29
+msgid "Items list"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:30
+msgid "Items list navigation"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:31
+msgid "Filter items list"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:83
+msgid "Title"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:84
+msgid "Shortcode"
+msgstr ""
+
+#: admin/inc/cpt-ihotspot.php:85
+msgid "Date"
+msgstr ""
+
+#: admin/inc/metabox-donate.php:10
+msgid "Buy me a Coffee to keep me awake :)"
+msgstr ""
+
+#: devvn-image-hotspot.php:77
+msgid "Image Hotspot Shortcode"
+msgstr ""
+
+#: devvn-image-hotspot.php:111
+msgid "Pins Image"
+msgstr ""
+
+#: devvn-image-hotspot.php:119 devvn-image-hotspot.php:450
+msgid "Select pins"
+msgstr ""
+
+#: devvn-image-hotspot.php:124
+msgid "Pins Hover Image"
+msgstr ""
+
+#: devvn-image-hotspot.php:132 devvn-image-hotspot.php:461
+msgid "Select pins hover"
+msgstr ""
+
+#: devvn-image-hotspot.php:137
+msgid "Pins Center Position"
+msgstr ""
+
+#: devvn-image-hotspot.php:141
+msgid "Center center"
+msgstr ""
+
+#: devvn-image-hotspot.php:142
+msgid "Top Left"
+msgstr ""
+
+#: devvn-image-hotspot.php:143
+msgid "Top Center"
+msgstr ""
+
+#: devvn-image-hotspot.php:144
+msgid "Top Right"
+msgstr ""
+
+#: devvn-image-hotspot.php:145
+msgid "Right Center"
+msgstr ""
+
+#: devvn-image-hotspot.php:146
+msgid "Bottom Right"
+msgstr ""
+
+#: devvn-image-hotspot.php:147
+msgid "Bottom Center"
+msgstr ""
+
+#: devvn-image-hotspot.php:148
+msgid "Bottom Left"
+msgstr ""
+
+#: devvn-image-hotspot.php:149
+msgid "Left Center"
+msgstr ""
+
+#: devvn-image-hotspot.php:150
+msgid "Custom"
+msgstr ""
+
+#: devvn-image-hotspot.php:151
+msgid "Top: -"
+msgstr ""
+
+#: devvn-image-hotspot.php:152
+msgid "Left: -"
+msgstr ""
+
+#: devvn-image-hotspot.php:160
+msgid "Pins Animation"
+msgstr ""
+
+#: devvn-image-hotspot.php:164
+msgid "None"
+msgstr ""
+
+#: devvn-image-hotspot.php:165
+msgid "Pulse"
+msgstr ""
+
+#: devvn-image-hotspot.php:174
+msgid "Upload Image"
+msgstr ""
+
+#: devvn-image-hotspot.php:176
+msgid "Add Point"
+msgstr ""
+
+#: devvn-image-hotspot.php:233
+msgid "Copy shortcode to view"
+msgstr ""
+
+#: devvn-image-hotspot.php:236
+msgid "Publish to view shortcode"
+msgstr ""
+
+#: devvn-image-hotspot.php:356
+msgid "Select image"
+msgstr ""
+
+#: devvn-image-hotspot.php:357
+msgid "Select"
+msgstr ""
+
+#: devvn-image-hotspot.php:414
+msgid "Content"
+msgstr ""
+
+#: devvn-image-hotspot.php:443
+msgid "Pin Image Custom"
+msgstr ""
+
+#: devvn-image-hotspot.php:454
+msgid "Pins hover image custom"
+msgstr ""
+
+#: devvn-image-hotspot.php:505
+msgid "Delete"
+msgstr ""
+
+#: devvn-image-hotspot.php:506
+msgid "Done"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Image Hotspot by DevVN"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://levantoan.com/devvn-image-hotspot"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Image Hotspot help you add hotspot to your images."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Le Van Toan"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://levantoan.com/"
+msgstr ""

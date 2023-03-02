@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="64" height="64">
+  <title>Router</title>
+  <desc>A line styled icon from Orion Icon Library.</desc>
+  <path data-name="layer1"
+  fill="none" stroke="#24ccfd" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="1" d="M32 16v20"></path>
+  <rect data-name="layer1" x="2" y="36" width="60" height="18" rx="2"
+  ry="2" fill="none" stroke="#24ccfd" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="1"></rect>
+  <circle data-name="layer2" cx="11" cy="45" r="2" fill="none" stroke="#28759d"
+  stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></circle>
+  <circle data-name="layer2" cx="21" cy="45" r="2" fill="none"
+  stroke="#28759d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></circle>
+  <circle data-name="layer2" cx="31" cy="45" r="2" fill="none"
+  stroke="#28759d" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"></circle>
+  <path data-name="layer1" fill="none" stroke="#24ccfd" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="1" d="M8 54v4m48-4v4M25.1 20a8 8 0 0 1 0-8m13.8 0a8 8 0 0 1 0 8m-21.2 3.1a16 16 0 0 1 0-14.2m28.6 0a16 16 0 0 1 0 14.2m-36 3.1A23.9 23.9 0 0 1 8 16a23 23 0 0 1 2-10m44 0a23 23 0 0 1 2 10 23.9 23.9 0 0 1-2.3 10.2"></path>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="48" height="48">
+  <title>POS Terminal</title>
+  <desc>A solid styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#8d8ea3" d="M44 18h8v36h-8zm15 0h-3v36h3a3 3 0 0 0 3-3V21a3 3 0 0 0-3-3z"></path>
+  <path data-name="layer1" d="M37 2H5a3 3 0 0 0-3 3v54a3 3 0 0 0 3 3h32a3 3 0 0 0 3-3V5a3 3 0 0 0-3-3zm-27 8h22v16H10zm2 44h-2a2 2 0 0 1 0-4h2a2 2 0 1 1 0 4zm0-8h-2a2 2 0 0 1 0-4h2a2 2 0 1 1 0 4zm0-8h-2a2 2 0 0 1 0-4h2a2 2 0 1 1 0 4zm10 16h-2a2 2 0 1 1 0-4h2a2 2 0 0 1 0 4zm0-8h-2a2 2 0 0 1 0-4h2a2 2 0 1 1 0 4zm0-8h-2a2 2 0 1 1 0-4h2a2 2 0 0 1 0 4zm10 16h-2a2 2 0 1 1 0-4h2a2 2 0 0 1 0 4zm0-8h-2a2 2 0 0 1 0-4h2a2 2 0 0 1 0 4zm0-8h-2a2 2 0 1 1 0-4h2a2 2 0 0 1 0 4z"
+  fill="#253858"></path>
+</svg>

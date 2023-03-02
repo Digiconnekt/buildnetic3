@@ -1,0 +1,31 @@
+#sidebars-form .widgets-holder-wrap {
+	padding: 15px;
+}
+#sidebars-form .widgets-holder-wrap > h3 {
+	margin-top: 0;
+}
+#sidebars-form label {
+	display: block;
+	margin-bottom: 5px;
+}
+#sidebars-form input[type="text"],
+#sidebars-form input[type="submit"].button-primary {
+	height: 35px;
+	margin: 0;
+	border-radius: 2px;
+}
+#sidebars-form input[type="text"] {
+	width: 50%;
+}
+#remove-sidebar-form {
+	margin-top: 10px;
+}
+.widgets-holder-toolbar {
+	padding: 10px 15px;
+	border-top: 1px solid #eee;
+	background: #fafafa;
+	text-align: right;
+}
+.closed .widgets-holder-toolbar {
+	display: none;
+}

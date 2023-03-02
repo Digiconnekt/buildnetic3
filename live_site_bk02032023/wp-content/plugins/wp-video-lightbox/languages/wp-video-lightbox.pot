@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Video Lightbox\n"
+"POT-Creation-Date: 2015-12-07 16:02+1000\n"
+"PO-Revision-Date: 2015-12-07 16:03+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: misc_functions.php:16
+msgid ""
+"Error! You must specify a value for the Video ID, Width, Height and Anchor "
+"parameters to use this shortcode!"
+msgstr ""
+
+#: misc_functions.php:19 misc_functions.php:53
+msgid ""
+"Error! You must specify an anchor parameter if you are not using the "
+"auto_thumb option."
+msgstr ""
+
+#: misc_functions.php:50
+msgid ""
+"Error! You must specify a value for the Video ID, Width, Height parameters "
+"to use this shortcode!"
+msgstr ""
+
+#: wpvl-settings.php:11
+msgid "Video Lightbox Settings"
+msgstr ""
+
+#: wpvl-settings.php:11
+msgid "Video Lightbox"
+msgstr ""
+
+#: wpvl-settings.php:17
+msgid "General"
+msgstr ""
+
+#: wpvl-settings.php:18
+msgid "prettyPhoto"
+msgstr ""
+
+#: wpvl-settings.php:73
+msgid "prettyPhoto Settings Updated!"
+msgstr ""
+
+#: wpvl-settings.php:79 wpvl-settings.php:149
+msgid ""
+"For more information, updates, detailed documentation and video tutorial, "
+"please visit:"
+msgstr ""
+
+#: wpvl-settings.php:80 wpvl-settings.php:150
+msgid "WP Video Lightbox Homepage"
+msgstr ""
+
+#: wpvl-settings.php:91 wpvl-settings.php:92
+msgid "Enable jQuery"
+msgstr ""
+
+#: wpvl-settings.php:94
+msgid "Check this option if you want to enable jQuery library"
+msgstr ""
+
+#: wpvl-settings.php:102 wpvl-settings.php:341
+msgid "Save Changes"
+msgstr ""
+
+#: wpvl-settings.php:161 wpvl-settings.php:162
+msgid "Enable prettyPhoto"
+msgstr ""
+
+#: wpvl-settings.php:164
+msgid "Check this option if you want to enable prettyPhoto library"
+msgstr ""
+
+#: wpvl-settings.php:169
+msgid "Animation speed"
+msgstr ""
+
+#: wpvl-settings.php:172
+msgid "Fast"
+msgstr ""
+
+#: wpvl-settings.php:173
+msgid "Slow"
+msgstr ""
+
+#: wpvl-settings.php:174
+msgid "Normal"
+msgstr ""
+
+#: wpvl-settings.php:177
+msgid "fast / slow / normal [default: fast]"
+msgstr ""
+
+#: wpvl-settings.php:182
+msgid "Slideshow"
+msgstr ""
+
+#: wpvl-settings.php:184
+#, php-format
+msgid "%s OR interval time in ms [default: %s]"
+msgstr ""
+
+#: wpvl-settings.php:188 wpvl-settings.php:189
+msgid "Autoplay slideshow"
+msgstr ""
+
+#: wpvl-settings.php:191
+msgid "true / false [default: false]"
+msgstr ""
+
+#: wpvl-settings.php:196
+msgid "Opacity"
+msgstr ""
+
+#: wpvl-settings.php:198
+#, php-format
+msgid "Value between %s and %s [default: %s]"
+msgstr ""
+
+#: wpvl-settings.php:202 wpvl-settings.php:203
+msgid "Show title"
+msgstr ""
+
+#: wpvl-settings.php:205
+msgid "true / false [default: true]"
+msgstr ""
+
+#: wpvl-settings.php:210 wpvl-settings.php:211
+msgid "Allow resize"
+msgstr ""
+
+#: wpvl-settings.php:213
+msgid "Resize the photos bigger than viewport. true / false [default: true]"
+msgstr ""
+
+#: wpvl-settings.php:218 wpvl-settings.php:219
+msgid "Allow expand"
+msgstr ""
+
+#: wpvl-settings.php:221
+msgid "Allow the user to expand a resized image. true / false [default: true]"
+msgstr ""
+
+#: wpvl-settings.php:226
+msgid "Default width"
+msgstr ""
+
+#: wpvl-settings.php:228 wpvl-settings.php:234
+#, php-format
+msgid "[default: %s]"
+msgstr ""
+
+#: wpvl-settings.php:232
+msgid "Default height"
+msgstr ""
+
+#: wpvl-settings.php:238
+msgid "Counter separator label"
+msgstr ""
+
+#: wpvl-settings.php:240
+#, php-format
+msgid "The separator for the gallery counter 1 \"of\" 2 [default: %s]"
+msgstr ""
+
+#: wpvl-settings.php:244
+msgid "Theme"
+msgstr ""
+
+#: wpvl-settings.php:247
+msgid "Default"
+msgstr ""
+
+#: wpvl-settings.php:248
+msgid "Light Rounded"
+msgstr ""
+
+#: wpvl-settings.php:249
+msgid "Dark Rounded"
+msgstr ""
+
+#: wpvl-settings.php:250
+msgid "Light Square"
+msgstr ""
+
+#: wpvl-settings.php:251
+msgid "Dark Square"
+msgstr ""
+
+#: wpvl-settings.php:252
+msgid "Facebook"
+msgstr ""
+
+#: wpvl-settings.php:255
+msgid "Select a theme for the lightbox window"
+msgstr ""
+
+#: wpvl-settings.php:260
+msgid "Horizontal padding"
+msgstr ""
+
+#: wpvl-settings.php:262
+#, php-format
+msgid "The padding on each side of the picture [default: %s]"
+msgstr ""
+
+#: wpvl-settings.php:269
+msgid ""
+"Hides all the flash objects on a page, set to TRUE if flash appears over "
+"prettyPhoto [default: false]"
+msgstr ""
+
+#: wpvl-settings.php:274
+msgid "wmode"
+msgstr ""
+
+#: wpvl-settings.php:277
+msgid "opaque"
+msgstr ""
+
+#: wpvl-settings.php:279
+msgid "Set the flash wmode attribute [default: opaque]"
+msgstr ""
+
+#: wpvl-settings.php:284 wpvl-settings.php:285
+msgid "Autoplay"
+msgstr ""
+
+#: wpvl-settings.php:287
+msgid "Automatically start videos: true / false [default: true]"
+msgstr ""
+
+#: wpvl-settings.php:292 wpvl-settings.php:293
+msgid "Modal"
+msgstr ""
+
+#: wpvl-settings.php:295
+msgid ""
+"If set to true, only the close button will close the window [default: false]"
+msgstr ""
+
+#: wpvl-settings.php:300 wpvl-settings.php:301
+msgid "Deeplinking"
+msgstr ""
+
+#: wpvl-settings.php:303
+msgid ""
+"Allow prettyPhoto to update the url to enable deeplinking. [default: true]"
+msgstr ""
+
+#: wpvl-settings.php:308 wpvl-settings.php:309
+msgid "Overlay gallery"
+msgstr ""
+
+#: wpvl-settings.php:311
+msgid ""
+"If set to true, a gallery will overlay the fullscreen image on mouse over "
+"[default: true]"
+msgstr ""
+
+#: wpvl-settings.php:316
+msgid "Overlay gallery max"
+msgstr ""
+
+#: wpvl-settings.php:318
+#, php-format
+msgid "Maximum number of pictures in the overlay gallery [default: %s]"
+msgstr ""
+
+#: wpvl-settings.php:322 wpvl-settings.php:323
+msgid "Keyboard shortcuts"
+msgstr ""
+
+#: wpvl-settings.php:325
+msgid "Set to false if you open forms inside prettyPhoto [default: true]"
+msgstr ""
+
+#: wpvl-settings.php:330 wpvl-settings.php:331
+msgid "IE6 fallback"
+msgstr ""
+
+#: wpvl-settings.php:333
+msgid "compatibility fallback for IE6 [default: true]"
+msgstr ""

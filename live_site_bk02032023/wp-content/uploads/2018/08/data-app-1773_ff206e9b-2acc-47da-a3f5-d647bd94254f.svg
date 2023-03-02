@@ -1,0 +1,17 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="64" height="64">
+  <title>Data App</title>
+  <desc>A line styled icon from Orion Icon Library.</desc>
+  <path d="M2 23v22l30.082 14L62 45V23L32 37.048 2 23zm30 14.048V59m25.332-38.178L62 23M37.459 11.548l9.148 4.269m-29.232.009l9.147-4.27M2 23l4.742-2.213"
+  stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke="#28759d"
+  fill="none" data-name="layer2"></path>
+  <ellipse stroke-width="1" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#24ccfd" fill="none" ry="4" rx="7" cy="19" cx="13" data-name="layer1"></ellipse>
+  <ellipse stroke-width="1" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#24ccfd" fill="none" ry="4" rx="7" cy="25" cx="32" data-name="layer1"></ellipse>
+  <ellipse stroke-width="1" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#24ccfd" fill="none" ry="4" rx="7" cy="9" cx="32" data-name="layer1"></ellipse>
+  <ellipse stroke-width="1" stroke-linejoin="round" stroke-linecap="round"
+  stroke="#24ccfd" fill="none" ry="4" rx="7" cy="19" cx="51" data-name="layer1"></ellipse>
+</svg>

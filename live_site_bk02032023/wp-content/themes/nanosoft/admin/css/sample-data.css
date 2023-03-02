@@ -1,0 +1,156 @@
+/* Helper classes */
+.sd-clearfix:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+/* The common app styles */
+.sd-installer hr {
+  margin: 30px 0;
+}
+
+/* The package item */
+.sd-package {
+  float: left;
+  box-sizing: border-box;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  width: calc(33.3333333333333333% - 20px);
+  margin: 0 0 30px 30px;
+  background-color: #fafafa;
+  transition: all .2s;
+}
+.sd-package:nth-child(3n+1) {
+  margin-left: 0;
+}
+.sd-package-preview img {
+  display: block;
+  border: none;
+}
+.sd-package-footer {
+  padding: 8px 10px 10px;
+  background: #fff;
+  border-top: 1px solid #eee;
+}
+.sd-package-title {
+  font-size: 1em;
+  font-weight: 600;
+  float: left;
+  line-height: 28px;
+  white-space: nowrap;
+  width: calc(100% - 140px);
+}
+.sd-package-actions {
+  text-align: right;
+}
+
+/* The package tasks */
+.sd-package-tasks {
+  margin: 0 0 0 15px;
+  position: absolute;
+  top: 15px;
+  width: calc(100% - 15px);
+  counter-reset: section;
+}
+.sd-task {
+  font-size: 12px;
+  margin: 2px 0;
+  padding: 3px 5px;
+  float: left;
+  clear: left;
+  counter-increment: section;
+  position: relative;
+}
+.sd-task:before {
+  content: counter(section);
+  display: inline-block;
+  width: 12px;
+  text-align: center;
+  padding: 0;
+  margin-right: 12px;
+  color: #ccc;
+}
+.sd-task:not(.sd-task-completed):after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 0;
+  left: -1px;
+  width: 20px;
+  height: 20px;
+  border: 2px solid #eee;
+  border-top-color: #62d200;
+  border-radius: 20px;
+  transition: all .2s;
+  animation: rotating .7s linear infinite;
+  opacity: 0;
+}
+.sd-task.sd-task-working:after {
+  opacity: 1;
+}
+.sd-task-completed {
+  opacity: 0.5;
+  text-decoration: line-through;
+}
+
+/* The working state */
+.sd-package-active {
+  position: relative;
+}
+.sd-package-active .sd-package-preview {
+  opacity: 0;
+}
+.sd-working .sd-package:not(.sd-package-active) {
+  opacity: 0.2;
+}
+
+/* The completed state */
+.sd-task-finished {
+  color: #62d200;
+}
+.sd-task-finished:before {
+  content: '';
+  width: 10px;
+  height: 5px;
+  transform: rotate(-45deg)
+             translate(4px, -1px);
+  border: 2px solid transparent;
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-color: #62d200;
+  border-left-color: #62d200;
+}
+
+/* Animation */
+@-webkit-keyframes rotating /* Safari and Chrome */ {
+  from {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes rotating {
+  from {
+    -ms-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  to {
+    -ms-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}

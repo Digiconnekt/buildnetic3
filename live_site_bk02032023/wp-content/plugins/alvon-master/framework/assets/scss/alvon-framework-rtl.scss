@@ -1,0 +1,293 @@
+/**
+ *
+ * -----------------------------------------------------------
+ *
+ * Codestar Framework
+ * A Lightweight and easy-to-use WordPress Options Framework
+ *
+ * Copyright 2015 Codestar <info@codestarlive.com>
+ *
+ * -----------------------------------------------------------
+ *
+ */
+@import "compass";
+@import "vendor/mixins";
+
+.alvon-framework{
+  margin-left: 20px;
+  margin-right: 0;
+
+  .alvon-header{
+    h1{
+      float: right;
+    }
+
+    fieldset{
+      float: left;
+    }
+  }
+
+  .alvon-nav{
+    float: right;
+
+    ul{
+      clear: right;
+
+      li{
+        .alvon-section-active:after{
+          right: auto;
+          left: 0;
+          border-left-color: #fff;
+          border-right-color: transparent;
+        }
+
+        .alvon-arrow:after{
+          content: "\f053";
+          right: auto;
+          left: 10px;
+        }
+
+        &.alvon-tab-active .alvon-arrow:after{
+          @include transform( rotate(-90deg) );
+        }
+      }
+
+      ul{
+        li{
+          a{
+            padding-right: 25px;
+            padding-left: 15px;
+          }
+        }
+
+        &:before{
+          left: auto;
+          right: 15px;
+        }
+      }
+    }
+
+    .alvon-icon{
+      margin-left: 5px;
+      margin-right: 0;
+    }
+  }
+
+  .alvon-nav-background{
+    left: auto;
+    right: 0;
+  }
+
+  .alvon-content{
+    margin-left: 0;
+    margin-right: 225px;
+
+    .alvon-sections{
+      float: right;
+    }
+  }
+
+  .alvon-show-all .alvon-content {
+    margin-right: 0;
+    overflow: hidden;
+  }
+
+  .alvon-expand-all {
+    right: auto;
+    left: 40px;
+  }
+
+  .alvon-footer{
+    text-align: left;
+  }
+}
+
+.alvon-metabox-framework{
+  margin: -6px -12px -12px -12px;
+
+  .alvon-content{
+    .alvon-section-title{
+      padding: 20px;
+    }
+  }
+}
+
+.alvon-element{
+  .alvon-title{
+    float: right;
+  }
+
+  .alvon-fieldset{
+    margin-left: 0;
+    margin-right: 30%;
+  }
+}
+
+.alvon-pseudo-field{
+  padding: 0 0 0 5px !important;
+}
+
+.alvon-field-number em{
+  margin-left: 0;
+  margin-right: 5px;
+}
+
+.alvon-field-typography select,
+.alvon-field-typography .chosen-container{
+  margin-right: 0;
+  margin-left: 5px;
+}
+
+.alvon-field-checkbox .horizontal li,
+.alvon-field-radio .horizontal li{
+  margin-right: 0;
+  margin-left: 15px;
+}
+
+.alvon-field-switcher{
+  label{
+    float: right;
+  }
+
+  .alvon-text-desc{
+    float: right;
+    margin-left: 0;
+    margin-right: 5px;
+  }
+}
+
+.alvon-field-color_picker{
+  .alvon-alpha-slider{
+    margin-left: 0;
+    margin-right: 2px;
+
+    .ui-slider-handle{
+      margin: 0 -11px;
+    }
+  }
+
+  .alvon-alpha-slider-offset{
+    background-position: center right;
+  }
+
+  .alvon-alpha-text{
+    right: auto;
+    left: 10px;
+  }
+}
+
+.alvon-field-group{
+  .ui-accordion-icons{
+    padding-left: 0;
+    padding-right: 30px;
+  }
+
+  .ui-accordion-header-icon{
+    left: auto;
+    right: .5em;
+  }
+
+  .dashicons-arrow-right:before{
+    content: "\f141";
+  }
+}
+
+.alvon-help{
+  right: auto;
+  left: 5px;
+}
+
+.alvon-field-icon{
+  .button{
+    margin-right: 0;
+    margin-left: 5px;
+  }
+
+  .alvon-icon-preview i{
+    margin-right: 0;
+    margin-left: 5px;
+  }
+}
+
+.alvon-field-gallery{
+  ul li{
+    margin-right: 0;
+    margin-left: 5px;
+  }
+
+  .button{
+    margin-right: 0;
+    margin-left: 5px;
+  }
+}
+
+.alvon-field-sorter .alvon-modules{
+  float: right;
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+.alvon-taxonomy-add-fields{
+
+  .alvon-fieldset{
+    margin-right: 0;
+  }
+
+  .alvon-help{
+    left: -5px;
+    right: auto;
+  }
+}
+
+.alvon-taxonomy-edit-fields{
+
+  .alvon-fieldset{
+    margin-left: 0;
+    margin-right: 225px;
+  }
+
+  .alvon-help{
+    right: auto;
+    left: -5px;
+  }
+}
+
+#alvon-save-ajax{
+  right: auto;
+  left: 5px;
+}
+
+.alvon-dialog{
+  .alvon-element{
+    padding-right: 15px;
+    padding-left: 30px;
+  }
+
+  .alvon-shortcode-clone .alvon-remove-clone{
+    right: auto;
+    left: 5px;
+  }
+}
+
+#customize-controls .alvon-element .alvon-fieldset,
+.widget-content .alvon-element .alvon-fieldset,
+#side-sortables .alvon-element .alvon-fieldset{
+  margin-right: 0;
+}
+
+@media only screen and (max-width:1200px){
+  .alvon-metabox-framework .alvon-element .alvon-fieldset{
+    margin-left: 0;
+  }
+}
+
+@media only screen and (max-width:782px){
+  .alvon-framework .alvon-fieldset,
+  .alvon-framework .alvon-content{
+      margin-right: 0;
+  }
+}
+
+.ui-dialog{
+  right: auto;
+}

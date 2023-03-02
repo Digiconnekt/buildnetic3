@@ -1,0 +1,15 @@
+.clear {
+	content: '';
+	display: table;
+	clear: both;
+}
+.clear-after {
+	&:after {
+		&:extend(.clear);
+	}
+}
+.clear-before {
+	&:before {
+		&:extend(.clear);
+	}
+}

@@ -1,0 +1,2974 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the nanosoft package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: nanosoft 1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-12 23:22+0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: src/404.php:8
+msgctxt "frontend"
+msgid "404"
+msgstr ""
+
+#: src/404.php:11
+msgctxt "frontend"
+msgid "Looks Like Something Went Wrong!"
+msgstr ""
+
+#: src/404.php:12
+msgctxt "frontend"
+msgid ""
+"The page you were looking for is not here. Maybe you want to perform a "
+"search?"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:345
+#: src/vendor/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:346
+#: src/vendor/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:348
+#: src/vendor/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:350
+#: src/vendor/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:351
+#: src/vendor/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:354
+#: src/vendor/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:360
+#: src/vendor/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:366
+#: src/vendor/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:372
+#: src/vendor/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:378
+#: src/vendor/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:384
+#: src/vendor/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:389
+#: src/vendor/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:394
+#: src/vendor/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:399
+#: src/vendor/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:403
+#: src/vendor/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:404
+#: src/admin/inc/class-plugins-activation.php:927
+#: src/admin/inc/class-plugins-activation.php:2633
+#: src/admin/inc/class-plugins-activation.php:3680
+#: src/vendor/class-tgm-plugin-activation.php:393
+#: src/vendor/class-tgm-plugin-activation.php:912
+#: src/vendor/class-tgm-plugin-activation.php:2618
+#: src/vendor/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:405
+#: src/admin/inc/class-plugins-activation.php:3259
+#: src/vendor/class-tgm-plugin-activation.php:394
+#: src/vendor/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:406
+#: src/admin/inc/class-plugins-activation.php:3052
+#: src/vendor/class-tgm-plugin-activation.php:395
+#: src/vendor/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:408
+#: src/vendor/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:410
+#: src/vendor/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:412
+#: src/vendor/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:413
+#: src/vendor/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:414
+#: src/vendor/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:415
+#: src/vendor/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:618
+#: src/vendor/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:619
+#: src/vendor/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:736
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:1034
+#: src/vendor/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:1034
+#: src/admin/inc/class-plugins-activation.php:1037
+#: src/vendor/class-tgm-plugin-activation.php:1019
+#: src/vendor/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:1037
+#: src/vendor/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:1221
+#: src/admin/inc/class-plugins-activation.php:3048
+#: src/vendor/class-tgm-plugin-activation.php:1206
+#: src/vendor/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2082
+#: src/vendor/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2373
+#: src/vendor/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2376
+#: src/vendor/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2392
+#: src/vendor/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2395
+#: src/vendor/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2398
+#: src/vendor/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2415
+#: src/vendor/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2419
+#: src/vendor/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2421
+#: src/vendor/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2427
+#: src/vendor/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2430
+#: src/vendor/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2433
+#: src/vendor/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2442
+#: src/vendor/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2488
+#: src/vendor/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:2492
+#: src/vendor/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:2496
+#: src/vendor/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:2500
+#: src/vendor/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/admin/inc/class-plugins-activation.php:2582
+#: src/vendor/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2590
+#: src/vendor/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2598
+#: src/vendor/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2610
+#: src/vendor/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2633
+#: src/vendor/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2647
+#: src/vendor/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2648
+#: src/vendor/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2649
+#: src/vendor/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2653
+#: src/vendor/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2654
+#: src/vendor/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2703
+#: src/vendor/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2708
+#: src/vendor/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2714
+#: src/vendor/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2784
+#: src/vendor/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2817
+#: src/vendor/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2823
+#: src/vendor/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2826
+#: src/vendor/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2857
+#: src/vendor/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2859
+#: src/vendor/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2900
+#: src/vendor/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:2902
+#: src/vendor/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3008
+#: src/vendor/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3034
+#: src/vendor/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3258
+#: src/vendor/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3598
+#: src/vendor/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3601
+#: src/vendor/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3603
+#: src/vendor/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3607
+#: src/vendor/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3609
+#: src/vendor/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3609
+#: src/admin/inc/class-plugins-activation.php:3617
+#: src/vendor/class-tgm-plugin-activation.php:3594
+#: src/vendor/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3609
+#: src/admin/inc/class-plugins-activation.php:3617
+#: src/vendor/class-tgm-plugin-activation.php:3594
+#: src/vendor/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3610
+#: src/vendor/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3612
+#: src/vendor/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3615
+#: src/vendor/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3617
+#: src/vendor/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3618
+#: src/vendor/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: src/admin/inc/class-plugins-activation.php:3620
+#: src/vendor/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/admin/inc/class-sample-data-worker.php:69
+#, php-format
+msgid "Sample data file not found: %s"
+msgstr ""
+
+#: src/admin/inc/class-sample-data-worker.php:148
+msgid "Invalid files & folders permissions"
+msgstr ""
+
+#: src/admin/inc/class-sample-data-worker.php:155
+msgid "Cannot extract the sample data media files"
+msgstr ""
+
+#: src/admin/inc/class-sample-data-worker.php:206
+msgid "Thumbnails generation successfully!"
+msgstr ""
+
+#: src/admin/inc/class-sample-data.php:32
+#: src/admin/inc/views/sample-data-view.php:4
+msgid "Sample Data Installation"
+msgstr ""
+
+#: src/admin/inc/class-sample-data.php:33
+msgid "Sample Data"
+msgstr ""
+
+#: src/admin/inc/class-sample-data.php:67
+msgid ""
+"Attention!!! Your existing data will be removed when install sample data. "
+"Are you sure you want to install sample data?"
+msgstr ""
+
+#: src/admin/inc/views/sample-data-view.php:6
+msgid ""
+"Importing demo data (post, pages, images, theme settings, ...) is the "
+"easiest way to setup your theme.\tIt will allow you to quickly edit "
+"everything instead of creating content from scratch."
+msgstr ""
+
+#: src/comments.php:15
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/comments.php:22 src/comments.php:40
+msgid "Comment navigation"
+msgstr ""
+
+#: src/comments.php:23 src/comments.php:41
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: src/comments.php:24 src/comments.php:42
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: src/comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: src/functions.php:57
+msgid ""
+"Sorry! Your server does not meet the minimum requirements, please upgrade "
+"PHP version to 5.3 or higher"
+msgstr ""
+
+#: src/inc/class-custom-sidebars.php:31
+msgid "remove this area"
+msgstr ""
+
+#: src/inc/class-custom-sidebars.php:32
+msgid "Are you sure you want to remove this widget area?"
+msgstr ""
+
+#: src/inc/class-custom-sidebars.php:75
+msgid "New custom widget area has been created"
+msgstr ""
+
+#: src/inc/class-custom-sidebars.php:76
+msgid "Custom widget area has been removed"
+msgstr ""
+
+#: src/inc/class-custom-sidebars.php:79
+msgid "Cannot create custom widget area, please try again"
+msgstr ""
+
+#: src/inc/class-custom-sidebars.php:80
+msgid "Invalid the ID of widget area"
+msgstr ""
+
+#: src/inc/class-custom-sidebars.php:94
+msgid "Create Widget Area"
+msgstr ""
+
+#: src/inc/class-custom-sidebars.php:96
+msgid "Enter name of the widget area:"
+msgstr ""
+
+#: src/inc/class-custom-sidebars.php:98
+msgid "Create"
+msgstr ""
+
+#: src/inc/class-custom-sidebars.php:105
+msgid "Remove Custom Widget Area"
+msgstr ""
+
+#: src/inc/class-custom-sidebars.php:107
+msgid "Select custom widget area to be removed:"
+msgstr ""
+
+#: src/inc/class-custom-sidebars.php:113
+msgid "Remove"
+msgstr ""
+
+#: src/inc/class-custom-sidebars.php:141
+#, php-format
+msgid "There are widgets for %s"
+msgstr ""
+
+#: src/inc/customize/class-customize-panel.php:88
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: src/inc/customize/class-customize-panel.php:109
+#: src/inc/customize/class-customize-section.php:110
+msgid "Back"
+msgstr ""
+
+#. /panel title in the Customizer
+#: src/inc/customize/class-customize-panel.php:114
+#, php-format
+msgid "Customizing %s"
+msgstr ""
+
+#: src/inc/customize/class-customize-panel.php:123
+msgid "Help"
+msgstr ""
+
+#: src/inc/customize/class-customize-section.php:102
+msgid "Press return or enter to open this section"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:15
+msgid "Blog & Post"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:20
+msgid "Blog Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:21
+msgid "Select the style of blog posts that will appearing on the archive page"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:26
+msgid "Post Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:31
+msgid "Author Box"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:36
+#: src/inc/customize/functions-customize-blog.php:227
+msgid "Related Posts"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:78
+#: src/inc/customize/functions-customize-projects.php:50
+#: src/inc/customize/functions-customize-projects.php:180
+#: src/inc/functions-filters.php:81
+msgid "Grid"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:79
+#: src/inc/customize/functions-customize-projects.php:51
+msgid "Masonry"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:80
+msgid "Medium"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:81
+msgid "Large"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:86
+#: src/inc/customize/functions-customize-blog.php:240
+#: src/inc/customize/functions-customize-projects.php:58
+#: src/inc/customize/functions-customize-projects.php:287
+#: src/inc/customize/functions-customize-shop.php:85
+#: src/inc/functions-filters.php:87
+msgid "Grid Columns"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:98
+#: src/inc/customize/functions-customize-projects.php:64
+msgid "Grid Column Spacing (px)"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:103
+#: src/inc/customize/functions-customize-projects.php:69
+msgid "Image Size"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:104
+#: src/inc/customize/functions-customize-projects.php:70
+#: src/inc/functions-filters.php:99 src/inc/functions-projects.php:184
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:110
+#: src/inc/customize/functions-customize-projects.php:76
+#: src/inc/customize/functions-customize-shop.php:41
+#: src/inc/customize/functions-customize-shop.php:55
+#: src/inc/customize/functions-customize-shop.php:69
+msgid "Hard Crop"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:111
+#: src/inc/customize/functions-customize-projects.php:77
+#: src/inc/customize/functions-customize-shop.php:42
+#: src/inc/customize/functions-customize-shop.php:56
+#: src/inc/customize/functions-customize-shop.php:70
+msgid "None"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:116
+#: src/inc/customize/functions-customize-blog.php:168
+msgid "Show Post Meta"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:122
+#: src/inc/functions-projects.php:190
+msgid "Show Read More"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:128
+msgid "Auto Post Excerpt"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:135
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:146
+#: src/inc/customize/functions-customize-blog.php:203
+#: src/inc/customize/functions-customize-projects.php:129
+#: src/inc/customize/functions-customize-projects.php:211
+#: src/inc/customize/functions-customize-shop.php:107
+#: src/inc/customize/functions-customize-shop.php:136
+msgid "Sidebar"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:152
+#: src/inc/customize/functions-customize-blog.php:209
+#: src/inc/customize/functions-customize-global.php:354
+#: src/inc/customize/functions-customize-projects.php:140
+#: src/inc/customize/functions-customize-projects.php:222
+#: src/inc/customize/functions-customize-shop.php:113
+#: src/inc/customize/functions-customize-shop.php:142
+msgid "Sidebar Position"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:154
+#: src/inc/customize/functions-customize-blog.php:211
+#: src/inc/customize/functions-customize-global.php:356
+#: src/inc/customize/functions-customize-projects.php:142
+#: src/inc/customize/functions-customize-projects.php:224
+#: src/inc/customize/functions-customize-shop.php:115
+#: src/inc/customize/functions-customize-shop.php:144
+msgid "No Sidebar"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:155
+#: src/inc/customize/functions-customize-blog.php:212
+#: src/inc/customize/functions-customize-elements.php:105
+#: src/inc/customize/functions-customize-elements.php:117
+#: src/inc/customize/functions-customize-elements.php:156
+#: src/inc/customize/functions-customize-elements.php:168
+#: src/inc/customize/functions-customize-footer.php:160
+#: src/inc/customize/functions-customize-footer.php:231
+#: src/inc/customize/functions-customize-footer.php:322
+#: src/inc/customize/functions-customize-global.php:339
+#: src/inc/customize/functions-customize-global.php:357
+#: src/inc/customize/functions-customize-global.php:402
+#: src/inc/customize/functions-customize-global.php:413
+#: src/inc/customize/functions-customize-global.php:439
+#: src/inc/customize/functions-customize-global.php:450
+#: src/inc/customize/functions-customize-global.php:578
+#: src/inc/customize/functions-customize-global.php:634
+#: src/inc/customize/functions-customize-global.php:728
+#: src/inc/customize/functions-customize-header.php:113
+#: src/inc/customize/functions-customize-header.php:155
+#: src/inc/customize/functions-customize-header.php:260
+#: src/inc/customize/functions-customize-header.php:271
+#: src/inc/customize/functions-customize-header.php:342
+#: src/inc/customize/functions-customize-header.php:380
+#: src/inc/customize/functions-customize-header.php:418
+#: src/inc/customize/functions-customize-header.php:429
+#: src/inc/customize/functions-customize-header.php:510
+#: src/inc/customize/functions-customize-header.php:527
+#: src/inc/customize/functions-customize-header.php:538
+#: src/inc/customize/functions-customize-projects.php:143
+#: src/inc/customize/functions-customize-projects.php:203
+#: src/inc/customize/functions-customize-projects.php:225
+#: src/inc/customize/functions-customize-shop.php:116
+#: src/inc/customize/functions-customize-shop.php:145
+msgid "Left"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:156
+#: src/inc/customize/functions-customize-blog.php:213
+#: src/inc/customize/functions-customize-elements.php:103
+#: src/inc/customize/functions-customize-elements.php:115
+#: src/inc/customize/functions-customize-elements.php:154
+#: src/inc/customize/functions-customize-elements.php:166
+#: src/inc/customize/functions-customize-footer.php:158
+#: src/inc/customize/functions-customize-footer.php:229
+#: src/inc/customize/functions-customize-footer.php:320
+#: src/inc/customize/functions-customize-global.php:337
+#: src/inc/customize/functions-customize-global.php:358
+#: src/inc/customize/functions-customize-global.php:400
+#: src/inc/customize/functions-customize-global.php:411
+#: src/inc/customize/functions-customize-global.php:437
+#: src/inc/customize/functions-customize-global.php:448
+#: src/inc/customize/functions-customize-global.php:576
+#: src/inc/customize/functions-customize-global.php:632
+#: src/inc/customize/functions-customize-global.php:726
+#: src/inc/customize/functions-customize-header.php:111
+#: src/inc/customize/functions-customize-header.php:153
+#: src/inc/customize/functions-customize-header.php:258
+#: src/inc/customize/functions-customize-header.php:269
+#: src/inc/customize/functions-customize-header.php:340
+#: src/inc/customize/functions-customize-header.php:378
+#: src/inc/customize/functions-customize-header.php:416
+#: src/inc/customize/functions-customize-header.php:427
+#: src/inc/customize/functions-customize-header.php:508
+#: src/inc/customize/functions-customize-header.php:525
+#: src/inc/customize/functions-customize-header.php:536
+#: src/inc/customize/functions-customize-projects.php:144
+#: src/inc/customize/functions-customize-projects.php:201
+#: src/inc/customize/functions-customize-projects.php:226
+#: src/inc/customize/functions-customize-shop.php:117
+#: src/inc/customize/functions-customize-shop.php:146
+msgid "Right"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:174
+msgid "Show Post Tags"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:180
+#: src/inc/customize/functions-customize-projects.php:156
+msgid "Show Post Navigator"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:186
+#: src/inc/customize/functions-customize-projects.php:161
+msgid "Show Post Author"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:192
+#: src/inc/customize/functions-customize-projects.php:171
+msgid "Show Related Posts"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:225
+#: src/inc/customize/functions-customize-projects.php:272
+#: src/inc/functions-filters.php:60 src/inc/functions-projects.php:97
+msgid "Widget Title"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:232
+msgid "Number of Related Posts"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:234
+#: src/inc/customize/functions-customize-projects.php:281
+msgid "4"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:247
+msgid "Show Related Posts Based On"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:250
+#: src/inc/customize/functions-customize-projects.php:91
+#: src/inc/customize/functions-customize-projects.php:297
+#: src/inc/functions-filters.php:72
+msgid "Tag"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:251
+#: src/inc/customize/functions-customize-projects.php:92
+#: src/inc/customize/functions-customize-projects.php:298
+#: src/inc/functions-filters.php:66
+msgid "Category"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:252
+#: src/inc/customize/functions-customize-projects.php:299
+#: src/inc/functions-projects.php:216
+msgid "Random"
+msgstr ""
+
+#: src/inc/customize/functions-customize-blog.php:253
+#: src/inc/customize/functions-customize-projects.php:300
+msgid "Recent"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:19
+msgid "Button"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:21
+msgid "Element Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:22
+msgid "Controls the settings for customizing the element styles."
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:28
+msgid "Input, Textarea & Select"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:82
+msgid "Button Background Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:88
+msgid "Button Height (px)"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:94
+msgid "Button Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:100
+msgid "Button Padding"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:102
+#: src/inc/customize/functions-customize-elements.php:114
+#: src/inc/customize/functions-customize-elements.php:153
+#: src/inc/customize/functions-customize-elements.php:165
+#: src/inc/customize/functions-customize-footer.php:157
+#: src/inc/customize/functions-customize-footer.php:228
+#: src/inc/customize/functions-customize-footer.php:319
+#: src/inc/customize/functions-customize-global.php:336
+#: src/inc/customize/functions-customize-global.php:399
+#: src/inc/customize/functions-customize-global.php:410
+#: src/inc/customize/functions-customize-global.php:436
+#: src/inc/customize/functions-customize-global.php:447
+#: src/inc/customize/functions-customize-global.php:575
+#: src/inc/customize/functions-customize-global.php:631
+#: src/inc/customize/functions-customize-global.php:725
+#: src/inc/customize/functions-customize-header.php:110
+#: src/inc/customize/functions-customize-header.php:152
+#: src/inc/customize/functions-customize-header.php:257
+#: src/inc/customize/functions-customize-header.php:268
+#: src/inc/customize/functions-customize-header.php:339
+#: src/inc/customize/functions-customize-header.php:377
+#: src/inc/customize/functions-customize-header.php:415
+#: src/inc/customize/functions-customize-header.php:426
+#: src/inc/customize/functions-customize-header.php:507
+#: src/inc/customize/functions-customize-header.php:524
+#: src/inc/customize/functions-customize-header.php:535
+#: src/inc/customize/functions-customize-projects.php:200
+msgid "Top"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:104
+#: src/inc/customize/functions-customize-elements.php:116
+#: src/inc/customize/functions-customize-elements.php:155
+#: src/inc/customize/functions-customize-elements.php:167
+#: src/inc/customize/functions-customize-footer.php:159
+#: src/inc/customize/functions-customize-footer.php:230
+#: src/inc/customize/functions-customize-footer.php:321
+#: src/inc/customize/functions-customize-global.php:338
+#: src/inc/customize/functions-customize-global.php:401
+#: src/inc/customize/functions-customize-global.php:412
+#: src/inc/customize/functions-customize-global.php:438
+#: src/inc/customize/functions-customize-global.php:449
+#: src/inc/customize/functions-customize-global.php:577
+#: src/inc/customize/functions-customize-global.php:633
+#: src/inc/customize/functions-customize-global.php:727
+#: src/inc/customize/functions-customize-header.php:112
+#: src/inc/customize/functions-customize-header.php:154
+#: src/inc/customize/functions-customize-header.php:259
+#: src/inc/customize/functions-customize-header.php:270
+#: src/inc/customize/functions-customize-header.php:341
+#: src/inc/customize/functions-customize-header.php:379
+#: src/inc/customize/functions-customize-header.php:417
+#: src/inc/customize/functions-customize-header.php:428
+#: src/inc/customize/functions-customize-header.php:509
+#: src/inc/customize/functions-customize-header.php:526
+#: src/inc/customize/functions-customize-header.php:537
+#: src/inc/customize/functions-customize-projects.php:202
+msgid "Bottom"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:112
+msgid "Button Border"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:123
+msgid "Button Border Radius"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:133
+msgid "Background Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:139
+msgid "Height (px)"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:145
+msgid "Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:151
+msgid "Padding"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:163
+msgid "Border"
+msgstr ""
+
+#: src/inc/customize/functions-customize-elements.php:174
+msgid "Border Radius"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:20
+#: src/inc/customize/functions-customize-header.php:50
+msgctxt "customize"
+msgid "General Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:22
+msgctxt "customize"
+msgid "Footer Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:23
+#: src/inc/customize/functions-customize-footer.php:120
+#: src/inc/customize/functions-customize-footer.php:127
+#: src/inc/customize/functions-customize-footer.php:133
+#: src/inc/customize/functions-customize-footer.php:143
+#: src/inc/customize/functions-customize-footer.php:155
+#: src/inc/customize/functions-customize-footer.php:174
+#: src/inc/customize/functions-customize-footer.php:180
+#: src/inc/customize/functions-customize-footer.php:186
+#: src/inc/customize/functions-customize-footer.php:192
+#: src/inc/customize/functions-customize-footer.php:209
+#: src/inc/customize/functions-customize-footer.php:215
+#: src/inc/customize/functions-customize-footer.php:226
+#: src/inc/customize/functions-customize-footer.php:238
+#: src/inc/customize/functions-customize-footer.php:257
+#: src/inc/customize/functions-customize-footer.php:263
+#: src/inc/customize/functions-customize-footer.php:269
+#: src/inc/customize/functions-customize-footer.php:275
+#: src/inc/customize/functions-customize-footer.php:281
+#: src/inc/customize/functions-customize-footer.php:293
+#: src/inc/customize/functions-customize-footer.php:299
+#: src/inc/customize/functions-customize-global.php:663
+#: src/inc/customize/functions-customize-global.php:669
+#: src/inc/customize/functions-customize-global.php:675
+#: src/inc/customize/functions-customize-global.php:681
+#: src/inc/customize/functions-customize-global.php:687
+#: src/inc/customize/functions-customize-global.php:699
+#: src/inc/customize/functions-customize-global.php:705
+#: src/inc/customize/functions-customize-header.php:60
+#: src/inc/customize/functions-customize-header.php:71
+#: src/inc/customize/functions-customize-header.php:87
+#: src/inc/customize/functions-customize-header.php:98
+#: src/inc/customize/functions-customize-header.php:124
+#: src/inc/customize/functions-customize-header.php:130
+#: src/inc/customize/functions-customize-header.php:163
+#: src/inc/customize/functions-customize-header.php:174
+#: src/inc/customize/functions-customize-header.php:185
+#: src/inc/customize/functions-customize-header.php:191
+#: src/inc/customize/functions-customize-header.php:199
+#: src/inc/customize/functions-customize-header.php:226
+#: src/inc/customize/functions-customize-header.php:288
+#: src/inc/customize/functions-customize-header.php:299
+#: src/inc/customize/functions-customize-header.php:309
+#: src/inc/customize/functions-customize-header.php:316
+#: src/inc/customize/functions-customize-header.php:327
+#: src/inc/customize/functions-customize-header.php:353
+#: src/inc/customize/functions-customize-header.php:359
+#: src/inc/customize/functions-customize-header.php:388
+#: src/inc/customize/functions-customize-header.php:441
+#: src/inc/customize/functions-customize-header.php:453
+#: src/inc/customize/functions-customize-header.php:465
+#: src/inc/customize/functions-customize-header.php:471
+#: src/inc/customize/functions-customize-header.php:477
+#: src/inc/customize/functions-customize-header.php:517
+#: src/inc/customize/functions-customize-header.php:545
+#: src/inc/customize/functions-customize-header.php:553
+#: src/inc/customize/functions-customize-header.php:564
+#: src/inc/customize/functions-customize-projects.php:99
+msgctxt "customize"
+msgid ""
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:29
+msgctxt "customize"
+msgid "Widget Areas"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:34
+msgctxt "customize"
+msgid "Copyright Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:119
+msgctxt "customize"
+msgid "Footer Background"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:126
+msgctxt "customize"
+msgid "Footer Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:132
+msgctxt "customize"
+msgid "Footer Link Colors"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:135
+#: src/inc/customize/functions-customize-footer.php:217
+#: src/inc/customize/functions-customize-footer.php:301
+#: src/inc/customize/functions-customize-global.php:707
+msgctxt "customize"
+msgid "Link"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:136
+#: src/inc/customize/functions-customize-footer.php:218
+#: src/inc/customize/functions-customize-footer.php:302
+#: src/inc/customize/functions-customize-global.php:708
+msgctxt "customize"
+msgid "Link Hover"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:142
+msgctxt "customize"
+msgid "Footer Padding"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:145
+#: src/inc/customize/functions-customize-footer.php:240
+#: src/inc/customize/functions-customize-footer.php:283
+#: src/inc/customize/functions-customize-global.php:689
+#: src/inc/customize/functions-customize-header.php:73
+msgctxt "customize"
+msgid "Top"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:146
+#: src/inc/customize/functions-customize-footer.php:196
+#: src/inc/customize/functions-customize-footer.php:241
+#: src/inc/customize/functions-customize-footer.php:284
+#: src/inc/customize/functions-customize-global.php:690
+#: src/inc/customize/functions-customize-header.php:74
+#: src/inc/customize/functions-customize-header.php:102
+#: src/inc/customize/functions-customize-header.php:331
+#: src/inc/customize/functions-customize-header.php:457
+#: src/inc/customize/functions-customize-projects.php:103
+msgctxt "customize"
+msgid "Right"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:147
+#: src/inc/customize/functions-customize-footer.php:242
+#: src/inc/customize/functions-customize-footer.php:285
+#: src/inc/customize/functions-customize-global.php:691
+#: src/inc/customize/functions-customize-header.php:75
+msgctxt "customize"
+msgid "Bottom"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:148
+#: src/inc/customize/functions-customize-footer.php:194
+#: src/inc/customize/functions-customize-footer.php:243
+#: src/inc/customize/functions-customize-footer.php:286
+#: src/inc/customize/functions-customize-global.php:692
+#: src/inc/customize/functions-customize-header.php:76
+#: src/inc/customize/functions-customize-header.php:100
+#: src/inc/customize/functions-customize-header.php:329
+#: src/inc/customize/functions-customize-header.php:455
+#: src/inc/customize/functions-customize-projects.php:101
+msgctxt "customize"
+msgid "Left"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:154
+msgctxt "customize"
+msgid "Footer Border"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:173
+msgctxt "customize"
+msgid "Enable Copyright Bar"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:179
+#: src/inc/customize/functions-customize-footer.php:262
+#: src/inc/customize/functions-customize-global.php:668
+#: src/inc/customize/functions-customize-header.php:358
+msgctxt "customize"
+msgid "100% Full Width"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:185
+msgctxt "customize"
+msgid "Copyright Content"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:191
+msgctxt "customize"
+msgid "Copyright Bar Alignment"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:195
+#: src/inc/customize/functions-customize-header.php:101
+#: src/inc/customize/functions-customize-header.php:330
+#: src/inc/customize/functions-customize-header.php:456
+#: src/inc/customize/functions-customize-projects.php:102
+msgctxt "customize"
+msgid "Center"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:202
+msgctxt "customize"
+msgid "Copyright Bar Background"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:208
+msgctxt "customize"
+msgid "Typography"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:214
+msgctxt "customize"
+msgid "Link Colors"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:225
+msgctxt "customize"
+msgid "Border"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:237
+msgctxt "customize"
+msgid "Padding"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:256
+msgctxt "customize"
+msgid "Enable Footer Widget Areas"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:268
+#: src/inc/customize/functions-customize-global.php:674
+msgctxt "customize"
+msgid "Widgetized Layout Builder"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:274
+#: src/inc/customize/functions-customize-global.php:680
+msgctxt "customize"
+msgid "Footer Widget Areas Background"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:280
+#: src/inc/customize/functions-customize-global.php:686
+msgctxt "customize"
+msgid "Footer Widget Areas Padding"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:292
+#: src/inc/customize/functions-customize-global.php:698
+msgctxt "customize"
+msgid "Footer Widget Areas Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:298
+#: src/inc/customize/functions-customize-global.php:704
+msgctxt "customize"
+msgid "Footer Widget Areas Link Colors"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:308
+#: src/inc/customize/functions-customize-global.php:714
+msgid "Footer Widget Title Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-footer.php:317
+#: src/inc/customize/functions-customize-global.php:723
+msgid "Footer Widget Margin"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:30
+msgid "Logos"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:32
+msgid "Global Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:33
+msgid ""
+"Controls the settings that will throughout the theme. These settings can be "
+"overridden by the specific sections."
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:39
+msgid "Logo Default"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:40
+msgid "Configure the logo image that will be used in overall pages"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:45
+msgid "Logo Dark"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:46
+msgid ""
+"Configure the logo image in the dark style that will be used in overall pages"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:51
+msgid "Logo Light"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:52
+msgid ""
+"Configure the logo image in the light style that will be used in overall "
+"pages"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:58
+msgid "Layout & Styles"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:63
+msgid "Layout Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:64
+msgid "Controls the settings for the overall site layout."
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:69
+msgid "Sidebar Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:74
+msgid "Color & Typography"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:78
+msgid "Social Networks"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:83
+msgctxt "customize"
+msgid "Sliding Sidebar"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:84
+#: src/inc/customize/functions-customize-global.php:94
+msgctxt "customize"
+msgid "Configure the styles for the left content area."
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:86
+msgid "Sliding Areas"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:87
+msgid "Controls the settings for the sliding content areas."
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:93
+msgctxt "customize"
+msgid "Sliding Menu"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:99
+msgctxt "customize"
+msgid "Content Bottom Widgets"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:306
+msgid "Site Layout"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:309
+msgid "Wide"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:310
+msgid "Boxed"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:311
+msgid "Frame"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:318
+msgid "Frame Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:324
+msgid "Layout Width"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:326
+#: src/inc/customize/functions-customize-global.php:366
+#: src/inc/customize/functions-customize-helpers.php:46
+#: src/inc/customize/functions-customize-helpers.php:163
+msgid "Width"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:327
+msgid "Max Width"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:334
+msgid "Content Padding"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:345
+msgid "Background Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:364
+msgid "Sidebar Layout"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:367
+msgid "Margin"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:373
+msgid "Sidebar Background"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:379
+msgid "Widget Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:388
+msgid "Widget Link Colors"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:390
+#: src/inc/customize/functions-customize-global.php:491
+#: src/inc/customize/functions-customize-global.php:561
+#: src/inc/customize/functions-customize-global.php:617
+#: src/inc/customize/functions-customize-header.php:216
+msgid "Link Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:391
+#: src/inc/customize/functions-customize-global.php:562
+#: src/inc/customize/functions-customize-global.php:618
+msgid "Hover Link Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:397
+msgid "Widget Padding"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:408
+msgid "Widget Margin"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:419
+msgid "Widget Background"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:425
+msgid "Widget Title Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:434
+msgid "Widget Title Padding"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:445
+msgid "Widget Title Margin"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:456
+msgid "Widget Title Background"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:474
+msgid "Scheme Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:476
+msgid "Primary Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:477
+msgid "Accent Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:484
+msgid "Body Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:489
+msgid "Link Colors"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:492
+#: src/inc/customize/functions-customize-header.php:217
+#: src/inc/customize/functions-customize-header.php:248
+#: src/inc/customize/functions-customize-header.php:406
+msgid "Hover Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:493
+msgid "Visited Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:501
+#, php-format
+msgid "Heading %d"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:508
+msgid "Blockquote Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:532
+#: src/inc/customize/functions-customize-helpers.php:107
+msgid "Position"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:534
+msgid "Topbar"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:535
+msgid "Navigation"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:536
+msgid "Sticky Header"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:537
+msgid "Footer"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:554
+msgid "Sliding Area Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:559
+msgid "Sliding Area Link Colors"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:568
+msgid "Sliding Area Background"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:573
+msgid "Sliding Area Padding"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:589
+msgid "Select Styles"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:591
+msgctxt "customize"
+msgid "Overlay"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:592
+msgctxt "customize"
+msgid "Slide"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:598
+msgid "Show On Desktop"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:606
+msgid "Sliding Menu Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:615
+msgid "Sliding Menu Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:624
+msgid "Sliding Menu Background"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:629
+msgid "Sliding Menu Padding"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:646
+msgid "Enable Go Top Button"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:650
+msgid "Enable Loading Screen"
+msgstr ""
+
+#: src/inc/customize/functions-customize-global.php:662
+msgctxt "customize"
+msgid "Enable Content Bottom Areas"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:11
+msgctxt "customize"
+msgid "Header & Footer Builder"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:12
+msgctxt "customize"
+msgid "Controls the settings for customizing the header and footer styles"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:18
+msgctxt "customize"
+msgid "General"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:19
+#: src/inc/customize/functions-customize-header.php:29
+#: src/inc/customize/functions-customize-header.php:36
+#: src/inc/customize/functions-customize-header.php:44
+msgctxt "customize"
+msgid "Header Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:20
+msgctxt "customize"
+msgid "Controls the general settings for the header."
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:22
+msgid "Header Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:28
+msgctxt "customize"
+msgid "Topbar Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:30
+msgctxt "customize"
+msgid "Configure the settings for the header topbar area."
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:35
+#: src/inc/customize/functions-customize-header.php:59
+msgctxt "customize"
+msgid "Navigation Bar"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:37
+msgctxt "customize"
+msgid "Configure the settings for the header navigation bar area."
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:43
+msgctxt "customize"
+msgid "Title Bar"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:51
+msgctxt "customize"
+msgid "Configure the settings for the sticky header."
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:53
+msgid "Header Sticky Setting"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:70
+msgctxt "customize"
+msgid "Header Position"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:86
+#: src/inc/customize/functions-customize-header.php:315
+msgctxt "customize"
+msgid "logo that will be shown"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:89
+#: src/inc/customize/functions-customize-header.php:318
+msgctxt "customize"
+msgid "Logo Default"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:90
+#: src/inc/customize/functions-customize-header.php:319
+msgctxt "customize"
+msgid "Logo Dark"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:91
+#: src/inc/customize/functions-customize-header.php:320
+msgctxt "customize"
+msgid "Logo Light"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:97
+#: src/inc/customize/functions-customize-header.php:326
+msgctxt "customize"
+msgid "Logo Alignment"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:108
+msgid "Logo Margin (px)"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:123
+msgctxt "customize"
+msgid "Header Height"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:129
+msgctxt "customize"
+msgid "100% Header Full Width"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:135
+#: src/inc/customize/functions-customize-header.php:365
+#: src/inc/customize/functions-customize-header.php:483
+msgid "Enable Shadow"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:140
+msgid "Enable Header Transparent"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:146
+msgid "Header Border"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:162
+msgctxt "customize"
+msgid "Header Background"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:173
+msgctxt "customize"
+msgid "Contact Info"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:184
+msgctxt "customize"
+msgid "Enable Topbar"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:190
+msgctxt "customize"
+msgid "Topbar Height"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:198
+msgctxt "customize"
+msgid "Topbar Content"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:205
+msgid "Topbar Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:214
+msgid "Topbar Link Colors"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:218
+#: src/inc/customize/functions-customize-header.php:249
+#: src/inc/customize/functions-customize-header.php:407
+msgid "Active Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:225
+msgctxt "customize"
+msgid "Topbar Background"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:240
+msgid "Menu Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:245
+msgid "Menu Colors"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:247
+#: src/inc/customize/functions-customize-header.php:405
+msgid "Menu Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:255
+msgid "Menu Margin"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:266
+msgid "Menu Padding"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:277
+msgid "Show Extra Items On The Header"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:279
+msgctxt "customize"
+msgid "Shopping Cart"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:280
+msgctxt "customize"
+msgid "Search Box"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:287
+msgctxt "customize"
+msgid "Navigator Background"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:298
+msgctxt "customize"
+msgid "Navigator Info"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:308
+#: src/inc/customize/functions-customize-header.php:587
+msgctxt "customize"
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:337
+msgid "Logo Margin"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:352
+msgctxt "customize"
+msgid "Header Sticky Height"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:371
+msgid "Header Sticky Border"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:387
+msgctxt "customize"
+msgid "Header Sticky Background"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:398
+msgid "Menu Sticky Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:403
+msgid "Menu Sticky Colors"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:413
+msgid "Menu Sticky Margin"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:424
+msgid "Menu Sticky Padding"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:440
+msgctxt "customize"
+msgid "Title Bar Displays"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:443
+msgctxt "customize"
+msgid "Page Title and Breadcrumbs"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:444
+msgctxt "customize"
+msgid "Page Title Only"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:445
+msgctxt "customize"
+msgid "Breadcrumbs Only"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:446
+msgctxt "customize"
+msgid "None"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:452
+msgctxt "customize"
+msgid "Title Bar Alignment"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:458
+msgctxt "customize"
+msgid "Inline"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:464
+msgctxt "customize"
+msgid "Title Bar Height"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:470
+msgctxt "customize"
+msgid "Title Bar Full Width"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:476
+msgctxt "customize"
+msgid "Display On The Homepage"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:489
+msgid "Enable Scroll Down Button"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:495
+msgid "Enable Canvas Effect"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:501
+msgid "Title Bar Border"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:516
+msgctxt "customize"
+msgid "Title Bar Background"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:522
+msgid "Title Bar Margin"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:533
+msgid "Title Bar Padding"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:544
+msgctxt "customize"
+msgid "Use Featured Image As Background in"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:552
+msgctxt "customize"
+msgid "Page Title Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:563
+msgctxt "customize"
+msgid "Breadcrumbs Font"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:573
+msgctxt "customize"
+msgid "Breadcrumbs Link Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:575
+msgctxt "customize"
+msgid "Link Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:576
+msgctxt "customize"
+msgid "Hover Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-header.php:588
+msgctxt "customize"
+msgid "Turn ON to enable the header widgets area"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:34
+msgid "Logo"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:39
+msgid "Logo Retina"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:44
+msgid "Logo Size"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:47
+#: src/inc/customize/functions-customize-helpers.php:164
+#: src/inc/elements/locations-params.php:76
+msgid "Height"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:84
+msgid "Image"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:85
+msgid ""
+"Select an image for the background. If left empty, the background color will "
+"be used."
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:90
+msgid "Color"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:91
+msgid "Select the color you want to use for the background."
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:96
+msgid "Repeat"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:98
+msgid "No Repeat"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:99
+msgid "Repeat X"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:100
+msgid "Repeat Y"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:101
+msgid "Repeat Both"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:109
+msgid "Top Left"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:110
+msgid "Top Center"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:111
+msgid "Top Right"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:112
+msgid "Center Left"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:113
+msgid "Center Center"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:114
+msgid "Center Right"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:115
+msgid "Bottom Left"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:116
+msgid "Bottom Center"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:117
+msgid "Bottom Right"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:118
+#: src/inc/customize/functions-customize-helpers.php:124
+msgid "Custom Position"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:129
+msgid "Position X"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:130
+msgid "Position Y"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:136
+msgid "Attachment"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:138
+msgid "Fixed"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:139
+msgid "Scroll"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:145
+#: src/inc/customize/functions-customize-helpers.php:160
+msgid "Size"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:147
+msgid "Auto"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:148
+msgid "Cover"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:149
+msgid "Contain"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:150
+msgid "100% Width"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:151
+msgid "100% Height"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:152
+msgid "Stretch"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:153
+msgid "Custom"
+msgstr ""
+
+#: src/inc/customize/functions-customize-helpers.php:193
+msgid "-- Select Menu --"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:14
+msgid "Projects"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:20
+msgid "Project Archive"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:27
+msgid "Project Single"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:34
+#: src/inc/customize/functions-customize-projects.php:274
+msgid "Related Projects"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:47
+msgid "Controls the layout for the projects pages."
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:49
+msgid "Grid Titte"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:84
+msgid "Enable Projects Filterable"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:89
+msgid "Filterable Type"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:98
+msgctxt "customize"
+msgid "Filterable Alignment"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:110
+msgid "Show Summary Text"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:115
+msgid "Summary Text Length"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:121
+msgid "Show Readmore Button"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:166
+msgid "Show Project Tags"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:176
+msgid "Gallery Styles"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:178
+#: src/inc/functions-filters.php:82
+msgid "List"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:179
+msgid "Slider"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:187
+msgid "Gallery Columns"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:198
+msgid "Gallery Position"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:279
+msgid "Number of Related Projects"
+msgstr ""
+
+#: src/inc/customize/functions-customize-projects.php:294
+msgid "Show Related Projects Based On"
+msgstr ""
+
+#: src/inc/customize/functions-customize-shop.php:13
+msgid "Shop"
+msgstr ""
+
+#: src/inc/customize/functions-customize-shop.php:28
+msgid "Product images"
+msgstr ""
+
+#: src/inc/customize/functions-customize-shop.php:29
+msgid ""
+"These settings affect the display and dimensions of images in your catalog - "
+"the display on the front-end will still be affected by CSS styles."
+msgstr ""
+
+#: src/inc/customize/functions-customize-shop.php:34
+msgid "Catalog images"
+msgstr ""
+
+#: src/inc/customize/functions-customize-shop.php:35
+#: src/inc/customize/functions-customize-shop.php:49
+#: src/inc/customize/functions-customize-shop.php:63
+msgid "Enter image size in pixels: 200x100 (Width x Height)."
+msgstr ""
+
+#: src/inc/customize/functions-customize-shop.php:48
+msgid "Single Product Image"
+msgstr ""
+
+#: src/inc/customize/functions-customize-shop.php:62
+msgid "Product Thumbnails"
+msgstr ""
+
+#: src/inc/customize/functions-customize-shop.php:78
+msgid "Shop Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-shop.php:79
+msgid ""
+"This section is designed for only Woocommerce, it will be applied for page "
+"that listing all products."
+msgstr ""
+
+#: src/inc/customize/functions-customize-shop.php:96
+msgid "Grid Columns Spacing (px)"
+msgstr ""
+
+#: src/inc/customize/functions-customize-shop.php:101
+msgid "Products Per Page"
+msgstr ""
+
+#: src/inc/customize/functions-customize-shop.php:129
+msgid "Product Settings"
+msgstr ""
+
+#: src/inc/customize/functions-customize-shop.php:130
+msgid ""
+"Like \"Blog Single\" section, you can change style for product details page."
+msgstr ""
+
+#: src/inc/elements/locations-params.php:3
+msgid "LineThemes: Locations"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:9
+msgid "Maps Type"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:10
+msgid "Select the Maps type"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:11
+#: src/inc/elements/locations-params.php:26
+#: src/inc/elements/locations-params.php:42
+#: src/inc/elements/locations-params.php:53
+#: src/inc/elements/locations-params.php:65
+#: src/inc/elements/locations-params.php:77
+msgid "Maps Settings"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:24
+msgid "Maps Style"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:25
+msgid "Select style for the Maps"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:41
+msgid "Zoom Level"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:44
+msgid "Select the default zoom level for the Maps"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:51
+msgid "Enable Zoom On Mouse Scroll"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:52
+msgid "If select \"yes\", the maps will zoom in/out when user scroll the mouse"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:57
+#: src/inc/elements/locations-params.php:69 src/inc/functions-projects.php:150
+#: src/inc/functions-projects.php:195 src/inc/functions-projects.php:241
+#: src/inc/functions-vc.php:8
+msgid "No"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:58
+#: src/inc/elements/locations-params.php:70 src/inc/functions-projects.php:149
+#: src/inc/functions-projects.php:194 src/inc/functions-projects.php:240
+#: src/inc/functions-vc.php:9
+msgid "Yes"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:64
+msgid "Enable Draggable"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:83
+msgid "Controls the locations you want to show on the maps."
+msgstr ""
+
+#: src/inc/elements/locations-params.php:84
+msgid "Locations"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:91
+msgid "Marker Image"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:92
+msgid "Select the image you want to show as the maps marker."
+msgstr ""
+
+#: src/inc/elements/locations-params.php:97
+msgid "Address"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:99
+msgid "Enter you address that will show at the center of the Maps"
+msgstr ""
+
+#: src/inc/elements/locations-params.php:105
+msgid "Information Content"
+msgstr ""
+
+#: src/inc/functions-custom-icons.php:7 src/inc/functions-custom-icons.php:24
+msgid "Icon"
+msgstr ""
+
+#: src/inc/functions-custom-icons.php:10 src/inc/functions-custom-icons.php:27
+msgid "Select icon from library."
+msgstr ""
+
+#: src/inc/functions-custom-icons.php:43
+msgid "Elegent Theme LineIcons"
+msgstr ""
+
+#: src/inc/functions-custom-icons.php:44
+msgid "Simple Line Icons"
+msgstr ""
+
+#: src/inc/functions-filters.php:62 src/inc/functions-projects.php:98
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: src/inc/functions-filters.php:68
+msgid "Enter the category's slug that will be used to filter posts"
+msgstr ""
+
+#: src/inc/functions-filters.php:74
+msgid "Enter the tag's slug that will be used to filter posts"
+msgstr ""
+
+#: src/inc/functions-filters.php:78
+msgid "Layout"
+msgstr ""
+
+#: src/inc/functions-filters.php:89
+msgid "The number of columns for grid and grid masonry layout"
+msgstr ""
+
+#: src/inc/functions-filters.php:91 src/inc/functions-projects.php:136
+msgid "2 Columns"
+msgstr ""
+
+#: src/inc/functions-filters.php:92 src/inc/functions-projects.php:137
+msgid "3 Columns"
+msgstr ""
+
+#: src/inc/functions-filters.php:93 src/inc/functions-projects.php:138
+msgid "4 Columns"
+msgstr ""
+
+#: src/inc/functions-filters.php:98 src/inc/functions-projects.php:183
+msgid "Thumbnail Size"
+msgstr ""
+
+#: src/inc/functions-filters.php:104 src/inc/functions-projects.php:167
+msgid "Limit"
+msgstr ""
+
+#: src/inc/functions-filters.php:106 src/inc/functions-projects.php:168
+msgid "The number of posts will be shown"
+msgstr ""
+
+#: src/inc/functions-filters.php:111 src/inc/functions-projects.php:175
+msgid "Offset"
+msgstr ""
+
+#: src/inc/functions-filters.php:113 src/inc/functions-projects.php:176
+msgid "The number of posts to pass over"
+msgstr ""
+
+#: src/inc/functions-filters.php:118
+msgid "Icon For Posts"
+msgstr ""
+
+#: src/inc/functions-filters.php:121
+msgid "Post Thumbnail"
+msgstr ""
+
+#: src/inc/functions-filters.php:122
+msgid "Post Date"
+msgstr ""
+
+#: src/inc/functions-filters.php:127
+msgid "Hide Post Content"
+msgstr ""
+
+#: src/inc/functions-filters.php:130 src/inc/functions-filters.php:144
+msgid "Yes, please"
+msgstr ""
+
+#: src/inc/functions-filters.php:135
+msgid "Post Content Length"
+msgstr ""
+
+#: src/inc/functions-filters.php:141
+msgid "Hide Read More"
+msgstr ""
+
+#: src/inc/functions-filters.php:149
+msgid "Read More Text"
+msgstr ""
+
+#: src/inc/functions-filters.php:151 src/tmpl/shortcodes/posts.php:24
+msgid "Continue &rarr;"
+msgstr ""
+
+#: src/inc/functions-filters.php:156
+msgid "Extra class name"
+msgstr ""
+
+#: src/inc/functions-filters.php:158 src/inc/functions-projects.php:248
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: src/inc/functions-filters.php:164 src/inc/functions-projects.php:255
+msgid "Design Options"
+msgstr ""
+
+#: src/inc/functions-metaboxes.php:9
+msgid "Use Theme Default"
+msgstr ""
+
+#: src/inc/functions-projects.php:104 src/inc/functions-projects.php:160
+msgid "Categories"
+msgstr ""
+
+#: src/inc/functions-projects.php:105
+msgid ""
+"If you want to narrow output, enter category names here. Note: Only listed "
+"categories will be included."
+msgstr ""
+
+#: src/inc/functions-projects.php:111 src/inc/functions-projects.php:161
+msgid "Tags"
+msgstr ""
+
+#: src/inc/functions-projects.php:112
+msgid ""
+"If you want to narrow output, enter tag names here. Note: Only listed tags "
+"will be included."
+msgstr ""
+
+#: src/inc/functions-projects.php:118
+msgid "Display Mode"
+msgstr ""
+
+#: src/inc/functions-projects.php:122
+msgid "Grid Classic"
+msgstr ""
+
+#: src/inc/functions-projects.php:123
+msgid "Grid Masonry"
+msgstr ""
+
+#: src/inc/functions-projects.php:124
+msgid "Grid Alt"
+msgstr ""
+
+#: src/inc/functions-projects.php:130
+msgid "Columns"
+msgstr ""
+
+#: src/inc/functions-projects.php:131
+msgid "The number of columns will be shown"
+msgstr ""
+
+#: src/inc/functions-projects.php:135
+msgid "1 Column"
+msgstr ""
+
+#: src/inc/functions-projects.php:139
+msgid "5 Columns"
+msgstr ""
+
+#: src/inc/functions-projects.php:145
+msgid "Show Items Filter"
+msgstr ""
+
+#: src/inc/functions-projects.php:156
+msgid "Filter By"
+msgstr ""
+
+#: src/inc/functions-projects.php:200
+msgid "Readmore Text"
+msgstr ""
+
+#: src/inc/functions-projects.php:206
+msgid "Order By"
+msgstr ""
+
+#: src/inc/functions-projects.php:207
+msgid "Select how to sort retrieved posts."
+msgstr ""
+
+#: src/inc/functions-projects.php:211
+msgid "Date"
+msgstr ""
+
+#: src/inc/functions-projects.php:212
+msgid "ID"
+msgstr ""
+
+#: src/inc/functions-projects.php:213
+msgid "Author"
+msgstr ""
+
+#: src/inc/functions-projects.php:214
+msgid "Title"
+msgstr ""
+
+#: src/inc/functions-projects.php:215
+msgid "Modified"
+msgstr ""
+
+#: src/inc/functions-projects.php:217
+msgid "Comment count"
+msgstr ""
+
+#: src/inc/functions-projects.php:218
+msgid "Menu order"
+msgstr ""
+
+#: src/inc/functions-projects.php:224
+msgid "Order Direction"
+msgstr ""
+
+#: src/inc/functions-projects.php:225
+msgid "Designates the ascending or descending order."
+msgstr ""
+
+#: src/inc/functions-projects.php:229
+msgid "Ascending"
+msgstr ""
+
+#: src/inc/functions-projects.php:230
+msgid "Descending"
+msgstr ""
+
+#: src/inc/functions-projects.php:236
+msgid "Enable equals height?"
+msgstr ""
+
+#: src/inc/functions-projects.php:247
+msgid "Extra Class"
+msgstr ""
+
+#: src/inc/functions-setup.php:44
+msgid "Primary Menu"
+msgstr ""
+
+#: src/inc/functions-setup.php:45
+msgid "Sliding Menu"
+msgstr ""
+
+#: src/inc/functions-setup.php:46
+msgid "Top Menu"
+msgstr ""
+
+#: src/inc/functions-setup.php:68
+msgid "Primary Widgets Area"
+msgstr ""
+
+#: src/inc/functions-setup.php:70 src/inc/functions-setup.php:79
+#: src/inc/functions-setup.php:88
+msgid "Add widgets here to appear in your sidebar"
+msgstr ""
+
+#: src/inc/functions-setup.php:77
+msgid "Sliding Content - Left"
+msgstr ""
+
+#: src/inc/functions-setup.php:86
+msgid "Sliding Content - Right"
+msgstr ""
+
+#: src/inc/functions-setup.php:99
+msgid "Content Bottom #1"
+msgstr ""
+
+#: src/inc/functions-setup.php:101
+msgid "Add widgets here to appear in your Content Bottom #1 area"
+msgstr ""
+
+#: src/inc/functions-setup.php:109
+msgid "Content Bottom #2"
+msgstr ""
+
+#: src/inc/functions-setup.php:111
+msgid "Add widgets here to appear in your Content Bottom #2 area"
+msgstr ""
+
+#: src/inc/functions-setup.php:119
+msgid "Content Bottom #3"
+msgstr ""
+
+#: src/inc/functions-setup.php:121
+msgid "Add widgets here to appear in your Content Bottom #3 area"
+msgstr ""
+
+#: src/inc/functions-setup.php:129
+msgid "Content Bottom #4"
+msgstr ""
+
+#: src/inc/functions-setup.php:131
+msgid "Add widgets here to appear in your Content Bottom #4 area"
+msgstr ""
+
+#: src/inc/functions-setup.php:142
+msgid "Footer #1"
+msgstr ""
+
+#: src/inc/functions-setup.php:144
+msgid "Add widgets here to appear in your Footer #1 area"
+msgstr ""
+
+#: src/inc/functions-setup.php:152
+msgid "Footer #2"
+msgstr ""
+
+#: src/inc/functions-setup.php:154
+msgid "Add widgets here to appear in your Footer #2 area"
+msgstr ""
+
+#: src/inc/functions-setup.php:162
+msgid "Footer #3"
+msgstr ""
+
+#: src/inc/functions-setup.php:164
+msgid "Add widgets here to appear in your Footer #3 area"
+msgstr ""
+
+#: src/inc/functions-setup.php:172
+msgid "Footer #4"
+msgstr ""
+
+#: src/inc/functions-setup.php:174
+msgid "Add widgets here to appear in your Footer #4 area"
+msgstr ""
+
+#: src/inc/functions-template.php:120
+msgid "Previous Page"
+msgstr ""
+
+#: src/inc/functions-template.php:121
+msgid "Next Page"
+msgstr ""
+
+#: src/inc/functions-template.php:132
+msgid "Next &rarr;"
+msgstr ""
+
+#: src/inc/functions-template.php:133
+msgid "&larr; Previous"
+msgstr ""
+
+#: src/inc/functions-template.php:134
+msgid "Load More"
+msgstr ""
+
+#: src/inc/functions-template.php:215
+#, php-format
+msgid "Archive for year: %s"
+msgstr ""
+
+#: src/inc/functions-template.php:218
+#, php-format
+msgid "Archive for month: %s"
+msgstr ""
+
+#: src/inc/functions-template.php:221
+#, php-format
+msgid "Archive for date: %s"
+msgstr ""
+
+#: src/inc/functions-template.php:239 src/inc/functions-template.php:285
+msgid "Blog"
+msgstr ""
+
+#: src/inc/functions-template.php:243
+#, php-format
+msgid "Archive for author: %s"
+msgstr ""
+
+#: src/inc/functions-template.php:250
+#, php-format
+msgid "%d search result for \"%s\""
+msgstr ""
+
+#: src/inc/functions-template.php:252
+#, php-format
+msgid "%d search results for \"%s\""
+msgstr ""
+
+#: src/inc/functions-template.php:264
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: src/inc/functions-vc.php:5
+msgid "Canvas Effect"
+msgstr ""
+
+#: src/inc/options/fields/background.php:42
+msgctxt "options"
+msgid "Edit Background Settings"
+msgstr ""
+
+#: src/inc/options/fields/dropdown-pages.php:32
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: src/inc/options/fields/radio-onoff.php:14
+msgctxt "options"
+msgid "On"
+msgstr ""
+
+#: src/inc/options/fields/radio-onoff.php:15
+msgctxt "options"
+msgid "Off"
+msgstr ""
+
+#: src/page.php:12
+msgid "Pages: "
+msgstr ""
+
+#: src/search.php:37
+msgctxt "frontend"
+msgid "Nothing Found"
+msgstr ""
+
+#: src/search.php:38
+msgctxt "frontend"
+msgid "Sorry, no posts matched your criteria. Please try another search"
+msgstr ""
+
+#: src/single-nproject.php:53 src/tmpl/post/content-single.php:46
+msgid "Tags:"
+msgstr ""
+
+#: src/tmpl/footer-copyright.php:23
+msgid "Go to Top"
+msgstr ""
+
+#: src/tmpl/post/content-meta.php:11 src/tmpl/shortcodes/posts-carousel.php:164
+#: src/tmpl/shortcodes/posts.php:128
+msgid "by"
+msgstr ""
+
+#: src/tmpl/post/content-navigator.php:16
+msgid "Published In"
+msgstr ""
+
+#: src/tmpl/post/content-navigator.php:23
+msgid "Previous Post"
+msgstr ""
+
+#: src/tmpl/post/content-navigator.php:42
+msgid "Next Post"
+msgstr ""
+
+#: src/tmpl/post/content-page.php:24 src/tmpl/post/content-single.php:35
+#: src/tmpl/post/content.php:19 src/tmpl/post/loop-large.php:25
+msgid "Pages:"
+msgstr ""
+
+#: src/tmpl/post/content-page.php:30
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: src/tmpl/post/content-readmore.php:14
+msgid "Read More"
+msgstr ""
+
+#: src/tmpl/post/content-related.php:63 src/tmpl/post/content-single.php:16
+#: src/tmpl/post/content.php:9 src/tmpl/post/loop-large.php:38
+#: src/tmpl/post/loop-masonry.php:17 src/tmpl/post/loop-medium.php:13
+msgctxt "Used between list items, there is a space after the comma."
+msgid " "
+msgstr ""
+
+#: src/tmpl/post/content-sharing.php:9
+msgid "Facebook"
+msgstr ""
+
+#: src/tmpl/post/content-sharing.php:13
+#, php-format
+msgid "Check out this article: %s - %s"
+msgstr ""
+
+#: src/tmpl/post/content-sharing.php:16
+msgid "Twitter"
+msgstr ""
+
+#: src/tmpl/post/content-sharing.php:21
+msgid "Google+"
+msgstr ""
+
+#: src/tmpl/post/content-sharing.php:34
+msgid "Pinterest"
+msgstr ""
+
+#: src/tmpl/post/loop-large.php:38
+msgid "Read more in:"
+msgstr ""
+
+#: src/tmpl/project/filter.php:36 src/tmpl/shortcodes/projects.php:135
+msgid "All"
+msgstr ""
+
+#: src/tmpl/project/loop-grid-alt.php:70 src/tmpl/project/loop-grid.php:70
+msgid "View Detail"
+msgstr ""
+
+#: src/tmpl/shortcodes/iconbox.php:18
+msgid "Untitled"
+msgstr ""
+
+#: src/tmpl/shortcodes/imagebox.php:12 src/tmpl/shortcodes/imagebox.php:17
+msgid "Continue"
+msgstr ""
+
+#: src/woocommerce/single-product/product-image.php:66
+msgid "Awaiting product image"
+msgstr ""

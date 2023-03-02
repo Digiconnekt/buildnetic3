@@ -1,0 +1,118 @@
+/*help tab*/
+#duplica-helps{
+	border: 1px solid #f0f0f0;
+}
+#duplica-helps .duplica-help{
+	border-bottom: 1px solid #f0f0f0;
+	padding: 4px 8px;
+}
+#duplica-helps .duplica-help-heading {
+	margin: 5px 0;
+	font-size: 14px;
+	cursor: pointer;
+}
+#duplica-helps .duplica-help-heading a, 
+#duplica-helps .duplica-help-text a{
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	background-color: #4256b2;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: 300;
+}
+#duplica-helps .duplica-help-heading .heading-text {
+	color: #515151;
+	font-size: 18px;
+	text-decoration: none;
+	font-weight: 300;
+}
+#duplica-helps .duplica-help-text > p {
+	font-size: 15px;
+}
+#duplica-helps .duplica-help-text > p:first-child {
+	margin: 0;
+}
+#duplica-helps .duplica-help-text {
+	padding: 8px;
+}
+/*=======new design=======*/
+#duplica_help .duplica-help-tab {
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+}
+#duplica_help .duplica-help-link {
+	display: block;
+	text-decoration: none;
+	background: #fff;
+	text-align: center;
+	width: 200px;
+	margin: 10px 0;
+	padding: 17px;
+	border-radius: 5px;
+	font-size: 17px;
+	color: #4256b2;
+	border: 1px solid #4256b2;
+	margin-bottom: 20px;
+	transition: .4s;
+}
+#duplica_help .duplica-help-link:hover {
+	background: #4256b2;
+	color: #fff;
+}
+/*small cpt menu*/
+.duplica-duplicate ul {
+	display: none;
+    background: #f6f7f7;
+    width: 120px;
+    margin-top: -3px;
+    padding: 5px 5px 0px 5px;
+    box-shadow: 1px 1px 4px 0 #b3b2b2c9;
+    border-radius: 4px;
+    margin-bottom: 0;
+}
+.duplica-duplicate a:hover + ul, .duplica-duplicate ul:hover {
+	display: block;
+}
+#duplica-modal {
+    position: fixed;
+    background: #c8c8c859;
+    top: 0;
+    border: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#duplica-modal-loader {
+    position: absolute;
+}
+/*small cpt menu ends*/
+@media only screen and (max-width : 810px) {
+	#duplica_help .duplica-help-tab {
+		grid-template-columns: 4fr 1fr;
+	}
+	#duplica_help .duplica-help-link{
+		width: 150px;
+	}
+}
+@media only screen and (max-width : 420px) {
+	#duplica_help .duplica-help-tab {
+		grid-template-columns: 1fr;
+	}
+	#duplica_help .duplica-help-link{
+		width: 200px;
+	}
+}
+/*end help tab*/
+.row-actions .duplica .duplica-duplicate {
+	display: inherit;
+	position: relative;
+}
+.row-actions .duplica .duplica-duplicate ul {
+	position: absolute;
+	left: 0;
+	background: #f6f7f7;
+}

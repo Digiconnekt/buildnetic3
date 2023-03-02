@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="64" height="64">
+  <title>Navigation Map</title>
+  <desc>A solid styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M32 42s14-13.4 14-26a14 14 0 1 0-28 0c0 12.6 14 26 14 26zm-4-26a4 4 0 1 1 4 4 4 4 0 0 1-4-4z"
+  fill="#8d8ea3"></path>
+  <path data-name="layer1" d="M34.8 44.9L32 47.6 29.2 45a66.7 66.7 0 0 1-7.2-8.6v25.1l20-5.1v-20a66.1 66.1 0 0 1-7.2 8.5zM2 56l16 5.4V33.3L2 28v28zm48-26l-3.4-1.1L46 30v26.6L62 62V34z"
+  fill="#253858"></path>
+</svg>

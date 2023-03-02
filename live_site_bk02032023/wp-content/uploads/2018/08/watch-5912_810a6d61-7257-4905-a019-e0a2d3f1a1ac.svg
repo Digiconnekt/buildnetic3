@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="64" height="64">
+  <title>Watch</title>
+  <desc>A solid styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M32 11a21 21 0 1 0 21 21 21 21 0 0 0-21-21zm12.065 14.056L32.108 37.133l-9.1-8.007a1.5 1.5 0 1 1 1.982-2.252l6.975 6.138 9.969-10.067a1.5 1.5 0 1 1 2.131 2.111z"
+  fill="#8d8ea3"></path>
+  <path data-name="layer1" d="M47.778 15.288L43.446 1.427A2.033 2.033 0 0 0 41.505 0h-19a2.052 2.052 0 0 0-1.955 1.44l-4.328 13.848a22.938 22.938 0 0 1 31.555 0zM16.241 48.73l4.3 13.776a2.071 2.071 0 0 0 1.976 1.453H41.5a2.041 2.041 0 0 0 1.948-1.432l4.311-13.8a22.938 22.938 0 0 1-31.518 0zM57 28h-2.355a22.687 22.687 0 0 1 0 8H57a1 1 0 0 0 1-1v-6a1 1 0 0 0-1-1z"
+  fill="#253858"></path>
+</svg>

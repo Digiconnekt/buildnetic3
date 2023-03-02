@@ -1,0 +1,2598 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Alvon Master\n"
+"POT-Creation-Date: 2019-09-17 17:02+0600\n"
+"PO-Revision-Date: 2019-09-17 17:02+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: alvon-master.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: alvon-master.php:48 inc/custom-widgets.php:141
+msgid "Social Share"
+msgstr ""
+
+#: alvon-master.php:123 alvon-master.php:144 alvon-master.php:166
+msgid "Thumbnails"
+msgstr ""
+
+#: alvon-master.php:125 alvon-master.php:146 alvon-master.php:168
+msgid "Date"
+msgstr ""
+
+#: alvon-master.php:217
+msgid "Demo Import"
+msgstr ""
+
+#: alvon-master.php:221
+msgid ""
+"After you import this demo, you will have to setup the theme options and "
+"revolution slider separately. Please see the documentation for theme options "
+"setup."
+msgstr ""
+
+#: framework/classes/framework.class.php:171
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: framework/classes/framework.class.php:176
+msgid "Default options restored."
+msgstr ""
+
+#: framework/classes/framework.class.php:195
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: framework/classes/framework.class.php:333
+msgid "Settings saved."
+msgstr ""
+
+#: framework/classes/framework.class.php:335
+msgid "Save"
+msgstr ""
+
+#: framework/classes/framework.class.php:335
+msgid "Saving..."
+msgstr ""
+
+#: framework/classes/framework.class.php:336
+msgid "Restore"
+msgstr ""
+
+#: framework/classes/framework.class.php:341
+#: framework/fields/backup/backup.php:29
+msgid "Reset All Options"
+msgstr ""
+
+#: framework/classes/framework.class.php:350
+msgid "show all options"
+msgstr ""
+
+#: framework/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: framework/classes/options.class.php:131
+#: framework/classes/options.class.php:151
+msgid "USAGE"
+msgstr ""
+
+#: framework/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: framework/classes/options.class.php:155
+msgid "ID"
+msgstr ""
+
+#: framework/classes/options.class.php:227
+#, php-format
+msgid "You are editing language: ( %s )"
+msgstr ""
+
+#: framework/classes/shortcode.class.php:82
+#: framework/classes/shortcode.class.php:90
+#: framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: framework/config/framework.config.php:8
+msgid "Theme Options"
+msgstr ""
+
+#: framework/config/framework.config.php:13
+msgid "Alvon <small> by Johanspond v:1.0.1 </small>"
+msgstr ""
+
+#: framework/config/framework.config.php:31
+msgid "Genaral Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:37
+msgid "Alvon General Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:41
+msgid "Site Font Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:46
+msgid "Body font"
+msgstr ""
+
+#: framework/config/framework.config.php:56
+msgid "Heading font"
+msgstr ""
+
+#: framework/config/framework.config.php:66
+msgid "Site Icon Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:71
+msgid "Upload Favicon Icon"
+msgstr ""
+
+#: framework/config/framework.config.php:73
+msgid "Site Icons should be square and Recommended size is 80 × 80 pixels."
+msgstr ""
+
+#: framework/config/framework.config.php:78
+msgid "Logo Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:83
+msgid "Upload white logo"
+msgstr ""
+
+#: framework/config/framework.config.php:85
+#: framework/config/framework.config.php:92
+msgid "Recommended image size is 60x54 png file"
+msgstr ""
+
+#: framework/config/framework.config.php:90
+msgid "Upload red logo"
+msgstr ""
+
+#: framework/config/framework.config.php:97
+msgid "Logo size"
+msgstr ""
+
+#: framework/config/framework.config.php:103
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:108
+msgid "Breadcrumb Switch Enable/Disable"
+msgstr ""
+
+#: framework/config/framework.config.php:114
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: framework/config/framework.config.php:116
+msgid "Recommended image size is 1920x400 jpg/png file, for secondary header"
+msgstr ""
+
+#: framework/config/framework.config.php:122
+msgid "Breadcrumb overlay color"
+msgstr ""
+
+#: framework/config/framework.config.php:129
+msgid "Breadcrumb Background Image Opacity"
+msgstr ""
+
+#: framework/config/framework.config.php:147
+msgid "Default header footer settings"
+msgstr ""
+
+#: framework/config/framework.config.php:152
+msgid "Default Header Style"
+msgstr ""
+
+#: framework/config/framework.config.php:162
+msgid "Default Footer Style"
+msgstr ""
+
+#: framework/config/framework.config.php:171
+msgid "Alvon page loader settings"
+msgstr ""
+
+#: framework/config/framework.config.php:176
+msgid "Preloader on?"
+msgstr ""
+
+#: framework/config/framework.config.php:182
+msgid "Preloader color"
+msgstr ""
+
+#: framework/config/framework.config.php:189
+msgid "Scroll to top settings"
+msgstr ""
+
+#: framework/config/framework.config.php:194
+msgid "Scroll to top on?"
+msgstr ""
+
+#: framework/config/framework.config.php:199
+msgid "Background color"
+msgstr ""
+
+#: framework/config/framework.config.php:207
+msgid "Font color"
+msgstr ""
+
+#: framework/config/framework.config.php:214
+msgid "All default color settings"
+msgstr ""
+
+#: framework/config/framework.config.php:219
+msgid "All color"
+msgstr ""
+
+#: framework/config/framework.config.php:226
+msgid "Home 3 all color"
+msgstr ""
+
+#: framework/config/framework.config.php:240
+msgid "Header Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:248
+msgid "Menu elements setting"
+msgstr ""
+
+#: framework/config/framework.config.php:253
+msgid "language"
+msgstr ""
+
+#: framework/config/framework.config.php:258
+msgid "Put your shortcode"
+msgstr ""
+
+#: framework/config/framework.config.php:266
+msgid "Menu Quote Button"
+msgstr ""
+
+#: framework/config/framework.config.php:267
+#: framework/config/framework.config.php:287
+msgid "Do you want to on it ?"
+msgstr ""
+
+#: framework/config/framework.config.php:272
+msgid "Quote button text"
+msgstr ""
+
+#: framework/config/framework.config.php:279
+msgid "Quote button link"
+msgstr ""
+
+#: framework/config/framework.config.php:286
+msgid "Menu Search Button"
+msgstr ""
+
+#: framework/config/framework.config.php:299
+#: framework/config/framework.config.php:306
+msgid "Blog Page Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:312
+msgid "Blog page breadcrumb title"
+msgstr ""
+
+#: framework/config/framework.config.php:319
+#: framework/config/framework.config.php:364
+#: framework/config/framework.config.php:441
+#: framework/config/framework.config.php:589
+msgid "Page Layout Style"
+msgstr ""
+
+#: framework/config/framework.config.php:330
+#: framework/config/framework.config.php:451
+msgid "Post Layout Style"
+msgstr ""
+
+#: framework/config/framework.config.php:340
+msgid "Blog post content excerpt length"
+msgstr ""
+
+#: framework/config/framework.config.php:347
+#: framework/config/framework.config.php:374
+msgid "Post admin on?"
+msgstr ""
+
+#: framework/config/framework.config.php:353
+#: framework/config/framework.config.php:386
+msgid "Post comments on?"
+msgstr ""
+
+#: framework/config/framework.config.php:359
+msgid "Blog Single Page Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:380
+msgid "Post date on?"
+msgstr ""
+
+#: framework/config/framework.config.php:392
+msgid "Post category on?"
+msgstr ""
+
+#: framework/config/framework.config.php:398
+msgid "Post tags on?"
+msgstr ""
+
+#: framework/config/framework.config.php:404
+msgid "Single Page Share Button On/Off"
+msgstr ""
+
+#: framework/config/framework.config.php:418
+msgid "Portfolio Project Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:424
+msgid "Portfolio Page Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:429
+#: framework/config/framework.config.php:535
+msgid "Post Slug"
+msgstr ""
+
+#: framework/config/framework.config.php:435
+#: shortcodes/elements/price-table.php:17
+msgid "Posts per page"
+msgstr ""
+
+#: framework/config/framework.config.php:461
+msgid "Portfolio Single Page Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:466
+msgid "Breadcrumb title"
+msgstr ""
+
+#: framework/config/framework.config.php:472
+msgid "Social Share Enable/Disable"
+msgstr ""
+
+#: framework/config/framework.config.php:477
+msgid "Enable link button"
+msgstr ""
+
+#: framework/config/framework.config.php:482
+msgid "button text"
+msgstr ""
+
+#: framework/config/framework.config.php:483
+msgid "Live Preview"
+msgstr ""
+
+#: framework/config/framework.config.php:489
+msgid "button link"
+msgstr ""
+
+#: framework/config/framework.config.php:490
+msgid "#"
+msgstr ""
+
+#: framework/config/framework.config.php:496
+msgid "Related Post Image Slider Enable/Disable"
+msgstr ""
+
+#: framework/config/framework.config.php:501
+msgid "Related post title"
+msgstr ""
+
+#: framework/config/framework.config.php:508
+msgid "Related posts per page"
+msgstr ""
+
+#: framework/config/framework.config.php:524
+msgid "Service Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:530
+msgid "Service Single Page Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:541
+msgid "Service Single Breadcrumb Title"
+msgstr ""
+
+#: framework/config/framework.config.php:554
+msgid "Team Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:560
+msgid "Team Single Page Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:565
+msgid "Team Single Breadcrumb Title"
+msgstr ""
+
+#: framework/config/framework.config.php:578
+msgid "Faq page settings"
+msgstr ""
+
+#: framework/config/framework.config.php:584
+msgid "Faq Page Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:607
+msgid "404 Page Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:615
+msgid "Page Name"
+msgstr ""
+
+#: framework/config/framework.config.php:621
+msgid "Number Title"
+msgstr ""
+
+#: framework/config/framework.config.php:627
+#: framework/config/framework.config.php:766 inc/custom-widgets.php:189
+#: inc/custom-widgets.php:869 inc/custom-widgets.php:1043
+#: shortcodes/elements/banner.php:16 shortcodes/elements/experience.php:21
+#: shortcodes/elements/price-table.php:27
+#: shortcodes/elements/section-head.php:21 shortcodes/elements/team-cta.php:21
+msgid "Title"
+msgstr ""
+
+#: framework/config/framework.config.php:633
+#: framework/config/framework.config.php:806 inc/custom-widgets.php:217
+#: inc/custom-widgets.php:882 inc/custom-widgets.php:1069
+#: shortcodes/elements/banner.php:22 shortcodes/elements/feature-items.php:61
+#: shortcodes/elements/our-skill.php:112
+#: shortcodes/elements/services-items.php:97
+msgid "Description"
+msgstr ""
+
+#: framework/config/framework.config.php:639
+#: framework/config/framework.config.php:773
+#: framework/config/metabox.config.php:402
+#: shortcodes/elements/alvon-button.php:28
+msgid "Button Text"
+msgstr ""
+
+#: framework/config/framework.config.php:646
+msgid "404 Image"
+msgstr ""
+
+#: framework/config/framework.config.php:660
+msgid "Search Page Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:666
+msgid "No Search Reasult Page"
+msgstr ""
+
+#: framework/config/framework.config.php:671
+msgid "Search none page title"
+msgstr ""
+
+#: framework/config/framework.config.php:677
+msgid "Page Sub Title"
+msgstr ""
+
+#: framework/config/framework.config.php:691
+msgid "Footer Settings"
+msgstr ""
+
+#: framework/config/framework.config.php:697
+msgid "All Footer / Common Footer"
+msgstr ""
+
+#: framework/config/framework.config.php:702
+msgid "Copyright footer switch"
+msgstr ""
+
+#: framework/config/framework.config.php:708
+msgid "Copyright Text"
+msgstr ""
+
+#: framework/config/framework.config.php:717
+msgid "Footer 1/Default"
+msgstr ""
+
+#: framework/config/framework.config.php:722
+#: framework/config/framework.config.php:794
+msgid "Footer Backgroud Image"
+msgstr ""
+
+#: framework/config/framework.config.php:728
+msgid "Footer 1 Animate Image"
+msgstr ""
+
+#: framework/config/framework.config.php:735
+msgid "Footer 2"
+msgstr ""
+
+#: framework/config/framework.config.php:740
+msgid "Footer Backgroud Color"
+msgstr ""
+
+#: framework/config/framework.config.php:746
+msgid "Footer 2 Call To Action"
+msgstr ""
+
+#: framework/config/framework.config.php:751
+msgid "Call to action backgroud image"
+msgstr ""
+
+#: framework/config/framework.config.php:759
+#: shortcodes/elements/experience.php:16 shortcodes/elements/price-table.php:22
+#: shortcodes/elements/section-head.php:16
+msgid "Sub Title"
+msgstr ""
+
+#: framework/config/framework.config.php:780
+#: framework/config/metabox.config.php:407
+#: shortcodes/elements/contact-info.php:74
+msgid "Button Link"
+msgstr ""
+
+#: framework/config/framework.config.php:789
+msgid "Footer 3"
+msgstr ""
+
+#: framework/config/framework.config.php:800
+msgid "Footer Logo Image"
+msgstr ""
+
+#: framework/config/framework.config.php:812
+msgid "Footer 3 social buttons"
+msgstr ""
+
+#: framework/config/framework.config.php:813
+msgid "Add new"
+msgstr ""
+
+#: framework/config/framework.config.php:814
+msgid "Add new social"
+msgstr ""
+
+#: framework/config/framework.config.php:819
+msgid "Select Icon"
+msgstr ""
+
+#: framework/config/framework.config.php:824
+msgid "Profile link"
+msgstr ""
+
+#: framework/config/framework.config.php:840
+msgid "Alvon Backup"
+msgstr ""
+
+#: framework/config/framework.config.php:847
+msgid "You can save your current options. Download a Backup and Import."
+msgstr ""
+
+#: framework/config/metabox.config.php:16
+msgid "Custom Page Header Options"
+msgstr ""
+
+#: framework/config/metabox.config.php:28
+msgid "Select your header style"
+msgstr ""
+
+#: framework/config/metabox.config.php:34
+msgid "Header Style"
+msgstr ""
+
+#: framework/config/metabox.config.php:94
+msgid "Post Setting"
+msgstr ""
+
+#: framework/config/metabox.config.php:118
+msgid "Put Video Link"
+msgstr ""
+
+#: framework/config/metabox.config.php:124
+msgid "Put Audio Link"
+msgstr ""
+
+#: framework/config/metabox.config.php:141
+msgid "Service Setting"
+msgstr ""
+
+#: framework/config/metabox.config.php:163
+msgid "Service Icon"
+msgstr ""
+
+#: framework/config/metabox.config.php:169
+msgid "Service Icon Image"
+msgstr ""
+
+#: framework/config/metabox.config.php:175
+msgid "Icon Color"
+msgstr ""
+
+#: framework/config/metabox.config.php:182
+#: framework/config/metabox.config.php:422
+#: shortcodes/elements/about-image.php:80 shortcodes/elements/banner.php:59
+#: shortcodes/elements/experience.php:70 shortcodes/elements/fade-image.php:20
+#: shortcodes/elements/feature-items.php:80
+#: shortcodes/elements/our-skill.php:162
+#: shortcodes/elements/portfolio-items.php:73
+#: shortcodes/elements/services-items.php:172
+#: shortcodes/elements/team-cta.php:36
+msgid "Custom Class"
+msgstr ""
+
+#: framework/config/metabox.config.php:198
+msgid "Testimonial Setting"
+msgstr ""
+
+#: framework/config/metabox.config.php:210
+msgid "Designation"
+msgstr ""
+
+#: framework/config/metabox.config.php:215
+msgid "Select Rating"
+msgstr ""
+
+#: framework/config/metabox.config.php:217
+msgid "1 Star"
+msgstr ""
+
+#: framework/config/metabox.config.php:218
+msgid "2 Star"
+msgstr ""
+
+#: framework/config/metabox.config.php:219
+msgid "3 Star"
+msgstr ""
+
+#: framework/config/metabox.config.php:220
+msgid "4 Star"
+msgstr ""
+
+#: framework/config/metabox.config.php:221
+msgid "5 Star"
+msgstr ""
+
+#: framework/config/metabox.config.php:239
+msgid "Portfolio Setting"
+msgstr ""
+
+#: framework/config/metabox.config.php:252
+msgid "Portfolio sub title"
+msgstr ""
+
+#: framework/config/metabox.config.php:257
+msgid "Portfolio Details Information"
+msgstr ""
+
+#: framework/config/metabox.config.php:262
+msgid "Client Name"
+msgstr ""
+
+#: framework/config/metabox.config.php:267
+msgid "Location Name"
+msgstr ""
+
+#: framework/config/metabox.config.php:272
+msgid "Portfolio Date"
+msgstr ""
+
+#: framework/config/metabox.config.php:277
+msgid "Portfolio Website"
+msgstr ""
+
+#: framework/config/metabox.config.php:293
+msgid "Portfolio Gallery Setting"
+msgstr ""
+
+#: framework/config/metabox.config.php:323
+msgid "Team Setting"
+msgstr ""
+
+#: framework/config/metabox.config.php:336
+msgid "Team Designation"
+msgstr ""
+
+#: framework/config/metabox.config.php:352
+msgid "Price Setting"
+msgstr ""
+
+#: framework/config/metabox.config.php:365
+msgid "Price Info"
+msgstr ""
+
+#: framework/config/metabox.config.php:366 inc/custom-posttype.php:15
+#: inc/custom-posttype.php:116 inc/custom-posttype.php:213
+#: inc/custom-posttype.php:259 inc/custom-posttype.php:305
+msgid "Add New"
+msgstr ""
+
+#: framework/config/metabox.config.php:367
+msgid "Add New Field"
+msgstr ""
+
+#: framework/config/metabox.config.php:372
+msgid "Price Title"
+msgstr ""
+
+#: framework/config/metabox.config.php:377
+msgid "Price"
+msgstr ""
+
+#: framework/config/metabox.config.php:382
+msgid "Price Description"
+msgstr ""
+
+#: framework/config/metabox.config.php:387
+msgid "Price Image"
+msgstr ""
+
+#: framework/fields/background/background.php:34
+#: framework/fields/background/background.php:35
+#: framework/fields/upload/upload.php:23 framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: framework/fields/background/background.php:36
+#: framework/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: framework/fields/group/group.php:22
+msgid "Adding"
+msgstr ""
+
+#: framework/fields/group/group.php:45 framework/fields/group/group.php:77
+msgid "Remove"
+msgstr ""
+
+#: framework/fields/icon/icon.php:25 framework/functions/actions.php:82
+msgid "Add Icon"
+msgstr ""
+
+#: framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: framework/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: framework/fields/typography/typography.php:73
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: framework/fields/typography/typography.php:79
+msgid "Google Fonts"
+msgstr ""
+
+#: framework/fields/typography/typography.php:107
+#: framework/functions/actions.php:32
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: framework/functions/actions.php:83
+msgid "Search a Icon..."
+msgstr ""
+
+#: framework/functions/actions.php:84
+msgid "Loading..."
+msgstr ""
+
+#: framework/functions/helpers.php:49
+msgid "This field class is not available!"
+msgstr ""
+
+#: framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: inc/custom-posttype.php:11
+msgctxt "post type general name"
+msgid "Services"
+msgstr ""
+
+#: inc/custom-posttype.php:12
+msgctxt "post type singular name"
+msgid "Service"
+msgstr ""
+
+#: inc/custom-posttype.php:13
+msgid "Services"
+msgstr ""
+
+#: inc/custom-posttype.php:14
+msgid "Service"
+msgstr ""
+
+#: inc/custom-posttype.php:16
+msgid "Add New Service"
+msgstr ""
+
+#: inc/custom-posttype.php:17
+msgid "New Service"
+msgstr ""
+
+#: inc/custom-posttype.php:18
+msgid "Edit Service"
+msgstr ""
+
+#: inc/custom-posttype.php:19
+msgid "View Service"
+msgstr ""
+
+#: inc/custom-posttype.php:20
+msgid "All Services"
+msgstr ""
+
+#: inc/custom-posttype.php:21
+msgid "Search Services"
+msgstr ""
+
+#: inc/custom-posttype.php:22
+msgid "Parent Services:"
+msgstr ""
+
+#: inc/custom-posttype.php:23
+msgid "No Service found."
+msgstr ""
+
+#: inc/custom-posttype.php:24
+msgid "No Service found in Trash."
+msgstr ""
+
+#: inc/custom-posttype.php:53
+msgctxt "Taxonomy plural name"
+msgid "Service Category"
+msgstr ""
+
+#: inc/custom-posttype.php:54
+msgctxt "Taxonomy singular name"
+msgid "Service Category"
+msgstr ""
+
+#: inc/custom-posttype.php:55
+msgid "Search Service Category"
+msgstr ""
+
+#: inc/custom-posttype.php:56
+msgid "Popular Service Category"
+msgstr ""
+
+#: inc/custom-posttype.php:57 inc/custom-posttype.php:156
+msgid "All Categories"
+msgstr ""
+
+#: inc/custom-posttype.php:58 inc/custom-posttype.php:59
+msgid "Parent Service Category"
+msgstr ""
+
+#: inc/custom-posttype.php:60
+msgid "Edit Service Category"
+msgstr ""
+
+#: inc/custom-posttype.php:61
+msgid "Update Service Category"
+msgstr ""
+
+#: inc/custom-posttype.php:62 inc/custom-posttype.php:161
+msgid "Add New Category"
+msgstr ""
+
+#: inc/custom-posttype.php:63
+msgid "New Service Menu Name"
+msgstr ""
+
+#: inc/custom-posttype.php:64
+msgid "Add or remove Service Category"
+msgstr ""
+
+#: inc/custom-posttype.php:65 inc/custom-posttype.php:164
+msgid "Choose from most used text-domain"
+msgstr ""
+
+#: inc/custom-posttype.php:66 inc/custom-posttype.php:165
+msgid "Category"
+msgstr ""
+
+#: inc/custom-posttype.php:112
+msgctxt "post type general name"
+msgid "Portfolios"
+msgstr ""
+
+#: inc/custom-posttype.php:113
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr ""
+
+#: inc/custom-posttype.php:114
+msgid "Portfolios"
+msgstr ""
+
+#: inc/custom-posttype.php:115
+msgid "Portfolio"
+msgstr ""
+
+#: inc/custom-posttype.php:117
+msgid "Add New Portfolio"
+msgstr ""
+
+#: inc/custom-posttype.php:118
+msgid "New Portfolio"
+msgstr ""
+
+#: inc/custom-posttype.php:119
+msgid "Edit Portfolio"
+msgstr ""
+
+#: inc/custom-posttype.php:120
+msgid "View Portfolio"
+msgstr ""
+
+#: inc/custom-posttype.php:121
+msgid "All Portfolios"
+msgstr ""
+
+#: inc/custom-posttype.php:122
+msgid "Search Portfolios"
+msgstr ""
+
+#: inc/custom-posttype.php:123
+msgid "Parent Portfolios:"
+msgstr ""
+
+#: inc/custom-posttype.php:124
+msgid "No Portfolio found."
+msgstr ""
+
+#: inc/custom-posttype.php:125
+msgid "No Portfolio found in Trash."
+msgstr ""
+
+#: inc/custom-posttype.php:152
+msgctxt "Taxonomy plural name"
+msgid "Portfolio Category"
+msgstr ""
+
+#: inc/custom-posttype.php:153
+msgctxt "Taxonomy singular name"
+msgid "Portfolio Category"
+msgstr ""
+
+#: inc/custom-posttype.php:154
+msgid "Search Portfolio Category"
+msgstr ""
+
+#: inc/custom-posttype.php:155
+msgid "Popular Portfolio Category"
+msgstr ""
+
+#: inc/custom-posttype.php:157 inc/custom-posttype.php:158
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: inc/custom-posttype.php:159
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: inc/custom-posttype.php:160
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: inc/custom-posttype.php:162
+msgid "New Portfolio Menu Name"
+msgstr ""
+
+#: inc/custom-posttype.php:163
+msgid "Add or remove Portfolio Category"
+msgstr ""
+
+#: inc/custom-posttype.php:209
+msgctxt "post type general name"
+msgid "Testimonial"
+msgstr ""
+
+#: inc/custom-posttype.php:210
+msgctxt "post type singular name"
+msgid "Testimonial"
+msgstr ""
+
+#: inc/custom-posttype.php:211 inc/custom-posttype.php:212
+#: shortcodes/elements/testimonials.php:8
+msgid "Testimonial"
+msgstr ""
+
+#: inc/custom-posttype.php:214
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/custom-posttype.php:215
+msgid "New Testimonial"
+msgstr ""
+
+#: inc/custom-posttype.php:216
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/custom-posttype.php:217
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/custom-posttype.php:218
+msgid "All Testimonial"
+msgstr ""
+
+#: inc/custom-posttype.php:219
+msgid "Search Testimonial"
+msgstr ""
+
+#: inc/custom-posttype.php:220
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: inc/custom-posttype.php:221
+msgid "No Testimonial found."
+msgstr ""
+
+#: inc/custom-posttype.php:222
+msgid "No Testimonial found in Trash."
+msgstr ""
+
+#: inc/custom-posttype.php:255
+msgctxt "post type general name"
+msgid "Team"
+msgstr ""
+
+#: inc/custom-posttype.php:256
+msgctxt "post type singular name"
+msgid "Team"
+msgstr ""
+
+#: inc/custom-posttype.php:257 inc/custom-posttype.php:258
+msgid "Team"
+msgstr ""
+
+#: inc/custom-posttype.php:260
+msgid "Add New Team"
+msgstr ""
+
+#: inc/custom-posttype.php:261
+msgid "New Team"
+msgstr ""
+
+#: inc/custom-posttype.php:262
+msgid "Edit Team"
+msgstr ""
+
+#: inc/custom-posttype.php:263
+msgid "View Team"
+msgstr ""
+
+#: inc/custom-posttype.php:264
+msgid "All Team"
+msgstr ""
+
+#: inc/custom-posttype.php:265
+msgid "Search Team"
+msgstr ""
+
+#: inc/custom-posttype.php:266
+msgid "Parent Team:"
+msgstr ""
+
+#: inc/custom-posttype.php:267
+msgid "No Team found."
+msgstr ""
+
+#: inc/custom-posttype.php:268
+msgid "No Team found in Trash."
+msgstr ""
+
+#: inc/custom-posttype.php:301
+msgctxt "post type general name"
+msgid "Pricing"
+msgstr ""
+
+#: inc/custom-posttype.php:302
+msgctxt "post type singular name"
+msgid "Pricing"
+msgstr ""
+
+#: inc/custom-posttype.php:303 inc/custom-posttype.php:304
+msgid "Pricing"
+msgstr ""
+
+#: inc/custom-posttype.php:306
+msgid "Add New Pricing"
+msgstr ""
+
+#: inc/custom-posttype.php:307
+msgid "New Pricing"
+msgstr ""
+
+#: inc/custom-posttype.php:308
+msgid "Edit Pricing"
+msgstr ""
+
+#: inc/custom-posttype.php:309
+msgid "View Pricing"
+msgstr ""
+
+#: inc/custom-posttype.php:310
+msgid "All Pricing"
+msgstr ""
+
+#: inc/custom-posttype.php:311
+msgid "Search Pricing"
+msgstr ""
+
+#: inc/custom-posttype.php:312
+msgid "Parent Pricing:"
+msgstr ""
+
+#: inc/custom-posttype.php:313
+msgid "No Pricing found."
+msgstr ""
+
+#: inc/custom-posttype.php:314
+msgid "No Pricing found in Trash."
+msgstr ""
+
+#: inc/custom-posttype.php:355
+msgid "-- Select Page --"
+msgstr ""
+
+#: inc/custom-posttype.php:382 inc/custom-posttype.php:409
+msgid "-- Select post --"
+msgstr ""
+
+#: inc/custom-widgets.php:10
+msgid "Portfolio Widgets"
+msgstr ""
+
+#: inc/custom-widgets.php:12
+msgid "This area will be shown on Portfolio details page sidebar."
+msgstr ""
+
+#: inc/custom-widgets.php:19
+msgid "Service Widgets"
+msgstr ""
+
+#: inc/custom-widgets.php:21 inc/custom-widgets.php:30
+msgid "Widgets in this area will be shown on service page sidebar."
+msgstr ""
+
+#: inc/custom-widgets.php:28
+msgid "Faq Widgets"
+msgstr ""
+
+#: inc/custom-widgets.php:88
+msgid "About Widget."
+msgstr ""
+
+#: inc/custom-widgets.php:90
+msgid "A::1 About Widget"
+msgstr ""
+
+#: inc/custom-widgets.php:134
+msgid "footer logo"
+msgstr ""
+
+#: inc/custom-widgets.php:204 inc/custom-widgets.php:1056
+msgid "Logo Image"
+msgstr ""
+
+#: inc/custom-widgets.php:205 inc/custom-widgets.php:1057
+msgid "About Widghet Logo Upload Here"
+msgstr ""
+
+#: inc/custom-widgets.php:228 shortcodes/elements/alvon-socials.php:8
+msgid "Social List"
+msgstr ""
+
+#: inc/custom-widgets.php:262
+msgid "Menu Widget."
+msgstr ""
+
+#: inc/custom-widgets.php:265
+msgid "A::2 Footer Menu Widget"
+msgstr ""
+
+#: inc/custom-widgets.php:359
+msgid "No category found"
+msgstr ""
+
+#: inc/custom-widgets.php:382
+msgid "Menu Title"
+msgstr ""
+
+#: inc/custom-widgets.php:398
+msgid "Menu Description"
+msgstr ""
+
+#: inc/custom-widgets.php:410
+msgid "Select Menu"
+msgstr ""
+
+#: inc/custom-widgets.php:726
+msgid "Recent Post Widget."
+msgstr ""
+
+#: inc/custom-widgets.php:729
+msgid "A::5 Recent Post"
+msgstr ""
+
+#: inc/custom-widgets.php:857
+msgid "Footer widget?"
+msgstr ""
+
+#: inc/custom-widgets.php:894
+msgid "Select Post Type"
+msgstr ""
+
+#: inc/custom-widgets.php:900
+msgid "Select post type"
+msgstr ""
+
+#: inc/custom-widgets.php:912 shortcodes/elements/blog-post-grid.php:26
+#: shortcodes/elements/blog-post-grid.php:28
+#: shortcodes/elements/portfolio.php:21 shortcodes/elements/portfolio.php:23
+#: shortcodes/elements/service-post-grid.php:26
+#: shortcodes/elements/service-post-grid.php:28
+#: shortcodes/elements/team-post-grid.php:21
+#: shortcodes/elements/team-post-grid.php:23
+#: shortcodes/elements/testimonials.php:22
+#: shortcodes/elements/testimonials.php:24
+msgid "Select Post Order"
+msgstr ""
+
+#: inc/custom-widgets.php:917
+msgid "Select post order"
+msgstr ""
+
+#: inc/custom-widgets.php:929
+msgid "Post Per Page"
+msgstr ""
+
+#: inc/custom-widgets.php:930
+msgid "How post display here"
+msgstr ""
+
+#: inc/custom-widgets.php:963
+msgid "Info Widget."
+msgstr ""
+
+#: inc/custom-widgets.php:965
+msgid "A::6 Info Widget"
+msgstr ""
+
+#: inc/helper.php:60
+msgid "Eng"
+msgstr ""
+
+#: inc/helper.php:61
+msgid "Spn"
+msgstr ""
+
+#: inc/helper.php:62
+msgid "Gar"
+msgstr ""
+
+#: inc/helper.php:63
+msgid "Aui"
+msgstr ""
+
+#: shortcodes/elements/about-image.php:8
+msgid "About Image"
+msgstr ""
+
+#: shortcodes/elements/about-image.php:9
+#: shortcodes/elements/alvon-button.php:10 shortcodes/elements/alvon-list.php:9
+#: shortcodes/elements/alvon-socials.php:9
+#: shortcodes/elements/alvon-video.php:10 shortcodes/elements/banner.php:9
+#: shortcodes/elements/blog-post-grid.php:8
+#: shortcodes/elements/client-logos.php:9
+#: shortcodes/elements/contact-info.php:9 shortcodes/elements/experience.php:9
+#: shortcodes/elements/fade-image.php:8 shortcodes/elements/faq-list.php:9
+#: shortcodes/elements/feature-items.php:9 shortcodes/elements/our-skill.php:10
+#: shortcodes/elements/portfolio-items.php:9
+#: shortcodes/elements/portfolio-slider.php:9
+#: shortcodes/elements/portfolio.php:9 shortcodes/elements/price-table.php:9
+#: shortcodes/elements/section-head.php:9
+#: shortcodes/elements/service-post-grid.php:9
+#: shortcodes/elements/services-items.php:9
+#: shortcodes/elements/single-price-table.php:9
+#: shortcodes/elements/team-cta.php:9 shortcodes/elements/team-post-grid.php:9
+#: shortcodes/elements/testimonials.php:9
+msgid "Alvon"
+msgstr ""
+
+#: shortcodes/elements/about-image.php:16 shortcodes/elements/alvon-list.php:21
+#: shortcodes/elements/portfolio-items.php:81
+#: shortcodes/elements/services-items.php:180
+#: shortcodes/elements/services-items.php:193
+msgid "Variation Style"
+msgstr ""
+
+#: shortcodes/elements/about-image.php:21 shortcodes/elements/alvon-list.php:29
+#: shortcodes/elements/our-skill.php:23
+#: shortcodes/elements/portfolio-items.php:89
+#: shortcodes/elements/services-items.php:188
+#: shortcodes/elements/services-items.php:203
+msgid "Layout Variation"
+msgstr ""
+
+#: shortcodes/elements/about-image.php:28
+msgid "Image 1"
+msgstr ""
+
+#: shortcodes/elements/about-image.php:33
+msgid "Image 2"
+msgstr ""
+
+#: shortcodes/elements/about-image.php:38
+msgid "Box Title"
+msgstr ""
+
+#: shortcodes/elements/about-image.php:48
+#: shortcodes/elements/price-table.php:37
+#: shortcodes/elements/section-head.php:31
+msgid "Box Number"
+msgstr ""
+
+#: shortcodes/elements/about-image.php:58
+msgid "Box Background Color"
+msgstr ""
+
+#: shortcodes/elements/about-image.php:64
+#: shortcodes/elements/about-image.php:75 shortcodes/elements/our-skill.php:170
+#: shortcodes/elements/our-skill.php:178 shortcodes/elements/price-table.php:50
+#: shortcodes/elements/price-table.php:57
+#: shortcodes/elements/price-table.php:65
+#: shortcodes/elements/price-table.php:72
+#: shortcodes/elements/price-table.php:80
+#: shortcodes/elements/price-table.php:87
+#: shortcodes/elements/section-head.php:71
+#: shortcodes/elements/section-head.php:78
+#: shortcodes/elements/section-head.php:86
+#: shortcodes/elements/section-head.php:93
+#: shortcodes/elements/section-head.php:101
+#: shortcodes/elements/section-head.php:108
+#: shortcodes/elements/testimonials.php:94
+#: shortcodes/elements/testimonials.php:101
+#: shortcodes/elements/testimonials.php:113
+msgid "Styling"
+msgstr ""
+
+#: shortcodes/elements/about-image.php:69
+msgid "Box Font Color"
+msgstr ""
+
+#: shortcodes/elements/about-image.php:153
+#: shortcodes/elements/about-image.php:154
+#: shortcodes/elements/about-image.php:161
+#: shortcodes/elements/about-image.php:162
+#: shortcodes/elements/about-image.php:166
+#: shortcodes/elements/about-image.php:167
+msgid "image"
+msgstr ""
+
+#: shortcodes/elements/about-image.php:156
+#: shortcodes/elements/about-image.php:169
+#: shortcodes/elements/alvon-button.php:18
+#: shortcodes/elements/alvon-button.php:47
+#: shortcodes/elements/blog-post-grid.php:78
+#: shortcodes/elements/client-logos.php:51
+#: shortcodes/elements/portfolio-items.php:27
+#: shortcodes/elements/portfolio-slider.php:27
+#: shortcodes/elements/portfolio-slider.php:84
+#: shortcodes/elements/services-items.php:116
+#: shortcodes/elements/services-items.php:194
+#: shortcodes/elements/testimonials.php:35
+#: shortcodes/elements/testimonials.php:69
+#: shortcodes/elements/testimonials.php:88
+#: shortcodes/elements/testimonials.php:107
+msgid "1"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:9
+msgid "Button"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:17
+msgid "Button Icon Image Type"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:23
+#: shortcodes/elements/alvon-button.php:46
+#: shortcodes/elements/alvon-button.php:52
+#: shortcodes/elements/alvon-button.php:59
+#: shortcodes/elements/portfolio-items.php:26
+#: shortcodes/elements/portfolio-items.php:32
+#: shortcodes/elements/portfolio-items.php:39
+#: shortcodes/elements/portfolio-slider.php:26
+#: shortcodes/elements/portfolio-slider.php:32
+#: shortcodes/elements/portfolio-slider.php:39
+#: shortcodes/elements/services-items.php:115
+#: shortcodes/elements/services-items.php:121
+#: shortcodes/elements/services-items.php:128
+msgid "Link Type"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:34
+#: shortcodes/elements/alvon-list.php:35
+#: shortcodes/elements/alvon-socials.php:21
+#: shortcodes/elements/contact-info.php:28
+#: shortcodes/elements/contact-info.php:131
+#: shortcodes/elements/feature-items.php:28
+#: shortcodes/elements/feature-items.php:115
+#: shortcodes/elements/services-items.php:39
+#: shortcodes/elements/services-items.php:349
+#: shortcodes/elements/services-items.php:492
+#: shortcodes/elements/services-items.php:635
+#: shortcodes/elements/services-items.php:1174
+#: shortcodes/elements/single-price-table.php:64
+#: shortcodes/xtl-shortcode-action.php:58
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:41
+#: shortcodes/elements/alvon-list.php:46
+#: shortcodes/elements/alvon-socials.php:28
+#: shortcodes/elements/contact-info.php:39
+#: shortcodes/elements/feature-items.php:40
+#: shortcodes/elements/services-items.php:50
+#: shortcodes/elements/single-price-table.php:75
+msgid "Select icon from library."
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:57
+msgid "Link to page"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:68
+#: shortcodes/elements/alvon-button.php:69
+#: shortcodes/elements/portfolio-items.php:48
+#: shortcodes/elements/portfolio-items.php:49
+#: shortcodes/elements/portfolio-slider.php:48
+#: shortcodes/elements/portfolio-slider.php:49
+#: shortcodes/elements/services-items.php:147
+#: shortcodes/elements/services-items.php:148
+msgid "External Link"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:79
+#: shortcodes/elements/services-items.php:102
+msgid "Please select text align"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:81
+#: shortcodes/elements/section-head.php:38
+#: shortcodes/elements/service-post-grid.php:51
+#: shortcodes/elements/services-items.php:104
+msgid "Select text align"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:82
+#: shortcodes/elements/section-head.php:39
+#: shortcodes/elements/service-post-grid.php:52
+#: shortcodes/elements/services-items.php:105
+msgid "Text Align Center"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:83
+#: shortcodes/elements/section-head.php:40
+#: shortcodes/elements/service-post-grid.php:53
+#: shortcodes/elements/services-items.php:106
+msgid "Text Align Left"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:84
+#: shortcodes/elements/section-head.php:41
+#: shortcodes/elements/service-post-grid.php:54
+#: shortcodes/elements/services-items.php:107
+msgid "Text Align Right"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:86
+#: shortcodes/elements/section-head.php:43
+#: shortcodes/elements/service-post-grid.php:56
+#: shortcodes/elements/services-items.php:109
+msgid "There have more section head style. check all one by one for your need."
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:92
+#: shortcodes/elements/alvon-video.php:30
+#: shortcodes/elements/feature-items.php:66
+#: shortcodes/elements/our-skill.php:148
+#: shortcodes/elements/portfolio-items.php:59
+#: shortcodes/elements/section-head.php:48
+#: shortcodes/elements/services-items.php:158
+#: shortcodes/elements/single-price-table.php:112
+msgid "Animation Style"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:93
+#: shortcodes/elements/alvon-video.php:31
+#: shortcodes/elements/feature-items.php:67
+#: shortcodes/elements/our-skill.php:149
+#: shortcodes/elements/portfolio-items.php:60
+#: shortcodes/elements/section-head.php:49
+#: shortcodes/elements/services-items.php:159
+#: shortcodes/elements/single-price-table.php:113
+msgid "Choose your animation style"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:98
+#: shortcodes/elements/feature-items.php:72
+#: shortcodes/elements/our-skill.php:154
+#: shortcodes/elements/portfolio-items.php:65
+#: shortcodes/elements/section-head.php:54
+#: shortcodes/elements/services-items.php:164
+#: shortcodes/elements/single-price-table.php:118
+msgid "Animaiion delay"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:100
+#: shortcodes/elements/alvon-video.php:38
+#: shortcodes/elements/feature-items.php:74
+#: shortcodes/elements/our-skill.php:156
+#: shortcodes/elements/portfolio-items.php:67
+#: shortcodes/elements/section-head.php:56
+#: shortcodes/elements/services-items.php:166
+#: shortcodes/elements/single-price-table.php:120
+msgid "Select animation delay"
+msgstr ""
+
+#: shortcodes/elements/alvon-button.php:106
+#: shortcodes/elements/alvon-video.php:44
+msgid "Custom Button Class"
+msgstr ""
+
+#: shortcodes/elements/alvon-list.php:8
+msgid "Alvon List"
+msgstr ""
+
+#: shortcodes/elements/alvon-list.php:51
+msgid "Icon text"
+msgstr ""
+
+#: shortcodes/elements/alvon-list.php:61
+msgid "List Title"
+msgstr ""
+
+#: shortcodes/elements/alvon-list.php:71
+#: shortcodes/elements/single-price-table.php:81
+msgid "List text"
+msgstr ""
+
+#: shortcodes/elements/alvon-list.php:76 shortcodes/elements/alvon-list.php:84
+#: shortcodes/elements/alvon-socials.php:38
+#: shortcodes/elements/alvon-socials.php:46
+#: shortcodes/elements/contact-info.php:67
+#: shortcodes/elements/contact-info.php:79
+#: shortcodes/elements/experience.php:62 shortcodes/elements/faq-list.php:32
+#: shortcodes/elements/faq-list.php:52
+msgid "Custom List Class"
+msgstr ""
+
+#: shortcodes/elements/alvon-socials.php:33
+msgid "Social Link"
+msgstr ""
+
+#: shortcodes/elements/alvon-video.php:9
+msgid "Video"
+msgstr ""
+
+#: shortcodes/elements/alvon-video.php:17
+msgid "Video Background Image"
+msgstr ""
+
+#: shortcodes/elements/alvon-video.php:23 shortcodes/elements/banner.php:53
+msgid "Video Link"
+msgstr ""
+
+#: shortcodes/elements/alvon-video.php:36
+msgid "Animation delay"
+msgstr ""
+
+#: shortcodes/elements/alvon-video.php:72
+msgid "video bg img"
+msgstr ""
+
+#: shortcodes/elements/banner.php:8
+msgid "Banner"
+msgstr ""
+
+#: shortcodes/elements/banner.php:28 shortcodes/elements/experience.php:32
+msgid "Button 1 Text"
+msgstr ""
+
+#: shortcodes/elements/banner.php:33 shortcodes/elements/experience.php:37
+#: shortcodes/elements/team-cta.php:31
+msgid "Button 1 Link"
+msgstr ""
+
+#: shortcodes/elements/banner.php:38 shortcodes/elements/experience.php:42
+msgid "Button 2 Text"
+msgstr ""
+
+#: shortcodes/elements/banner.php:43 shortcodes/elements/experience.php:47
+msgid "Button 2 Link"
+msgstr ""
+
+#: shortcodes/elements/banner.php:48
+msgid "Video Banckground Image"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:7
+msgid "Blog Posts"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:15
+#: shortcodes/elements/client-logos.php:37
+#: shortcodes/elements/portfolio-slider.php:63
+#: shortcodes/elements/portfolio-slider.php:70
+#: shortcodes/elements/testimonials.php:17
+#: shortcodes/elements/testimonials.php:55
+msgid "3"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:16
+#: shortcodes/elements/portfolio.php:16
+#: shortcodes/elements/service-post-grid.php:16
+#: shortcodes/elements/team-post-grid.php:16
+#: shortcodes/elements/testimonials.php:16
+msgid "Posts Per Page"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:21
+msgid "Content Excerpt Length"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:29
+#: shortcodes/elements/portfolio.php:24
+#: shortcodes/elements/service-post-grid.php:29
+#: shortcodes/elements/team-post-grid.php:24
+#: shortcodes/elements/testimonials.php:25
+msgid "Ascending Order"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:30
+#: shortcodes/elements/portfolio.php:25
+#: shortcodes/elements/service-post-grid.php:30
+#: shortcodes/elements/team-post-grid.php:25
+#: shortcodes/elements/testimonials.php:26
+msgid "Descending Order"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:32
+#: shortcodes/elements/blog-post-grid.php:84
+#: shortcodes/elements/portfolio.php:27
+#: shortcodes/elements/service-post-grid.php:32
+#: shortcodes/elements/team-post-grid.php:27
+#: shortcodes/elements/testimonials.php:28
+msgid "Select your post order ascending  or descending columns"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:37
+msgid "Please post columns"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:39
+#: shortcodes/elements/faq-list.php:43
+msgid "Select your columns"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:40
+#: shortcodes/elements/faq-list.php:44
+msgid "Columns 2"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:41
+#: shortcodes/elements/faq-list.php:45
+msgid "Columns 3"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:42
+#: shortcodes/elements/faq-list.php:46
+msgid "Columns 4"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:57
+msgid "Hide post author?"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:58
+msgid "If you want to hide post author please check the box"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:64
+msgid "Hide post date?"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:65
+msgid "If you want to hide post date please check the box"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:71
+msgid "Hide post text?"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:72
+msgid "If you want to hide post text please check the box"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:77
+msgid "Select Post Style"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:80
+#: shortcodes/elements/testimonials.php:34
+msgid "Select Style"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:81
+#: shortcodes/elements/service-post-grid.php:64
+#: shortcodes/elements/testimonials.php:37
+msgid "Style 1"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:82
+#: shortcodes/elements/service-post-grid.php:65
+#: shortcodes/elements/testimonials.php:38
+msgid "Style 2"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:89
+msgid "Post custom class"
+msgstr ""
+
+#: shortcodes/elements/blog-post-grid.php:205
+#: shortcodes/elements/blog-post-grid.php:255
+#: shortcodes/elements/blog-post-grid.php:306
+msgid "By"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:8
+msgid "Client Logo Slider"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:16
+msgid "Client logo image"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:21
+#: shortcodes/elements/portfolio-slider.php:61
+#: shortcodes/elements/portfolio-slider.php:68
+#: shortcodes/elements/testimonials.php:53
+msgid "Desktop Count"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:23
+msgid "5"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:24
+#: shortcodes/elements/portfolio-slider.php:71
+msgid "Display Logo in desktop device"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:28
+msgid "Medium Desktop Count"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:30
+#: shortcodes/elements/portfolio-items.php:82
+#: shortcodes/elements/portfolio.php:33
+#: shortcodes/elements/services-items.php:181
+#: shortcodes/elements/team-post-grid.php:33
+#: shortcodes/elements/testimonials.php:48
+msgid "4"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:31
+msgid "Logo in medium desktop device"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:34
+#: shortcodes/elements/portfolio-slider.php:74
+#: shortcodes/elements/testimonials.php:59
+msgid "Tablet Count"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:38
+#: shortcodes/elements/portfolio-slider.php:78
+msgid "Display Logo in tablet device"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:42
+msgid "Small Count"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:44
+#: shortcodes/elements/portfolio-slider.php:77
+#: shortcodes/elements/testimonials.php:62
+msgid "2"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:45
+msgid "Display logo in small device"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:48
+#: shortcodes/elements/portfolio-slider.php:81
+#: shortcodes/elements/testimonials.php:66
+msgid "Mobile Count"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:52
+#: shortcodes/elements/portfolio-slider.php:85
+msgid "Display logo in mobile device"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:58
+#: shortcodes/elements/portfolio-slider.php:91
+msgid "Autoplay"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:60
+#: shortcodes/elements/client-logos.php:95
+#: shortcodes/elements/portfolio-slider.php:94
+#: shortcodes/elements/portfolio-slider.php:131
+#: shortcodes/elements/testimonials.php:78
+#: shortcodes/elements/testimonials.php:90
+#: shortcodes/elements/testimonials.php:109
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:61
+#: shortcodes/elements/client-logos.php:94
+#: shortcodes/elements/portfolio-slider.php:95
+#: shortcodes/elements/portfolio-slider.php:130
+#: shortcodes/elements/testimonials.php:79
+#: shortcodes/elements/testimonials.php:91
+#: shortcodes/elements/testimonials.php:110
+msgid "No"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:63
+#: shortcodes/elements/portfolio-slider.php:97
+msgid ""
+"If you want to enable or disable slider autoplay, please please select form "
+"box"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:68
+#: shortcodes/elements/portfolio-slider.php:102
+msgid "Autoplay speed"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:70
+#: shortcodes/elements/portfolio-slider.php:105
+msgid "15000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:71
+#: shortcodes/elements/portfolio-slider.php:106
+msgid "1000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:72
+#: shortcodes/elements/portfolio-slider.php:107
+msgid "2000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:73
+#: shortcodes/elements/portfolio-slider.php:108
+msgid "3000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:74
+#: shortcodes/elements/portfolio-slider.php:103
+#: shortcodes/elements/portfolio-slider.php:109
+msgid "4000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:75
+#: shortcodes/elements/portfolio-slider.php:110
+msgid "5000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:76
+#: shortcodes/elements/portfolio-slider.php:111
+msgid "6000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:77
+#: shortcodes/elements/portfolio-slider.php:112
+msgid "7000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:78
+#: shortcodes/elements/portfolio-slider.php:113
+msgid "8000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:79
+#: shortcodes/elements/portfolio-slider.php:114
+msgid "9000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:80
+#: shortcodes/elements/portfolio-slider.php:115
+msgid "10000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:81
+#: shortcodes/elements/portfolio-slider.php:116
+msgid "11000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:82
+#: shortcodes/elements/portfolio-slider.php:117
+msgid "12000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:83
+#: shortcodes/elements/portfolio-slider.php:118
+msgid "13000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:84
+#: shortcodes/elements/portfolio-slider.php:119
+msgid "14000"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:86
+#: shortcodes/elements/portfolio-slider.php:121
+msgid ""
+"If you want to enable or disable slider autoplay speed, please please select "
+"form box"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:92
+#: shortcodes/elements/portfolio-slider.php:127
+#: shortcodes/elements/testimonials.php:75
+msgid "Navigation?"
+msgstr ""
+
+#: shortcodes/elements/client-logos.php:97
+#: shortcodes/elements/portfolio-slider.php:133
+#: shortcodes/elements/testimonials.php:81
+msgid ""
+"If you want to enable or disable slider navigation, please please select "
+"form box"
+msgstr ""
+
+#: shortcodes/elements/contact-info.php:8
+msgid "Contact Info"
+msgstr ""
+
+#: shortcodes/elements/contact-info.php:16
+#: shortcodes/elements/feature-items.php:16
+#: shortcodes/elements/services-items.php:27
+msgid "Icon library for phone icon"
+msgstr ""
+
+#: shortcodes/elements/contact-info.php:17
+#: shortcodes/elements/feature-items.php:17
+#: shortcodes/elements/services-items.php:28
+msgid "imageicon"
+msgstr ""
+
+#: shortcodes/elements/contact-info.php:19
+#: shortcodes/elements/feature-items.php:19
+#: shortcodes/elements/services-items.php:30
+msgid "Image Icon"
+msgstr ""
+
+#: shortcodes/elements/contact-info.php:20
+#: shortcodes/elements/feature-items.php:20
+#: shortcodes/elements/services-items.php:31
+msgid "Font Icon"
+msgstr ""
+
+#: shortcodes/elements/contact-info.php:23
+#: shortcodes/elements/feature-items.php:23
+#: shortcodes/elements/services-items.php:34
+msgid "Select icon library."
+msgstr ""
+
+#: shortcodes/elements/contact-info.php:44
+#: shortcodes/elements/feature-items.php:45
+#: shortcodes/elements/portfolio-items.php:21
+#: shortcodes/elements/portfolio-slider.php:21
+#: shortcodes/elements/services-items.php:65
+msgid "Icon Image"
+msgstr ""
+
+#: shortcodes/elements/contact-info.php:53
+msgid "Info Title"
+msgstr ""
+
+#: shortcodes/elements/contact-info.php:62
+msgid "Info Text"
+msgstr ""
+
+#: shortcodes/elements/experience.php:8
+msgid "Experience man"
+msgstr ""
+
+#: shortcodes/elements/experience.php:27 shortcodes/elements/price-table.php:32
+#: shortcodes/elements/section-head.php:26
+msgid "Underline Title"
+msgstr ""
+
+#: shortcodes/elements/experience.php:57
+msgid "Experience man image"
+msgstr ""
+
+#: shortcodes/elements/fade-image.php:7 shortcodes/elements/fade-image.php:15
+msgid "Fade Image"
+msgstr ""
+
+#: shortcodes/elements/fade-image.php:45
+msgid "Fade image"
+msgstr ""
+
+#: shortcodes/elements/faq-list.php:8
+msgid "Faq List"
+msgstr ""
+
+#: shortcodes/elements/faq-list.php:21
+msgid "Faq Title"
+msgstr ""
+
+#: shortcodes/elements/faq-list.php:27
+msgid "Faq text"
+msgstr ""
+
+#: shortcodes/elements/faq-list.php:40
+msgid "Faq columns"
+msgstr ""
+
+#: shortcodes/elements/feature-items.php:8
+msgid "Feature Items"
+msgstr ""
+
+#: shortcodes/elements/feature-items.php:55
+#: shortcodes/elements/services-items.php:84
+msgid "Item Title"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:9
+msgid "Skill"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:17
+msgid "Skill Style"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:29
+msgid "Skill Title"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:35
+msgid "Skill Persantage"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:41
+msgid "Data Box Size"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:42
+msgid "100"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:52
+msgid "Data Line Width"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:62
+msgid "Empty Fill Color"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:63
+msgid "#ecf1ff"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:64
+msgid "Empty fill means full circle color"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:69
+msgid "Fill Color 1"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:70
+msgid "#00B9FE"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:75
+msgid ""
+"Fill means persantage circle color ( Gradient 1st color ). If you do not "
+"want to gradient please set both color same"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:80
+msgid "Fill Color 2"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:81
+msgid "#004FCD"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:86
+msgid ""
+"Fill means persantage circle color ( Gradient 2nd color ). If you do not "
+"want to gradient please set both color same"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:91
+msgid "Fill Color"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:92
+msgid "#fff"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:97
+msgid "Fill means persantage line color."
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:102
+msgid "Description title"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:122
+msgid "Read More Link"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:132
+msgid "Circle Position"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:133
+msgid "top"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:138
+msgid "Persantage circle position left or top"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:168
+msgid "Skill heading color"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:171
+msgid "Skill item all heading color"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:176
+msgid "Skill text color"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:179
+msgid "Skill item all text color"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:333 shortcodes/elements/our-skill.php:354
+#: shortcodes/elements/our-skill.php:378 shortcodes/elements/our-skill.php:407
+#: shortcodes/elements/our-skill.php:423 shortcodes/elements/our-skill.php:445
+#: shortcodes/elements/our-skill.php:469
+msgid "%"
+msgstr ""
+
+#: shortcodes/elements/our-skill.php:343 shortcodes/elements/our-skill.php:366
+#: shortcodes/elements/our-skill.php:390 shortcodes/elements/our-skill.php:433
+#: shortcodes/elements/our-skill.php:457 shortcodes/elements/our-skill.php:481
+msgid "Read More"
+msgstr ""
+
+#: shortcodes/elements/portfolio-items.php:8
+msgid "Portfolio Items"
+msgstr ""
+
+#: shortcodes/elements/portfolio-items.php:37
+#: shortcodes/elements/portfolio-slider.php:37
+#: shortcodes/elements/services-items.php:126
+msgid "Link to post"
+msgstr ""
+
+#: shortcodes/elements/portfolio-items.php:94
+#: shortcodes/elements/portfolio.php:45
+msgid "No Gutters?"
+msgstr ""
+
+#: shortcodes/elements/portfolio-items.php:95
+#: shortcodes/elements/portfolio.php:46
+msgid "If you want to remove column gap please check the box"
+msgstr ""
+
+#: shortcodes/elements/portfolio-items.php:195
+msgid "img"
+msgstr ""
+
+#: shortcodes/elements/portfolio-slider.php:8
+msgid "Portfolio Slider"
+msgstr ""
+
+#: shortcodes/elements/portfolio-slider.php:64
+msgid "Display Logo in extea large desktop device"
+msgstr ""
+
+#: shortcodes/elements/portfolio-slider.php:92
+#: shortcodes/elements/portfolio-slider.php:128
+msgid "true"
+msgstr ""
+
+#: shortcodes/elements/portfolio.php:8
+msgid "Portfolio Posts"
+msgstr ""
+
+#: shortcodes/elements/portfolio.php:32
+#: shortcodes/elements/service-post-grid.php:37
+#: shortcodes/elements/team-post-grid.php:32
+msgid "Please select Your Post Column"
+msgstr ""
+
+#: shortcodes/elements/portfolio.php:35
+#: shortcodes/elements/service-post-grid.php:39
+#: shortcodes/elements/team-post-grid.php:35
+msgid "Select Your Column"
+msgstr ""
+
+#: shortcodes/elements/portfolio.php:36
+#: shortcodes/elements/service-post-grid.php:40
+#: shortcodes/elements/team-post-grid.php:36
+msgid "Column 2"
+msgstr ""
+
+#: shortcodes/elements/portfolio.php:37
+#: shortcodes/elements/service-post-grid.php:41
+#: shortcodes/elements/team-post-grid.php:37
+msgid "Column 3"
+msgstr ""
+
+#: shortcodes/elements/portfolio.php:38
+#: shortcodes/elements/service-post-grid.php:42
+#: shortcodes/elements/team-post-grid.php:38
+msgid "Column 4"
+msgstr ""
+
+#: shortcodes/elements/portfolio.php:40
+#: shortcodes/elements/service-post-grid.php:44
+#: shortcodes/elements/team-post-grid.php:40
+msgid "Please select your item columns"
+msgstr ""
+
+#: shortcodes/elements/price-table.php:8
+msgid "Price Table"
+msgstr ""
+
+#: shortcodes/elements/price-table.php:42
+#: shortcodes/elements/single-price-table.php:126
+msgid "Custom table class"
+msgstr ""
+
+#: shortcodes/elements/price-table.php:48
+#: shortcodes/elements/section-head.php:69
+msgid "Title Color"
+msgstr ""
+
+#: shortcodes/elements/price-table.php:55
+#: shortcodes/elements/section-head.php:76
+msgid "Title Font Size"
+msgstr ""
+
+#: shortcodes/elements/price-table.php:58
+#: shortcodes/elements/price-table.php:73
+#: shortcodes/elements/section-head.php:79
+#: shortcodes/elements/section-head.php:94
+msgid "Font size with px ( like 28px )"
+msgstr ""
+
+#: shortcodes/elements/price-table.php:63
+#: shortcodes/elements/section-head.php:84
+msgid "Sub Title Color"
+msgstr ""
+
+#: shortcodes/elements/price-table.php:70
+#: shortcodes/elements/section-head.php:91
+msgid "Sub Title Font Size"
+msgstr ""
+
+#: shortcodes/elements/price-table.php:78
+#: shortcodes/elements/section-head.php:99
+msgid "Number box background color"
+msgstr ""
+
+#: shortcodes/elements/price-table.php:85
+#: shortcodes/elements/section-head.php:106
+msgid "Number box font color"
+msgstr ""
+
+#: shortcodes/elements/price-table.php:286
+msgid "$"
+msgstr ""
+
+#: shortcodes/elements/price-table.php:286
+msgid ".00"
+msgstr ""
+
+#: shortcodes/elements/section-head.php:8
+msgid "Section Head"
+msgstr ""
+
+#: shortcodes/elements/section-head.php:36
+#: shortcodes/elements/service-post-grid.php:49
+msgid "Please select your section text align"
+msgstr ""
+
+#: shortcodes/elements/service-post-grid.php:8
+msgid "Service Post Grid"
+msgstr ""
+
+#: shortcodes/elements/service-post-grid.php:21
+msgid "Posts Content Length"
+msgstr ""
+
+#: shortcodes/elements/service-post-grid.php:61
+msgid "Please select service style"
+msgstr ""
+
+#: shortcodes/elements/service-post-grid.php:63
+msgid "Select service style"
+msgstr ""
+
+#: shortcodes/elements/service-post-grid.php:66
+msgid "Style 3"
+msgstr ""
+
+#: shortcodes/elements/services-items.php:8
+msgid "Service Items"
+msgstr ""
+
+#: shortcodes/elements/services-items.php:21
+msgid "Item base color"
+msgstr ""
+
+#: shortcodes/elements/services-items.php:55
+msgid "Icon font color"
+msgstr ""
+
+#: shortcodes/elements/services-items.php:74
+msgid "Icon Image 2"
+msgstr ""
+
+#: shortcodes/elements/services-items.php:90
+msgid "Item Title Underline"
+msgstr ""
+
+#: shortcodes/elements/services-items.php:91
+msgid "This field for only style 3 ( underline title part )"
+msgstr ""
+
+#: shortcodes/elements/services-items.php:137
+#: shortcodes/elements/services-items.php:138
+msgid "External Text"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:8
+msgid "Single Price Table"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:16
+msgid "Table Image"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:21
+msgid "Table title"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:26
+msgid "Price currency"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:31
+msgid "Table price"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:36
+msgid "Price Coins"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:41
+msgid "Table time"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:51
+msgid "List Style"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:56
+msgid "List Variation"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:89
+msgid "Table button text"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:94
+msgid "Table button link"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:100
+msgid "Active item ?"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:106
+msgid "Active item selector"
+msgstr ""
+
+#: shortcodes/elements/single-price-table.php:187
+msgid "icon"
+msgstr ""
+
+#: shortcodes/elements/team-cta.php:8
+msgid "Team CTA"
+msgstr ""
+
+#: shortcodes/elements/team-cta.php:16
+msgid "Background Image"
+msgstr ""
+
+#: shortcodes/elements/team-cta.php:26
+msgid "Under Line Title"
+msgstr ""
+
+#: shortcodes/elements/team-post-grid.php:8
+msgid "Team Post Grid"
+msgstr ""
+
+#: shortcodes/elements/testimonials.php:40
+#: shortcodes/elements/testimonials.php:93
+#: shortcodes/elements/testimonials.php:112
+msgid "There have more testimonial style"
+msgstr ""
+
+#: shortcodes/elements/testimonials.php:46
+msgid "Slide Count"
+msgstr ""
+
+#: shortcodes/elements/testimonials.php:49
+#: shortcodes/elements/testimonials.php:56
+msgid "Display Testimonial in desktop device"
+msgstr ""
+
+#: shortcodes/elements/testimonials.php:63
+msgid "Display Testimonial in tablet device"
+msgstr ""
+
+#: shortcodes/elements/testimonials.php:70
+msgid "Display Testimonial in mobile device"
+msgstr ""
+
+#: shortcodes/elements/testimonials.php:76
+msgid "false"
+msgstr ""
+
+#: shortcodes/elements/testimonials.php:87
+msgid "Rating Show"
+msgstr ""
+
+#: shortcodes/elements/testimonials.php:98
+msgid "Rating Color"
+msgstr ""
+
+#: shortcodes/elements/testimonials.php:100
+msgid "Rating Star Color"
+msgstr ""
+
+#: shortcodes/elements/testimonials.php:106
+msgid "Thumbnail Show"
+msgstr ""
+
+#: shortcodes/xtl-shortcode-action.php:50
+msgid "Flaticons"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Alvon Master"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://pluginspoint.com/alvon/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"After install the Alvon Theme, you must need to install \"Alvon Master\" "
+"plugin first to get all features."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Johanspond"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://pluginspoint.com/"
+msgstr ""

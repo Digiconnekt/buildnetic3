@@ -1,0 +1,17 @@
+.cx-button.button {
+	width: 200px;
+	height: 40px;
+	font-size: 18px;
+	line-height: 40px;
+	text-align: center;
+	border-radius: 20px;
+	font-weight: 300;
+	margin-top: 10px;
+}
+.cx-title {
+	margin: 10px 0 5px 0;
+}
+.cx-desc {
+	font-size: 15px;
+	margin: 0 0 10px 0;
+}

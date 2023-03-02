@@ -1,0 +1,42 @@
+[21-May-2022 06:29:18 UTC] PHP Warning:  get_comment(): Argument #1 ($comment) must be passed by reference, value given in /home/u657051008/domains/buildnetic.com/public_html/wp-includes/class-wp-comment-query.php on line 484
+[21-May-2022 06:29:27 UTC] PHP Deprecated:  Required parameter $working follows optional parameter $type in /home/u657051008/domains/buildnetic.com/public_html/wp-includes/SimplePie/Locator.php on line 97
+[21-May-2022 06:29:27 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method WP_Feed_Cache::create() cannot be called statically in /home/u657051008/domains/buildnetic.com/public_html/wp-includes/SimplePie/Registry.php:214
+Stack trace:
+#0 /home/u657051008/domains/buildnetic.com/public_html/wp-includes/class-simplepie.php(1412): SimplePie_Registry->call()
+#1 /home/u657051008/domains/buildnetic.com/public_html/wp-includes/feed.php(821): SimplePie->init()
+#2 /home/u657051008/domains/buildnetic.com/public_html/wp-includes/widgets.php(1493): fetch_feed()
+#3 /home/u657051008/domains/buildnetic.com/public_html/wp-admin/includes/dashboard.php(1517): wp_widget_rss_output()
+#4 /home/u657051008/domains/buildnetic.com/public_html/wp-admin/includes/dashboard.php(1125): wp_dashboard_primary_output()
+#5 /home/u657051008/domains/buildnetic.com/public_html/wp-admin/includes/dashboard.php(1501): wp_dashboard_cached_rss_widget()
+#6 /home/u657051008/domains/buildnetic.com/public_html/wp-admin/includes/ajax-actions.php(400): wp_dashboard_primary()
+#7 /home/u657051008/domains/buildnetic.com/public_html/wp-includes/class-wp-hook.php(287): wp_ajax_dashboard_widgets()
+#8 /home/u657051008/domains/buildnetic.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#9 /home/u657051008/domains/buildnetic.com/public_html/wp-includes/plugin.php(478): WP_Hook->do_action()
+#10 /home/u657051008/domains/buildnetic.com/public_html/wp-admin/admin-ajax.php(176): do_action()
+#11 {main}
+  thrown in /home/u657051008/domains/buildnetic.com/public_html/wp-includes/SimplePie/Registry.php on line 214
+[21-May-2022 06:29:55 UTC] PHP Warning:  Attempt to read property "name" on bool in /home/u657051008/domains/buildnetic.com/public_html/wp-admin/nav-menus.php on line 1056
+[21-May-2022 06:30:07 UTC] PHP Warning:  Attempt to read property "name" on bool in /home/u657051008/domains/buildnetic.com/public_html/wp-admin/nav-menus.php on line 1056
+[21-May-2022 10:07:37 UTC] PHP Warning:  get_comment(): Argument #1 ($comment) must be passed by reference, value given in /home/u657051008/domains/buildnetic.com/public_html/wp-includes/class-wp-comment-query.php on line 484
+[21-May-2022 10:07:38 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, non-static method WP_Feed_Cache::create() cannot be called statically in /home/u657051008/domains/buildnetic.com/public_html/wp-includes/SimplePie/Registry.php:214
+Stack trace:
+#0 /home/u657051008/domains/buildnetic.com/public_html/wp-includes/class-simplepie.php(1412): SimplePie_Registry->call()
+#1 /home/u657051008/domains/buildnetic.com/public_html/wp-includes/feed.php(821): SimplePie->init()
+#2 /home/u657051008/domains/buildnetic.com/public_html/wp-includes/widgets.php(1493): fetch_feed()
+#3 /home/u657051008/domains/buildnetic.com/public_html/wp-admin/includes/dashboard.php(1517): wp_widget_rss_output()
+#4 /home/u657051008/domains/buildnetic.com/public_html/wp-admin/includes/dashboard.php(1125): wp_dashboard_primary_output()
+#5 /home/u657051008/domains/buildnetic.com/public_html/wp-admin/includes/dashboard.php(1501): wp_dashboard_cached_rss_widget()
+#6 /home/u657051008/domains/buildnetic.com/public_html/wp-admin/includes/ajax-actions.php(400): wp_dashboard_primary()
+#7 /home/u657051008/domains/buildnetic.com/public_html/wp-includes/class-wp-hook.php(287): wp_ajax_dashboard_widgets()
+#8 /home/u657051008/domains/buildnetic.com/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#9 /home/u657051008/domains/buildnetic.com/public_html/wp-includes/plugin.php(478): WP_Hook->do_action()
+#10 /home/u657051008/domains/buildnetic.com/public_html/wp-admin/admin-ajax.php(176): do_action()
+#11 {main}
+  thrown in /home/u657051008/domains/buildnetic.com/public_html/wp-includes/SimplePie/Registry.php on line 214
+[21-May-2022 10:12:49 UTC] PHP Warning:  The magic method OCDI\OneClickDemoImport::__wakeup() must have public visibility in /home/u657051008/domains/buildnetic.com/public_html/wp-content/plugins/one-click-demo-import/inc/OneClickDemoImport.php on line 128
+[21-May-2022 10:12:58 UTC] PHP Warning:  The magic method OCDI\OneClickDemoImport::__wakeup() must have public visibility in /home/u657051008/domains/buildnetic.com/public_html/wp-content/plugins/one-click-demo-import/inc/OneClickDemoImport.php on line 128
+[21-May-2022 10:13:06 UTC] PHP Warning:  The magic method OCDI\OneClickDemoImport::__wakeup() must have public visibility in /home/u657051008/domains/buildnetic.com/public_html/wp-content/plugins/one-click-demo-import/inc/OneClickDemoImport.php on line 128
+[21-May-2022 10:13:15 UTC] PHP Warning:  The magic method OCDI\OneClickDemoImport::__wakeup() must have public visibility in /home/u657051008/domains/buildnetic.com/public_html/wp-content/plugins/one-click-demo-import/inc/OneClickDemoImport.php on line 128
+[21-May-2022 10:13:24 UTC] PHP Warning:  The magic method OCDI\OneClickDemoImport::__wakeup() must have public visibility in /home/u657051008/domains/buildnetic.com/public_html/wp-content/plugins/one-click-demo-import/inc/OneClickDemoImport.php on line 128
+[21-May-2022 10:13:30 UTC] PHP Warning:  The magic method OCDI\OneClickDemoImport::__wakeup() must have public visibility in /home/u657051008/domains/buildnetic.com/public_html/wp-content/plugins/one-click-demo-import/inc/OneClickDemoImport.php on line 128
+[21-May-2022 10:13:33 UTC] PHP Warning:  The magic method OCDI\OneClickDemoImport::__wakeup() must have public visibility in /home/u657051008/domains/buildnetic.com/public_html/wp-content/plugins/one-click-demo-import/inc/OneClickDemoImport.php on line 128

@@ -1,0 +1,29 @@
+/* - Scroll To Top 
+=============================================================================*/
+#scroller {
+    right: 0;
+    z-index: 1;
+    color: #fff;
+    width: 50px;
+    bottom: 30px;  
+    height: 50px;
+    display: none;
+    position: fixed;  
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #00aeff;
+}
+
+.fa, 
+.fas,
+.fal,
+.far {
+    font-family: "Font Awesome 5 Pro" !important;
+}
+
+rs-module [class*=" fa-"]:before {
+    font-family: "Font Awesome 5 Pro" !important;
+}

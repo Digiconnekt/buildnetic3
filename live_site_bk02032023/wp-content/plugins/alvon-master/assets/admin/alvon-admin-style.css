@@ -1,0 +1,67 @@
+div#customize-theme-controls #accordion-section-colors {
+    /*display: none !important;*/
+}
+#customize-controls .alvon-field-heading {
+    font-size: 18px !important;
+    margin-top: 30px;
+}
+.edit_form_line textarea {
+    height: 150px;
+}
+.vc-icons-selector .selected-icon i {
+    line-height: 20px !important;
+}
+i.icon {
+     margin-left: 0px !important; 
+}
+.wpb-textarea_raw_html.box_title {
+	height: 40px;
+	color: #32373c !important;
+	font-size: 14px !important;
+	font-family: inherit;
+}
+.alvon-title h4 {
+    margin: 0;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+/* = Theme options
+=============================================*/
+.alvon-field-subheading {
+    color: #fff !important;
+    background-color: #00aeff !important;
+}
+.alvon-field-image-select label {
+    border: 2px solid;
+    padding: 5px;
+}
+.alvon-field-image-select label img {
+    max-width: 100%;
+    height: auto;
+}
+.alvon-element-footer-style label {
+    width: 30%;
+}
+.alvon-element-header-style label {
+    width: 45%;
+}
+
+[data-depend-id="footer3_newsletter_shortcode"] {
+  width: 340px !important;
+}
+.alvon-element-default-footer-style.alvon-field-image_select label {
+    width: 45%;
+}
+/* = Custom post options: ;                                                                                     
+=============================================*/
+.menu-posts-service a,
+.menu-posts-slider a {
+    color: #5580ff;
+}
+a.menu-icon-testimonial .dashicons-before:before,
+a.menu-icon-portfolio .dashicons-before:before,
+a.menu-icon-service .dashicons-before:before,
+a.menu-icon-price .dashicons-before:before,
+a.menu-icon-team .dashicons-before:before {
+    color: #00aeff !important;
+}

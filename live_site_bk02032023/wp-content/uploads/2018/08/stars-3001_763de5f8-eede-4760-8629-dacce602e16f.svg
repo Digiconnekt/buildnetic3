@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="48" height="48">
+  <title>Stars</title>
+  <desc>A solid styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="#8d8ea3" d="M15 51.1L7 57l3.1-9.5L2 41.7h9.9l3.1-9.4 3.1 9.4H28l-8.1 5.8L23 57l-8-5.9zm34 0L41 57l3.1-9.5-8.1-5.8h9.9l3.1-9.4 3.1 9.4H62l-8.1 5.8L57 57l-8-5.9z"></path>
+  <path data-name="layer1" fill="#253858" d="M32 25.9l-8 5.8 3.1-9.4-8.1-5.8h9.9L32 7l3.1 9.5H45l-8.1 5.8 3.1 9.4-8-5.8z"></path>
+</svg>

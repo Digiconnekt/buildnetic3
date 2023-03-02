@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Duplica\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-24 08:29+0000\n"
+"PO-Revision-Date: 2022-03-24 08:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bengali (Bangladesh)\n"
+"Language: bn_BD\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.9.2\n"
+"X-Domain: duplica"
+
+#: inc/functions.php:26
+msgid "Post"
+msgstr "পোস্ট"
+
+#: inc/functions.php:27
+msgid "Page"
+msgstr "পেজ"
+
+#: inc/functions.php:31
+msgid "Product"
+msgstr "প্রডাক্ট"
+
+#: inc/functions.php:35
+msgid "Download"
+msgstr "ডাউনলোড"
+
+#: inc/functions.php:57
+msgid "Inherit from original"
+msgstr "মুল পোস্ট থেকে"
+
+#: inc/functions.php:58
+msgid "Draft"
+msgstr "ড্রাফ্‌ট"
+
+#: inc/functions.php:59
+msgid "Pending"
+msgstr "অপেক্ষমাণ"
+
+#: inc/functions.php:60
+msgid "Published"
+msgstr "প্রকাশিত"
+
+#: inc/functions.php:70
+msgid "No redirection"
+msgstr "কোথাও যাবে না"
+
+#: inc/functions.php:71
+msgid "Edit duplicated post"
+msgstr "অনুলিপিকৃত পোস্ট এডিট করুন"
+
+#: inc/functions.php:72
+msgid "View duplicated post"
+msgstr "অনুলিপিকৃত পোস্ট দেখুন"
+
+#: src/Settings.php:41
+msgid "Basic Settings"
+msgstr "মৌলিক সেটিংস"
+
+#: src/Settings.php:47
+msgid "Enable Duplica for"
+msgstr "ডুপ্লিকা চালু করুন"
+
+#: src/Settings.php:50
+msgid "Select post types you want to be able to duplicate."
+msgstr "যে পোস্ট টাইপগুলো অনুলিপি করতে চান সেগুলো নির্বাচন করুন"
+
+#: src/Settings.php:56
+msgid "Allow Convert"
+msgstr "পরিবর্তনের অনুমতি"
+
+#: src/Settings.php:58
+msgid "Allow converting to other post types?"
+msgstr "অন্য পোস্ট টাইপে পরিবর্তনের অনুমতি দিতে চান?"
+
+#: src/Settings.php:62
+msgid "Post Status"
+msgstr "পোস্ট স্ট্যাটাস"
+
+#: src/Settings.php:65
+msgid "What will be the status of newly created posts, pages or custom posts?"
+msgstr "নতুন তৈরিকৃত পোস্টের স্ট্যাটাস কী হবে?"
+
+#: src/Settings.php:70
+msgid "Redirection"
+msgstr "রিডাইরেকশন"
+
+#: src/Settings.php:73
+msgid "Where should it take after a post is duplicated?"
+msgstr "একটি পোস্ট অনুলিপি করার পর এটি আপনাকে কোথায় নিয়ে যাবে?"
+
+#: src/Settings.php:80 src/Admin.php:115
+msgid "Help"
+msgstr "সাহায্য"
+
+#: src/Helper.php:77
+#, php-format
+msgid "- Choose a %s -"
+msgstr "- একটি %s নির্বাচন করুন -"
+
+#: src/Helper.php:146
+msgid "Template not found!"
+msgstr "টেম্পলেট পাওয়া যায়নি।"
+
+#: src/Front.php:45
+#, php-format
+msgid "Duplicate %s"
+msgstr "%s হিসেবে অনুলিপি করুন"
+
+#: src/Front.php:60
+#, php-format
+msgid "As %s"
+msgstr "%s হিসেবে"
+
+#: src/Admin.php:106
+msgid "Settings"
+msgstr "সেটিংস"
+
+#: src/Admin.php:124
+#, php-format
+msgid ""
+"If you like <strong>%1$s</strong>, please <a href=\"%2$s\" target=\"_blank\">"
+"leave us a %3$s rating</a> on WordPress.org! It'd motivate and inspire us to "
+"make the plugin even better!"
+msgstr ""
+"আপনি যদি <strong>%1$s</strong> পছন্দ করে থাকেন, দয়া করে ওয়ার্ডপ্রেস.অর্গ-এ "
+"<a href=\"%2$s\" target=\"_blank\">আমাদেরকে একটি %3$s রেটিং দিন</a>! এটি "
+"আমাদেরকে প্লাগিনটি আরও উন্নত করতে উৎসাহিত করবে।"
+
+#: src/AJAX.php:42 src/AJAX.php:57
+msgid "Unauthorized!"
+msgstr "অননুমোদিত।"
+
+#: views/settings/help.php:10
+msgid "Community"
+msgstr "কম্যুনিটি"
+
+#: views/settings/help.php:14
+msgid "Official Website"
+msgstr "অফিশিয়াল ওয়েবসাইট"
+
+#: views/settings/help.php:18
+msgid "Ask Support"
+msgstr "সাপোর্টকে জিজ্ঞেস করুন"
+
+#: views/settings/help.php:52
+msgid "Something is wrong! No help found!"
+msgstr "কিছু একটা সমস্যা হয়েছে। কোনো সাহায্য পাওয়া যায়নি।"
+
+#. Name of the plugin
+msgid "Duplica"
+msgstr "ডুপ্লিকা"
+
+#. Description of the plugin
+msgid ""
+"Duplicate posts, pages or custom posts - everything with a single click."
+msgstr "পোস্ট, পেজ বা কাস্টম পোস্ট অনুলিপি করুন - সবকিছু এক ক্লিকে।"
+
+#. URI of the plugin
+msgid "https://codexpert.io/products"
+msgstr "https://codexpert.io/products"
+
+#. Author of the plugin
+msgid "Codexpert"
+msgstr "কোডেক্সপার্ট"
+
+#. Author URI of the plugin
+msgid "https://codexpert.io"
+msgstr "https://codexpert.io"

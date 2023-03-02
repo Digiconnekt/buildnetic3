@@ -1,0 +1,62 @@
+.vc_element-icon {
+	text-align: center;
+	border-radius: 100em;
+	background-color: #fff;
+	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.125);
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.125);
+}
+.vc_add-element-container .vc_element-icon {
+    left: 3px !important;
+}
+.vc_element-icon.fal,
+.vc_element-icon.far,
+.vc_element-icon.fab,
+.vc_element-icon.fas,
+.vc_element-icon.fa {
+	background-image: none !important;
+	width: 32px;
+	height: 32px;
+	text-align: center;
+	border-radius: 100em;
+	background-color: #fff;
+	-webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.125);
+	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.125);
+	left: 3px !important;
+}
+
+i.vc_element-icon:before, 
+li[data-element="vc_raw_js"] i.vc_element-icon:before, 
+li[data-element="vc_raw_html"] i.vc_element-icon:before, 
+li[data-element="rev_slider_vc"] i.vc_element-icon:before, 
+li[data-element="contact-form-7"] i.vc_element-icon:before, 
+li[data-element="vc_widget_sidebar"] i.vc_element-icon:before {
+	display: block;
+	font-family: "Font Awesome 5 Pro";
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 32px;
+	-webkit-font-smoothing: antialiased;
+	color: #444;
+	speak: none;
+}
+
+.wpb_content_element > .wpb_element_wrapper {
+	background-color: #E4E4E4 !important;
+}
+.vc_add-element-container .wpb-content-layouts a {
+    font-size: 12px;
+    padding: 2px 4px 2px 38px !important;
+}
+.vc_add-element-container .wpb-content-layouts a .vc_element-description {
+    font-size: 10px !important;
+}
+.wpb_single_image.disable-wpb-maxwidth img {
+	max-width: unset !important;
+}
+
+/* - Custom css for alvon
+==================================================================*/
+.wpb_single_image.max-width-reset img {
+	max-width: initial;
+}

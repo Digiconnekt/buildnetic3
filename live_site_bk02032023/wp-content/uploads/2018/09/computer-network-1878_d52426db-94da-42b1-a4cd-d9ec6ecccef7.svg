@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="64" height="64">
+  <title>Computer Network</title>
+  <desc>A line styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  fill="none" stroke="#24ccfd" stroke-linecap="round" stroke-linejoin="round"
+  stroke-width="1" d="M26 52H4V36h22v16zM4 52l-2 4v2h26v-2l-2-4"></path>
+  <path data-name="layer1" fill="none" stroke="#28759d" stroke-linecap="round"
+  stroke-linejoin="round" stroke-width="1" d="M43 22H21V6h22v16zm-22 0l-2 4v2h26v-2l-2-4m17 30H38V36h22v16zm-22 0l-2 4v2h26v-2l-2-4"></path>
+</svg>

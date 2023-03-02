@@ -1,0 +1,29 @@
+#site {
+	div.wpcf7 .ajax-loader {
+		display: none;
+		margin-top: 10px;
+		&.is-active {
+			display: block;
+		}
+	}
+	div.wpcf7-validation-errors {
+		margin-left: 0;
+		margin-right: 0;
+		color: @white;
+		background: @red;
+		text-align: center;
+		border:none;
+		padding: 10px 20px;
+		.rounded(5px);
+	}
+	div.wpcf7-mail-sent-ok {
+		margin-left: 0;
+		margin-right: 0;
+		color: @white;
+		text-align: center;
+		background: @blue;
+		border:none;
+		padding: 10px 20px;
+		.rounded(5px);
+	}
+}

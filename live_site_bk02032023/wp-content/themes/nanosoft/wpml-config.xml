@@ -1,0 +1,146 @@
+<wpml-config>
+  <shortcodes>
+    <shortcode>
+      <tag>locations</tag>
+      <attributes>
+        <attribute>height</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>scrollslider</tag>
+    </shortcode>
+    <shortcode>
+      <tag>scrollslider_item</tag>
+      <attributes>
+        <attribute>title</attribute>
+        <attribute>content</attribute>
+        <attribute>link</attribute>
+        <attribute>class</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>member</tag>
+      <attributes>
+        <attribute>name</attribute>
+        <attribute>subtitle</attribute>
+        <attribute>content</attribute>
+        <attribute>facebook</attribute>
+        <attribute>twitter</attribute>
+        <attribute>linkedin</attribute>
+        <attribute>google</attribute>
+        <attribute>class</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>testimonial</tag>
+      <attributes>
+        <attribute>name</attribute>
+        <attribute>subtitle</attribute>
+        <attribute>company</attribute>
+        <attribute>link</attribute>
+        <attribute>content</attribute>
+        <attribute>class</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>posts</tag>
+      <attributes>
+        <attribute>title</attribute>
+        <attribute>category</attribute>
+        <attribute>tag</attribute>
+        <attribute>thumbnail_size</attribute>
+        <attribute>limit</attribute>
+        <attribute>offset</attribute>
+        <attribute>content_length</attribute>
+        <attribute>readmore_text</attribute>
+        <attribute>class</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>iconlist_item</tag>
+      <attributes>
+        <attribute>content</attribute>
+        <attribute>class</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>iconlist</tag>
+      <attributes>
+        <attribute>class</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>iconbox</tag>
+      <attributes>
+        <attribute>title</attribute>
+        <attribute>content</attribute>
+        <attribute>link</attribute>
+        <attribute>text</attribute>
+        <attribute>class</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>counter</tag>
+      <attributes>
+        <attribute>title</attribute>
+        <attribute>value</attribute>
+        <attribute>prefix</attribute>
+        <attribute>suffix</attribute>
+        <attribute>duration</attribute>
+        <attribute>class</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>maps</tag>
+      <attributes>
+        <attribute>address</attribute>
+        <attribute>height</attribute>
+        <attribute>content</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>elements_carousel</tag>
+      <attributes>
+        <attribute>class</attribute>
+        <attribute>autoplay_speed</attribute>
+        <attribute>slide_speed</attribute>
+        <attribute>pagination_speed</attribute>
+        <attribute>rewind_speed</attribute>
+      </attributes>
+    </shortcode>
+    <shortcode>
+      <tag>projects</tag>
+      <attributes>
+        <attribute>widget_title</attribute>
+        <attribute>categories</attribute>
+        <attribute>tags</attribute>
+        <attribute>limit</attribute>
+        <attribute>offset</attribute>
+        <attribute>thumbnail_size</attribute>
+        <attribute>readmore_text</attribute>
+        <attribute>class</attribute>
+      </attributes>
+    </shortcode>
+  </shortcodes>
+
+  <custom-types>
+    <custom-type translate="1">nproject</custom-type>
+  </custom-types>
+  
+  <taxonomies>
+    <taxonomy translate="1">nproject-category</taxonomy>
+    <taxonomy translate="1">nproject-tag</taxonomy>
+  </taxonomies>
+  
+  <admin-texts>
+    <key name="theme_mods_glb">
+      <key name="mods">
+        <key name="header__topbar__text"/>
+        <key name="footer__copyright__content"/>
+      </key>
+      <key name="header__topbar__text"/>
+      <key name="footer__copyright__content"/>
+      <key name="project__related__title"/>
+    </key>
+  </admin-texts>
+</wpml-config>

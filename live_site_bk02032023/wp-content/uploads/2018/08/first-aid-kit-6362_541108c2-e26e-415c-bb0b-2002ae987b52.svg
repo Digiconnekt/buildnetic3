@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="48" height="48">
+  <title>First Aid Kit</title>
+  <desc>A solid styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M58 15H6a6 6 0 0 0-6 6v32a6 6 0 0 0 6 6h52a6 6 0 0 0 6-6V21a6 6 0 0 0-6-6zM43 40h-8v8h-6v-8h-8v-6h8v-8h6v8h8z"
+  fill="#8d8ea3"></path>
+  <path data-name="layer1" d="M24 13v-3a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v3h4v-3a6.007 6.007 0 0 0-6-6H26a6.007 6.007 0 0 0-6 6v3z"
+  fill="#253858"></path>
+</svg>

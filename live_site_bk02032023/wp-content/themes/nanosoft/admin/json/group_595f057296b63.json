@@ -1,0 +1,211 @@
+{
+    "key": "group_595f057296b63",
+    "title": "Page Options",
+    "fields": [
+        {
+            "key": "field_595f057c5871a",
+            "label": "Title Bar",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_595f05995871b",
+            "label": "Title",
+            "name": "title",
+            "type": "text",
+            "instructions": "Enter the custom title you want to show on the title bar.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_595f06045871c",
+            "label": "Subtitle",
+            "name": "subtitle",
+            "type": "text",
+            "instructions": "Enter the custom title you want to show on the title bar.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_59fa9e15663bf",
+            "label": "Layout",
+            "name": "titlebarLayout",
+            "type": "select",
+            "instructions": "Select the content layout for titlebar that you want to display.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "default": "Use Theme Setting",
+                "both": "Page Title and Breadcrumbs",
+                "title": "Page Title Only",
+                "breadcrumbs": "Breadcrumbs Only",
+                "none": "None"
+            },
+            "default_value": [
+                "default"
+            ],
+            "allow_null": 0,
+            "multiple": 0,
+            "ui": 0,
+            "ajax": 0,
+            "return_format": "value",
+            "placeholder": ""
+        },
+        {
+            "key": "field_59fa9ed623c88",
+            "label": "Content Alignment",
+            "name": "titlebarAlign",
+            "type": "radio",
+            "instructions": "Select an alignment for the titlebar content.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "default": "Use Theme Setting",
+                "left": "Left",
+                "center": "Center",
+                "right": "Right",
+                "inline": "Inline"
+            },
+            "allow_null": 0,
+            "other_choice": 0,
+            "save_other_choice": 0,
+            "default_value": "default",
+            "layout": "horizontal",
+            "return_format": "value"
+        },
+        {
+            "key": "field_595f06195871d",
+            "label": "Layout",
+            "name": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_595f06285871e",
+            "label": "Sidebar Position",
+            "name": "sidebarPosition",
+            "type": "radio",
+            "instructions": "Select the position of the primary sidebar for the current page\/post.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "default": "Use Theme Setting",
+                "none": "No Sidebar",
+                "left": "Left",
+                "right": "Right"
+            },
+            "allow_null": 0,
+            "other_choice": 0,
+            "save_other_choice": 0,
+            "default_value": "default",
+            "layout": "horizontal",
+            "return_format": "value"
+        },
+        {
+            "key": "field_595f06905871f",
+            "label": "Custom Widgets Area",
+            "name": "sidebar",
+            "type": "select",
+            "instructions": "Select the custom widgets area that will replace the primary sidebar area for this page\/post.",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_595f06285871e",
+                        "operator": "!=",
+                        "value": "none"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "default": "Use Theme Setting"
+            },
+            "default_value": [
+                "default"
+            ],
+            "allow_null": 0,
+            "multiple": 0,
+            "ui": 0,
+            "ajax": 0,
+            "return_format": "value",
+            "placeholder": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "!=",
+                "value": "vc4_templates"
+            }
+        ]
+    ],
+    "menu_order": 1,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "left",
+    "instruction_placement": "field",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1509597137
+}

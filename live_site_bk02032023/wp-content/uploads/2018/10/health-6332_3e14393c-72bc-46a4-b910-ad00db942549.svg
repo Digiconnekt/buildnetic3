@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="64" height="64">
+  <title>Health</title>
+  <desc>A line styled icon from Orion Icon Library.</desc>
+  <path data-name="layer2"
+  d="M6.775 7.821l25-5.769a1 1 0 0 1 .45 0l25 5.769A1 1 0 0 1 58 8.8v15.265A41.975 41.975 0 0 1 31.994 62 41.97 41.97 0 0 1 6 24.065V8.8a1 1 0 0 1 .775-.979z"
+  fill="none" stroke="#28759d" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+  <path data-name="layer1" d="M39 18a7.549 7.549 0 0 0-7 4.815A7.549 7.549 0 0 0 25 18a7.113 7.113 0 0 0-7 7.222C18 31.481 23.133 37.741 32 44c8.867-6.259 14-12.519 14-18.778A7.113 7.113 0 0 0 39 18z"
+  fill="none" stroke="#24ccfd" stroke-linecap="round" stroke-miterlimit="10"
+  stroke-width="2" stroke-linejoin="round"></path>
+</svg>

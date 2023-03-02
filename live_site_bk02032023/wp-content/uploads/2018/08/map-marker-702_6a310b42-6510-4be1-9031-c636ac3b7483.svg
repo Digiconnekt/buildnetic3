@@ -1,0 +1,15 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink"
+width="64" height="64">
+  <title>Map Marker</title>
+  <desc>A line styled icon from Orion Icon Library.</desc>
+  <path d="M43.2 48.1l-7.2-4L18 52 2 44.1V4l16 7.9L36 3l18 8.9v20.3M36 44.1V3M18 52V11.9"
+  stroke-width="2" stroke-miterlimit="10" stroke="#00c4ff" fill="none" data-name="layer2"
+  stroke-linejoin="round" stroke-linecap="round"></path>
+  <path stroke-width="2" stroke-miterlimit="10" stroke="#00c4ff"
+  fill="none" d="M52 32a10 10 0 0 0-10 10c0 9 10 19 10 19s10-10 10-19a10 10 0 0 0-10-10z"
+  data-name="layer1" stroke-linejoin="round" stroke-linecap="round"></path>
+  <circle stroke-width="2" stroke-miterlimit="10" stroke="#00c4ff"
+  fill="none" r="3" cy="42" cx="52" data-name="layer1" stroke-linejoin="round"
+  stroke-linecap="round"></circle>
+</svg>
