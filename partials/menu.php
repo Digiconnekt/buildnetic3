@@ -24,7 +24,7 @@
             target="_blank"
             ><i class="fa-solid fa-envelope"></i
           ></a>
-          <a class="btn btn-blue" href="./get-in-touch.html" role="button"
+          <a class="btn btn-blue" href="../get-in-touch.html" role="button"
             >Get In Touch</a
           >
         </div>
@@ -32,10 +32,10 @@
       <!-- mobile top links block end -->
       <div class="container">
         <!-- logo start -->
-        <a class="navbar-brand" href="./index.html">
+        <a class="navbar-brand" href="../index.html">
           <img
             class="logo"
-            src="./images/buildnetic-logo.png"
+            src="../images/buildnetic-logo.png"
             alt="Buildnetic"
           />
         </a>
@@ -84,7 +84,7 @@
               target="_blank"
               ><i class="fa-solid fa-envelope"></i
             ></a>
-            <a class="btn btn-blue" href="./get-in-touch.html" role="button"
+            <a class="btn btn-blue" href="../get-in-touch.html" role="button"
               >Get In Touch</a
             >
           </div>
@@ -93,7 +93,7 @@
           <!-- bottom links block start -->
           <ul class="navbar-nav ml-auto mb-2 mb-lg-0 my-2">
             <li class="nav-item me-xl-4 me-lg-2">
-              <a class="nav-link" aria-current="page" href="./index.html"
+              <a class="nav-link" aria-current="page" href="../index.html"
                 >Home</a
               >
             </li>
@@ -110,12 +110,12 @@
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li>
-                  <a class="dropdown-item" href="./about-us.html">About</a>
+                  <a class="dropdown-item" href="../about-us.html">About</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="./careers.html">Careers</a>
+                  <a class="dropdown-item" href="../careers.html">Careers</a>
                 </li>
-                <li><a class="dropdown-item" href="./faq.html">FAQ</a></li>
+                <li><a class="dropdown-item" href="../faq.html">FAQ</a></li>
               </ul>
             </li>
             <li class="nav-item me-xl-4 me-lg-2 dropdown">
@@ -136,47 +136,47 @@
                 <div class="row">
                   <div class="col-12 col-md-6 border-right">
                     <li>
-                      <a class="dropdown-item" href="./services.html"
+                      <a class="dropdown-item" href="../services.html"
                         >IT Services</a
                       >
                     </li>
                     <li>
-                      <a class="dropdown-item" href="./services/it-support.html"
+                      <a class="dropdown-item" href="../services/it-support.html"
                         >IT Support</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="./services/web-development.html"
+                        href="../services/web-development.html"
                         >Web Development</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="./services/mobile-development.html"
+                        href="../services/mobile-development.html"
                         >Mobility Solutions</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="./services/cloud-computing.html"
+                        href="../services/cloud-computing.html"
                         >Cloud Computing</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="./services/custom-application-development.html"
+                        href="../services/custom-application-development.html"
                         >Custom Application Development</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="./services/dedicated-developers.html"
+                        href="../services/dedicated-developers.html"
                         >Dedicated Developers</a
                       >
                     </li>
@@ -185,42 +185,42 @@
                     <li>
                       <a
                         class="dropdown-item"
-                        href="./services/cyber-security.html"
+                        href="../services/cyber-security.html"
                         >Cyber Security</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="./services/business-intelligence-consulting.html"
+                        href="../services/business-intelligence-consulting.html"
                         >Business Intelligence Consulting</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="./services/e-commerce-solutions.html"
+                        href="../services/e-commerce-solutions.html"
                         >E-Commerce Solutions</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="./services/ui-ux-solutions.html"
+                        href="../services/ui-ux-solutions.html"
                         >UI-UX Solutions</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="./services/software-test-management.html"
+                        href="../services/software-test-management.html"
                         >Software Test Management</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="./services/e-learning-solutions.html"
+                        href="../services/e-learning-solutions.html"
                         >E-Learning Solutions</a
                       >
                     </li>
@@ -229,15 +229,15 @@
               </ul>
             </li>
             <li class="nav-item me-xl-4 me-lg-2">
-              <a class="nav-link" href="./engagement-model.html"
+              <a class="nav-link" href="../engagement-model.html"
                 >Engagement Models</a
               >
             </li>
             <li class="nav-item me-xl-4 me-lg-2">
-              <a class="nav-link" href="./blogs.html">Blogs</a>
+              <a class="nav-link" href="../blogs.html">Blogs</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./contact-us.html">Contact Us</a>
+              <a class="nav-link" href="../contact-us.html">Contact Us</a>
             </li>
           </ul>
           <!-- bottom links block end -->
