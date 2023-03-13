@@ -58,8 +58,7 @@ for (let i = 0; i < footerMenuItem.length; i++) {
 }
 // footerActive class for footer end
 
-//counter section start
-
+// HOME PAGE counter section start
 const counterSection = document.querySelector(".counter-section");
 
 const counterObserver = new IntersectionObserver(
@@ -97,4 +96,4 @@ const counterObserver = new IntersectionObserver(
 );
 
 counterObserver.observe(counterSection);
-//counter section end
+// HOME PAGE counter section end

@@ -37,7 +37,7 @@
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
     <!-- CUSTOM CSS LINK FOR LANDING PAGE START -->
-    <link rel="stylesheet" href="./css/landing.css" />
+    <link rel="stylesheet" href="./css/immediate-hire.css" />
   </head>
   <body>
     <!-- header section start -->
@@ -51,7 +51,7 @@
     >
       <div class="container">
         <div class="row align-items-center">
-          <div class="col-md-6" data-aos="fade-right" data-aos-duration="1000">
+          <div class="col-lg-6" data-aos="fade-right" data-aos-duration="1000">
             <h1 class="fw-bold display-4">
               Hire <span style="color: #0075ff">Immediately</span> <br />
               available Professionals
@@ -61,7 +61,7 @@
             </h3>
           </div>
           <div
-            class="col-md-6 mt-5 mt-md-0"
+            class="col-lg-6 mt-5 mt-lg-0"
             data-aos="fade-left"
             data-aos-duration="1000"
           >
@@ -70,10 +70,10 @@
           <p class="text-center mt-2 mb-4">Fill out the information below and we will reach you soon</p>
             <form method="post">
               <div class="row">
-                <div class="col-6 mb-3">
+                <div class="col-sm-6 mb-3">
                   <input name="name" class="form-control" type="text" placeholder="Enter Your Name" required/>
                 </div>
-                <div class="col-6 mb-3">
+                <div class="col-sm-6 mb-3">
                   <input name="mobile" class="form-control" type="text" placeholder="Enter Your Mobile Number" required/>
                 </div>
                 <div class="col-12 mb-3">
@@ -321,26 +321,54 @@
 
         <div class="row my-5 justify-content-around">
           <div class="col-lg-4">
-            <div class="block">
+            <div class="block pb-4">
               <h3 class="text-center py-4">Your Pay Role</h3>
-              <ul class="mx-5 py-4">
+              <ul class="mx-5 pt-4">
                 <li class="pb-3">
                   You have an HR team to manage the candidates.
                 </li>
                 <li>Stable projects which requires less flexibility.</li>
               </ul>
+
+              <hr class="mx-5" />
+
+              <p class="mx-5 fw-bold">Highlighted Points
+                <i class="fa-solid fa-arrow-right-long ms-2"></i
+              ></p>
+              <p class="mx-5 mt-3">
+                <i class="fa-regular fa-circle-check me-2"></i> Flat one time
+                15% of CTC.
+              </p>
+              <p class="mx-5">
+                <i class="fa-regular fa-circle-check me-2"></i> Quickly ramp up
+                the team size.
+              </p>
             </div>
           </div>
           <div class="col-lg-4 mt-5 mt-lg-0">
-            <div class="block">
+            <div class="block pb-4">
               <h3 class="text-center py-4">Buildnetic Pay Role</h3>
-              <ul class="mx-5 py-4">
+              <ul class="mx-5 pt-4">
                 <li class="pb-3">
                   We will manage payroll, timesheet, benefits, legal and
                   policies.
                 </li>
                 <li>More flexibility on resources and projects.</li>
               </ul>
+
+              <hr class="mx-5" />
+
+              <p class="mx-5 fw-bold">Highlighted Points
+                <i class="fa-solid fa-arrow-right-long ms-2"></i
+              ></p>
+              <p class="mx-5 mt-3">
+                <i class="fa-regular fa-circle-check me-2"></i> Hourly billing,
+                based on resources.
+              </p>
+              <p class="mx-5">
+                <i class="fa-regular fa-circle-check me-2"></i> Monthly
+                timesheet to track the progress.
+              </p>
             </div>
           </div>
         </div>
@@ -371,7 +399,7 @@
                   aria-expanded="true"
                   aria-controls="collapseOne"
                 >
-                Are free Anti-Virus software any good?
+                What's the average notice period of a candidate?
                 </button>
               </h2>
               <div
@@ -381,7 +409,7 @@
                 data-bs-parent="#accordionExample"
               >
                 <div class="accordion-body">
-                First and foremost, you never want to go without security protection on your computer. Free Anti-Virus has very low detection rates. Give us a call and we will be happy to inform you of the latest security software we recommend and sell to all our clients for Spyware, Malware and Virus protection.
+                We only deal with immediate profiles with less than 30 days of notice period.
                 </div>
               </div>
             </div>
@@ -395,7 +423,7 @@
                   aria-expanded="false"
                   aria-controls="collapseTwo"
                 >
-                What exactly are Managed IT Services?
+                Do you guys provide HR services as well? If we hire a candidate on our payroll?
                 </button>
               </h2>
               <div
@@ -405,7 +433,7 @@
                 data-bs-parent="#accordionExample"
               >
                 <div class="accordion-body">
-                Simply put, NanoSoft Managed IT Services means we take care of your entire information technology requirement. We manage all your hardware and software sourcing, installation, technical support, and IT staffing needs. It also means NanoSoft acts as your go-to consultancy and support team, providing scheduled maintenance and upgrading of your systems, along with emergency assistance to keep your business up and running.
+                No, to attain HR services you have to hire a candidate on Buildnetic payroll.
                 </div>
               </div>
             </div>
@@ -419,7 +447,7 @@
                   aria-expanded="false"
                   aria-controls="collapseThree"
                 >
-                What is cloud backup?
+                The candidate is a duplicate and we already aligned the interview, does it affect the billing?
                 </button>
               </h2>
               <div
@@ -429,7 +457,7 @@
                 data-bs-parent="#accordionExample"
               >
                 <div class="accordion-body">
-                Cloud backup also known as Online Backup is the process where your onsite backups are transferred to an offsite server every night. The server is located in a secure data centre in Perth. Cloud Backup replaces the need for someone to take a backup home each night. It is more secure, reliable and easier to manage and monitor.
+                No, please check the candidate's resume thoroughly before aligning the interview rounds. Once the interview is aligned via our portal, we will consider it as a lead and our verification team might block your account in case of external conversion of the candidate.
                 </div>
               </div>
             </div>
@@ -443,7 +471,7 @@
                   aria-expanded="false"
                   aria-controls="collapseFour"
                 >
-                What kind of response times can I expect?
+                Do we have to pay to post a job?
                 </button>
               </h2>
               <div
@@ -453,7 +481,7 @@
                 data-bs-parent="#accordionExample"
               >
                 <div class="accordion-body">
-                We work with each client to establish specific expectations. Our measurable service levels specify clear consequences for not living up to agreed-upon expectations.
+                No, we won't charge anything until you hire a candidate.
                 </div>
               </div>
             </div>
@@ -467,7 +495,7 @@
                   aria-expanded="false"
                   aria-controls="collapseFive"
                 >
-                How Long is a Managed Services Contract For?
+                I posted a job but didn't receive any profiles.
                 </button>
               </h2>
               <div
@@ -477,7 +505,7 @@
                 data-bs-parent="#accordionExample"
               >
                 <div class="accordion-body">
-                Managed IT Services Contracts vary by provider. Some providers offer month-to-month programs, while others require a multi-year contract. Some have a very high startup cost and lower monthly, while others require a multi-year contract. Some have a very high startup cost and lower monthly, while others offer a middle of the road monthly cost and spread the cost of startup over the term of the agreement.
+                As we screen the candidates before aligning and sometimes it takes more than expected, usually within 48 hours you should get the candidates.
                 </div>
               </div>
             </div>
@@ -491,7 +519,7 @@
                   aria-expanded="false"
                   aria-controls="collapseSix"
                 >
-                What should I do before I call for help?
+                I received less number of candidates for a job.
                 </button>
               </h2>
               <div
@@ -501,7 +529,79 @@
                 data-bs-parent="#accordionExample"
               >
                 <div class="accordion-body">
-                When possible, write down any information about error messages and take screen shots your issue. Next, attempt to recreate the issue. Often times, it helps to close the program and restart the computer to reset the system, and possibly resolve the problem.
+                These are immediately available handpicked candidates. The average number of candidates on a job is around 8-10.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingSeven">
+                <button
+                  class="accordion-button collapsed"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseSeven"
+                  aria-expanded="false"
+                  aria-controls="collapseSeven"
+                >
+                I can see the candidate is up for other jobs.
+                </button>
+              </h2>
+              <div
+                id="collapseSeven"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingSeven"
+                data-bs-parent="#accordionExample"
+              >
+                <div class="accordion-body">
+                Yes, these are immediately available profiles and are generally high in demand. Better to hire them first.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingEight">
+                <button
+                  class="accordion-button collapsed"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseEight"
+                  aria-expanded="false"
+                  aria-controls="collapseEight"
+                >
+                Min. duration to hire a candidate on Buildnetic payroll?
+                </button>
+              </h2>
+              <div
+                id="collapseEight"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingEight"
+                data-bs-parent="#accordionExample"
+              >
+                <div class="accordion-body">
+                Min duration is six months and above.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header" id="headingNine">
+                <button
+                  class="accordion-button collapsed"
+                  type="button"
+                  data-bs-toggle="collapse"
+                  data-bs-target="#collapseNine"
+                  aria-expanded="false"
+                  aria-controls="collapseNine"
+                >
+                I have an issue with the billing.
+                </button>
+              </h2>
+              <div
+                id="collapseNine"
+                class="accordion-collapse collapse"
+                aria-labelledby="headingNine"
+                data-bs-parent="#accordionExample"
+              >
+                <div class="accordion-body">
+                Please reach out to your dedicated account manager.
                 </div>
               </div>
             </div>
