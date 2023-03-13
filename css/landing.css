@@ -1,0 +1,163 @@
+.border-blue {
+  width: 100px;
+  height: 3px;
+  background-color: #0075ff;
+}
+
+.border-white {
+  width: 100px;
+  height: 3px;
+  background-color: #ffffff;
+}
+
+.border-black {
+  width: 60px;
+  height: 2px;
+  background-color: #555555;
+}
+
+.section-heading {
+  color: #0075ff;
+}
+
+/* hero section START */
+.landing-hero-section {
+  /* background-image: url("../images/landing/hero-banner.png"); */
+  background-color: #f9f9f9;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+}
+
+.landing-hero-section h1,
+.landing-hero-section h3 {
+  color: #000000;
+}
+
+.landing-hero-section .btn.btn-get-started {
+  background-color: #0075ff;
+  border-color: #0075ff;
+  color: #ffffff;
+  font-weight: 500;
+  box-shadow: 1px 1px 3px #0075ff;
+  transition: all 0.25s ease;
+}
+
+.landing-hero-section .btn.btn-get-started:hover {
+  box-shadow: none;
+  transition: all 0.25s ease;
+}
+/* hero section END */
+
+/* how it works section START */
+.how-it-works-section .border-tracker {
+  border-right: 3px solid #c6c6c6;
+}
+
+.how-it-works-section .border-tracker.active {
+  border-right: 3px solid #0075ff;
+}
+/* how it works section END */
+
+/* why us section START */
+
+.why-us-section p i {
+  color: #f58a22;
+}
+
+.why-us-section .block {
+  background-color: #ffffff;
+  border: 1px solid #ffffff;
+  border-radius: 8px;
+  box-shadow: 0px 0px 3px #a4a4a4;
+}
+/* why us section END */
+
+/* hiring model section START */
+.hiring-model-section {
+  background-image: url("../images/landing/hiring-model-bg.png");
+  background-position: bottom center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.hiring-model-section h1,
+.hiring-model-section h5 {
+  color: #ffffff;
+}
+
+.hiring-model-section .block {
+  border: 1px solid #c7c7c7;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 1px 1px 3px #c7c7c7;
+  transition: all 0.25s ease;
+}
+
+.hiring-model-section .block h3 {
+  border-bottom: 1px solid #8cb2cb;
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  transition: all 0.25s ease;
+}
+
+.hiring-model-section .block .btn.btn-get-in-touch {
+  background-color: #ffffff;
+  border-color: #0075ff;
+  color: #0075ff;
+  font-weight: 500;
+  box-shadow: 1px 1px 3px #a7d0ff;
+  transition: all 0.25s ease;
+}
+
+.hiring-model-section .block hr {
+  color: #ddeffd;
+  padding: 2px 0;
+}
+
+.hiring-model-section .block a.terms-and-cond {
+  color: #000000;
+}
+
+.hiring-model-section .block p i {
+  color: #0075ff;
+}
+
+.hiring-model-section .block:hover .btn.btn-get-in-touch:hover {
+  background-color: #0075ff;
+  color: #ffffff;
+  box-shadow: none;
+  transition: all 0.25s ease;
+}
+
+.hiring-model-section .block:hover a.terms-and-cond:hover {
+  color: #f58a22;
+  transition: all 0.25s ease;
+}
+/* hiring model section END */
+
+/* our clients section START */
+.our-clients-section {
+  /* background-color: #f9f9f9; */
+}
+
+.our-clients-section .image-block {
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 1px 1px 3px #c6c6c6;
+}
+
+.our-clients-section .image-block img {
+  width: 100%;
+}
+/* our clients section END */
+
+@media (max-width: 400px) {
+  .how-it-works-section .border-tracker {
+    border-right: none;
+  }
+
+  .how-it-works-section .border-tracker.active {
+    border-right: none;
+  }
+}

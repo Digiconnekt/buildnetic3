@@ -147,6 +147,7 @@ body {
 .navbar-light .navbar-nav .nav-link {
   font-weight: 500;
   color: #000000;
+  border-bottom: 2px solid transparent;
 }
 
 .navbar-light .navbar-toggler {
