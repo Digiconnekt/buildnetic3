@@ -25,34 +25,26 @@ $mail->AddAddress("piyush@buildnetic.com", "Piyush");
 $mail->SetFrom("info@buildnetic.com", "Buildnetic info");
 $mail->AddReplyTo("info@buildnetic.com", "Buildnetic info");
 $mail->AddCC("info@buildnetic.com", "Buildnetic info");
-$steps=['#step1', '#step2', '#step3', '#step4', '#step5', '#step6', '#step7', '#step8'];
+
 
 $post = $_POST;
 
-$company_name=$_POST['company_name'];
-$company_email = $_POST['company_email'];
-$contact_name = $_POST['contact_name'];
-$phone = $_POST['phone'];
-$contact_message = $_POST['contact_message'];
-$stepsValue = $_POST['stepsValue'];
+$name=$_POST['name'];
+$email = $_POST['email'];
+$assistanceWith = $_POST['assistanceWith'];
+$mobile = $_POST['mobile'];
+$message = $_POST['message'];
+// $upload - jd = $_POST['upload-jd'];
 
-$stepsArray=json_decode($stepsValue,true);
-$stepsStr='';
-foreach($stepsArray as $key=>$value){
-    $stepsStr.= $steps[$key]."".$value."<br>";
-}
 
-$mail->Subject = "New Lead for Get in Touch";
+$mail->Subject = "New Lead for Immediate Hire";
 $content= <<<END
         We have received a new requiment.Details are below <br><br>
-        Company Name: $company_name <br>
-        Company Email: $company_email <br>
-        Contact Person : $contact_name <br>
-        Phone/Mobile : $phone <br>
-        Message : $contact_message <br>
-
-        Form Steps :  <br><br>
-        $stepsStr
+        Name: $name <br>
+         Email: $email <br>
+        Candidate with  : $assistanceWith <br>
+        Phone/Mobile : $mobile <br>
+        Message : $message <br>
         
     END;
 
@@ -60,10 +52,12 @@ $content= <<<END
 $mail->MsgHTML($content);
 if (!$mail->Send()) {
     // Error
+    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
 } else {
     echo "Email sent successfully";
+    header("location: immediate-hire.php");
 }
-header("location: thank-you.php");
+
 
 
 

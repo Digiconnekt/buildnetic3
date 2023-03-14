@@ -16,15 +16,15 @@ $mail->SMTPAuth   = TRUE;
 $mail->SMTPSecure = "ssl";
 $mail->Port       = 465;
 $mail->Host       = "smtp.hostinger.com";
-$mail->Username   = "sales@buildnetic.com";
-$mail->Password   = "Sales@#123";
+$mail->Username   = "info@buildnetic.com";
+$mail->Password   = "Info@#$1036";
 
 $mail->IsHTML(true);
 $mail->AddAddress("surender.singal@gmail.com", "Surender");
 $mail->AddAddress("piyush@buildnetic.com", "Piyush");
-$mail->SetFrom("sales@buildnetic.com", "Buildnetic Sales");
-$mail->AddReplyTo("sales@buildnetic.com", "Buildnetic Sales");
-$mail->AddCC("sales@buildnetic.com", "Buildnetic Sales");
+$mail->SetFrom("info@buildnetic.com", "Buildnetic info");
+$mail->AddReplyTo("info@buildnetic.com", "Buildnetic info");
+$mail->AddCC("info@buildnetic.com", "Buildnetic info");
 $steps = ['#step1', '#step2', '#step3', '#step4', '#step5', '#step6', '#step7', '#step8'];
 
 $post = $_POST;
