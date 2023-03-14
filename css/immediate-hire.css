@@ -47,6 +47,14 @@
   box-shadow: none;
   transition: all 0.25s ease;
 }
+
+.landing-hero-section form .custom-form-control {
+  border: none;
+  background: none;
+  border-bottom: 1px solid #c5c5c5;
+  /* border-radius: 0px; */
+}
+
 /* hero section END */
 
 /* how it works section START */

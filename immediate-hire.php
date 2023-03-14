@@ -70,37 +70,37 @@
           <p class="text-center mt-2 mb-4">Fill out the information below and we will reach you soon</p>
             <form method="post">
               <div class="row">
-                <div class="col-sm-6 mb-3">
-                  <input name="name" class="form-control" type="text" placeholder="Enter Your Name" required/>
+                <div class="col-sm-6 mb-2">
+                  <input name="name" class="form-control custom-form-control" type="text" placeholder="Enter Your Name" required/>
                 </div>
-                <div class="col-sm-6 mb-3">
-                  <input name="mobile" class="form-control" type="text" placeholder="Enter Your Mobile Number" required/>
+                <div class="col-sm-6 mb-2">
+                  <input name="mobile" class="form-control custom-form-control" type="text" placeholder="Enter Your Mobile Number" required/>
                 </div>
-                <div class="col-12 mb-3">
-                  <input name="email" class="form-control" type="text" placeholder="Enter Your Email" required/>
+                <div class="col-12 mb-2">
+                  <input name="email" class="form-control custom-form-control" type="text" placeholder="Enter Your Email" required/>
                 </div>
-                <div class="col-12 mb-3">
-                  <textarea name="message" class="form-control" rows="3" placeholder="Enter Your Message" required></textarea>
+                <div class="col-12 mb-2">
+                  <textarea name="message" class="form-control custom-form-control" rows="2" placeholder="Enter Your Message" required></textarea>
                 </div>
-                <div class="col-12 mb-3">
+                <div class="col-12 mb-2">
                   <label for="formFile" class="form-label">Upload Your JD / Job Description</label>
-                  <input name="upload-jd" class="form-control" type="file" id="formFile" required>
+                  <input name="upload-jd" class="form-control form-control-sm" type="file" id="formFile" required>
                 </div>
-                <div class="col-12 mb-3">
-                  <label for="assistanceWith" class="form-label">I require assistance with:</label>
-                  <div class="form-check">
+                <div class="col-12 mb-2">
+                  <label for="assistanceWith" class="form-label d-block">I require assistance with:</label>
+                  <div class="form-check d-lg-inline-block me-3">
                     <input name="assistanceWith" class="form-check-input" type="radio" name="assistanceWith" id="your-payroll" value="Your Payroll" required>
                     <label class="form-check-label" for="your-payroll">
                       Your Payroll
                     </label>
                   </div>
-                  <div class="form-check">
+                  <div class="form-check d-lg-inline-block me-3">
                     <input name="assistanceWith" class="form-check-input" type="radio" name="assistanceWith" id="buildnetic-payroll" value="Buildnetic's Payroll" required>
                     <label class="form-check-label" for="buildnetic-payroll">
                       Buildnetic's Payroll
                     </label>
                   </div>
-                  <div class="form-check">
+                  <div class="form-check d-lg-inline-block">
                     <input name="assistanceWith" class="form-check-input" type="radio" name="assistanceWith" id="other" value="Other" required>
                     <label class="form-check-label" for="other">
                       Other
