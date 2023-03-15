@@ -39,17 +39,21 @@ $post=$_POST;
   <!-- header section end -->
 
   <!-- hero section START -->
-  <section class="landing-hero-section container-fluid py-5 mt-3" style="overflow-x: hidden">
-    <div class="container">
+  <section class="landing-hero-section mt-3" style="overflow-x: hidden">
+    <div class="landing-heading-section">
+      <h2 class="fw-bold text-center">
+        Hire <span style="color: #0075ff">Immediately</span>
+        Available Professionals
+      </h2>
+      <h5 class="mt-3 fw-light text-center">
+        No upfront fees, until you hire a candidate
+      </h5>
+    </div>
+
+    <div class="container landing-hero-content px-md-5 py-3">
       <div class="row align-items-center">
         <div class="col-lg-6" data-aos="fade-right" data-aos-duration="1000">
-          <h1 class="fw-bold display-4">
-            Hire <span style="color: #0075ff">Immediately</span> <br />
-            available Professionals
-          </h1>
-          <h3 class="mt-4 fw-light">
-            No upfront fees, until you hire a candidate
-          </h3>
+          <img src="./images/landing/hero.png" alt="Hero Image" class="img-fluid"/>
         </div>
         <div class="col-lg-6 mt-5 mt-lg-0" data-aos="fade-left" data-aos-duration="1000">
           <h3 class="text-center" style="color: #0075ff">Get In Touch</h3>
@@ -106,7 +110,7 @@ $post=$_POST;
 
   <!-- how it works section START -->
   <section id="how-it-works" class="how-it-works-section container my-5" style="overflow-x: hidden; overflow-y: hidden">
-    <h1 class="text-center fw-bold heading section-heading">How It Works</h1>
+    <h2 class="text-center fw-bold heading section-heading">How It Works</h2>
     <div class="border-blue mx-auto mb-3"></div>
     <h5 class="text-center fw-light">Hire a candidate in three steps</h5>
     <div class="row mt-5 align-items-center">
@@ -114,45 +118,44 @@ $post=$_POST;
         <div class="row align-items-center">
           <div class="col-6 border-tracker" data-aos="fade-up">
             <div class="image-block text-center">
-              <img src="./images/landing/how-it-works-1.png" alt="Submit the Job " class="img-fluid" />
+              <img src="./images/landing/how-it-works-1.png" alt="Submit the Job " class="img-fluid icon" />
             </div>
           </div>
           <div class="col-6 ps-sm-5" data-aos="fade-up">
-            <button class="btn btn-light mb-3">1</button>
-            <h4>Submit the Job</h4>
+            <button class="btn btn-light mb-1" style="padding: 0px 5px; font-size: 12px">1</button>
+            <h6>Submit the Job</h6>
             <p>Submit your Job, and you are done!</p>
           </div>
 
-          <div class="col-6 pt-5 border-tracker active" data-aos="fade-up">
-            <button class="btn btn-primary mb-3">2</button>
-            <h4>Handpicked Candidates</h4>
-            <p>Our HR will check and align the best possible candidates.</p>
-            <p>
+          <div class="col-6 pt-1 border-tracker active" data-aos="fade-up">
+            <button class="btn btn-primary mb-1" style="padding: 0px 5px; font-size: 12px">2</button>
+            <h6>Handpicked Candidates</h6>
+            <p>Our HR will check and align the best possible candidates. <br/>
               Note: To maintain the quality, we call and screen the
               candidates.
             </p>
           </div>
-          <div class="col-6 pt-5" data-aos="fade-up">
+          <div class="col-6 pt-1" data-aos="fade-up">
             <div class="image-block text-center">
-              <img src="./images/landing/how-it-works-2.png" alt="Handpicked Candidates" class="img-fluid" />
+              <img src="./images/landing/how-it-works-2.png" alt="Handpicked Candidates" class="img-fluid icon" />
             </div>
           </div>
 
-          <div class="col-6 pt-5 border-tracker" data-aos="fade-up">
+          <div class="col-6 pt-1 border-tracker" data-aos="fade-up">
             <div class="image-block text-center">
-              <img src="./images/landing/how-it-works-3.png" alt="Hire" class="img-fluid" />
+              <img src="./images/landing/how-it-works-3.png" alt="Hire" class="img-fluid icon" />
             </div>
           </div>
-          <div class="col-6 pt-5 ps-sm-5" data-aos="fade-up">
-            <button class="btn btn-light mb-3">3</button>
-            <h4>Hire</h4>
+          <div class="col-6 pt-1 ps-sm-5" data-aos="fade-up">
+            <button class="btn btn-light mb-1" style="padding: 0px 5px; font-size: 12px">3</button>
+            <h6>Hire</h6>
             <p>Hire them immediately</p>
           </div>
         </div>
       </div>
       <div class="col-lg-6 mt-5 mt-lg-0" data-aos="fade-left" data-aos-duration="1000">
-        <div class="img-block text-center">
-          <img src="./images/landing/how-it-works.png" alt="How It Works" class="img-fluid" />
+        <div class="image-block text-center">
+          <img src="./images/landing/how-it-works.png" alt="How It Works" class="img-fluid main-img" />
         </div>
       </div>
     </div>
@@ -162,7 +165,7 @@ $post=$_POST;
   <!-- why us section START -->
   <section id="why-us" class="why-us-section my-5 py-5" style="overflow-x: hidden; overflow-y: hidden">
     <div class="container">
-      <h1 class="text-center fw-bold section-heading">Why Us</h1>
+      <h2 class="text-center fw-bold section-heading">Why Us</h2>
       <div class="border-blue mx-auto mb-3"></div>
       <h5 class="text-center fw-light">
         It’s easy to place an offer letter but tough to convert the candidates
@@ -239,15 +242,15 @@ $post=$_POST;
   <!-- hiring model section START -->
   <section class="hiring-model-section my-5 py-5">
     <div class="container">
-      <h1 class="text-center fw-bold section-heading mt-5">Hiring Model</h1>
+      <h2 class="text-center fw-bold section-heading mt-5">Hiring Model</h2>
       <div class="border-white mx-auto mb-3"></div>
       <h5 class="text-center fw-light">Let’s build a team.</h5>
 
       <div class="row my-5 justify-content-around">
-        <div class="col-lg-4">
+        <div class="col-lg-5">
           <div class="block pb-4">
             <h3 class="text-center py-4">Your Pay Role</h3>
-            <ul class="mx-5 pt-4">
+            <ul class="mx-5 pt-4 ps-3">
               <li class="pb-3">
                 You have an HR team to manage the candidates.
               </li>
@@ -269,10 +272,10 @@ $post=$_POST;
             </p>
           </div>
         </div>
-        <div class="col-lg-4 mt-5 mt-lg-0">
+        <div class="col-lg-5 mt-5 mt-lg-0">
           <div class="block pb-4">
             <h3 class="text-center py-4">Buildnetic Pay Role</h3>
-            <ul class="mx-5 pt-4">
+            <ul class="mx-5 pt-4 ps-3">
               <li class="pb-3">
                 We will manage payroll, timesheet, benefits, legal and
                 policies.
@@ -309,7 +312,7 @@ $post=$_POST;
         </div>
       </div>
       <div class="col-lg-6 mt-5 mt-lg-0">
-        <h1 class="fw-bold section-heading">Frequently Asked Questions</h1>
+        <h2 class="fw-bold section-heading">Frequently Asked Questions</h2>
         <div class="border-blue mb-3"></div>
 
         <div class="accordion mt-4" id="accordionExample">
@@ -432,7 +435,7 @@ $post=$_POST;
     <div class="container">
       <div class="row align-items-center">
         <div class="col-lg-3" data-aos="fade-right" data-aos-duration="1000">
-          <h1 class="fw-bold section-heading">Our Clients</h1>
+          <h2 class="fw-bold section-heading">Our Clients</h2>
           <div class="border-blue mb-3"></div>
         </div>
         <div class="col-lg-9 mt-5 mt-lg-0">
