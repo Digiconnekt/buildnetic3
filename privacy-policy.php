@@ -81,14 +81,14 @@
 
           <p>This Privacy Policy governs the way in which BUILDNETIC uses and divulges information related to their users. This information is collected on http://www.buildnetic.com/ (website). The Privacy Policy is applicable to the website and all its products and services.</p>
 
-          <h3> Personal and non-personal identification information</h3>
+          <h4> Personal and non-personal identification information</h4>
           <p>When you visit our website, we may collect certain information automatically from your device, such as your IP address, browser type, operating system, and other technical information. We may also collect information about your use of our website, such as pages visited and time spent on each page.</p>
 
           <p>If you contact us via email, we may collect personal information such as your name, email address, and any other information you choose to provide.</p>
 
           <p>We may also collect information through the use of cookies or other tracking technologies. These technologies may be used to collect information about your use of our website and to deliver personalized content and advertising.</p>
 
-          <h3>How we use the collected information?</h3>
+          <h4>How we use the collected information?</h4>
           <p>We may use the information we collect for a variety of purposes, including:</p>
           <ul>
             <li>To operate and improve our website and services</li>
@@ -100,18 +100,18 @@
           <p>You can send us a mail at sales@buildnetic.com if you wish us to delete or change your personal identification information.
           </p>
 
-          <h3>Web Cookies</h3>
+          <h4>Web Cookies</h4>
           <p>The web browser stores the cookies on the users’ hard drive to track information about them. The purpose of using cookies is to improve user experience. In case the users do not want their activity to be tracked via cookies, they can refuse cookies (in which case some features of the website may not function properly).</p>
-          <h3>We protect your information</h3>
+          <h4>We protect your information</h4>
           <p>We take reasonable measures to protect your personal information from unauthorized access, use, or disclosure. However, no security measures can provide absolute protection, and we cannot guarantee the security of your information.</p>
-          <h3>Your choices</h3>
+          <h4>Your choices</h4>
           <p>You may opt out of receiving marketing communications from us at any time by clicking the unsubscribe link in our emails.</p>
           <p>You may also disable cookies in your browser settings, although this may impact your ability to use some features of our website.</p>
-          <h3>Third Party Websites</h3>
+          <h4>Third Party Websites</h4>
           <p>If there are websites that advertise our services or have a link to our website, browsing and interaction with any such website will depend on their terms and policies and completely beyond our control.</p>
-          <h3>Privacy Policy Update</h3>
+          <h4>Privacy Policy Update</h4>
           <p>BUILDNETIC has the right to update the privacy policy at any time to reflect changes in our practices or legal requirements. We will provide notice of any material changes by posting the updated policy on our website.</p>
-          <h3>Acceptance of this Privacy Policy</h3>
+          <h4>Acceptance of this Privacy Policy</h4>
           <p>By using this website, you agree to this privacy policy. In case you do not agree with this privacy policy, you are suggested to refrain from the use of our website.
             If you have any questions or concerns about our Privacy Policy or our practices, you can drop us an email at sales@buildnetic.com.</p>
 
