@@ -1,6 +1,6 @@
 <?php
 session_start();
-$post=$_POST;
+$post = $_POST;
 
 
 ?>
@@ -59,7 +59,7 @@ $post=$_POST;
           <h3 class="text-center" style="color: #0075ff">Get In Touch</h3>
           <div class="border-blue mx-auto"></div>
           <p class="text-center mt-2 mb-4">Fill out the information below and we will reach you soon</p>
-          <form method="post" action="submit_hiring.php">
+          <form method="post" action="submit_hiring.php" enctype="multipart/form-data">
             <div class="row">
               <div class="col-sm-6 mb-3">
                 <input name="name" required class="form-control" type="text" placeholder="Enter Your Name" required />
@@ -96,7 +96,7 @@ $post=$_POST;
               </div>
               <div class="col-lg-6 col-sm-12 mb-3">
                 <label for="formFile" class="form-label">Upload Your JD / Job Description</label>
-                <input name="upload-jd" class="form-control" type="file" id="formFile" required>
+                <input name="uploadjd" class="form-control" type="file" id="uploadjd" required>
               </div>
 
             </div>
