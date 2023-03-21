@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-lg-3 col-sm-6">
                 <p>
-                    <a href="../index.html">
+                    <a href="../">
                         <img class="img-fluid logo" src="../images/buildnetic-logo.png" alt="Buildnetic" />
                     </a>
                 </p>

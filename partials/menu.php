@@ -32,7 +32,7 @@
       <!-- mobile top links block end -->
       <div class="container">
         <!-- logo start -->
-        <a class="navbar-brand" href="../index.html">
+        <a class="navbar-brand" href="../">
           <img
             class="logo"
             src="../images/buildnetic-logo.png"
@@ -93,7 +93,7 @@
           <!-- bottom links block start -->
           <ul class="navbar-nav ml-auto mb-2 mb-lg-0 my-2">
             <li class="nav-item me-xl-4 me-lg-2">
-              <a class="nav-link" aria-current="page" href="../index.html"
+              <a class="nav-link" aria-current="page" href="../"
                 >Home</a
               >
             </li>
