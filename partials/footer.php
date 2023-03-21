@@ -106,6 +106,12 @@
                 <p>
                     <a href="../services/blockchain-development.html" class="text-decoration-none">Blockchain</a>
                 </p>
+                <p>
+                    <a href="../services/sap.html" class="text-decoration-none">SAP</a>
+                </p>
+                <p>
+                    <a href="../services/ai-ml.html" class="text-decoration-none">AI/ML</a>
+                </p>
             </div>
         </div>
     </div>

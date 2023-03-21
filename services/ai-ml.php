@@ -39,18 +39,24 @@
     <!-- internal css -->
     <style>
       .services-we-offer-section .card {
-        min-height: 300px;
+        min-height: 440px;
       }
 
-      /* @media (max-width: 1440px) {
-            .services-we-offer-section .card {
-              min-height: 340px;
-            }
-          } */
+      @media (max-width: 1440px) {
+        .services-we-offer-section .card {
+          min-height: 485px;
+        }
+      }
+
+      @media (max-width: 1200px) {
+        .services-we-offer-section .card {
+          min-height: 580px;
+        }
+      }
 
       @media (max-width: 991px) {
         .services-we-offer-section .card {
-          min-height: 340px;
+          min-height: 535px;
         }
       }
 
@@ -68,57 +74,47 @@
 
     <div class="single-service-page">
       <!-- title section start -->
-      <div class="cloud-computing-banner title-section container-fuild mt-3">
+      <div class="ai-ml-banner title-section container-fuild mt-3">
         <div class="px-4 py-5 text-center">
-          <!-- <h4 class="mb-3">
-            Second-most widely installed mobile operating system
-          </h4> -->
-          <h1 class="display-5 fw-bold mb-3">Cloud Computing</h1>
+          <!-- <h4 class="mb-3">Paradigm Shifting Technology</h4> -->
+          <h1 class="display-5 fw-bold mb-3">AI/ML</h1>
         </div>
       </div>
       <!-- title section end -->
-
+      
       <div class="container my-5">
-        <h2 class="text-center">Why is Cloud Computing required?</h2>
+        <h2 class="text-center">Why are AI/ML services needed?</h2>
         <div class="border-black mx-auto mb-3"></div>
-        <p style="text-align: justify">
-        Cloud computing has advantages for individuals as well as for companies. The cloud has also changed the way we live our personal lives. Many of us make daily use of cloud services. Most likely, we use applications hosted by cloud services when we check our bank accounts, update our status on social media, or binge-watch a new streaming series. Instead of being downloaded to our devices or hard drives, these apps are accessed online.
-        </p>
-        <p style="text-align: justify">
-        With today's cloud technology, businesses can scale and adapt quickly, drive business agility, accelerate innovation, modernize operations, and cut costs. This can not only help businesses get through the current crisis, but it can also result in more robust, long-term growth.
-        </p>
+        <p style="text-align: justify">With the aid of machine learning (ML), which is a form of artificial intelligence (AI), software programs can predict outcomes more accurately without having to be explicitly instructed to do so. In order to forecast new output values, machine learning algorithms use historical data as input. Machine learning is significant because it aids in the development of new products and provides businesses with a view of trends in consumer behavior and operational business patterns. </p>
       </div>
 
-      <!-- development section start -->
+      <!-- why us section start -->
       <div class="development-section container my-5">
         <div class="row">
           <div class="col-12 col-md-6 mb-3 mb-md-0">
             <div class="img-block mx-auto">
               <img
-                src="../images/services/single-services/cloud-computing/cloud-computing.png"
-                alt="Cloud Computing"
+                src="../images/services/single-services/ai-ml/ai-ml.png"
+                alt="AI/ML"
               />
             </div>
           </div>
           <div class="col-12 col-md-6">
             <h2>Why Us?</h2>
             <div class="border-black mb-3"></div>
-            <p>
-            Although the cloud has emerged as a transformation enabler, there are still substantial barriers preventing its widespread adoption, and many businesses are finding it difficult to demonstrate the value of transformation or link IT value to business outcomes. 
-            </p>
-            <p>
-            Buildnetic Cloud Services offer a 360-degree approach for locating problems, finding solutions, and advancing transformation.
-            </p>
             <ul>
-              <li>Technology consulting with a focus on results By coordinating business objectives with the technology that supports them, Buildnetic Consult quickens the pace of digital transformation.
-              </li>
-              <li>The curiosity that drives change Our teams collaborate with you to identify and address the most challenging business issues.
-              </li>
+              <li>Our AI engineers create practical AI solutions that incorporate both artificial and natural intelligence. </li>
+              <li>Our ML developers combine data science with contemporary engineering, as opposed to simply feeding data to ML algorithms. </li>
+              <li>We are a reputable and trustworthy AI/ML company that provides services to businesses of all types and sizes that are human-centered, results-oriented, and pragmatic.</li>
+              <li>Our AI engineers and ML developers are adept at spotting AI opportunities and removing roadblocks to the development of more advanced, innovative, and intelligent business solutions.</li>
+              <li>We assist you in developing and implementing ML models and algorithms that enable you to take more informed decisions.</li>
+              <li>Our AI and machine learning services are intended to help our clients navigate disruption risks and strengthen their adaptability to the new normal. </li>
+              <li>We can assist you in bringing your AI/ML project idea to life if you have one.</li>
             </ul>
           </div>
         </div>
       </div>
-      <!-- development section end -->
+      <!-- why us section end -->
 
       <!-- services we offer section start -->
       <div class="services-we-offer-section container-fluid my-5">
@@ -126,62 +122,106 @@
           <h2 class="text-center">Services We Offer</h2>
           <div class="border-yellow mx-auto mb-5"></div>
           <div class="row row-cols-1 row-cols-md-3 g-4">
-            <div class="col-md-6">
+            <div class="col-lg-4 col-md-6">
               <div class="card">
                 <img
-                  src="../images/services/single-services/cloud-computing/services-we-offer-1.png"
+                  src="../images/services/single-services/ai-ml/services-we-offer-1.png"
                   class="card-img-top"
-                  alt="Cloud Consulting"
+                  alt="Solutions Led by AI"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Cloud Consulting</h5>
+                  <h5 class="card-title">Solutions Led by AI</h5>
                   <p class="card-text">
-                  To streamline your cloud architecture and aid you in achieving your business goals, we combine decades of experience with widely accepted frameworks for cloud adoption.
+                  With our expertise in software, mobile, and web development, we create strong and cutting-edge AI solutions under the aegis of our exceptional AI and ML Services. Our AI developers are adept at using intelligent AI software to help you work more quickly, more cheaply, and error-free. They are also strong decision-makers and problem-solvers. Hire an AI developer today.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/ai-ml/services-we-offer-2.png"
+                  class="card-img-top"
+                  alt="Machine Learning"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Machine Learning</h5>
+                  <p class="card-text">
+                  The grocery industry has undergone seismic change over the past 20 years as a result of rising consumer expectations and inventive product development. Then how are supermarkets strengthening their roles as the hub of their communities by developing the agility to meet these challenges? by making digital their central focus.
                   </p>
                 </div>
               </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-lg-4 col-md-6">
               <div class="card">
                 <img
-                  src="../images/services/single-services/cloud-computing/services-we-offer-2.png"
+                  src="../images/services/single-services/ai-ml/services-we-offer-3.png"
                   class="card-img-top"
-                  alt="Private Cloud Services"
+                  alt="Natural Language Processing"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Private Cloud Services</h5>
+                  <h5 class="card-title">Natural Language Processing</h5>
                   <p class="card-text">
-                  For a unified, uniform approach across the cloud landscape, we provide a cloud experience with dedicated on-premises resources in a fully managed model that works with public cloud workloads.
+                  A connected mobility ecosystem with agile business models that can change quickly. As the industry embraces its software-driven, customer-centric future, there is a race to be the leader of the new automotive era, and Renewable Enterprises will be in a pole position to advance into the future they want.
                   </p>
                 </div>
               </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-lg-4 col-md-6">
               <div class="card">
                 <img
-                  src="../images/services/single-services/cloud-computing/services-we-offer-3.png"
+                  src="../images/services/single-services/ai-ml/services-we-offer-4.png"
                   class="card-img-top"
-                  alt="Public Cloud Services"
+                  alt="Deep Learning"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Public Cloud Services</h5>
+                  <h5 class="card-title">Deep Learning</h5>
                   <p class="card-text">
-                  Our tried-and-true, standardized, and repeatable services are made to assist you in selecting the best platform for your applications and workloads while keeping security and management simplicity in mind.
+                  Deliver the experiences your clients want. We assist businesses in maximizing the potential of our Fast Commerce for SAP Customer Experience solutions to provide individualized, distinctive, trustworthy, and interconnected customer experiences. With the help of our products, you can change the way you interact with your clients and design experiences that deliver quick and lasting value.
                   </p>
                 </div>
               </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-lg-4 col-md-6">
               <div class="card">
                 <img
-                  src="../images/services/single-services/cloud-computing/services-we-offer-4.png"
+                  src="../images/services/single-services/ai-ml/services-we-offer-5.png"
                   class="card-img-top"
-                  alt="Modern Operations"
+                  alt="Chatbot Development"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Modern Operations</h5>
+                  <h5 class="card-title">Chatbot Development</h5>
                   <p class="card-text">
-                  To deliver value that iterates on where you are today, where you need to go, and the steps needed to modernize your operational processes and maximize efficiency, Buildnetic integrates people, processes, and technology.
+                  SAP's vision for the future of data and analytics. With the SAP Customer Experience suite, we can assist you in understanding and interacting with your customers at every touchpoint. Our Renewable Insights offer, built on SAP S/4HANA, helps you create a customer-facing, data-driven operation.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/ai-ml/services-we-offer-6.png"
+                  class="card-img-top"
+                  alt="Data-Driven IoT"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Data-Driven IoT</h5>
+                  <p class="card-text">
+                  Looking to understand and unlock drivers of sustainability in your organization? We give you the tools you need to succeed in a greener world by assisting you in gaining greater control and visibility over your business operations, goods, and suppliers so you can recognize and take advantage of opportunities to improve the sustainability of the entire value chain.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/ai-ml/services-we-offer-7.png"
+                  class="card-img-top"
+                  alt="AI/ML Mobile Application Development"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">AI/ML Mobile Application Development</h5>
+                  <p class="card-text">
+                  Looking to understand and unlock drivers of sustainability in your organization? We give you the tools you need to succeed in a greener world by assisting you in gaining greater control and visibility over your business operations, goods, and suppliers so you can recognize and take advantage of opportunities to improve the sustainability of the entire value chain.
                   </p>
                 </div>
               </div>

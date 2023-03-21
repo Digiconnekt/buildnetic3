@@ -95,7 +95,18 @@
 }
 
 .single-service-page .title-section.cloud-computing-banner {
-  background-image: url("../images/services/single-services/cloud-computing/cloud-computing-banner.jpg");
+  background-image: url("../images/services/single-services/cloud-computing/cloud-computing-banner.png");
+  background-position: top center;
+}
+
+.single-service-page .title-section.ai-ml-banner {
+  background-image: url("../images/services/single-services/ai-ml/ai-ml-banner.png");
+  background-position: top center;
+}
+
+.single-service-page .title-section.sap-banner {
+  background-image: url("../images/services/single-services/sap/sap-banner.png");
+  background-position: top center;
 }
 
 .single-service-page .title-section.custom-application-banner {

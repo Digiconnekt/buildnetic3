@@ -78,17 +78,6 @@
       </div>
       <!-- title section end -->
 
-      <div class="container my-5">
-        <h2 class="text-center">Why is Cloud Computing required?</h2>
-        <div class="border-black mx-auto mb-3"></div>
-        <p style="text-align: justify">
-        Cloud computing has advantages for individuals as well as for companies. The cloud has also changed the way we live our personal lives. Many of us make daily use of cloud services. Most likely, we use applications hosted by cloud services when we check our bank accounts, update our status on social media, or binge-watch a new streaming series. Instead of being downloaded to our devices or hard drives, these apps are accessed online.
-        </p>
-        <p style="text-align: justify">
-        With today's cloud technology, businesses can scale and adapt quickly, drive business agility, accelerate innovation, modernize operations, and cut costs. This can not only help businesses get through the current crisis, but it can also result in more robust, long-term growth.
-        </p>
-      </div>
-
       <!-- development section start -->
       <div class="development-section container my-5">
         <div class="row">
@@ -101,20 +90,23 @@
             </div>
           </div>
           <div class="col-12 col-md-6">
-            <h2>Why Us?</h2>
+            <h2>Cloud Computing</h2>
             <div class="border-black mb-3"></div>
             <p>
-            Although the cloud has emerged as a transformation enabler, there are still substantial barriers preventing its widespread adoption, and many businesses are finding it difficult to demonstrate the value of transformation or link IT value to business outcomes. 
+              Companies spend tons on IT infrastructure to assemble a stack
+              suitable enough to help them stay ahead in the race and those
+              which meet market needs. More than 80% of the time, Chief
+              Technology Officers lay money on technology that does not even
+              fulfill their business needs and if they do, they seldom make any
+              profit out of it.
             </p>
             <p>
-            Buildnetic Cloud Services offer a 360-degree approach for locating problems, finding solutions, and advancing transformation.
+              Buildnetic is a massive platform designed to suit your needs and
+              reduce workloads through intelligent services that not just help
+              in real-time but also help in gaining a tremendous business
+              advantage. Your business will undergo increased efficiency with
+              Buildnetic.
             </p>
-            <ul>
-              <li>Technology consulting with a focus on results By coordinating business objectives with the technology that supports them, Buildnetic Consult quickens the pace of digital transformation.
-              </li>
-              <li>The curiosity that drives change Our teams collaborate with you to identify and address the most challenging business issues.
-              </li>
-            </ul>
           </div>
         </div>
       </div>
@@ -131,12 +123,15 @@
                 <img
                   src="../images/services/single-services/cloud-computing/services-we-offer-1.png"
                   class="card-img-top"
-                  alt="Cloud Consulting"
+                  alt="Flexibility"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Cloud Consulting</h5>
+                  <h5 class="card-title">Flexibility</h5>
                   <p class="card-text">
-                  To streamline your cloud architecture and aid you in achieving your business goals, we combine decades of experience with widely accepted frameworks for cloud adoption.
+                    Anything and everything you’ve always desired. You name it
+                    and Buildnetic is here to deliver it. Starting from your
+                    first ever deployment to dynamic resource provisioning and
+                    scheduling, we allow our users to do it all.
                   </p>
                 </div>
               </div>
@@ -146,12 +141,15 @@
                 <img
                   src="../images/services/single-services/cloud-computing/services-we-offer-2.png"
                   class="card-img-top"
-                  alt="Private Cloud Services"
+                  alt="Management"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Private Cloud Services</h5>
+                  <h5 class="card-title">Management</h5>
                   <p class="card-text">
-                  For a unified, uniform approach across the cloud landscape, we provide a cloud experience with dedicated on-premises resources in a fully managed model that works with public cloud workloads.
+                    User friendly, simple, and no complexities at all. With
+                    dynamic monitoring of server performance, you can now access
+                    server activities from any place in the world through the
+                    web-based console.
                   </p>
                 </div>
               </div>
@@ -161,12 +159,15 @@
                 <img
                   src="../images/services/single-services/cloud-computing/services-we-offer-3.png"
                   class="card-img-top"
-                  alt="Public Cloud Services"
+                  alt="Reliability"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Public Cloud Services</h5>
+                  <h5 class="card-title">Reliability</h5>
                   <p class="card-text">
-                  Our tried-and-true, standardized, and repeatable services are made to assist you in selecting the best platform for your applications and workloads while keeping security and management simplicity in mind.
+                    Bulletin knows what all it takes to give you a
+                    business-suitable cloud, thus leaving a tag of zero data
+                    loss and zero downtime., it is the most trustworthy service
+                    provider ever.
                   </p>
                 </div>
               </div>
@@ -176,12 +177,30 @@
                 <img
                   src="../images/services/single-services/cloud-computing/services-we-offer-4.png"
                   class="card-img-top"
-                  alt="Modern Operations"
+                  alt="Analytics"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Modern Operations</h5>
+                  <h5 class="card-title">Analytics</h5>
                   <p class="card-text">
-                  To deliver value that iterates on where you are today, where you need to go, and the steps needed to modernize your operational processes and maximize efficiency, Buildnetic integrates people, processes, and technology.
+                    Offering you insightful data to understand business
+                    situations better and make better decisions.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/cloud-computing/services-we-offer-5.png"
+                  class="card-img-top"
+                  alt="Controlled Costs"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Controlled Costs</h5>
+                  <p class="card-text">
+                    Optimum utilization of services, with total transparency
+                    between client and customer, Buildnetic is sure to work
+                    wonders with charging schemes.
                   </p>
                 </div>
               </div>
