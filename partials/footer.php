@@ -1,5 +1,5 @@
 <!-- footer section start -->
-<footer class="footer-section container-fluid mt-5 pt-5">
+<footer class="footer-section container-fluid pt-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-sm-6">
@@ -28,7 +28,7 @@
                     <a href="https://www.linkedin.com/company/buildnetic/" class="me-3" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a>
                 </p>
             </div>
-            <div class="col-lg-3 col-sm-6 mt-3 mt-sm-0">
+            <div class="col-lg-2 col-sm-6 mt-3 mt-sm-0">
                 <h5>COMPANY</h5>
                 <div class="border-yellow mb-4"></div>
                 <p>
@@ -76,42 +76,60 @@
                     <a href="../services/testing.html" class="text-decoration-none">Testing</a>
                 </p>
             </div>
-            <div class="col-lg-3 col-sm-6 mt-3 mt-sm-5 mt-lg-0">
+            <div class="col-lg-4 col-sm-6 mt-3 mt-sm-5 mt-lg-0">
                 <h5>TECHNOLOGY</h5>
                 <div class="border-yellow mb-4"></div>
-                <p>
-                    <a href="../services/nodejs-development.html" class="text-decoration-none">NodeJS</a>
-                </p>
-                <p>
-                    <a href="../services/java.html" class="text-decoration-none">Java</a>
-                </p>
-                <p>
-                    <a href="../services/python.html" class="text-decoration-none">Python</a>
-                </p>
-                <p>
-                    <a href="../services/android-development.html" class="text-decoration-none">Android</a>
-                </p>
-                <p>
-                    <a href="../services/ios-development.html" class="text-decoration-none">iOS</a>
-                </p>
-                <p>
-                    <a href="../services/reactjs-development.html" class="text-decoration-none">ReactJS</a>
-                </p>
-                <p>
-                    <a href="../services/react-native.html" class="text-decoration-none">React Native</a>
-                </p>
-                <p>
-                    <a href="../services/angular-development.html" class="text-decoration-none">Angular</a>
-                </p>
-                <p>
-                    <a href="../services/blockchain-development.html" class="text-decoration-none">Blockchain</a>
-                </p>
-                <p>
-                    <a href="../services/sap.html" class="text-decoration-none">SAP</a>
-                </p>
-                <p>
-                    <a href="../services/ai-ml.html" class="text-decoration-none">AI/ML</a>
-                </p>
+                <div class="row">
+                    <div class="col-sm-6">
+                        <p>
+                            <a href="../technology/cloud-architecture.html" class="text-decoration-none">Cloud Architecture</a>
+                        </p>
+                        <p>
+                            <a href="../technology/data-scientist.html" class="text-decoration-none">Data Scientist</a>
+                        </p>
+                        <p>
+                            <a href="../technology/data-engineer.html" class="text-decoration-none">Data Engineer</a>
+                        </p>
+                        <p>
+                            <a href="../technology/nodejs-development.html" class="text-decoration-none">NodeJS</a>
+                        </p>
+                        <p>
+                            <a href="../technology/java.html" class="text-decoration-none">Java</a>
+                        </p>
+                        <p>
+                            <a href="../technology/python.html" class="text-decoration-none">Python</a>
+                        </p>
+                        <p>
+                            <a href="../technology/android-development.html" class="text-decoration-none">Android</a>
+                        </p>
+                        <p>
+                            <a href="../technology/ios-development.html" class="text-decoration-none">iOS</a>
+                        </p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p>
+                            <a href="../technology/reactjs-development.html" class="text-decoration-none">ReactJS</a>
+                        </p>
+                        <p>
+                            <a href="../technology/react-native.html" class="text-decoration-none">React Native</a>
+                        </p>
+                        <p>
+                            <a href="../technology/angular-development.html" class="text-decoration-none">Angular</a>
+                        </p>
+                        <p>
+                            <a href="../technology/blockchain-development.html" class="text-decoration-none">Blockchain</a>
+                        </p>
+                        <p>
+                            <a href="../technology/sap.html" class="text-decoration-none">SAP</a>
+                        </p>
+                        <p>
+                            <a href="../technology/ai-ml.html" class="text-decoration-none">AI/ML</a>
+                        </p>
+                        <p>
+                            <a href="../technology/natural-language-processing.html" class="text-decoration-none">NLP</a>
+                        </p>    
+                    </div>
+                </div>
             </div>
         </div>
     </div>

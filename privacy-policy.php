@@ -56,7 +56,7 @@
 
 <body>
   <!-- header section start -->
-  <?php include '../partials/menu.php' ?>
+  <?php include './partials/menu.php' ?>
   <!-- header section end -->
 
   <div class="single-service-page">
@@ -131,4 +131,4 @@
   </div>
 
   <!-- footer section start -->
-  <?php include '../partials/footer.php' ?>
+  <?php include './partials/footer.php' ?>

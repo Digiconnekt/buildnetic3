@@ -362,7 +362,7 @@
               <p class="card-text">
                 Languages: <br />
                 <span>
-                  <a href="./services/java.php" class="text-decoration-none"
+                  <a href="./technology/java.php" class="text-decoration-none"
                     >Java</a
                   >, HTML, CSS and JavaScript</span
                 >
@@ -371,17 +371,17 @@
                 Framework & Library: <br />
                 <span
                   ><a
-                    href="./services/angular-development.php"
+                    href="./technology/angular-development.php"
                     class="text-decoration-none"
                     >AngularJS</a
                   >,
                   <a
-                    href="./services/reactjs-development.php"
+                    href="./technology/reactjs-development.php"
                     class="text-decoration-none"
                     >ReactJS</a
                   >,
                   <a
-                    href="./services/react-native.php"
+                    href="./technology/react-native.php"
                     class="text-decoration-none"
                     >React Native</a
                   >, JQuery and Ionic</span
@@ -403,11 +403,11 @@
                 Languages: <br />
                 <span
                   >PHP, Ruby, C#, C++,
-                  <a href="./services/python.php" class="text-decoration-none"
+                  <a href="./technology/python.php" class="text-decoration-none"
                     >Python</a
                   >, JavaScript and
                   <a
-                    href="./services/nodejs-development.php"
+                    href="./technology/nodejs-development.php"
                     class="text-decoration-none"
                     >NodeJS</a
                   ></span
@@ -446,7 +446,7 @@
                 <span
                   >Cocoa Pods,
                   <a
-                    href="./services/reactjs-development.php"
+                    href="./technology/reactjs-development.php"
                     class="text-decoration-none"
                     >ReactJS</a
                   >, Firebase, Cloudkit and Mapkit</span
@@ -472,7 +472,7 @@
                 Languages: <br />
                 <span
                   >Kotlin and
-                  <a href="./services/java.php" class="text-decoration-none"
+                  <a href="./technology/java.php" class="text-decoration-none"
                     >Java</a
                   ></span
                 >
@@ -512,7 +512,7 @@
                 <span
                   >Flutter, Ionic,
                   <a
-                    href="./services/react-native.php"
+                    href="./technology/react-native.php"
                     class="text-decoration-none"
                     >React Native</a
                   >

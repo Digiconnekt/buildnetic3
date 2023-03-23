@@ -92,12 +92,12 @@
 
           <!-- bottom links block start -->
           <ul class="navbar-nav ml-auto mb-2 mb-lg-0 my-2">
-            <li class="nav-item me-xl-4 me-lg-2">
+            <li class="nav-item me-xl-4 me-lg-1">
               <a class="nav-link" aria-current="page" href="../"
                 >Home</a
               >
             </li>
-            <li class="nav-item me-xl-4 me-lg-2 dropdown">
+            <li class="nav-item me-xl-4 me-lg-1 dropdown">
               <a
                 class="nav-link dropdown-toggle"
                 href="#"
@@ -118,7 +118,7 @@
                 <li><a class="dropdown-item" href="../faq.html">FAQ</a></li>
               </ul>
             </li>
-            <li class="nav-item me-xl-4 me-lg-2 dropdown">
+            <li class="nav-item me-xl-4 me-lg-1 dropdown">
               <a
                 class="nav-link dropdown-toggle"
                 href="#"
@@ -228,12 +228,121 @@
                 </div>
               </ul>
             </li>
-            <li class="nav-item me-xl-4 me-lg-2">
+            <li class="nav-item me-xl-4 me-lg-1 dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Technology
+              </a>
+              <ul
+                class="it-soln dropdown-menu"
+                aria-labelledby="navbarDropdown"
+              >
+                <div class="row">
+                  <div class="col-12 col-md-6 border-right">
+                    <li>
+                      <a class="dropdown-item" href="../technology/cloud-architecture.html"
+                        >Cloud Architecture</a>
+                    </li>
+                    <li>
+                      <a class="dropdown-item" href="../technology/data-scientist.html"
+                        >Data Scientist</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/data-engineer.html"
+                        >Data Engineer</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/nodejs-development.html"
+                        >NodeJS</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/java.html"
+                        >Java</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/python.html"
+                        >Python</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/android-development.html"
+                        >Android</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/ios-development.html"
+                        >iOS</a>
+                    </li>
+                  </div>
+                  <div class="col-12 col-md-6">
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/reactjs-development.html"
+                        >ReactJS</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/react-native.html"
+                        >React Native</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/angular-development.html"
+                        >Angular</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/blockchain-development.html"
+                        >Blockchain</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/sap.html"
+                        >SAP</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/ai-ml.html"
+                        >AI/ML</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/natural-language-processing.html"
+                        >NLP</a>
+                    </li>
+                  </div>
+                </div>
+              </ul>
+            </li>
+            <li class="nav-item me-xl-4 me-lg-1">
               <a class="nav-link" href="../engagement-model.html"
                 >Engagement Models</a
               >
             </li>
-            <li class="nav-item me-xl-4 me-lg-2">
+            <li class="nav-item me-xl-4 me-lg-1">
               <a class="nav-link" href="../blogs.html">Blogs</a>
             </li>
             <li class="nav-item">

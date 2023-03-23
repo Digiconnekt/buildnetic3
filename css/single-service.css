@@ -22,12 +22,28 @@
   background-image: url("../images/services/single-services/e-learning/e-learning-banner.jpg");
 }
 
+.single-service-page .title-section.nlp-banner {
+  background-image: url("../images/services/single-services/nlp/nlp-banner.png");
+}
+
+.single-service-page .title-section.data-scientist-banner {
+  background-image: url("../images/services/single-services/data-scientist/data-scientist-banner.png");
+}
+
+.single-service-page .title-section.data-engineer-banner {
+  background-image: url("../images/services/single-services/data-engineer/data-engineer-banner.png");
+}
+
+.single-service-page .title-section.cloud-architecture-banner {
+  background-image: url("../images/services/single-services/cloud-architecture/cloud-architecture-banner.png");
+}
+
 .single-service-page .title-section.e-commerce-banner {
   background-image: url("../images/services/single-services/e-commerce/e-commerce-banner.jpg");
 }
 
 .single-service-page .title-section.cyber-security-banner {
-  background-image: url("../images/services/single-services/cyber-security/cyber-security-banner.jpg");
+  background-image: url("../images/services/single-services/cyber-security/cyber-security-banner.png");
 }
 
 .single-service-page .title-section.software-test-banner {

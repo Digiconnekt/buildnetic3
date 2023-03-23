@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Buildnetic</title>
+
+    <!-- favicon link -->
+    <link
+      rel="shortcut icon"
+      href="../images/buildnetic-fav.ico"
+      type="image/x-icon"
+    />
+
+    <!-- bootstrap 5 CSS cdn link -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+
+    <!-- custom CSS link -->
+    <link rel="stylesheet" href="../css/index.css" />
+
+    <!-- custom CSS link for SERVICES MAIN page-->
+    <link rel="stylesheet" href="../css/single-service.css" />
+
+    <!-- fontawesome link -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+      integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <!-- internal css -->
+    <style>
+      .services-we-offer-section .card {
+        min-height: 340px;
+      }
+
+      @media (max-width: 1440px) {
+        .services-we-offer-section .card {
+          min-height: 365px;
+        }
+      }
+
+      @media (max-width: 1200px) {
+        .services-we-offer-section .card {
+          min-height: 415px;
+        }
+      }
+
+      @media (max-width: 991px) {
+        .services-we-offer-section .card {
+          min-height: 365px;
+        }
+      }
+
+      @media (max-width: 767px) {
+        .services-we-offer-section .card {
+          min-height: auto;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- header section start -->
+    <?php include '../partials/menu.php' ?>
+    <!-- header section end -->
+
+    <div class="single-service-page">
+      <!-- title section start -->
+      <div class="data-engineer-banner title-section container-fuild mt-3">
+        <div class="px-4 py-5 text-center">
+          <!-- <h4 class="mb-3">Paradigm Shifting Technology</h4> -->
+          <h1 class="display-5 fw-bold mb-3">Data Engineer</h1>
+        </div>
+      </div>
+      <!-- title section end -->
+      
+      <div class="container my-5">
+        <h2 class="text-center">Why is it important for companies?</h2>
+        <div class="border-black mx-auto mb-3"></div>
+        <p style="text-align: justify">
+        In order to manage, process, and analyze huge amounts of data, data engineer services are required for a number of reasons. The infrastructure supporting data-intensive applications, such as databases, data pipelines, and data warehouses, is built and maintained by data engineers.
+        </p>
+        <p style="text-align: justify">
+        Data engineering services give businesses the knowledge and tools they need to manage and process their data accurately and efficiently. Additionally, this technology enables organizations to gain useful insights from data, enabling them to make defensible decisions.
+        </p>
+        <p style="text-align: justify">
+        In order to manage and process data at scale, guarantee data quality, and make it accessible for analysis, data engineer services are crucial. In general, data engineering services provide an effective and dependable method for managing and analyzing large volumes of data, making them more and more important for different industries.
+        </p>
+      </div>
+
+      <!-- why us section start -->
+      <div class="development-section container my-5">
+        <div class="row">
+          <div class="col-12 col-md-6 mb-3 mb-md-0">
+            <div class="img-block mx-auto">
+              <img
+                src="../images/services/single-services/data-engineer/data-engineer.png"
+                alt="Data Engineer"
+              />
+            </div>
+          </div>
+          <div class="col-12 col-md-6">
+            <h2>Why Us?</h2>
+            <div class="border-black mb-3"></div>
+            <ul>
+              <li>
+              Use our data engineering solutions to lower costs and boost efficiency. Your data infrastructure can be optimized, processing times can be slashed, and costs can be reduced with the assistance of our team of experts.
+              </li>
+              <li>
+              Utilize our data engineering expertise to maximize your ROI. Our team can assist you in utilizing the most up-to-date data engineering technologies and best practices to get more done with fewer resources, cut costs, and boost productivity throughout your entire business.
+              </li>
+              <li>
+              Utilize data engineering to transform your company. Our team can assist you in developing scalable data architectures, automating data processing, and improving data quality, allowing you to gain new business insights and cut costs.
+              </li>
+              <li>
+              Utilize our resources for data engineering to foster innovation and improve efficiency. Our team can assist you in implementing cutting-edge data engineering solutions, giving you the ability to innovate more quickly, cut costs, and improve agility—all while staying one step ahead of the competition.
+              </li>
+              <li>
+              Let the power of data engineering transform your company. By implementing the newest data engineering techniques, our team of data engineering experts can assist you in generating new revenue streams, decreasing expenses, and boosting productivity.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <!-- why us section end -->
+
+      <!-- services we offer section start -->
+      <div class="services-we-offer-section container-fluid my-5">
+        <div class="container">
+          <h2 class="text-center">Services We Offer</h2>
+          <div class="border-yellow mx-auto mb-5"></div>
+          <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col-lg-4 col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/data-engineer/services-we-offer-1.png"
+                  class="card-img-top"
+                  alt="Data Warehousing"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Data Warehousing</h5>
+                  <p class="card-text">
+                  To store large volumes of structured and unstructured data, we design and construct data warehouses and assist with data modeling, data migration, and the choice of appropriate database technologies.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/data-engineer/services-we-offer-2.png"
+                  class="card-img-top"
+                  alt="ETL"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">ETL</h5>
+                  <p class="card-text">
+                  Our experts develop ETL (Extract, Transform, Load) pipelines to extract data from various sources, transform it into an analytically-friendly format, and load it into a data warehouse or other storage systems.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/data-engineer/services-we-offer-3.png"
+                  class="card-img-top"
+                  alt="Data Integration"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Data Integration</h5>
+                  <p class="card-text">
+                  To create a single view of the data, data engineers assist in integrating data from various sources, including databases, cloud-based applications, and third-party data providers.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/data-engineer/services-we-offer-4.png"
+                  class="card-img-top"
+                  alt="Data Quality Management"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Data Quality Management</h5>
+                  <p class="card-text">
+                  To ensure that data is accurate, complete, and consistent across sources, a data engineer put in place data quality checks and procedures.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/data-engineer/services-we-offer-5.png"
+                  class="card-img-top"
+                  alt="Big Data Processing"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Big Data Processing</h5>
+                  <p class="card-text">
+                  We specialize in data engineering and can create systems to handle the processing and analysis of large amounts of data, including batch processing, distributed computing, and real-time data streaming.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/data-engineer/services-we-offer-6.png"
+                  class="card-img-top"
+                  alt="Data Visualization"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Data Visualization</h5>
+                  <p class="card-text">
+                  We assist organizations in deriving insights from their data, and our experts develop data visualization tools and dashboards.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- services we offer section end -->
+
+      <!-- technical expertise section start -->
+      <?php include '../partials/technical-expertise-section.php' ?>
+      <!-- technical expertise section end -->
+
+      <!-- success stories section start -->
+      <div class="success-stories-section container-fluid my-5">
+        <div class="container">
+          <h2>Success Stories?</h2>
+          <div class="border-yellow mb-5"></div>
+          <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col-12 col-lg-4 col-md-6">
+              <div class="card">
+                <img
+                  src="../images/success-stories/ddf.png"
+                  class="card-img-top"
+                  alt="Delhi Duty Free"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Delhi Duty Free</h5>
+                  <p class="card-text mb-0">
+                    <span>Technology: </span>PHP, Magento, MqSQL, AWS
+                  </p>
+                  <p class="card-text">
+                    <span>Scope of Work : </span>Design, Development &
+                    Maintenance
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-lg-4 col-md-6">
+              <div class="card">
+                <img
+                  src="../images/success-stories/m-and-s.png"
+                  class="card-img-top"
+                  alt="Marks & Spencer"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Marks & Spencer</h5>
+                  <p class="card-text mb-0">
+                    <span>Technology: </span>NodeJs, React, MongoDb, Azure
+                  </p>
+                  <p class="card-text">
+                    <span>Scope of Work : </span>Consulting
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-lg-4 col-md-6">
+              <div class="card">
+                <img
+                  src="../images/success-stories/epam.png"
+                  class="card-img-top"
+                  alt="EPAM"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">EPAM</h5>
+                  <p class="card-text mb-0">
+                    <span>Technology: </span>Microsoft Power BI, React
+                  </p>
+                  <p class="card-text">
+                    <span>Scope of Work : </span>Development & Maintenance
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- success stories section end -->
+
+      <!-- part of solution section start -->
+      <div class="part-of-solutions-section container-fuild mt-5">
+        <div class="px-4 py-5 text-center">
+          <h1 class="display-5 mb-3">Be a part of the solution!</h1>
+          <a
+            class="btn get-in-touch-btn mx-auto"
+            href="../get-in-touch.html"
+            role="button"
+            >Get In Touch <i class="fa-solid fa-arrow-right-long ms-2"></i
+          ></a>
+        </div>
+      </div>
+      <!-- part of solution section end -->
+    </div>
+
+    <!-- footer section start -->
+    <?php include '../partials/footer.php' ?>

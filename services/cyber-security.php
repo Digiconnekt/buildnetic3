@@ -38,19 +38,25 @@
 
     <!-- internal css -->
     <style>
-      /* .services-we-offer-section .card {
-        min-height: 300px;
-      } */
+      .services-we-offer-section .card {
+        min-height: 390px;
+      }
 
-      /* @media (max-width: 1440px) {
-            .services-we-offer-section .card {
-              min-height: 340px;
-            }
-          } */
+      @media (max-width: 1440px) {
+        .services-we-offer-section .card {
+          min-height: 415px;
+        }
+      }
+
+      @media (max-width: 1200px) {
+        .services-we-offer-section .card {
+          min-height: 460px;
+        }
+      }
 
       @media (max-width: 991px) {
         .services-we-offer-section .card {
-          min-height: 300px;
+          min-height: 605px;
         }
       }
 
@@ -78,13 +84,27 @@
       </div>
       <!-- title section end -->
 
+      <div class="container my-5">
+        <h2 class="text-center">Why is Cyber Security Needed?</h2>
+        <div class="border-black mx-auto mb-3"></div>
+        <p style="text-align: justify">
+        The importance of security is growing as a result of the increased risk that businesses face from cyber security. Fundamentally, data leaks that could result in identity theft are now publicly published on various social media accounts because modern society has become more technologically dependent than ever and shows no signs of slowing down.
+        </p>
+        <p style="text-align: justify">
+        Additionally, because private information like social security numbers, bank account information, and credit card numbers are now stored in cloud storage services like Google Drive and Dropbox, cybercriminals can more easily misuse them.
+        </p>
+        <p style="text-align: justify">
+        And the harsh truth is that everyone depends on computer networks on a daily basis, whether they are individuals, small businesses, or multinational corporations. The development of cloud services, insufficient cloud service protection, smartphones, and the Internet of Things all serve to aggravate it further.
+        </p>
+      </div>
+
       <!-- development section start -->
       <div class="development-section container my-5">
         <div class="row">
           <div class="col-12 col-md-6 mb-3 mb-md-0">
             <div class="img-block mx-auto">
               <img
-                src="../images/services/single-services/cyber-security/cyber-security.jpg"
+                src="../images/services/single-services/cyber-security/cyber-security.png"
                 alt="Cyber Security"
               />
             </div>
@@ -92,16 +112,18 @@
           <div class="col-12 col-md-6">
             <h2>Cyber Security</h2>
             <div class="border-black mb-3"></div>
-            <p>
-              Cyber crimes can easily prey upon small midsize enterprises or
-              large businesses and yet business owners don’t take this
-              seriously. If you are here then you are onto the right path.
-              Securing your growing enterprise or company against hackers is not
-              just critical, but also absolutely necessary. It can easily drain
-              away time and resources away from the ever growing activities. It
-              only tends to get worse with time therefore preventative measures
-              are always needed.
-            </p>
+            <ul>
+              <li>
+              We identify more cyber threats than security software can on its own.
+              Our tools detect and eliminate 99.98% of threats automatically, freeing up our analysts to hunt down the most sophisticated attackers, who can only be found and stopped by a highly skilled human.
+              </li>
+              <li>To prevent threats from upsetting your business, we look into the situation and act on your behalf.
+              Whether you require assistance with making informed decisions or a full-scale incident response, our analysts can identify, investigate, and address threats in just a few minutes.
+              </li>
+              <li>To stop threats from happening again, we pinpoint their underlying causes.
+              We take proactive steps and make suggestions that lessen the risk to your company. Less disruption for your IT and security teams, staff, and clients means fewer incidents.
+              </li>
+            </ul>
           </div>
         </div>
       </div>
@@ -118,13 +140,12 @@
                 <img
                   src="../images/services/single-services/cyber-security/services-we-offer-1.png"
                   class="card-img-top"
-                  alt="Security Platform"
+                  alt="Network surveillance"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Security Platform</h5>
+                  <h5 class="card-title">Network surveillance</h5>
                   <p class="card-text">
-                    A platform designed that applies threat intelligence,
-                    automation, and case management
+                  Nothing reduces productivity like a malfunctioning network. Businesses can manage to expand, and shift networks and stay ahead of outages by using network monitoring. A robust network monitoring system should be operational around-the-clock at your cyber security firm.
                   </p>
                 </div>
               </div>
@@ -134,13 +155,12 @@
                 <img
                   src="../images/services/single-services/cyber-security/services-we-offer-2.png"
                   class="card-img-top"
-                  alt="Endpoint Security"
+                  alt="Updating and Patching"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Endpoint Security</h5>
+                  <h5 class="card-title">Updating and Patching</h5>
                   <p class="card-text">
-                    Buildnetic provides security to your organization with
-                    intelligence led protection, detection and response.
+                  Modern operating systems, browsers, and software offer excellent protection against malware, viruses, and other online threats. When security flaws are discovered, companies release patches, which are compact pieces of software. Over 200,000 computers were impacted by the infamous ransomware attack known as WannaCry. It could have been avoided. Many computers didn't have the patch installed or updated, despite Microsoft having previously released a patch for the problem.
                   </p>
                 </div>
               </div>
@@ -150,13 +170,12 @@
                 <img
                   src="../images/services/single-services/cyber-security/services-we-offer-3.png"
                   class="card-img-top"
-                  alt="Email Security"
+                  alt="Employee Education"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Email Security</h5>
+                  <h5 class="card-title">Employee Education</h5>
                   <p class="card-text">
-                    Any kind of unwanted, suspicious mails? Block each one of
-                    them to keep your system secure.
+                  Employees should receive basic security procedures and guidelines training. This entails setting up secure passwords, safeguarding customer information, and enforcing Internet usage guidelines. Best practices for employees should be recommended by your cyber security firm.
                   </p>
                 </div>
               </div>
@@ -166,30 +185,12 @@
                 <img
                   src="../images/services/single-services/cyber-security/services-we-offer-4.png"
                   class="card-img-top"
-                  alt="Cloud Security"
+                  alt="Resolving Issues"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Cloud Security</h5>
+                  <h5 class="card-title">Resolving Issues</h5>
                   <p class="card-text">
-                    Keep your resources and data safe with the ultimate
-                    extensive cloud security.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6">
-              <div class="card">
-                <img
-                  src="../images/services/single-services/cyber-security/services-we-offer-5.png"
-                  class="card-img-top"
-                  alt="Continuous management"
-                />
-                <div class="card-body">
-                  <h5 class="card-title">Continuous management</h5>
-                  <p class="card-text">
-                    Our highly dedicated support team helps clients achieve
-                    error-free functionality, unhampered user support, and
-                    security management.
+                  The potential risks increase with the length of time it takes to identify and address a security threat. Issues should be promptly resolved by your IT company.
                   </p>
                 </div>
               </div>
@@ -200,151 +201,7 @@
       <!-- services we offer section end -->
 
       <!-- technical expertise section start -->
-      <div class="technical-expertise-section container-fluid py-5">
-        <div class="container py-5">
-          <div class="row">
-            <div class="col-md-6 col-12">
-              <h2 class="fw-bold">Technical Expertise</h2>
-              <p>
-                Building scalable secure web applications by leveraging cutting
-                edge technologies
-              </p>
-
-              <div class="block row">
-                <div class="col-12 mb-3">
-                  <div class="row align-items-center">
-                    <div class="col-3 text-center">
-                      <img
-                        class="img-fluid"
-                        src="../images/home/technology-web-frontend.png"
-                        alt="Frontend & UX"
-                        width="64px"
-                      />
-                    </div>
-                    <div class="col-9">
-                      <h5>Frontend & UX</h5>
-                      <p>
-                        <a
-                          class="text-decoration-none"
-                          href="../services/reactjs-development.html"
-                          >ReactJS</a
-                        >,
-                        <a
-                          class="text-decoration-none"
-                          href="../services/angular-development.html"
-                          >AngularJS</a
-                        >, VueJS,
-                        <a
-                          class="text-decoration-none"
-                          href="../services/react-native.html"
-                          >React Native</a
-                        >, Flutter,
-                        <a
-                          class="text-decoration-none"
-                          href="../services/android-development.html"
-                          >Android</a
-                        >,
-                        <a
-                          class="text-decoration-none"
-                          href="../services/ios-development.html"
-                          >iOS</a
-                        >
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12 mb-3">
-                  <div class="row align-items-center">
-                    <div class="col-3 text-center">
-                      <img
-                        class="img-fluid"
-                        src="../images/home/technology-web-backend.png"
-                        alt="Backend"
-                        width="64px"
-                      />
-                    </div>
-                    <div class="col-9">
-                      <h5>Backend</h5>
-                      <p>
-                        <a
-                          class="text-decoration-none"
-                          href="../services/java.html"
-                          >Java</a
-                        >,
-                        <a
-                          class="text-decoration-none"
-                          href="../services/python.html"
-                          >Python</a
-                        >, PHP,
-                        <a
-                          class="text-decoration-none"
-                          href="../services/nodejs-development.html"
-                          >NodeJS</a
-                        >
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12 mb-3">
-                  <div class="row align-items-center">
-                    <div class="col-3 text-center">
-                      <img
-                        class="img-fluid"
-                        src="../images/home/technology-database.png"
-                        alt="Database"
-                        width="64px"
-                      />
-                    </div>
-                    <div class="col-9">
-                      <h5>Database</h5>
-                      <p>MongoDB, SQL, Redis</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12 mb-3">
-                  <div class="row align-items-center">
-                    <div class="col-3 text-center">
-                      <img
-                        class="img-fluid"
-                        src="../images/home/technology-tools.png"
-                        alt="Analytics"
-                        width="64px"
-                      />
-                    </div>
-                    <div class="col-9">
-                      <h5>Analytics</h5>
-                      <p>Panda, R, Hadoop, Hive</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-12 mb-3">
-                  <div class="row align-items-center">
-                    <div class="col-3 text-center">
-                      <img
-                        class="img-fluid"
-                        src="../images/home/technology-devops.png"
-                        alt="Cloud and DevOps"
-                        width="64px"
-                      />
-                    </div>
-                    <div class="col-9">
-                      <h5>Cloud and DevOps</h5>
-                      <p>AWS, Jenkins, Docker, Kubernet</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-6 col-12 text-center">
-              <img
-                class="img-fluid"
-                src="../images/services/technical-expertise.png"
-                alt="Technical Expertise"
-              />
-            </div>
-          </div>
-        </div>
-      </div>
+      <?php include '../partials/technical-expertise-section.php' ?>
       <!-- technical expertise section end -->
 
       <!-- success stories section start -->

@@ -42,8 +42,10 @@ if (location.pathname === "/") {
   checkPath === "/services"
 ) {
   menuItem[5].className = "nav-link dropdown-toggle active";
+} else if (checkPath === "/technology") {
+  menuItem[19].className = "nav-link dropdown-toggle active";
 } else if (checkPath === "/blogs") {
-  menuItem[20].className = "nav-link active";
+  menuItem[36].className = "nav-link active";
 }
 
 // active class for header end
