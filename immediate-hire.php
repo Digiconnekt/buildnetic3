@@ -14,6 +14,19 @@ $post = $_POST;
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Buildnetic</title>
 
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-LF922RPFG3');
+  </script>
+
+  <!-- google site verification -->
+  <meta name="google-site-verification" content="pBPdcif54dfoSLuoJiEtQWxmlq5G58xcAQ0zHUnzV7c" />
+
   <!-- favicon link -->
   <link rel="shortcut icon" href="./images/buildnetic-fav.ico" type="image/x-icon" />
 

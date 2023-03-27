@@ -105,6 +105,9 @@
                         <p>
                             <a href="../technology/ios-development.html" class="text-decoration-none">iOS</a>
                         </p>
+                        <p>
+                            <a href="../technology/magento.html" class="text-decoration-none">Magento</a>
+                        </p>
                     </div>
                     <div class="col-sm-6">
                         <p>
@@ -127,6 +130,12 @@
                         </p>
                         <p>
                             <a href="../technology/natural-language-processing.html" class="text-decoration-none">NLP</a>
+                        </p>    
+                        <p>
+                            <a href="../technology/laravel.html" class="text-decoration-none">Laravel</a>
+                        </p>    
+                        <p>
+                            <a href="../technology/php.html" class="text-decoration-none">PHP</a>
                         </p>    
                     </div>
                 </div>

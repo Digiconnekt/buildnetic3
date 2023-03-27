@@ -289,6 +289,12 @@
                         href="../technology/ios-development.html"
                         >iOS</a>
                     </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/magento.html"
+                        >Magento</a>
+                    </li>
                   </div>
                   <div class="col-12 col-md-6">
                     <li>
@@ -332,6 +338,18 @@
                         class="dropdown-item"
                         href="../technology/natural-language-processing.html"
                         >NLP</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/laravel.html"
+                        >Laravel</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/php.html"
+                        >PHP</a>
                     </li>
                   </div>
                 </div>

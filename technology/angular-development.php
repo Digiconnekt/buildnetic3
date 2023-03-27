@@ -6,6 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Buildnetic</title>
 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-LF922RPFG3');
+    </script>
+
+    <!-- google site verification -->
+    <meta name="google-site-verification" content="pBPdcif54dfoSLuoJiEtQWxmlq5G58xcAQ0zHUnzV7c" />
+
     <!-- favicon link -->
     <link
       rel="shortcut icon"
@@ -74,6 +87,28 @@
       </div>
       <!-- title section end -->
 
+      <div class="container my-5">
+        <h2 class="text-center">Why is Angular Needed?</h2>
+        <div class="border-black mx-auto mb-3"></div>
+        <ul>
+          <li>
+          Software development firms frequently use the well-liked front-end web application development framework Angular.
+          </li>
+          <li>
+          With features like two-way data binding, dependency injection, and modular architecture, it first offers a reliable and effective method of developing complex web applications.
+          </li>
+          <li>
+          Second, Angular has a sizable and vibrant developer community, so there is a tonne of tools and resources available to aid developers in creating applications more quickly and effectively.
+          </li>
+          <li>
+          Thirdly, the dynamic, single-page applications that are becoming more and more common in today's web development environment can be built using Angular.
+          </li>
+          <li>
+          Last but not least, Angular is supported by Google, which means it is constantly developing and improving and will probably continue to be useful for a while.
+          </li>
+        </ul>
+      </div>
+
       <!-- development section start -->
       <div class="development-section container my-5">
         <div class="row">
@@ -88,21 +123,13 @@
           <div class="col-12 col-md-6">
             <h2>Angular Application Development</h2>
             <div class="border-black mb-3"></div>
-            <p>
-              A cutting-edge web development platform and application design
-              framework for building effective single-page apps is called
-              Angular. Built with a variety of capabilities on TypeScript, it
-              facilitates the creation of complicated single-page enterprise
-              apps as well as scalable online applications. Faster performance,
-              scalable development, and a contemporary approach to web
-              application worldwide deployment are all guaranteed by Angular.
-            </p>
             <ul>
-              <li>A technique for creating cross-platform applications.</li>
-              <li>Scalable on web platforms at the fastest possible rate.</li>
-              <li>Prebuilt templates make it simple to develop features.</li>
-              <li>Support for global deployment development.</li>
-              <li>Zero-step installation and high performance.</li>
+              <li>
+              Expertise & experience: Our developers have experience in Angular development. Check their portfolio to see the projects they have completed and the types of Angular solutions they have developed.
+              </li>
+              <li>Communication skills: We believe good communication is always the major element of a good software developer. Our developers respond to queries and communicate the progress transparently.</li>
+              <li>Development process: Our developers follow a well-defined development process. This includes Agile development methodology, continuous integration and delivery, and quality assurance processes.</li>
+              <li>Our customer reviews: Look for customer reviews. This will give you an idea of our reliability, quality of service, and customer satisfaction.</li>
             </ul>
           </div>
         </div>
@@ -120,14 +147,12 @@
                 <img
                   src="../images/services/single-services/angular/services-we-offer-1.png"
                   class="card-img-top"
-                  alt="UI/UX Development for Angular"
+                  alt="Angular development"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">UI/UX Development for Angular</h5>
+                  <h5 class="card-title">Angular development</h5>
                   <p class="card-text">
-                    While reusing the codes, create, design, and convert complex
-                    design components. We support the creation of UX/UI design
-                    for faster installation and higher performance.
+                  Our experts develop custom web applications using the Angular framework, with a focus on delivering efficient and scalable solutions.
                   </p>
                 </div>
               </div>
@@ -137,15 +162,12 @@
                 <img
                   src="../images/services/single-services/angular/services-we-offer-2.png"
                   class="card-img-top"
-                  alt="Custom Angular Development"
+                  alt="Angular consulting"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Custom Angular Development</h5>
+                  <h5 class="card-title">Angular consulting</h5>
                   <p class="card-text">
-                    With the assistance of our team of professionals, customise
-                    your web development to meet your business objectives. We
-                    assist in offering quicker, more effective, and
-                    uncompromising solutions.
+                  We provide consulting services to clients, helping them determine the best Angular solutions for their specific needs and requirements.
                   </p>
                 </div>
               </div>
@@ -155,14 +177,12 @@
                 <img
                   src="../images/services/single-services/angular/services-we-offer-3.png"
                   class="card-img-top"
-                  alt="Angular Support and Maintenance"
+                  alt="Angular maintenance and support"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Angular Support and Maintenance</h5>
+                  <h5 class="card-title">Angular maintenance and support</h5>
                   <p class="card-text">
-                    For efficient operations, we offer maintenance and support
-                    services. In addition to speed optimization, we also offer
-                    security updates, plugin updates, version upgrades, etc.
+                  Our team offers ongoing maintenance and support services to ensure that Angular applications are always up-to-date, secure, and running smoothly.
                   </p>
                 </div>
               </div>
@@ -172,15 +192,27 @@
                 <img
                   src="../images/services/single-services/angular/services-we-offer-4.png"
                   class="card-img-top"
-                  alt="Testing for Angular Quality"
+                  alt="Angular migration"
                 />
                 <div class="card-body">
-                  <h5 class="card-title">Testing for Angular Quality</h5>
+                  <h5 class="card-title">Angular migration</h5>
                   <p class="card-text">
-                    We've selected tests to evaluate the effectiveness and
-                    quality of your angular components. Our customer service
-                    team wants your web experience to be seamless and
-                    uncomplicated.
+                  For clients looking to migrate from other frameworks or technologies to Angular, we offer them migration services to help ensure a smooth transition.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="card">
+                <img
+                  src="../images/services/single-services/angular/services-we-offer-4.png"
+                  class="card-img-top"
+                  alt="Angular testing and quality assurance"
+                />
+                <div class="card-body">
+                  <h5 class="card-title">Angular testing and quality assurance</h5>
+                  <p class="card-text">
+                  We offer testing and quality assurance services to ensure that Angular applications are bug-free, reliable, and meet the highest standards of quality.
                   </p>
                 </div>
               </div>

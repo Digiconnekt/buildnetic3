@@ -26,6 +26,18 @@
   background-image: url("../images/services/single-services/nlp/nlp-banner.png");
 }
 
+.single-service-page .title-section.php-banner {
+  background-image: url("../images/services/single-services/php/php-banner.png");
+}
+
+.single-service-page .title-section.laravel-banner {
+  background-image: url("../images/services/single-services/laravel/laravel-banner.png");
+}
+
+.single-service-page .title-section.magento-banner {
+  background-image: url("../images/services/single-services/magento/magento-banner.png");
+}
+
 .single-service-page .title-section.data-scientist-banner {
   background-image: url("../images/services/single-services/data-scientist/data-scientist-banner.png");
 }
