@@ -13,20 +13,21 @@ $mail->Mailer = "smtp";
 
 $mail->SMTPDebug  = 0;
 $mail->SMTPAuth   = TRUE;
-$mail->SMTPSecure = "tls";
-$mail->Port       = 587;
-$mail->Host       = "smtp.office365.com";
-$mail->Username   = "clickandcollect@delhidutyfree.co.in";
-$mail->Password   = "Ddfs$32145";
+$mail->SMTPSecure = "ssl";
+$mail->Port       = 465;
+$mail->Host       = "smtp.hostinger.com";
+$mail->Username   = "surender@hireslick.com";
+$mail->Password   = "Surender@#1036";
 
 $mail->IsHTML(true);
+$mail->AddAddress("surender.singal@gmail.com", "Surender");
 $mail->AddAddress("surender.singal@gmail.com", "Surender");
 $mail->AddAddress("piyush@buildnetic.com", "Piyush");
 $mail->AddAddress("piyush.k@buildnetic.com", "Piyush");
 $mail->AddAddress("jayant.m@buildnetic.com", "Jayant");
 $mail->AddAddress("sales@buildnetic.com", "Sales");
 
-$mail->SetFrom("clickandcollect@delhidutyfree.co.in", "Buildnetic info");
+$mail->SetFrom("surender@hireslick.com", "Buildnetic info");
 $mail->AddReplyTo("info@buildnetic.com", "Buildnetic info");
 
 
