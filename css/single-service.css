@@ -26,6 +26,10 @@
   background-image: url("../images/services/single-services/nlp/nlp-banner.png");
 }
 
+.single-service-page .title-section.dotnet-banner {
+  background-image: url("../images/services/single-services/dotnet/dotnet-banner.png");
+}
+
 .single-service-page .title-section.php-banner {
   background-image: url("../images/services/single-services/php/php-banner.png");
 }

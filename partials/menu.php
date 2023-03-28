@@ -91,7 +91,7 @@
           <!-- top links block end -->
 
           <!-- bottom links block start -->
-          <ul class="navbar-nav ml-auto mb-2 mb-lg-0 my-2">
+          <ul class="navbar-nav custom-height-only-mob ml-auto mb-2 mb-lg-0 my-2">
             <li class="nav-item me-xl-4 me-lg-1">
               <a class="nav-link" aria-current="page" href="../"
                 >Home</a
@@ -294,6 +294,12 @@
                         class="dropdown-item"
                         href="../technology/magento.html"
                         >Magento</a>
+                    </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/dotnet.html"
+                        >Dotnet</a>
                     </li>
                   </div>
                   <div class="col-12 col-md-6">

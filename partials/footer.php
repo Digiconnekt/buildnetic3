@@ -108,6 +108,9 @@
                         <p>
                             <a href="../technology/magento.html" class="text-decoration-none">Magento</a>
                         </p>
+                        <p>
+                            <a href="../technology/dotnet.html" class="text-decoration-none">Dotnet</a>
+                        </p>
                     </div>
                     <div class="col-sm-6">
                         <p>

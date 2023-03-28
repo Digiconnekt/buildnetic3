@@ -415,7 +415,11 @@
               <p class="card-text">
                 Languages: <br />
                 <span
-                  >PHP, Ruby, C#, C++,
+                  ><a
+                    href="./technology/php.php"
+                    class="text-decoration-none"
+                    >PHP</a
+                  >, Ruby, C#, C++,
                   <a href="./technology/python.php" class="text-decoration-none"
                     >Python</a
                   >, JavaScript and

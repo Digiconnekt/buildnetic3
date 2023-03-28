@@ -73,7 +73,11 @@
                     class="text-decoration-none"
                     href="../technology/python.html"
                     >Python</a
-                  >, PHP,
+                  >, <a
+                    class="text-decoration-none"
+                    href="../technology/php.html"
+                    >PHP</a
+                  >,
                   <a
                     class="text-decoration-none"
                     href="../technology/nodejs-development.html"

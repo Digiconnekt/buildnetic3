@@ -769,6 +769,21 @@ body {
 }
 
 @media (max-width: 768px) {
+  .custom-height-only-mob {
+    max-height: 400px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+  }
+
+  .custom-height-only-mob::-webkit-scrollbar {
+    display: none;
+  }
+
+  .custom-height-only-mob {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+  }
+
   .industry-developer-section .card {
     min-height: auto;
   }
