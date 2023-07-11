@@ -71,6 +71,27 @@
             <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
               <div class="col-12 col-md-6 col-lg-4">
                 <a
+                  href="./blogs/how_to_create_a_strong_password.html"
+                  class="card text-decoration-none"
+                >
+                  <img
+                    src="./images/blogs/How_To_Create_A_Strong_Password.png"
+                    class="card-img-top"
+                    alt="Blog"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      Password Protection: How to create a strong password to protect your data?
+                    </h5>
+                    <p class="card-text">
+                      In today's digital age, we rely heavily on passwords to protect our sensitive data. Passwords are the keys to our digital lives, and without proper protection
+                      <span>read more...</span>
+                    </p>
+                  </div>
+                </a>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4">
+                <a
                   href="./blogs/biggest-it-staff-augmentation.html"
                   class="card text-decoration-none"
                 >
