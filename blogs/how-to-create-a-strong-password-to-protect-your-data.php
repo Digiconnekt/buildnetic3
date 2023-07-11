@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>How To Create A Strong Password To Protect Your Data - Buildnetic</title>
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
@@ -48,6 +48,9 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+
+    <meta name="description" content="Learn how to protect your data online, create strong passwords, secure personal information, and stay safe with this easy guide!">
+    <meta name="keywords" content="password protection, strong password, data protection, tips for creating strong passwords, protect your data, create strong passwords, password tips, cybersecurity">
   </head>
   <body>
     <!-- header section start -->

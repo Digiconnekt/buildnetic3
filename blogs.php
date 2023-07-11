@@ -71,7 +71,7 @@
             <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
               <div class="col-12 col-md-6 col-lg-4">
                 <a
-                  href="./blogs/how_to_create_a_strong_password.html"
+                  href="./blogs/how-to-create-a-strong-password-to-protect-your-data.html"
                   class="card text-decoration-none"
                 >
                   <img
