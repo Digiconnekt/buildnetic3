@@ -71,6 +71,27 @@
             <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
               <div class="col-12 col-md-6 col-lg-4">
                 <a
+                  href="./blogs/common-cyber-threats-how-to-protect-against-them.html"
+                  class="card text-decoration-none"
+                >
+                  <img
+                    src="./images/blogs/common-cyber-threats-how-to-protect-against-them.png"
+                    class="card-img-top"
+                    alt="Blog"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      Common Cyber Threats : How To Protect Against Them?
+                    </h5>
+                    <p class="card-text">
+                    In the digital age, we rely heavily on technology to run our daily lives. From online banking to online shopping, we share a plethora of personal and financial information online. Unfortunately
+                      <span>read more...</span>
+                    </p>
+                  </div>
+                </a>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4">
+                <a
                   href="./blogs/how-to-create-a-strong-password-to-protect-your-data.html"
                   class="card text-decoration-none"
                 >
