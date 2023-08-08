@@ -71,6 +71,27 @@
             <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
               <div class="col-12 col-md-6 col-lg-4">
                 <a
+                  href="./blogs/end-to-end-encryption-new-trend-in-communication-services.html"
+                  class="card text-decoration-none"
+                >
+                  <img
+                    src="./images/blogs/end-to-end-encryption-new-trend-in-communication-services.webp"
+                    class="card-img-top"
+                    alt="Blog"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      END-TO-END Encryption: The new trend in communication services
+                    </h5>
+                    <p class="card-text">
+                    In recent years, there has been an increased focus on end-to-end encryption in communication services. End-to-end encryption is a security measure that ensures that only the sender
+                      <span>read more...</span>
+                    </p>
+                  </div>
+                </a>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4">
+                <a
                   href="./blogs/common-cyber-threats-how-to-protect-against-them.html"
                   class="card text-decoration-none"
                 >
