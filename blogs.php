@@ -71,6 +71,27 @@
             <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
               <div class="col-12 col-md-6 col-lg-4">
                 <a
+                  href="./blogs/the-code-to-brand-success-revolutionizing-it-solutions-software-solutions.html"
+                  class="card text-decoration-none"
+                >
+                  <img
+                    src="./images/blogs/the-code-to-brand-success-revolutionizing-it-solutions-software-solutions.png"
+                    class="card-img-top"
+                    alt="Blog"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      The Code to Brand Success: Revolutionizing IT Solutions and Software Solutions
+                    </h5>
+                    <p class="card-text">
+                    In today's fast-paced digital landscape, businesses are constantly seeking innovative strategies to stay ahead of the competition. One critical aspect of their
+                      <span>read more...</span>
+                    </p>
+                  </div>
+                </a>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4">
+                <a
                   href="./blogs/end-to-end-encryption-new-trend-in-communication-services.html"
                   class="card text-decoration-none"
                 >
