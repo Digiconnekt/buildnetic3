@@ -17,7 +17,7 @@
     </script>
 
     <!-- google site verification -->
-    <meta name="google-site-verification" content="pBPdcif54dfoSLuoJiEtQWxmlq5G58xcAQ0zHUnzV7c" />
+    <meta name="google-site-verification" content="2bPWlHrH3fml8XlKLU6gKfx4ydfRxNL2RZuqPR2MW5s" />
 
     <!-- favicon link -->
     <link
