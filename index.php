@@ -7,13 +7,13 @@
     <title>Buildnetic</title>
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-07XQZ966NB"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
 
-      gtag('config', 'G-LF922RPFG3');
+      gtag('config', 'G-07XQZ966NB');
     </script>
 
     <!-- google site verification -->
