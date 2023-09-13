@@ -48,6 +48,21 @@
 
     <!-- animate on scroll AOS cdn link -->
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+
+    <!-- schema -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org/",
+        "@type": "WebSite",
+        "name": "Buildnetic",
+        "url": "https://buildnetic.com",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://buildnetic.com/?s={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      }
+    </script>
   </head>
   <body>
     <!-- header section start -->
