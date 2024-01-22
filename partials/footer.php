@@ -32,48 +32,48 @@
                 <h5>COMPANY</h5>
                 <div class="border-yellow mb-4"></div>
                 <p>
-                    <a href="../services.html" class="text-decoration-none">Services</a>
+                    <a href="../services.php" class="text-decoration-none">Services</a>
                 </p>
                 <p>
-                    <a href="../engagement-model.html" class="text-decoration-none">Engagement Model</a>
+                    <a href="../engagement-model.php" class="text-decoration-none">Engagement Model</a>
                 </p>
                 <p>
-                    <a href="../success-stories.html" class="text-decoration-none">Success Stories</a>
+                    <a href="../success-stories.php" class="text-decoration-none">Success Stories</a>
                 </p>
                 <p>
-                    <a href="../about-us.html" class="text-decoration-none">About Us</a>
+                    <a href="../about-us.php" class="text-decoration-none">About Us</a>
                 </p>
                 <p>
-                    <a href="../contact-us.html" class="text-decoration-none">Contact Us</a>
+                    <a href="../contact-us.php" class="text-decoration-none">Contact Us</a>
                 </p>
-                <p><a href="../blogs.html" class="text-decoration-none">Blogs</a></p>
+                <p><a href="../blogs.php" class="text-decoration-none">Blogs</a></p>
             </div>
             <div class="col-lg-3 col-sm-6 mt-3 mt-sm-5 mt-lg-0">
                 <h5>SERVICES</h5>
                 <div class="border-yellow mb-4"></div>
                 <p>
-                    <a href="../services/mobile-development.html" class="text-decoration-none">Mobile Application Development</a>
+                    <a href="../services/mobile-development.php" class="text-decoration-none">Mobile Application Development</a>
                 </p>
                 <p>
-                    <a href="../services/custom-application-development.html" class="text-decoration-none">Custom Application Development</a>
+                    <a href="../services/custom-application-development.php" class="text-decoration-none">Custom Application Development</a>
                 </p>
                 <p>
-                    <a href="../services/devops-solutions.html" class="text-decoration-none">DevOps Solutions & Services</a>
+                    <a href="../services/devops-solutions.php" class="text-decoration-none">DevOps Solutions & Services</a>
                 </p>
                 <p>
-                    <a href="../services/product-re-engineering.html" class="text-decoration-none">Product Re-Engineering</a>
+                    <a href="../services/product-re-engineering.php" class="text-decoration-none">Product Re-Engineering</a>
                 </p>
                 <p>
-                    <a href="../services/e-commerce-solutions.html" class="text-decoration-none">E-commerce Solutions</a>
+                    <a href="../services/e-commerce-solutions.php" class="text-decoration-none">E-commerce Solutions</a>
                 </p>
                 <p>
-                    <a href="../services/dedicated-developers.html" class="text-decoration-none">Dedicated Developers</a>
+                    <a href="../services/dedicated-developers.php" class="text-decoration-none">Dedicated Developers</a>
                 </p>
                 <p>
-                    <a href="../services/data-analytics.html" class="text-decoration-none">Data Analytics</a>
+                    <a href="../services/data-analytics.php" class="text-decoration-none">Data Analytics</a>
                 </p>
                 <p>
-                    <a href="../services/testing.html" class="text-decoration-none">Testing</a>
+                    <a href="../services/testing.php" class="text-decoration-none">Testing</a>
                 </p>
             </div>
             <div class="col-lg-4 col-sm-6 mt-3 mt-sm-5 mt-lg-0">
@@ -82,63 +82,63 @@
                 <div class="row">
                     <div class="col-sm-6">
                         <p>
-                            <a href="../technology/cloud-architecture.html" class="text-decoration-none">Cloud Architecture</a>
+                            <a href="../technology/cloud-architecture.php" class="text-decoration-none">Cloud Architecture</a>
                         </p>
                         <p>
-                            <a href="../technology/data-scientist.html" class="text-decoration-none">Data Scientist</a>
+                            <a href="../technology/data-scientist.php" class="text-decoration-none">Data Scientist</a>
                         </p>
                         <p>
-                            <a href="../technology/data-engineer.html" class="text-decoration-none">Data Engineer</a>
+                            <a href="../technology/data-engineer.php" class="text-decoration-none">Data Engineer</a>
                         </p>
                         <p>
-                            <a href="../technology/nodejs-development.html" class="text-decoration-none">NodeJS</a>
+                            <a href="../technology/nodejs-development.php" class="text-decoration-none">NodeJS</a>
                         </p>
                         <p>
-                            <a href="../technology/java.html" class="text-decoration-none">Java</a>
+                            <a href="../technology/java.php" class="text-decoration-none">Java</a>
                         </p>
                         <p>
-                            <a href="../technology/python.html" class="text-decoration-none">Python</a>
+                            <a href="../technology/python.php" class="text-decoration-none">Python</a>
                         </p>
                         <p>
-                            <a href="../technology/android-development.html" class="text-decoration-none">Android</a>
+                            <a href="../technology/android-development.php" class="text-decoration-none">Android</a>
                         </p>
                         <p>
-                            <a href="../technology/ios-development.html" class="text-decoration-none">iOS</a>
+                            <a href="../technology/ios-development.php" class="text-decoration-none">iOS</a>
                         </p>
                         <p>
-                            <a href="../technology/magento.html" class="text-decoration-none">Magento</a>
+                            <a href="../technology/magento.php" class="text-decoration-none">Magento</a>
                         </p>
                         <p>
-                            <a href="../technology/dotnet.html" class="text-decoration-none">Dotnet</a>
+                            <a href="../technology/dotnet.php" class="text-decoration-none">Dotnet</a>
                         </p>
                     </div>
                     <div class="col-sm-6">
                         <p>
-                            <a href="../technology/reactjs-development.html" class="text-decoration-none">ReactJS</a>
+                            <a href="../technology/reactjs-development.php" class="text-decoration-none">ReactJS</a>
                         </p>
                         <p>
-                            <a href="../technology/react-native.html" class="text-decoration-none">React Native</a>
+                            <a href="../technology/react-native.php" class="text-decoration-none">React Native</a>
                         </p>
                         <p>
-                            <a href="../technology/angular-development.html" class="text-decoration-none">Angular</a>
+                            <a href="../technology/angular-development.php" class="text-decoration-none">Angular</a>
                         </p>
                         <p>
-                            <a href="../technology/blockchain-development.html" class="text-decoration-none">Blockchain</a>
+                            <a href="../technology/blockchain-development.php" class="text-decoration-none">Blockchain</a>
                         </p>
                         <p>
-                            <a href="../technology/sap.html" class="text-decoration-none">SAP</a>
+                            <a href="../technology/sap.php" class="text-decoration-none">SAP</a>
                         </p>
                         <p>
-                            <a href="../technology/ai-ml.html" class="text-decoration-none">AI/ML</a>
+                            <a href="../technology/ai-ml.php" class="text-decoration-none">AI/ML</a>
                         </p>
                         <p>
-                            <a href="../technology/natural-language-processing.html" class="text-decoration-none">NLP</a>
+                            <a href="../technology/natural-language-processing.php" class="text-decoration-none">NLP</a>
                         </p>    
                         <p>
-                            <a href="../technology/laravel.html" class="text-decoration-none">Laravel</a>
+                            <a href="../technology/laravel.php" class="text-decoration-none">Laravel</a>
                         </p>    
                         <p>
-                            <a href="../technology/php.html" class="text-decoration-none">PHP</a>
+                            <a href="../technology/php.php" class="text-decoration-none">PHP</a>
                         </p>    
                     </div>
                 </div>

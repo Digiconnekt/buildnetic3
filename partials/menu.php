@@ -24,7 +24,7 @@
             target="_blank"
             ><i class="fa-solid fa-envelope"></i
           ></a>
-          <a class="btn btn-blue" href="../get-in-touch.html" role="button"
+          <a class="btn btn-blue" href="../get-in-touch.php" role="button"
             >Get In Touch</a
           >
         </div>
@@ -84,7 +84,7 @@
               target="_blank"
               ><i class="fa-solid fa-envelope"></i
             ></a>
-            <a class="btn btn-blue" href="../get-in-touch.html" role="button"
+            <a class="btn btn-blue" href="../get-in-touch.php" role="button"
               >Get In Touch</a
             >
           </div>
@@ -110,12 +110,12 @@
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li>
-                  <a class="dropdown-item" href="../about-us.html">About</a>
+                  <a class="dropdown-item" href="../about-us.php">About</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="../careers.html">Careers</a>
+                  <a class="dropdown-item" href="../careers.php">Careers</a>
                 </li>
-                <li><a class="dropdown-item" href="../faq.html">FAQ</a></li>
+                <li><a class="dropdown-item" href="../faq.php">FAQ</a></li>
               </ul>
             </li>
             <li class="nav-item me-xl-4 me-lg-1 dropdown">
@@ -136,47 +136,47 @@
                 <div class="row">
                   <div class="col-12 col-md-6 border-right">
                     <li>
-                      <a class="dropdown-item" href="../services.html"
+                      <a class="dropdown-item" href="../services.php"
                         >IT Services</a
                       >
                     </li>
                     <li>
-                      <a class="dropdown-item" href="../services/it-support.html"
+                      <a class="dropdown-item" href="../services/it-support.php"
                         >IT Support</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../services/web-development.html"
+                        href="../services/web-development.php"
                         >Web Development</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../services/mobile-development.html"
+                        href="../services/mobile-development.php"
                         >Mobility Solutions</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../services/cloud-computing.html"
+                        href="../services/cloud-computing.php"
                         >Cloud Computing</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../services/custom-application-development.html"
+                        href="../services/custom-application-development.php"
                         >Custom Application Development</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../services/dedicated-developers.html"
+                        href="../services/dedicated-developers.php"
                         >Dedicated Developers</a
                       >
                     </li>
@@ -185,42 +185,42 @@
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../services/cyber-security.html"
+                        href="../services/cyber-security.php"
                         >Cyber Security</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../services/business-intelligence-consulting.html"
+                        href="../services/business-intelligence-consulting.php"
                         >Business Intelligence Consulting</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../services/e-commerce-solutions.html"
+                        href="../services/e-commerce-solutions.php"
                         >E-Commerce Solutions</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../services/ui-ux-solutions.html"
+                        href="../services/ui-ux-solutions.php"
                         >UI-UX Solutions</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../services/software-test-management.html"
+                        href="../services/software-test-management.php"
                         >Software Test Management</a
                       >
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../services/e-learning-solutions.html"
+                        href="../services/e-learning-solutions.php"
                         >E-Learning Solutions</a
                       >
                     </li>
@@ -246,59 +246,59 @@
                 <div class="row">
                   <div class="col-12 col-md-6 border-right">
                     <li>
-                      <a class="dropdown-item" href="../technology/cloud-architecture.html"
+                      <a class="dropdown-item" href="../technology/cloud-architecture.php"
                         >Cloud Architecture</a>
                     </li>
                     <li>
-                      <a class="dropdown-item" href="../technology/data-scientist.html"
+                      <a class="dropdown-item" href="../technology/data-scientist.php"
                         >Data Scientist</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/data-engineer.html"
+                        href="../technology/data-engineer.php"
                         >Data Engineer</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/nodejs-development.html"
+                        href="../technology/nodejs-development.php"
                         >NodeJS</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/java.html"
+                        href="../technology/java.php"
                         >Java</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/python.html"
+                        href="../technology/python.php"
                         >Python</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/android-development.html"
+                        href="../technology/android-development.php"
                         >Android</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/ios-development.html"
+                        href="../technology/ios-development.php"
                         >iOS</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/magento.html"
+                        href="../technology/magento.php"
                         >Magento</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/dotnet.html"
+                        href="../technology/dotnet.php"
                         >Dotnet</a>
                     </li>
                   </div>
@@ -306,55 +306,55 @@
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/reactjs-development.html"
+                        href="../technology/reactjs-development.php"
                         >ReactJS</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/react-native.html"
+                        href="../technology/react-native.php"
                         >React Native</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/angular-development.html"
+                        href="../technology/angular-development.php"
                         >Angular</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/blockchain-development.html"
+                        href="../technology/blockchain-development.php"
                         >Blockchain</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/sap.html"
+                        href="../technology/sap.php"
                         >SAP</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/ai-ml.html"
+                        href="../technology/ai-ml.php"
                         >AI/ML</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/natural-language-processing.html"
+                        href="../technology/natural-language-processing.php"
                         >NLP</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/laravel.html"
+                        href="../technology/laravel.php"
                         >Laravel</a>
                     </li>
                     <li>
                       <a
                         class="dropdown-item"
-                        href="../technology/php.html"
+                        href="../technology/php.php"
                         >PHP</a>
                     </li>
                   </div>
@@ -362,15 +362,15 @@
               </ul>
             </li>
             <li class="nav-item me-xl-4 me-lg-1">
-              <a class="nav-link" href="../engagement-model.html"
+              <a class="nav-link" href="../engagement-model.php"
                 >Engagement Models</a
               >
             </li>
             <li class="nav-item me-xl-4 me-lg-1">
-              <a class="nav-link" href="../blogs.html">Blogs</a>
+              <a class="nav-link" href="../blogs.php">Blogs</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../contact-us.html">Contact Us</a>
+              <a class="nav-link" href="../contact-us.php">Contact Us</a>
             </li>
           </ul>
           <!-- bottom links block end -->

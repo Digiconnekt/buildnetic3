@@ -32,15 +32,12 @@ let checkPath = location.pathname.substr(0, location.pathname.lastIndexOf("/"));
 if (location.pathname === "/") {
   menuItem[0].className = "nav-link active";
 } else if (
-  location.pathname === "/about-us.html" ||
-  location.pathname === "/careers.html" ||
-  location.pathname === "/faq.html"
+  location.pathname === "/about-us.php" ||
+  location.pathname === "/careers.php" ||
+  location.pathname === "/faq.php"
 ) {
   menuItem[1].className = "nav-link dropdown-toggle active";
-} else if (
-  location.pathname === "/services.html" ||
-  checkPath === "/services"
-) {
+} else if (location.pathname === "/services.php" || checkPath === "/services") {
   menuItem[5].className = "nav-link dropdown-toggle active";
 } else if (checkPath === "/technology") {
   menuItem[19].className = "nav-link dropdown-toggle active";

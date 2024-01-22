@@ -63,7 +63,7 @@
           </h1>
           <div class="border-white mb-5"></div>
           <div class="blog-nav">
-            <a href="../blogs.html" class="text-decoration-none">blog</a
+            <a href="../blogs.php" class="text-decoration-none">blog</a
             ><span class="mx-2">&#62;</span>product-management-the-key
           </div>
         </div>

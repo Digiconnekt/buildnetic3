@@ -263,7 +263,7 @@
           <h1 class="display-5 mb-3">Be a part of the solution!</h1>
           <a
             class="btn get-in-touch-btn mx-auto"
-            href="../get-in-touch.html"
+            href="../get-in-touch.php"
             role="button"
             >Get In Touch <i class="fa-solid fa-arrow-right-long ms-2"></i
           ></a>

@@ -71,7 +71,7 @@
             <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
               <div class="col-12 col-md-6 col-lg-4">
                 <a
-                  href="./blogs/the-code-to-brand-success-revolutionizing-it-solutions-software-solutions.html"
+                  href="./blogs/the-code-to-brand-success-revolutionizing-it-solutions-software-solutions.php"
                   class="card text-decoration-none"
                 >
                   <img
@@ -92,7 +92,7 @@
               </div>
               <div class="col-12 col-md-6 col-lg-4">
                 <a
-                  href="./blogs/end-to-end-encryption-new-trend-in-communication-services.html"
+                  href="./blogs/end-to-end-encryption-new-trend-in-communication-services.php"
                   class="card text-decoration-none"
                 >
                   <img
@@ -113,7 +113,7 @@
               </div>
               <div class="col-12 col-md-6 col-lg-4">
                 <a
-                  href="./blogs/common-cyber-threats-how-to-protect-against-them.html"
+                  href="./blogs/common-cyber-threats-how-to-protect-against-them.php"
                   class="card text-decoration-none"
                 >
                   <img
@@ -134,7 +134,7 @@
               </div>
               <div class="col-12 col-md-6 col-lg-4">
                 <a
-                  href="./blogs/how-to-create-a-strong-password-to-protect-your-data.html"
+                  href="./blogs/how-to-create-a-strong-password-to-protect-your-data.php"
                   class="card text-decoration-none"
                 >
                   <img
@@ -155,7 +155,7 @@
               </div>
               <div class="col-12 col-md-6 col-lg-4">
                 <a
-                  href="./blogs/biggest-it-staff-augmentation.html"
+                  href="./blogs/biggest-it-staff-augmentation.php"
                   class="card text-decoration-none"
                 >
                   <img
@@ -179,7 +179,7 @@
               </div>
               <div class="col-12 col-md-6 col-lg-4">
                 <a
-                  href="./blogs/open-ai-chatgpt.html"
+                  href="./blogs/open-ai-chatgpt.php"
                   class="card text-decoration-none"
                 >
                   <img
@@ -202,7 +202,7 @@
               </div>
               <div class="col-12 col-md-6 col-lg-4">
                 <a
-                  href="./blogs/product-management-the-key.html"
+                  href="./blogs/product-management-the-key.php"
                   class="card text-decoration-none"
                 >
                   <img
@@ -225,7 +225,7 @@
               </div>
               <div class="col-12 col-md-6 col-lg-4">
                 <a
-                  href="./blogs/top-15-emerging-technology.html"
+                  href="./blogs/top-15-emerging-technology.php"
                   class="card text-decoration-none"
                 >
                   <img
@@ -249,7 +249,7 @@
               </div>
               <div class="col-12 col-md-6 col-lg-4">
                 <a
-                  href="./blogs/how-does-artificial-intelligence.html"
+                  href="./blogs/how-does-artificial-intelligence.php"
                   class="card text-decoration-none"
                 >
                   <img
@@ -273,7 +273,7 @@
               </div>
               <div class="col-12 col-md-6 col-lg-4">
                 <a
-                  href="./blogs/exploring-the-latest-trends-in-seo.html"
+                  href="./blogs/exploring-the-latest-trends-in-seo.php"
                   class="card text-decoration-none"
                 >
                   <img
@@ -304,7 +304,7 @@
             <div class="row">
               <div class="col-12 col-sm-6 col-lg-4">
                 <a
-                  href="./blogs/biggest-it-staff-augmentation.html"
+                  href="./blogs/biggest-it-staff-augmentation.php"
                   class="card mb-3 text-decoration-none"
                 >
                   <div class="card-body row align-items-center">
@@ -323,7 +323,7 @@
               </div>
               <div class="col-12 col-sm-6 col-lg-4">
                 <a
-                  href="./blogs/open-ai-chatgpt.html"
+                  href="./blogs/open-ai-chatgpt.php"
                   class="card mb-3 text-decoration-none"
                 >
                   <div class="card-body row align-items-center">
@@ -344,7 +344,7 @@
               </div>
               <div class="col-12 col-sm-6 col-lg-4">
                 <a
-                  href="./blogs/product-management-the-key.html"
+                  href="./blogs/product-management-the-key.php"
                   class="card mb-3 text-decoration-none"
                 >
                   <div class="card-body row align-items-center">

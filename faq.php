@@ -361,7 +361,7 @@
               <h1 class="display-5">Still have Questions?</h1>
             </div>
             <div class="col-12 col-md-3">
-              <a class="btn contact-btn" href="./contact-us.html" role="button"
+              <a class="btn contact-btn" href="./contact-us.php" role="button"
                 >Contact Us <i class="fa-solid fa-arrow-right-long ms-2"></i
               ></a>
             </div>

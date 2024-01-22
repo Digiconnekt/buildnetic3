@@ -71,7 +71,7 @@
         <div class="row row-cols-1 row-cols-md-3 g-4">
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/web-development.html"
+              href="./services/web-development.php"
               class="card text-decoration-none"
             >
               <img
@@ -92,7 +92,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/mobile-development.html"
+              href="./services/mobile-development.php"
               class="card text-decoration-none"
             >
               <img
@@ -113,7 +113,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/cloud-computing.html"
+              href="./services/cloud-computing.php"
               class="card text-decoration-none"
             >
               <img
@@ -134,7 +134,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/e-learning-solutions.html"
+              href="./services/e-learning-solutions.php"
               class="card text-decoration-none"
             >
               <img
@@ -155,7 +155,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/cyber-security.html"
+              href="./services/cyber-security.php"
               class="card text-decoration-none"
             >
               <img
@@ -176,7 +176,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/business-intelligence-consulting.html"
+              href="./services/business-intelligence-consulting.php"
               class="card text-decoration-none"
             >
               <img
@@ -200,7 +200,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/e-commerce-solutions.html"
+              href="./services/e-commerce-solutions.php"
               class="card text-decoration-none"
             >
               <img
@@ -221,7 +221,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/ui-ux-solutions.html"
+              href="./services/ui-ux-solutions.php"
               class="card text-decoration-none"
             >
               <img
@@ -244,7 +244,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/custom-application-development.html"
+              href="./services/custom-application-development.php"
               class="card text-decoration-none"
             >
               <img
@@ -268,7 +268,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/software-test-management.html"
+              href="./services/software-test-management.php"
               class="card text-decoration-none"
             >
               <img
@@ -290,7 +290,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/devops-solutions.html"
+              href="./services/devops-solutions.php"
               class="card text-decoration-none"
             >
               <img
@@ -314,7 +314,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/product-re-engineering.html"
+              href="./services/product-re-engineering.php"
               class="card text-decoration-none"
             >
               <img
@@ -335,7 +335,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/dedicated-developers.html"
+              href="./services/dedicated-developers.php"
               class="card text-decoration-none"
             >
               <img
@@ -356,7 +356,7 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <a
-              href="./services/data-analytics.html"
+              href="./services/data-analytics.php"
               class="card text-decoration-none"
             >
               <img
@@ -376,7 +376,7 @@
             </a>
           </div>
           <div class="col-lg-4 col-md-6">
-            <a href="./services/testing.html" class="card text-decoration-none">
+            <a href="./services/testing.php" class="card text-decoration-none">
               <img
                 src="./images/services/testing.png"
                 class="card-img-top mx-auto"
@@ -403,7 +403,7 @@
           <h1 class="display-5 mb-3">Be a part of the solution!</h1>
           <a
             class="btn get-in-touch-btn mx-auto"
-            href="./get-in-touch.html"
+            href="./get-in-touch.php"
             role="button"
             >Get In Touch <i class="fa-solid fa-arrow-right-long ms-2"></i
           ></a>

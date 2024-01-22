@@ -65,7 +65,7 @@
           </h1>
           <div class="border-white mb-5"></div>
           <div class="blog-nav">
-            <a href="../blogs.html" class="text-decoration-none">blog</a
+            <a href="../blogs.php" class="text-decoration-none">blog</a
             ><span class="mx-2">&#62;</span>common-cyber-threats-how-to-protect-against-them
           </div>
         </div>
@@ -77,7 +77,7 @@
             <div class="row mb-4">
               <div class="col-lg-6 mb-3 mb-lg-0">
                 <img
-                  src="../images/blogs/common-cyber-threats-how-to-protect-against-them.png"
+                  src="../images/blogs/common-cyber-threats-how-to-protect-against-them.jpg"
                   alt="Blog"
                   class="img-fluid"
                 />
