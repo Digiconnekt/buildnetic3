@@ -75,7 +75,7 @@
                   class="card text-decoration-none"
                 >
                   <img
-                    src="./images/blogs/the-code-to-brand-success-revolutionizing-it-solutions-software-solutions.png"
+                    src="./images/blogs/the-code-to-brand-success-revolutionizing-it-solutions-software-solutions.jpg"
                     class="card-img-top"
                     alt="Blog"
                   />
@@ -117,7 +117,7 @@
                   class="card text-decoration-none"
                 >
                   <img
-                    src="./images/blogs/common-cyber-threats-how-to-protect-against-them.png"
+                    src="./images/blogs/common-cyber-threats-how-to-protect-against-them.jpg"
                     class="card-img-top"
                     alt="Blog"
                   />
@@ -138,7 +138,7 @@
                   class="card text-decoration-none"
                 >
                   <img
-                    src="./images/blogs/How_To_Create_A_Strong_Password.png"
+                    src="./images/blogs/How_To_Create_A_Strong_Password.jpg"
                     class="card-img-top"
                     alt="Blog"
                   />
