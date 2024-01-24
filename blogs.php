@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Read Buildnetic Blogs: A Leading Business Consulting Solutions in Australia</title>
+
+    <meta name="description" content="Explore our Buildnetic Blogs for insightful articles on business consulting solutions in Australia. Stay updated with the latest trends and strategies to drive your business forward.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

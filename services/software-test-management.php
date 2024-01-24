@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Efficient Software Test Management Services in USA, UK, and Canada - Buildnetic</title>
+
+    <meta name="description" content="Explore Buildnetic's top-notch Software Test Management Services in the USA, UK, and Canada. Streamline your testing processes with our advanced solutions for comprehensive software quality assurance.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

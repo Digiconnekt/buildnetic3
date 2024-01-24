@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Buildnetic: Expert Data Mining Service in Singapore & Data Analysis Service in the UK</title>
+
+    <meta name="description" content="Unlock the power of data with Buildnetic's top-notch data mining service in Singapore and advanced data analysis service in the UK. Transform your business insights today.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

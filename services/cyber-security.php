@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Buildnetic Cyber Security: Leading Cyber Security Service in UK</title>
+
+    <meta name="description" content="Explore Buildnetic top-notch Cyber Security Service in the UK. Safeguard your digital assets with our expert solutions and proactive defense measures.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

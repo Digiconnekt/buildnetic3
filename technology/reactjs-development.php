@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Premier React JS Development Services in USA, UK, Singapore | Buildnetic</title>
+
+    <meta name="description" content="Buildnetic offers top-quality React JS app development services in USA, UK, and Singapore. We specialize in UI/UX development using ReactJS, providing exceptional solutions to clients in Canada. Transform your web applications with our expertise and innovative approach.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Buildnetic: Expert Node.js Development Services in USA, UK & Canada</title>
+
+    <meta name="description" content="Explore top-notch Node.js mobile development in the USA, web development in the UK, and reliable support services in Canada with Buildnetic. Elevate your projects with our Node.js expertise.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

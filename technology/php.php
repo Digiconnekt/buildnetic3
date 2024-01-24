@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Professional PHP Development Services in USA | Buildnetic</title>
+
+    <meta name="description" content="An expert PHP consulting services in Singapore, USA, and the UK. We specialize in PHP framework development in the USA and PHP migration & integration services in Canada. Contact us for reliable solutions.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

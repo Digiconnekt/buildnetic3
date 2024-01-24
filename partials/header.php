@@ -5,7 +5,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Get in Touch with Buildnetic: Best IT Outsourcing & Service Company in UK</title>
+
+    <meta name="description" content="Contact Buildnetic, the best IT outsourcing and service company in USA, UK, and Singapore. Reach out to us for exceptional IT solutions and services tailored to your business.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

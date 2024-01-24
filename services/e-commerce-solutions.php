@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Buildnetic: Leading E-Commerce Solutions in UK & USA - Transform Your Business Today!</title>
+
+    <meta name="description" content="Explore Buildnetic's cutting-edge E-Commerce solutions tailored for success in the UK and USA. Elevate your business with our comprehensive E-Commerce Business Solutions designed to drive growth and maximize profitability.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

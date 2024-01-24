@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Leading Python Enterprise App Development Services in USA, Singapore & Canada</title>
+
+    <meta name="description" content="Unlock growth potential with Buildnetic's Python enterprise app development services. Tailored solutions for businesses in the USA, Singapore, and Canada. Explore custom Python development for innovative solutions.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

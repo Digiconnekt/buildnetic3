@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Expert IOS App Development Services in USA | Buildnetic</title>
+
+    <meta name="description" content="Buildnetic offers top-notch IOS app development services in USA, including iOS application design in Singapore and IOS support service in UK. Get customized solutions for your business needs today!">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

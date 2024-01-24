@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Buildnetic - Business Intelligence Consulting Service in Canada & USA</title>
+
+    <meta name="description" content="Elevate your business with Buildnetic expert Business Intelligence consulting services in Canada & USA. Transform data into strategic insights for unparalleled growth.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

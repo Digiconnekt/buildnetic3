@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Buildnetic - Cloud Consulting Agency in the USA | Expert Public & Private Cloud Services in Singapore</title>
+
+    <meta name="description" content="Discover the power of the cloud with Buildnetic, your premier Cloud Consulting Agency in the USA. Explore top-notch Public & Private Cloud Services in Singapore tailored to elevate your business.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

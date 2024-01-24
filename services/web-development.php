@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Buildnetic: Premier Web Development Services in USA, UK, Canada, and Singapore</title>
+
+    <meta name="description" content="Elevate your online presence with Buildnetic top-notch web development services tailored for businesses in the USA, UK, Canada, and Singapore. Transform your digital landscape with Buildnetic – Your Trusted Partner in Web Development Excellence.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

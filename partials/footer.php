@@ -52,9 +52,6 @@
                 <h5>SERVICES</h5>
                 <div class="border-yellow mb-4"></div>
                 <p>
-                    <a href="../services/mobile-development.php" class="text-decoration-none">Mobile Application Development</a>
-                </p>
-                <p>
                     <a href="../services/custom-application-development.php" class="text-decoration-none">Custom Application Development</a>
                 </p>
                 <p>
@@ -68,6 +65,9 @@
                 </p>
                 <p>
                     <a href="../services/dedicated-developers.php" class="text-decoration-none">Dedicated Developers</a>
+                </p>
+                <p>
+                    <a href="../services/mobile-development.php" class="text-decoration-none">Mobile Development</a>
                 </p>
                 <p>
                     <a href="../services/data-analytics.php" class="text-decoration-none">Data Analytics</a>

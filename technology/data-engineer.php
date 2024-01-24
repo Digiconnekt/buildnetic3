@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Buildnetic: ETL Expert Service in Singapore, Data Engineer Service in UK</title>
+
+    <meta name="description" content="Explore Buildnetic's top-notch Data Engineering services - ETL expertise in Singapore, comprehensive Data Engineer solutions in the UK, and robust Data Quality Management in Canada. Transform your data with precision and reliability.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

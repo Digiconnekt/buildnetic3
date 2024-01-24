@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Expert Angular App Development in USA, UK, Singapore | Buildnetic</title>
+
+    <meta name="description" content="Buildnetic offers professional Angular app development services in USA, UK, and Singapore. Transform your ideas into powerful web applications with our skilled team of developers. Unlock the potential of Angular for your business today.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

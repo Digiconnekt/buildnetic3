@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Hire Developers in Singapore & Canada | Buildnetic Dedicated Developer Services</title>
+
+    <meta name="description" content="Buildnetic connects you with top developers in Singapore and Canada. Hire skilled Swift and Ruby developers for your projects. Find the best talent with Buildnetic">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

@@ -137,7 +137,7 @@
                   <div class="col-12 col-md-6 border-right">
                     <li>
                       <a class="dropdown-item" href="../services.php"
-                        >IT Services</a
+                        >Services</a
                       >
                     </li>
                     <li>
@@ -156,7 +156,7 @@
                       <a
                         class="dropdown-item"
                         href="../services/mobile-development.php"
-                        >Mobility Solutions</a
+                        >Mobile Development</a
                       >
                     </li>
                     <li>

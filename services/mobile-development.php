@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Expert Mobile App Development Services in the UK and Singapore | Buildnetic</title>
+
+    <meta name="description" content="Unlock innovative mobile solutions with Buildnetic's top-notch Mobile App Development Services in the UK and Singapore. Our skilled team crafts cutting-edge applications tailored to your business needs, ensuring seamless user experiences and robust functionality. ">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
@@ -90,7 +92,7 @@
       <div class="mobile-banner title-section container-fuild mt-3">
         <div class="px-4 py-5 text-center">
           <h4 class="mb-3">Empower Your Business With Our</h4>
-          <h1 class="display-5 fw-bold mb-3">Mobility Solutions</h1>
+          <h1 class="display-5 fw-bold mb-3">Mobile Development</h1>
         </div>
       </div>
       <!-- title section end -->
@@ -107,7 +109,7 @@
             </div>
           </div>
           <div class="col-12 col-md-6">
-            <h2>Mobility Solutions</h2>
+            <h2>Mobile Development</h2>
             <div class="border-black mb-3"></div>
             <p>
               It is the process of creating mobile applications with a

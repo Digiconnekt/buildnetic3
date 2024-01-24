@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Buildnetic: Leading UI/UX Solution in Singapore | Top UI UX Design Agency in USA</title>
+
+    <meta name="description" content="Elevate user experiences with Buildnetic, your trusted UI/UX solution provider in Singapore. Explore innovative design services from a leading UI/UX design agency based in the USA.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

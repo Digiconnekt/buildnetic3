@@ -5,7 +5,9 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Buildnetic</title>
+  <title>Contact Buildnetic: Best IT Consulting Company in USA</title>
+
+  <meta name="description" content="Get in touch with Buildnetic, one of the best IT consulting companies in the USA. Contact us for reliable and innovative IT solutions tailored to your business needs.">
 
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

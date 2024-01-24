@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Buildnetic: Leading Blockchain Development Services in UK & Singapore</title>
+
+    <meta name="description" content="We Provide offers top-notch blockchain development services in the UK and Singapore. We specialize in providing expert blockchain consulting services in Canada. Contact us today for innovative solutions.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

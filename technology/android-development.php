@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Buildnetic: Premier Android Development Services in USA, Singapore & UK</title>
+
+    <meta name="description" content="Explore top-tier Android development services in the USA, consumer-focused Android app development in Singapore, and bespoke solutions for custom Android development in the UK with Buildnetic.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

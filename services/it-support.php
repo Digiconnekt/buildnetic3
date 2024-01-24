@@ -4,7 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic</title>
+    <title>Buildnetic: Leading IT Support Service Agency in USA, UK, Canada, Singapore</title>
+
+    <meta name="description" content="Discover top-tier IT support services with Buildnetic, your trusted partner in technology solutions. Our expert team ensures seamless IT support in the USA, UK, Canada, and Singapore. Experience unparalleled service excellence for a robust and reliable IT infrastructure.">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
