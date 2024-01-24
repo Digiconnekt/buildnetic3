@@ -8,6 +8,8 @@
 
     <meta name="description" content="Buildnetic offers comprehensive full-stack .NET development services in USA, UK, and Singapore. We also provide top-notch .NET integration consulting services in Canada. Unlock the full potential of your software solutions with our expertise and innovation.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/dotnet.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

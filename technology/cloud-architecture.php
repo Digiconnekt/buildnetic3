@@ -8,6 +8,8 @@
 
     <meta name="description" content="Elevate your business with Buildnetic's expert Cloud Migration, Design, and Cloud Consulting services in the USA, UK, and Canada. Seamlessly transition to the cloud for enhanced efficiency and scalability.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/cloud-architecture.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

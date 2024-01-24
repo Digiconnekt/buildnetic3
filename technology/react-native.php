@@ -8,6 +8,8 @@
 
     <meta name="description" content="Buildnetic specializes in the development of React Native applications in USA, UK, and Singapore. We offer custom React Native development services in Canada, delivering tailored solutions to meet your unique requirements. Unlock the potential of cross-platform mobile apps with our expert team.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/react-native.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

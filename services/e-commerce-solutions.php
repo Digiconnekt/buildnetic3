@@ -8,6 +8,8 @@
 
     <meta name="description" content="Explore Buildnetic's cutting-edge E-Commerce solutions tailored for success in the UK and USA. Elevate your business with our comprehensive E-Commerce Business Solutions designed to drive growth and maximize profitability.">
 
+    <link rel="canonical" href="https://buildnetic.com/services/e-commerce-solutions.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

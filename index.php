@@ -8,6 +8,8 @@
 
     <meta name="description" content="Elevate your business with Buildnetic top-tier IT outsourcing services in the USA. Experience unmatched expertise, seamless solutions, and unparalleled support.">
 
+    <link rel="canonical" href="https://buildnetic.com/index.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-07XQZ966NB"></script>
     <script>

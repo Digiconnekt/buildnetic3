@@ -8,6 +8,8 @@
 
     <meta name="description" content="Unlock growth potential with Buildnetic's Python enterprise app development services. Tailored solutions for businesses in the USA, Singapore, and Canada. Explore custom Python development for innovative solutions.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/python.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

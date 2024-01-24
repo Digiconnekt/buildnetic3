@@ -8,6 +8,8 @@
 
     <meta name="description" content="Explore Buildnetic's top-notch Data Engineering services - ETL expertise in Singapore, comprehensive Data Engineer solutions in the UK, and robust Data Quality Management in Canada. Transform your data with precision and reliability.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/data-engineer.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

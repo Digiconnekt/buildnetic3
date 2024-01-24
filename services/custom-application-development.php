@@ -7,6 +7,8 @@
     <title>Buildnetic: Top Custom Mobile App Development in Canada | SaaS Web App Services in the UK</title>
 
     <meta name="description" content="Upscale your business with Buildnetic expert custom application development services. From innovative mobile apps in Canada to robust SaaS web app solutions in the UK, we deliver cutting-edge solutions tailored to your unique needs.">
+    
+    <link rel="canonical" href="https://buildnetic.com/services/custom-application-development.html">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

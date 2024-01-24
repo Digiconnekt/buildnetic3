@@ -9,6 +9,8 @@
 
   <meta name="description" content="Get in touch with Buildnetic, one of the best IT consulting companies in the USA. Contact us for reliable and innovative IT solutions tailored to your business needs.">
 
+  <link rel="canonical" href="https://buildnetic.com/contact-us.html">
+
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
   <script>

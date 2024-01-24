@@ -8,6 +8,8 @@
 
     <meta name="description" content="An expert PHP consulting services in Singapore, USA, and the UK. We specialize in PHP framework development in the USA and PHP migration & integration services in Canada. Contact us for reliable solutions.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/php.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

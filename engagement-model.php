@@ -8,6 +8,8 @@
 
     <meta name="description" content="Buildnetic is the leading IT consultancy firm in the USA, providing top-notch solutions. Contact us for the best IT consultancy services that meet your business needs.">
 
+    <link rel="canonical" href="https://buildnetic.com/engagement-model.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

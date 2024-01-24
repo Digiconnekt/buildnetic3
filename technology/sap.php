@@ -8,6 +8,8 @@
 
     <meta name="description" content="Buildnetic offers professional SAP development services in Singapore. Enhance the security of your SAP environment in the UK and Canada with our top-notch security services. Contact us today for reliable solutions.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/sap.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

@@ -8,6 +8,8 @@
 
     <meta name="description" content="Discover top-tier IT support services with Buildnetic, your trusted partner in technology solutions. Our expert team ensures seamless IT support in the USA, UK, Canada, and Singapore. Experience unparalleled service excellence for a robust and reliable IT infrastructure.">
 
+    <link rel="canonical" href="https://buildnetic.com/services/it-support.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

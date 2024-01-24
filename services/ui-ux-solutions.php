@@ -8,6 +8,8 @@
 
     <meta name="description" content="Elevate user experiences with Buildnetic, your trusted UI/UX solution provider in Singapore. Explore innovative design services from a leading UI/UX design agency based in the USA.">
 
+    <link rel="canonical" href="https://buildnetic.com/services/ui-ux-solutions.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

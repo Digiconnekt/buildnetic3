@@ -8,6 +8,8 @@
 
     <meta name="description" content="Explore our Buildnetic Blogs for insightful articles on business consulting solutions in Australia. Stay updated with the latest trends and strategies to drive your business forward.">
 
+    <link rel="canonical" href="https://buildnetic.com/blogs.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

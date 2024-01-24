@@ -8,6 +8,8 @@
 
     <meta name="description" content="Buildnetic specializes in AI/ML mobile application development in the USA and Singapore. We also offer expert chatbot development services in the UK and Canada. Contact us for cutting-edge solutions.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/ai-ml.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

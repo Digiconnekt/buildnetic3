@@ -8,6 +8,8 @@
 
     <meta name="description" content="Buildnetic offers top-notch IOS app development services in USA, including iOS application design in Singapore and IOS support service in UK. Get customized solutions for your business needs today!">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/ios-development.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

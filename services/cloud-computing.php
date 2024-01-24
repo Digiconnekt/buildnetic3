@@ -8,6 +8,8 @@
 
     <meta name="description" content="Discover the power of the cloud with Buildnetic, your premier Cloud Consulting Agency in the USA. Explore top-notch Public & Private Cloud Services in Singapore tailored to elevate your business.">
 
+    <link rel="canonical" href="https://buildnetic.com/services/cloud-computing.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

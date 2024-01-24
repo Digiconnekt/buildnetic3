@@ -8,6 +8,8 @@
 
     <meta name="description" content="Buildnetic offers top-quality React JS app development services in USA, UK, and Singapore. We specialize in UI/UX development using ReactJS, providing exceptional solutions to clients in Canada. Transform your web applications with our expertise and innovative approach.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/reactjs-development.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

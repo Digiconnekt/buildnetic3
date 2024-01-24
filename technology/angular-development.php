@@ -8,6 +8,8 @@
 
     <meta name="description" content="Buildnetic offers professional Angular app development services in USA, UK, and Singapore. Transform your ideas into powerful web applications with our skilled team of developers. Unlock the potential of Angular for your business today.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/angular-development.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

@@ -6,7 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Expert Mobile App Development Services in the UK and Singapore | Buildnetic</title>
 
-    <meta name="description" content="Unlock innovative mobile solutions with Buildnetic's top-notch Mobile App Development Services in the UK and Singapore. Our skilled team crafts cutting-edge applications tailored to your business needs, ensuring seamless user experiences and robust functionality. ">
+    <meta name="description" content="Unlock innovative mobile solutions with Buildnetic's top-notch Mobile App Development Services in the UK and Singapore. Our skilled team crafts cutting-edge applications tailored to your business needs, ensuring seamless user experiences and robust functionality.">
+
+    <link rel="canonical" href="https://buildnetic.com/services/mobile-development.html">
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>

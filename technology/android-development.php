@@ -8,6 +8,8 @@
 
     <meta name="description" content="Explore top-tier Android development services in the USA, consumer-focused Android app development in Singapore, and bespoke solutions for custom Android development in the UK with Buildnetic.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/android-development.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

@@ -8,6 +8,8 @@
 
     <meta name="description" content="We are the Leading natural language processing (NLP) development services in Singapore and the UK. We specialize in NLP chatbot development in the USA and Canada. Contact us for advanced solutions.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/natural-language-processing.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

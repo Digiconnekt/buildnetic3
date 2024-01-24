@@ -8,6 +8,8 @@
 
     <meta name="description" content="Explore Buildnetic top-notch Cyber Security Service in the UK. Safeguard your digital assets with our expert solutions and proactive defense measures.">
 
+    <link rel="canonical" href="https://buildnetic.com/services/cyber-security.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

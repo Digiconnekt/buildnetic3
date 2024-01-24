@@ -8,6 +8,8 @@
 
     <meta name="description" content="Elevate your projects with Buildnetic premier Core Java development services in the USA. Trust us for seamless Java support and maintenance in Singapore. Unlock the full potential of Java with our dedicated team.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/java.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

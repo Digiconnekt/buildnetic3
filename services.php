@@ -8,6 +8,8 @@
 
     <meta name="description" content="Discover unparalleled IT services with Buildnetic, the leading IT service agency in Canada. Elevate your business with our innovative solutions, expert consultations, and reliable support. ">
 
+    <link rel="canonical" href="https://buildnetic.com/services.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

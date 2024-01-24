@@ -8,6 +8,8 @@
 
     <meta name="description" content="Join Buildnetic, the leading IT consulting agency in the USA, and embark on a rewarding career journey. Discover dynamic opportunities, cutting-edge projects, and a supportive work culture.">
 
+    <link rel="canonical" href="https://buildnetic.com/careers.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

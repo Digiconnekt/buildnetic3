@@ -8,6 +8,8 @@
 
     <meta name="description" content="Explore Buildnetic's comprehensive FAQ to discover why we stand out as the premier IT outsourcing company in Singapore. Uncover insights into our cutting-edge solutions, expert team, and unparalleled commitment to delivering top-notch IT services. Choose Buildnetic for a seamless and innovative outsourcing experience.">
 
+    <link rel="canonical" href="https://buildnetic.com/faq.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

@@ -8,6 +8,8 @@
 
     <meta name="description" content="Explore Buildnetic's cutting-edge E Learning Solutions in the USA and Student Service Portal Development services in the UK. Elevate your education experience with innovative technology solutions tailored to meet your learning needs.">
 
+    <link rel="canonical" href="https://buildnetic.com/services/e-learning-solutions.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

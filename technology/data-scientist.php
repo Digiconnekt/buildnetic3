@@ -8,6 +8,8 @@
 
     <meta name="description" content="Unlock the power of data with Buildnetic's top-notch data mining service in Singapore and advanced data analysis service in the UK. Transform your business insights today.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/data-scientist.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

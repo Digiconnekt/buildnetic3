@@ -8,6 +8,8 @@
 
     <meta name="description" content="Explore Buildnetic's top-notch Software Test Management Services in the USA, UK, and Canada. Streamline your testing processes with our advanced solutions for comprehensive software quality assurance.">
 
+    <link rel="canonical" href="https://buildnetic.com/services/software-test-management.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

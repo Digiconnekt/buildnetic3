@@ -8,6 +8,8 @@
 
     <meta name="description" content="We offers professional Laravel API development services in Singapore and the UK. We specialize in Laravel eCommerce development in the USA and Laravel CMS development in Canada. Contact us for reliable solutions.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/laravel.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

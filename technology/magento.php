@@ -8,6 +8,8 @@
 
     <meta name="description" content="Buildnetic specializes in Magento extension development services in USA. We also offer top-notch Magento theme development services in Singapore and UK. Enhance your e-commerce store with our tailored solutions today!">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/magento.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

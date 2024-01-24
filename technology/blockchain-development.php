@@ -8,6 +8,8 @@
 
     <meta name="description" content="We Provide offers top-notch blockchain development services in the UK and Singapore. We specialize in providing expert blockchain consulting services in Canada. Contact us today for innovative solutions.">
 
+    <link rel="canonical" href="https://buildnetic.com/technology/blockchain-development.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>

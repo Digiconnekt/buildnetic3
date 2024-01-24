@@ -8,6 +8,8 @@
 
     <meta name="description" content="Elevate your business with Buildnetic expert Business Intelligence consulting services in Canada & USA. Transform data into strategic insights for unparalleled growth.">
 
+    <link rel="canonical" href="https://buildnetic.com/services/business-intelligence-consulting.html">
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
     <script>
