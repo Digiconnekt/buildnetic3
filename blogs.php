@@ -75,6 +75,27 @@
             <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
               <div class="col-12 col-md-6 col-lg-4">
                 <a
+                  href="./blogs/elevate-your-online-presence-with-buildnetic-e-commerce-solutions.php"
+                  class="card text-decoration-none"
+                >
+                  <img
+                    src="./images/blogs/elevate-your-online-presence-with-buildnetic-e-commerce-solutions.jpg"
+                    class="card-img-top"
+                    alt="Blog"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">
+                      Elevate Your Online Presence with Buildnetic E-Commerce Solutions
+                    </h5>
+                    <p class="card-text">
+                    For companies of all sizes, having a strong online presence is essential in the rapid digital world of today. Effective e-commerce solutions are typically the key to success, whether
+                      <span>read more...</span>
+                    </p>
+                  </div>
+                </a>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4">
+                <a
                   href="./blogs/the-code-to-brand-success-revolutionizing-it-solutions-software-solutions.php"
                   class="card text-decoration-none"
                 >
