@@ -75,6 +75,48 @@
             <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
               <div class="col-12 col-md-6 col-lg-4">
                 <a
+                  href="./blogs/map-to-success-choosing-the-right-it-consulting-agency-in-uk.php"
+                  class="card text-decoration-none"
+                >
+                  <img
+                    src="./images/blogs/map-to-success-choosing-the-right-it-consulting-agency-in-uk.jpg"
+                    class="card-img-top"
+                    alt="Blog"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">
+                    Map to Success: Choosing the Right IT Consulting Agency in UK
+                    </h5>
+                    <p class="card-text">
+                    Choosing to use IT outsourcing services over establishing an internal department is a popular decision for businesses of all sizes. The main justification is lower labor expenses. Are you among.
+                      <span>read more...</span>
+                    </p>
+                  </div>
+                </a>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4">
+                <a
+                  href="./blogs/buildnetic-it-consulting-agency-transforming-businesses-in-canada.php"
+                  class="card text-decoration-none"
+                >
+                  <img
+                    src="./images/blogs/buildnetic-it-consulting-agency-transforming-businesses-in-canada.jpg"
+                    class="card-img-top"
+                    alt="Blog"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">
+                    Buildnetic IT Consulting Agency: Transforming Businesses in Canada
+                    </h5>
+                    <p class="card-text">
+                    Businesses are releasing more and more that in the fast-paced world of technology, they need professional advice to manage the intricacies of the digital environment. Buildnetic is an IT consulting firm.
+                      <span>read more...</span>
+                    </p>
+                  </div>
+                </a>
+              </div>
+              <div class="col-12 col-md-6 col-lg-4">
+                <a
                   href="./blogs/elevate-your-online-presence-with-buildnetic-e-commerce-solutions.php"
                   class="card text-decoration-none"
                 >
