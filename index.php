@@ -1,3 +1,5 @@
+<?php include("./blogs-data.php") ?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -858,82 +860,35 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-6 col-lg-5 mb-3" data-aos="fade-left">
-          <div class="card">
-            <img
-              src="./images/blogs/biggest-it-staff.jpg"
-              class="card-img-top"
-              alt="Blog"
-            />
-            <div class="card-body">
-              <h5 class="card-title mt-2">
-                <a
-                  href="./blogs/biggest-it-staff-augmentation.php"
-                  class="blog-link text-decoration-none"
-                  >Biggest IT Staff Augmentation Challenges and Solutions for
-                  Your Business</a
-                >
-              </h5>
-            </div>
-          </div>
-        </div>
-        <div class="col-12 col-md-6 col-lg-4 mt-4" data-aos="fade-up">
-          <div class="card">
-            <img
-              src="./images/blogs/chatgpt.jpg"
-              class="card-img-top"
-              alt="Blog"
-            />
-            <div class="card-body">
-              <h5 class="card-title mt-2">
-                <a
-                  href="./blogs/open-ai-chatgpt.php"
-                  class="blog-link text-decoration-none"
-                  >Open AI ChatGPT: What is it? How can business owners in 2023
-                  benefit...</a
-                >
-              </h5>
-            </div>
-          </div>
-        </div>
-        <div class="col-12 col-md-6 col-lg-4 mt-4" data-aos="fade-up">
-          <div class="card">
-            <img
-              src="./images/blogs/product-management.jpg"
-              class="card-img-top"
-              alt="Blog"
-            />
-            <div class="card-body">
-              <h5 class="card-title mt-2">
-                <a
-                  href="./blogs/product-management-the-key.php"
-                  class="blog-link text-decoration-none"
-                  >Product Management: The key to increasing the returns on
-                  software...</a
-                >
-              </h5>
-            </div>
-          </div>
-        </div>
-        <div class="col-12 col-md-6 col-lg-4 mt-4" data-aos="fade-up">
-          <div class="card">
-            <img
-              src="./images/blogs/exploring-the-latest.jpg"
-              class="card-img-top"
-              alt="Blog"
-            />
-            <div class="card-body">
-              <h5 class="card-title mt-2">
-                <a
-                  href="./blogs/top-15-emerging-technology.php"
-                  class="blog-link text-decoration-none"
-                  >Top 15 emerging technology trends to keep an eye on through
-                  2023</a
-                >
-              </h5>
-            </div>
-          </div>
-        </div>
+        <?php  
+          $count = 1;
+          foreach($blogs as $blog){
+            if($count > 4) {
+              break;
+            }
+            ?>
+              <div class="col-12 col-md-6 <?php echo ($count === 1) ? "col-lg-5 mb-3" : "col-lg-4 mt-4" ?>" data-aos="fade-up">
+                <div class="card">
+                  <img
+                    src="./images/blogs/<?php echo $blog->image; ?>"
+                    class="card-img-top"
+                    alt="Blog"
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title mt-2">
+                      <a
+                        href="./blogs/<?php echo $blog->href; ?>.php"
+                        class="blog-link text-decoration-none"
+                        ><?php echo $blog->title; ?></a
+                      >
+                    </h5>
+                  </div>
+                </div>
+              </div>
+            <?php
+            $count++;
+          }
+        ?>
       </div>
     </div>
     <!-- blogs section end -->
