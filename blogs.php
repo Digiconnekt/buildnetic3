@@ -1,3 +1,92 @@
+<?php
+  $blogs = array(
+    (object) array(
+      "title" => "Key Considerations for IT Outsourcing Services in the UK",
+      "image" => "key-considerations-for-it-outsourcing-services-in-the-uk.jpg",
+      "href" => "key-considerations-for-it-outsourcing-services-in-the-uk",
+      "description" => "Installing and configuring computer gear, software, and networks throughout businesses is the responsibility of an IT Outsourcing Services in UK. They keep an eye on how these systems are doing "
+    ),
+    (object) array(
+      "title" => "Map to Success: Choosing the Right IT Consulting Agency in UK",
+      "image" => "map-to-success-choosing-the-right-it-consulting-agency-in-uk.jpg",
+      "href" => "map-to-success-choosing-the-right-it-consulting-agency-in-uk",
+      "description" => "Choosing to use IT outsourcing services over establishing an internal department is a popular decision for businesses of all sizes. The main justification is lower labor expenses. Are you among."
+    ),
+    (object) array(
+      "title" => "Buildnetic IT Consulting Agency: Transforming Businesses in Canada",
+      "image" => "buildnetic-it-consulting-agency-transforming-businesses-in-canada.jpg",
+      "href" => "buildnetic-it-consulting-agency-transforming-businesses-in-canada",
+      "description" => "Businesses are releasing more and more that in the fast-paced world of technology, they need professional advice to manage the intricacies of the digital environment. Buildnetic is an IT consulting firm."
+    ),
+    (object) array(
+      "title" => "Elevate Your Online Presence with Buildnetic E-Commerce Solutions",
+      "image" => "elevate-your-online-presence-with-buildnetic-e-commerce-solutions.jpg",
+      "href" => "elevate-your-online-presence-with-buildnetic-e-commerce-solutions",
+      "description" => "For companies of all sizes, having a strong online presence is essential in the rapid digital world of today. Effective e-commerce solutions are typically the key to success, whether"
+    ),
+    (object) array(
+      "title" => "The Code to Brand Success: Revolutionizing IT Solutions and Software Solutions",
+      "image" => "the-code-to-brand-success-revolutionizing-it-solutions-software-solutions.jpg",
+      "href" => "the-code-to-brand-success-revolutionizing-it-solutions-software-solutions",
+      "description" => "In today's fast-paced digital landscape, businesses are constantly seeking innovative strategies to stay ahead of the competition. One critical aspect of their"
+    ),
+    (object) array(
+      "title" => "END-TO-END Encryption: The new trend in communication services",
+      "image" => "end-to-end-encryption-new-trend-in-communication-services.webp",
+      "href" => "end-to-end-encryption-new-trend-in-communication-services",
+      "description" => "In recent years, there has been an increased focus on end-to-end encryption in communication services. End-to-end encryption is a security measure that ensures that only the sender"
+    ),
+    (object) array(
+      "title" => "Common Cyber Threats : How To Protect Against Them?",
+      "image" => "common-cyber-threats-how-to-protect-against-them.jpg",
+      "href" => "common-cyber-threats-how-to-protect-against-them",
+      "description" => "In the digital age, we rely heavily on technology to run our daily lives. From online banking to online shopping, we share a plethora of personal and financial information online. Unfortunately"
+    ),
+    (object) array(
+      "title" => "Password Protection: How to create a strong password to protect your data?",
+      "image" => "How_To_Create_A_Strong_Password.jpg",
+      "href" => "how-to-create-a-strong-password-to-protect-your-data",
+      "description" => "In today's digital age, we rely heavily on passwords to protect our sensitive data. Passwords are the keys to our digital lives, and without proper protection"
+    ),
+    (object) array(
+      "title" => "Biggest IT Staff Augmentation Challenges and Solutions for Your Business",
+      "image" => "biggest-it-staff.jpg",
+      "href" => "biggest-it-staff-augmentation",
+      "description" => "To accomplish business goals and meet customer demands, it is crucial to fill workforce gaps. A difficult task, though, is finding the ideal candidate. In addition to"
+    ),
+    (object) array(
+      "title" => "Open AI ChatGPT: What is it? How can business owners in 2023 benefit from Open AI ChatGPT?",
+      "image" => "chatgpt.jpg",
+      "href" => "open-ai-chatgpt",
+      "description" => "Chatbots have become a common solution as companies look for ways to simplify operations, enhance customer service, and cut costs"
+    ),
+    (object) array(
+      "title" => "Product Management: The key to increasing the returns on software development investments.",
+      "image" => "product-management.jpg",
+      "href" => "product-management-the-key",
+      "description" => "The success of your product depends on effective product management. Only when the crucial product management side remains"
+    ),
+    (object) array(
+      "title" => "Top 15 emerging technology trends to keep an eye on through 2023",
+      "image" => "top-15-tech.jpg",
+      "href" => "top-15-emerging-technology",
+      "description" => "Changes in technology are still causing havoc in the world. Expect to see more strategic and revolutionary developments in 2023 if these more recent shifts pick up steam"
+    ),
+    (object) array(
+      "title" => "How Does Artificial Intelligence Affect the Financial Sector?",
+      "image" => "how-does-ai.jpg",
+      "href" => "how-does-artificial-intelligence",
+      "description" => "All industry verticals are slowly being infiltrated by artificial intelligence (AI), which is revolutionizing how businesses manage their internal operations, logistics"
+    ),
+    (object) array(
+      "title" => "Exploring the latest trends in SEO: An in-depth look at popular techniques",
+      "image" => "exploring-the-latest.jpg",
+      "href" => "exploring-the-latest-trends-in-seo",
+      "description" => " What is SEO? If used properly, search engine optimization can be a powerful tool for drawing customers to your online platforms. Keeping up with the"
+    ),
+  )
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -73,295 +162,32 @@
         <div class="row">
           <div class="all-blogs col-lg-12 mb-4 mb-lg-0">
             <div class="row row-cols-1 row-cols-md-2 g-4 mb-4">
-              <div class="col-12 col-md-6 col-lg-4">
-                <a
-                  href="./blogs/map-to-success-choosing-the-right-it-consulting-agency-in-uk.php"
-                  class="card text-decoration-none"
-                >
-                  <img
-                    src="./images/blogs/map-to-success-choosing-the-right-it-consulting-agency-in-uk.jpg"
-                    class="card-img-top"
-                    alt="Blog"
-                  />
-                  <div class="card-body">
-                    <h5 class="card-title">
-                    Map to Success: Choosing the Right IT Consulting Agency in UK
-                    </h5>
-                    <p class="card-text">
-                    Choosing to use IT outsourcing services over establishing an internal department is a popular decision for businesses of all sizes. The main justification is lower labor expenses. Are you among.
-                      <span>read more...</span>
-                    </p>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-md-6 col-lg-4">
-                <a
-                  href="./blogs/buildnetic-it-consulting-agency-transforming-businesses-in-canada.php"
-                  class="card text-decoration-none"
-                >
-                  <img
-                    src="./images/blogs/buildnetic-it-consulting-agency-transforming-businesses-in-canada.jpg"
-                    class="card-img-top"
-                    alt="Blog"
-                  />
-                  <div class="card-body">
-                    <h5 class="card-title">
-                    Buildnetic IT Consulting Agency: Transforming Businesses in Canada
-                    </h5>
-                    <p class="card-text">
-                    Businesses are releasing more and more that in the fast-paced world of technology, they need professional advice to manage the intricacies of the digital environment. Buildnetic is an IT consulting firm.
-                      <span>read more...</span>
-                    </p>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-md-6 col-lg-4">
-                <a
-                  href="./blogs/elevate-your-online-presence-with-buildnetic-e-commerce-solutions.php"
-                  class="card text-decoration-none"
-                >
-                  <img
-                    src="./images/blogs/elevate-your-online-presence-with-buildnetic-e-commerce-solutions.jpg"
-                    class="card-img-top"
-                    alt="Blog"
-                  />
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      Elevate Your Online Presence with Buildnetic E-Commerce Solutions
-                    </h5>
-                    <p class="card-text">
-                    For companies of all sizes, having a strong online presence is essential in the rapid digital world of today. Effective e-commerce solutions are typically the key to success, whether
-                      <span>read more...</span>
-                    </p>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-md-6 col-lg-4">
-                <a
-                  href="./blogs/the-code-to-brand-success-revolutionizing-it-solutions-software-solutions.php"
-                  class="card text-decoration-none"
-                >
-                  <img
-                    src="./images/blogs/the-code-to-brand-success-revolutionizing-it-solutions-software-solutions.jpg"
-                    class="card-img-top"
-                    alt="Blog"
-                  />
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      The Code to Brand Success: Revolutionizing IT Solutions and Software Solutions
-                    </h5>
-                    <p class="card-text">
-                    In today's fast-paced digital landscape, businesses are constantly seeking innovative strategies to stay ahead of the competition. One critical aspect of their
-                      <span>read more...</span>
-                    </p>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-md-6 col-lg-4">
-                <a
-                  href="./blogs/end-to-end-encryption-new-trend-in-communication-services.php"
-                  class="card text-decoration-none"
-                >
-                  <img
-                    src="./images/blogs/end-to-end-encryption-new-trend-in-communication-services.webp"
-                    class="card-img-top"
-                    alt="Blog"
-                  />
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      END-TO-END Encryption: The new trend in communication services
-                    </h5>
-                    <p class="card-text">
-                    In recent years, there has been an increased focus on end-to-end encryption in communication services. End-to-end encryption is a security measure that ensures that only the sender
-                      <span>read more...</span>
-                    </p>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-md-6 col-lg-4">
-                <a
-                  href="./blogs/common-cyber-threats-how-to-protect-against-them.php"
-                  class="card text-decoration-none"
-                >
-                  <img
-                    src="./images/blogs/common-cyber-threats-how-to-protect-against-them.jpg"
-                    class="card-img-top"
-                    alt="Blog"
-                  />
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      Common Cyber Threats : How To Protect Against Them?
-                    </h5>
-                    <p class="card-text">
-                    In the digital age, we rely heavily on technology to run our daily lives. From online banking to online shopping, we share a plethora of personal and financial information online. Unfortunately
-                      <span>read more...</span>
-                    </p>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-md-6 col-lg-4">
-                <a
-                  href="./blogs/how-to-create-a-strong-password-to-protect-your-data.php"
-                  class="card text-decoration-none"
-                >
-                  <img
-                    src="./images/blogs/How_To_Create_A_Strong_Password.jpg"
-                    class="card-img-top"
-                    alt="Blog"
-                  />
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      Password Protection: How to create a strong password to protect your data?
-                    </h5>
-                    <p class="card-text">
-                      In today's digital age, we rely heavily on passwords to protect our sensitive data. Passwords are the keys to our digital lives, and without proper protection
-                      <span>read more...</span>
-                    </p>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-md-6 col-lg-4">
-                <a
-                  href="./blogs/biggest-it-staff-augmentation.php"
-                  class="card text-decoration-none"
-                >
-                  <img
-                    src="./images/blogs/biggest-it-staff.jpg"
-                    class="card-img-top"
-                    alt="Blog"
-                  />
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      Biggest IT Staff Augmentation Challenges and Solutions for
-                      Your Business
-                    </h5>
-                    <p class="card-text">
-                      To accomplish business goals and meet customer demands, it
-                      is crucial to fill workforce gaps. A difficult task,
-                      though, is finding the ideal candidate. In addition to
-                      <span>read more...</span>
-                    </p>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-md-6 col-lg-4">
-                <a
-                  href="./blogs/open-ai-chatgpt.php"
-                  class="card text-decoration-none"
-                >
-                  <img
-                    src="./images/blogs/chatgpt.jpg"
-                    class="card-img-top"
-                    alt="Blog"
-                  />
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      Open AI ChatGPT: What is it? How can business owners in
-                      2023 benefit from Open AI ChatGPT?
-                    </h5>
-                    <p class="card-text">
-                      Chatbots have become a common solution as companies look
-                      for ways to simplify operations, enhance customer service,
-                      and cut costs <span>read more...</span>
-                    </p>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-md-6 col-lg-4">
-                <a
-                  href="./blogs/product-management-the-key.php"
-                  class="card text-decoration-none"
-                >
-                  <img
-                    src="./images/blogs/product-management.jpg"
-                    class="card-img-top"
-                    alt="Blog"
-                  />
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      Product Management: The key to increasing the returns on
-                      software development investments.
-                    </h5>
-                    <p class="card-text">
-                      The success of your product depends on effective product
-                      management. Only when the crucial product management side
-                      remains <span>read more...</span>
-                    </p>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-md-6 col-lg-4">
-                <a
-                  href="./blogs/top-15-emerging-technology.php"
-                  class="card text-decoration-none"
-                >
-                  <img
-                    src="./images/blogs/top-15-tech.jpg"
-                    class="card-img-top"
-                    alt="Blog"
-                  />
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      Top 15 emerging technology trends to keep an eye on
-                      through 2023
-                    </h5>
-                    <p class="card-text">
-                      Changes in technology are still causing havoc in the
-                      world. Expect to see more strategic and revolutionary
-                      developments in 2023 if these more recent shifts pick up
-                      steam <span>read more...</span>
-                    </p>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-md-6 col-lg-4">
-                <a
-                  href="./blogs/how-does-artificial-intelligence.php"
-                  class="card text-decoration-none"
-                >
-                  <img
-                    src="./images/blogs/how-does-ai.jpg"
-                    class="card-img-top"
-                    alt="Blog"
-                  />
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      How Does Artificial Intelligence Affect the Financial
-                      Sector?
-                    </h5>
-                    <p class="card-text">
-                      All industry verticals are slowly being infiltrated by
-                      artificial intelligence (AI), which is revolutionizing how
-                      businesses manage their internal operations, logistics
-                      <span>read more...</span>
-                    </p>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-md-6 col-lg-4">
-                <a
-                  href="./blogs/exploring-the-latest-trends-in-seo.php"
-                  class="card text-decoration-none"
-                >
-                  <img
-                    src="./images/blogs/exploring-the-latest.jpg"
-                    class="card-img-top"
-                    alt="Blog"
-                  />
-                  <div class="card-body">
-                    <h5 class="card-title">
-                      Exploring the latest trends in SEO: An in-depth look at
-                      popular techniques
-                    </h5>
-                    <p class="card-text">
-                      What is SEO? If used properly, search engine optimization
-                      can be a powerful tool for drawing customers to your
-                      online platforms. Keeping up with the
-                      <span>read more...</span>
-                    </p>
-                  </div>
-                </a>
-              </div>
+              <?php 
+                foreach($blogs as $blog){
+                  ?>
+                    <div class="col-12 col-md-6 col-lg-4">
+                      <a
+                        href="./blogs/<?php echo $blog->href; ?>.php"
+                        class="card text-decoration-none"
+                      >
+                        <img
+                          src="./images/blogs/<?php echo $blog->image ?>"
+                          class="card-img-top"
+                          alt="Blog"
+                        />
+                        <div class="card-body">
+                          <h5 class="card-title">
+                          <?php echo $blog->title; ?>
+                          </h5>
+                          <p class="card-text">
+                            <?php echo $blog->description; ?> <span>read more...</span>
+                          </p>
+                        </div>
+                      </a>
+                    </div>
+                  <?php
+                }
+              ?>
             </div>
           </div>
 
@@ -369,65 +195,36 @@
             <h4>Recent Blog's</h4>
             <div class="border-blue mb-3"></div>
             <div class="row">
-              <div class="col-12 col-sm-6 col-lg-4">
-                <a
-                  href="./blogs/biggest-it-staff-augmentation.php"
-                  class="card mb-3 text-decoration-none"
-                >
-                  <div class="card-body row align-items-center">
-                    <div class="col-md-4">
-                      <img
-                        src="./images/blogs/biggest-it-staff.jpg"
-                        class="img-fluid"
-                        alt="Blog"
-                      />
+              <?php 
+                $count = 1;
+                foreach ($blogs as $blog) {
+                  if ($count > 3) {
+                    break;
+                  }
+                  ?>
+                    <div class="col-12 col-sm-6 col-lg-4">
+                      <a
+                        href="./blogs/<?php echo $blog->href; ?>.php"
+                        class="card mb-3 text-decoration-none"
+                      >
+                        <div class="card-body row align-items-center">
+                          <div class="col-md-4">
+                            <img
+                              src="./images/blogs/<?php echo $blog->image; ?>"
+                              class="img-fluid"
+                              alt="Blog"
+                            />
+                          </div>
+                          <div class="col-md-8 mt-2 mt-md-0">
+                            <p class="head card-text"><?php echo $blog->title; ?></p>
+                          </div>
+                        </div>
+                      </a>
                     </div>
-                    <div class="col-md-8 mt-2 mt-md-0">
-                      <p class="head card-text">Biggest IT Staff Augmenta...</p>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-sm-6 col-lg-4">
-                <a
-                  href="./blogs/open-ai-chatgpt.php"
-                  class="card mb-3 text-decoration-none"
-                >
-                  <div class="card-body row align-items-center">
-                    <div class="col-md-4">
-                      <img
-                        src="./images/blogs/chatgpt.jpg"
-                        class="img-fluid"
-                        alt="Blog"
-                      />
-                    </div>
-                    <div class="col-md-8 mt-2 mt-md-0">
-                      <p class="head card-text">
-                        Open AI ChatGPT: What is it?...
-                      </p>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div class="col-12 col-sm-6 col-lg-4">
-                <a
-                  href="./blogs/product-management-the-key.php"
-                  class="card mb-3 text-decoration-none"
-                >
-                  <div class="card-body row align-items-center">
-                    <div class="col-md-4">
-                      <img
-                        src="./images/blogs/product-management.jpg"
-                        class="img-fluid"
-                        alt="Blog"
-                      />
-                    </div>
-                    <div class="col-md-8 mt-2 mt-md-0">
-                      <p class="head card-text">Product Management: The ...</p>
-                    </div>
-                  </div>
-                </a>
-              </div>
+                  <?php
+                  $count++;
+                }
+              ?>
             </div>
           </div>
         </div>
