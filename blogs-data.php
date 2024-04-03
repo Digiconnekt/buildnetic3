@@ -1,6 +1,24 @@
 <?php
   $blogs = array(
     (object) array(
+      "title" => "React JS Development Services in the UK: Elevating Your Digital Presence",
+      "image" => "react-js-development-services-in-the-uk-elevating-your-digital-presence.jpg",
+      "href" => "react-js-development-services-in-the-uk-elevating-your-digital-presence",
+      "description" => "Selecting the right technology stack is of the utmost importance in the constantly changing field of web development. The React js development services in uk radiates out as a front-end development"
+    ),
+    (object) array(
+      "title" => "Elevating Your Business with Cloud Architecture Consulting Services in the UK",
+      "image" => "elevating-your-business-with-cloud-architecture-consulting-services-in-the-uk.jpg",
+      "href" => "elevating-your-business-with-cloud-architecture-consulting-services-in-the-uk",
+      "description" => "In the field of information technology, cloud computing is a revolutionary paradigm that involves the provision of computing services via the Internet. Cloud architecture consulting services in uk"
+    ),
+    (object) array(
+      "title" => "Boost Your Business with a Skilled Full Stack Developer: Tips for Hiring the Best",
+      "image" => "boost-your-business-with-a-skilled-full-stack-developer-tips-for-hiring-the-best.jpg",
+      "href" => "boost-your-business-with-a-skilled-full-stack-developer-tips-for-hiring-the-best",
+      "description" => "A strong online presence is essential for any business to succeed in the modern digital era. A well-designed and useful website may hold the secret to increasing sales, bringing in new clients"
+    ),
+    (object) array(
       "title" => "Key Considerations for IT Outsourcing Services in the UK",
       "image" => "key-considerations-for-it-outsourcing-services-in-the-uk.jpg",
       "href" => "key-considerations-for-it-outsourcing-services-in-the-uk",
