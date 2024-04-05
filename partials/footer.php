@@ -140,6 +140,9 @@
                         <p>
                             <a href="../technology/php.php" class="text-decoration-none">PHP</a>
                         </p>    
+                        <p>
+                            <a href="../technology/fullstack-developer.php" class="text-decoration-none">Fullstack Developer</a>
+                        </p>    
                     </div>
                 </div>
             </div>

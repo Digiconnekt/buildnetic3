@@ -46,6 +46,10 @@
   background-image: url("../images/services/single-services/data-scientist/data-scientist-banner.jpg");
 }
 
+.single-service-page .title-section.fullstack-developer-banner {
+  background-image: url("../images/services/single-services/fullstack-developer/fullstack-developer-banner.jpg");
+}
+
 .single-service-page .title-section.data-engineer-banner {
   background-image: url("../images/services/single-services/data-engineer/data-engineer-banner.jpg");
 }

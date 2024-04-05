@@ -357,6 +357,12 @@
                         href="../technology/php.php"
                         >PHP</a>
                     </li>
+                    <li>
+                      <a
+                        class="dropdown-item"
+                        href="../technology/fullstack-developer.php"
+                        >Fullstack Developer</a>
+                    </li>
                   </div>
                 </div>
               </ul>
