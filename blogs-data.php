@@ -1,6 +1,24 @@
 <?php
   $blogs = array(
     (object) array(
+      "title" => "Building a Successful Machine Learning Team: Tips for Hiring and Retaining Top Talent",
+      "image" => "building-a-successful-machine-learning-team-tips-for-hiring-and-retaining-top-talent.png",
+      "href" => "building-a-successful-machine-learning-team-tips-for-hiring-and-retaining-top-talent",
+      "description" => "In today's data-driven landscape, machine learning has become a game-changer for businesses across various industries. By leveraging the power of machine learning algorithms, organizations can gain"
+    ),
+    (object) array(
+      "title" => "Where and How to Hire PHP Developers: The 2024 Guide",
+      "image" => "where-and-how-to-hire-php-developers-the-2024-guide.png",
+      "href" => "where-and-how-to-hire-php-developers-the-2024-guide",
+      "description" => "As we forge ahead into 2024, the demand for skilled PHP developers continues to grow, fueled by the ever-growing popularity of web applications and the robust capabilities of this server-side scripting language."
+    ),
+    (object) array(
+      "title" => "The Top Tools Every Full Stack Engineer Needs to Succeed",
+      "image" => "the-top-tools-every-fullstack-engineer-needs-to-succeed.png",
+      "href" => "the-top-tools-every-fullstack-engineer-needs-to-succeed",
+      "description" => "The world of web development is a vast landscape, and full-stack engineers are the versatile explorers who navigate it all.  They possess the knowledge and skills to bridge the front-end"
+    ),
+    (object) array(
       "title" => "React JS Development Services in the UK: Elevating Your Digital Presence",
       "image" => "react-js-development-services-in-the-uk-elevating-your-digital-presence.jpg",
       "href" => "react-js-development-services-in-the-uk-elevating-your-digital-presence",
