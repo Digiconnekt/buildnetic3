@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic: Premier Web Development Services in USA, UK, Canada, and Singapore</title>
+    <title>Expert Web Development Service in USA & Top Web Development Company in Netherlands | Buildnetic</title>
 
-    <meta name="description" content="Elevate your online presence with Buildnetic top-notch web development services tailored for businesses in the USA, UK, Canada, and Singapore. Transform your digital landscape with Buildnetic – Your Trusted Partner in Web Development Excellence.">
+    <meta name="description" content="Buildnetic specializes in custom web development services in the USA and is a professional web development company in the Netherlands. Get personalized solutions for your business.">
 
     <link rel="canonical" href="https://buildnetic.com/services/web-development.html">
 

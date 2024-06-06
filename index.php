@@ -6,9 +6,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic: Your Trusted Partner for Exceptional IT Outsourcing in the USA</title>
+    <title>Buildnetic: Leading IT Outsourcing Services in USA & UK to Propel Your Growth</title>
 
-    <meta name="description" content="Elevate your business with Buildnetic top-tier IT outsourcing services in the USA. Experience unmatched expertise, seamless solutions, and unparalleled support.">
+    <meta name="description" content="Buildnetic offers top-tier IT Outsourcing Services in USA & UK, providing unmatched efficiency and expertise to transform your business operations. Discover the power of outsourcing today.">
 
     <link rel="canonical" href="https://buildnetic.com/index.html">
 

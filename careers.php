@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Explore Exciting IT Careers at Buildnetic - Premier IT Consulting Agency in the USA</title>
+    <title>Buildnetic Careers: IT Outsourcing Agency in UK Seeking Top Talent</title>
 
-    <meta name="description" content="Join Buildnetic, the leading IT consulting agency in the USA, and embark on a rewarding career journey. Discover dynamic opportunities, cutting-edge projects, and a supportive work culture.">
+    <meta name="description" content="Join Buildnetic, the leading IT outsourcing agency in the UK, and be part of our vision to revolutionize the industry. Explore rewarding career paths and unleash your potential.">
 
     <link rel="canonical" href="https://buildnetic.com/careers.html">
 

@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic: Your Trusted IT Service Agency in Canada for Business</title>
+    <title>IT Consulting Services and Software Development Solutions | Buildnetic</title>
 
-    <meta name="description" content="Discover unparalleled IT services with Buildnetic, the leading IT service agency in Canada. Elevate your business with our innovative solutions, expert consultations, and reliable support. ">
+    <meta name="description" content="Buildnetic provides comprehensive IT consulting services and software development solutions. Transform your business with our customized and innovative approach.">
 
     <link rel="canonical" href="https://buildnetic.com/services.html">
 

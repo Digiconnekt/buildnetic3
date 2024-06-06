@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic: Leading E-Commerce Solutions in UK & USA - Transform Your Business Today!</title>
+    <title>Top Ecommerce Solution Service UK | Leading Ecommerce Company USA - Buildnetic</title>
 
-    <meta name="description" content="Explore Buildnetic's cutting-edge E-Commerce solutions tailored for success in the UK and USA. Elevate your business with our comprehensive E-Commerce Business Solutions designed to drive growth and maximize profitability.">
+    <meta name="description" content="Choose Buildnetic for the best Ecommerce solution services in the UK and USA. We provide cutting-edge solutions to elevate your ecommerce platform.">
 
     <link rel="canonical" href="https://buildnetic.com/services/e-commerce-solutions.html">
 

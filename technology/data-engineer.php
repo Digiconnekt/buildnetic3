@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic: ETL Expert Service in Singapore, Data Engineer Service in UK</title>
+    <title>Hire Remote Data Engineers & ETL Experts in Singapore | Buildnetic</title>
 
-    <meta name="description" content="Explore Buildnetic's top-notch Data Engineering services - ETL expertise in Singapore, comprehensive Data Engineer solutions in the UK, and robust Data Quality Management in Canada. Transform your data with precision and reliability.">
+    <meta name="description" content="Looking to hire data engineers? Buildnetic provides top-tier remote data engineers and ETL experts in Singapore. Discover our data engineer services today!">
 
     <link rel="canonical" href="https://buildnetic.com/technology/data-engineer.html">
 

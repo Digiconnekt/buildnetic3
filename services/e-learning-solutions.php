@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic: E Learning Solutions in USA | Student Service Portal Development in UK</title>
+    <title>E Learning Solution Company in USA | Buildnetic - Custom eLearning Solutions for Clients</title>
 
-    <meta name="description" content="Explore Buildnetic's cutting-edge E Learning Solutions in the USA and Student Service Portal Development services in the UK. Elevate your education experience with innovative technology solutions tailored to meet your learning needs.">
+    <meta name="description" content="Partner with Buildnetic, the leading E Learning Solution company in the USA, delivering comprehensive e-learning solutions for clients to achieve educational success.">
 
     <link rel="canonical" href="https://buildnetic.com/services/e-learning-solutions.html">
 

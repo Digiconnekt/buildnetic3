@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic Cyber Security: Leading Cyber Security Service in UK</title>
+    <title>Cyber Security Service in UK | Buildnetic - Premier Cyber Security Provider in Singapore</title>
 
-    <meta name="description" content="Explore Buildnetic top-notch Cyber Security Service in the UK. Safeguard your digital assets with our expert solutions and proactive defense measures.">
+    <meta name="description" content="Buildnetic offers unparalleled Cyber Security Services in the UK and is a renowned Cyber Security Provider in Singapore. Safeguard your company with our advanced security solutions.">
 
     <link rel="canonical" href="https://buildnetic.com/services/cyber-security.html">
 

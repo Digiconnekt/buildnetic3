@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Leading IT Support Service in USA - Buildnetic</title>
+    <title>Remote Dedicated Developers | Buildnetic: About Us</title>
 
-    <meta name="description" content="Discover the pinnacle of IT support services in the USA with Buildnetic. As a trusted partner, we redefine technology solutions, providing unparalleled support to businesses nationwide. Explore our About Us page to learn how Buildnetic's expertise and innovation drive your success in the dynamic world of Information Technology.">
+    <meta name="description" content="Learn how Buildnetic's remote dedicated developers can take your business to new heights. Explore our innovative solutions and industry-leading expertise.">
 
     <link rel="canonical" href="https://buildnetic.com/about-us.html">
 

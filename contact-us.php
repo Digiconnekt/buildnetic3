@@ -5,9 +5,9 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Contact Buildnetic: Best IT Consulting Company in USA</title>
+  <title>Reach Buildnetic: Your Partner Among Tech Outsourcing Companies in UK</title>
 
-  <meta name="description" content="Get in touch with Buildnetic, one of the best IT consulting companies in the USA. Contact us for reliable and innovative IT solutions tailored to your business needs.">
+  <meta name="description" content="Looking for reliable tech outsourcing companies in UK? Contact Buildnetic for cutting-edge solutions tailored to your needs. Let's collaborate for success!">
 
   <link rel="canonical" href="https://buildnetic.com/contact-us.html">
 

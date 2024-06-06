@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Expert Mobile App Development Services in the UK and Singapore | Buildnetic</title>
+    <title>Top Mobile App Development Service in UK | Hybrid App Development in Canada by Buildnetic</title>
 
-    <meta name="description" content="Unlock innovative mobile solutions with Buildnetic's top-notch Mobile App Development Services in the UK and Singapore. Our skilled team crafts cutting-edge applications tailored to your business needs, ensuring seamless user experiences and robust functionality.">
+    <meta name="description" content="Get expert mobile app development service in the UK and hybrid mobile app development services in Canada with Buildnetic. Tailored solutions for your unique needs.">
 
     <link rel="canonical" href="https://buildnetic.com/services/mobile-development.html">
 

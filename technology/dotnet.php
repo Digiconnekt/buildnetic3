@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Expert Full-stack .NET Development in USA, UK, Singapore | Buildnetic</title>
+    <title>Dot NET Integration Services in Netherlands & .NET Consulting Services in Canada - Buildnetic</title>
 
-    <meta name="description" content="Buildnetic offers comprehensive full-stack .NET development services in USA, UK, and Singapore. We also provide top-notch .NET integration consulting services in Canada. Unlock the full potential of your software solutions with our expertise and innovation.">
+    <meta name="description" content="Discover top-notch Dot NET integration services in the Netherlands and expert .NET consulting services in Canada with Buildnetic. Hire remote Dot NET developers online today!">
 
     <link rel="canonical" href="https://buildnetic.com/technology/dotnet.html">
 

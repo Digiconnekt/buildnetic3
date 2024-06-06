@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic - Cloud Consulting Agency in the USA | Expert Public & Private Cloud Services in Singapore</title>
+    <title>Cloud Computing Services in Canada | Leading Cloud architecture Consulting Services in UK</title>
 
-    <meta name="description" content="Discover the power of the cloud with Buildnetic, your premier Cloud Consulting Agency in the USA. Explore top-notch Public & Private Cloud Services in Singapore tailored to elevate your business.">
+    <meta name="description" content="Buildnetic provides top-tier public cloud services in Canada and Private Cloud Service in UK. Achieve greater flexibility and performance with our reliable cloud solutions.">
 
     <link rel="canonical" href="https://buildnetic.com/services/cloud-computing.html">
 

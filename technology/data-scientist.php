@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic: Expert Data Mining Service in Singapore & Data Analysis Service in the UK</title>
+    <title>Expert Data Scientists for Hire in Canada & Data Mining Services in Singapore | Buildnetic</title>
 
-    <meta name="description" content="Unlock the power of data with Buildnetic's top-notch data mining service in Singapore and advanced data analysis service in the UK. Transform your business insights today.">
+    <meta name="description" content="Hire expert data scientists and access top-tier data mining services in Singapore with Buildnetic. Elevate your data strategy with Canada's finest professionals.">
 
     <link rel="canonical" href="https://buildnetic.com/technology/data-scientist.html">
 

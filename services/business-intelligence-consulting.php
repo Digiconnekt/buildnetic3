@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic - Business Intelligence Consulting Service in Canada & USA</title>
+    <title>Business Intelligence Consulting Firm in Canada | Buildnetic - Expert Data Solutions</title>
 
-    <meta name="description" content="Elevate your business with Buildnetic expert Business Intelligence consulting services in Canada & USA. Transform data into strategic insights for unparalleled growth.">
+    <meta name="description" content="Buildnetic, a leading business intelligence consulting firm in Canada, provides expert data solutions to help your business gain actionable insights and a competitive edge.">
 
     <link rel="canonical" href="https://buildnetic.com/services/business-intelligence-consulting.html">
 

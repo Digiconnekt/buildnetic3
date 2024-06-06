@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic: Leading IT Support Service Agency in USA, UK, Canada, Singapore</title>
+    <title>IT Support Services in Singapore | Expert IT Support Company in Netherlands - Buildnetic</title>
 
-    <meta name="description" content="Discover top-tier IT support services with Buildnetic, your trusted partner in technology solutions. Our expert team ensures seamless IT support in the USA, UK, Canada, and Singapore. Experience unparalleled service excellence for a robust and reliable IT infrastructure.">
+    <meta name="description" content="Trust Buildnetic for unparalleled IT support services in Singapore and top-tier IT solutions from the best IT support company in Netherlands. Your go-to partner for all IT needs.">
 
     <link rel="canonical" href="https://buildnetic.com/services/it-support.html">
 

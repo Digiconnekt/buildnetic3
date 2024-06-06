@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Professional PHP Development Services in USA | Buildnetic</title>
+    <title>Premier PHP Integration Services in Singapore | Hire PHP Developers Today</title>
 
-    <meta name="description" content="An expert PHP consulting services in Singapore, USA, and the UK. We specialize in PHP framework development in the USA and PHP migration & integration services in Canada. Contact us for reliable solutions.">
+    <meta name="description" content="Buildnetic is your premier choice for PHP integration services in Singapore. Hire our skilled PHP developers for unparalleled technology solutions.">
 
     <link rel="canonical" href="https://buildnetic.com/technology/php.html">
 

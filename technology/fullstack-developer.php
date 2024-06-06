@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Professional Fullstack Development Services in USA | Buildnetic</title>
+    <title>Full Stack Development Service in USA | Full-Stack Developers for Hire from Buildnetic</title>
 
-    <meta name="description" content="An expert PHP consulting services in Singapore, USA, and the UK. We specialize in PHP framework development in the USA and PHP migration & integration services in Canada. Contact us for reliable solutions.">
+    <meta name="description" content="Need full-stack developers? Buildnetic offers premier full stack development services in the USA and top-tier full-stack app development in Canada.">
 
     <link rel="canonical" href="https://buildnetic.com/technology/php.html">
 

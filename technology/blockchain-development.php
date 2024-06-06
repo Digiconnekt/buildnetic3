@@ -4,9 +4,9 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Buildnetic: Leading Blockchain Development Services in UK & Singapore</title>
+    <title>Premium Blockchain Consulting in Singapore | Blockchain Development Services UK - Buildnetic</title>
 
-    <meta name="description" content="We Provide offers top-notch blockchain development services in the UK and Singapore. We specialize in providing expert blockchain consulting services in Canada. Contact us today for innovative solutions.">
+    <meta name="description" content="Experience superior blockchain consulting solutions in Singapore and cutting-edge blockchain development services in the UK with Buildnetic's technology experts.">
 
     <link rel="canonical" href="https://buildnetic.com/technology/blockchain-development.html">
 
