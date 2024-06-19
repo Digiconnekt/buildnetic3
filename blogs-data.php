@@ -1,6 +1,18 @@
 <?php
   $blogs = array(
     (object) array(
+      "title" => "The Hidden Benefits of Hiring Machine Learning Experts for Your Startup",
+      "image" => "the-hidden-benefits-of-hiring-machine-learning-experts-for-your-startup.jpeg",
+      "href" => "the-hidden-benefits-of-hiring-machine-learning-experts-for-your-startup",
+      "description" => "In today's data-driven world, startups are constantly seeking innovative ways to gain a competitive edge.  While many focus on traditional approaches like marketing and product development But navigating the complexities of web development"
+    ),
+    (object) array(
+      "title" => "What Are the Benefits of Hiring a Full Stack Web Developer for Your Project?",
+      "image" => "what-are-the-benefits-of-hiring-a-full-stack-web-developer-for-your-project.jpeg",
+      "href" => "what-are-the-benefits-of-hiring-a-full-stack-web-developer-for-your-project",
+      "description" => "Whether you're building a dynamic e-commerce store, a data-driven application, or a simple informational website, the foundation of your online presence lies in its web development"
+    ),
+    (object) array(
       "title" => "Building a Successful Machine Learning Team: Tips for Hiring and Retaining Top Talent",
       "image" => "building-a-successful-machine-learning-team-tips-for-hiring-and-retaining-top-talent.png",
       "href" => "building-a-successful-machine-learning-team-tips-for-hiring-and-retaining-top-talent",
