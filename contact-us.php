@@ -101,6 +101,10 @@
             <p class="mb-4">
               <a href="tel:+16478198634" class="text-decoration-none" target="_blank">+1 (647) 819-8634</a>
             </p>
+            <h5 class="mb-3">UK</h5>
+            <p class="mb-4">
+              <a href="tel:+447470379052" class="text-decoration-none" target="_blank">+44 7470 379052</a>
+            </p>
             <div class="img-block pt-4">
               <img src="./images/contact/call-us.png" alt="Call Us" class="img-fluid" />
             </div>
@@ -120,6 +124,10 @@
             <h5 class="mb-3">Canada</h5>
             <p class="mb-4">
               441 Centre street East, Richmond Hill, L4C1B8, Ontario, Canada
+            </p>
+            <h5 class="mb-3">UK</h5>
+            <p class="mb-4">
+              409 Pinner Road, Harrow, <br> England HA1 4HN
             </p>
             <div class="img-block pt-4">
               <img src="./images/contact/our-office.png" alt="Our Offices" class="img-fluid" />
