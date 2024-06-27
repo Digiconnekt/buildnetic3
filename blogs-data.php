@@ -1,6 +1,36 @@
 <?php
   $blogs = array(
     (object) array(
+      "title" => "Hire WordPress Website Designer: Transform Your Digital Presence",
+      "image" => "hire-wordpress-website-designer-transform-your-digital-presence.png",
+      "href" => "hire-wordpress-website-designer-transform-your-digital-presence",
+      "description" => "In the digital age, your website serves as the virtual storefront for your business, representing your brand and offering a gateway to potential customers. As the world's most popular content management system (CMS), WordPress has emerged as the go-to platform for creating"
+    ),
+    (object) array(
+      "title" => "From Front to Back: Full Stack Web Development Secrets",
+      "image" => "from-front-to-back-full-stack-web-development-secrets.png",
+      "href" => "from-front-to-back-full-stack-web-development-secrets",
+      "description" => "Businesses are constantly seeking ways to establish a strong online presence that sets them apart from the competition. A well-designed and functional website is no longer just a fancy thing; it's a vital component of success. However, creating a website that"
+    ),
+    (object) array(
+      "title" => "Frustrated with Slow SAAS Web Application Development in the USA? Try Buildnetic!",
+      "image" => "frustrated-with-slow-saas-web-application-development-in-the-usa-try-buildnetic.png",
+      "href" => "frustrated-with-slow-saas-web-application-development-in-the-usa-try-buildnetic",
+      "description" => "In today's fast-paced digital economy, speed is everything. Businesses across the United States are increasingly turning to Software as a Service (SaaS) solutions to streamline operations, enhance customer experiences, and gain a competitive edge."
+    ),
+    (object) array(
+      "title" => "Are Your Projects Stuck? Hire Dedicated Developers to Get Back on Track",
+      "image" => "are-your-projects-stuck-hire-dedicated-developers-to-get-back-on-track.png",
+      "href" => "are-your-projects-stuck-hire-dedicated-developers-to-get-back-on-track",
+      "description" => "It's a common scenario – you have an innovative idea, and you start a project with great enthusiasm. However, as time passes, progress slows down, and before you know it, your project is stuck in limbo. Whether it's due to a lack of resources"
+    ),
+    (object) array(
+      "title" => "Mistakes to Avoid in Hybrid App Development: Insights from a Leading Company",
+      "image" => "mistakes-to-avoid-in-hybrid-app-development-insights-from-a-leading-company.png",
+      "href" => "mistakes-to-avoid-in-hybrid-app-development-insights-from-a-leading-company",
+      "description" => "In today's digital age, mobile apps have become an integral part of our daily lives, and businesses are increasingly leveraging the power of mobile technologies to reach their customers. One approach that has gained significant traction"
+    ),
+    (object) array(
       "title" => "The Hidden Benefits of Hiring Machine Learning Experts for Your Startup",
       "image" => "the-hidden-benefits-of-hiring-machine-learning-experts-for-your-startup.jpeg",
       "href" => "the-hidden-benefits-of-hiring-machine-learning-experts-for-your-startup",
