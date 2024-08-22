@@ -1,10 +1,52 @@
 <?php
 $blogs = array(
   (object) array(
+    "title" => "Hire Dedicated Laravel Developers: A Comprehensive Guide",
+    "image" => "hire-dedicated-laravel-developers-a-comprehensive-guide.jpeg",
+    "href" => "hire-dedicated-laravel-developers-a-comprehensive-guide",
+    "description" => "In today's fast-paced digital landscape, businesses are constantly seeking efficient and cost-effective ways to develop robust web applications. Laravel, a powerful PHP framework, has emerged as a popular choice for building scalable and feature-rich"
+  ),
+  (object) array(
+    "title" => "Hire Remote IOS Developers Online with Buildnetic for Cost-Effective Solutions",
+    "image" => "hire-remote-ios-developers-online-with-buildnetic-for-cost-effective-solutions.jpeg",
+    "href" => "hire-remote-ios-developers-online-with-buildnetic-for-cost-effective-solutions",
+    "description" => "In today's digital-first world, having a strong mobile presence is no longer optional for businesses – it's essential. With Apple's iOS devices dominating a significant portion of the mobile market, especially in North America, investing"
+  ),
+  (object) array(
+    "title" => "The Future of Angular App Development: Trends to Watch in 2024",
+    "image" => "the-future-of-angular-app-development-trends-to-watch-in-2024.jpeg",
+    "href" => "the-future-of-angular-app-development-trends-to-watch-in-2024",
+    "description" => "As we approach 2024, the landscape of web development continues to evolve, and Angular remains at the forefront of this transformation. For businesses seeking Angular app development services in the UK, staying abreast of the latest trends."
+  ),
+  (object) array(
+    "title" => "Fortress of Security: Top Cyber Security Services in the UK",
+    "image" => "fortress-of-security-top-cyber-security-services-in-the-uk.jpeg",
+    "href" => "fortress-of-security-top-cyber-security-services-in-the-uk",
+    "description" => "In today's digital landscape, the need for robust Cyber Security Services in the UK has never been more critical. As businesses and individuals increasingly rely on technology for their daily operations and personal lives, the threat landscape continues to evolve and expand."
+  ),
+  (object) array(
+    "title" => "Hire a WordPress Website Designer: The Risk and Reward of a High-Quality Site",
+    "image" => "hire-a-wordPress-website-designer-the-risk-and-reward-of-a-high-quality-site.jpg",
+    "href" => "hire-wordpress-website-designer",
+    "description" => "In today's digital landscape, having a strong online presence is crucial for businesses of all sizes. At the heart of this presence is often a well-designed, functional website. For many, WordPress has become the platform of choice due to its flexibility and ease of use."
+  ),
+  (object) array(
+    "title" => "The Steps To Implement in Your Magento Extension Development Project",
+    "image" => "the-steps-to-implement-in-your-magento-extension-development-project.jpg",
+    "href" => "the-steps-to-implement-in-your-magento-extension-development-project",
+    "description" => "Magento, one of the world's leading e-commerce platforms, offers incredible flexibility through its extension system. For businesses looking to enhance their online stores, Magento extension development can provide custom functionality tailored to specific."
+  ),
+  (object) array(
+    "title" => "What is the REST API in Laravel? - A Complete Guide",
+    "image" => "what-is-the-rest-api-in-laravel-a-complete-guide.jpg",
+    "href" => "what-is-the-rest-api-in-laravel-a-complete-guide",
+    "description" => "In today's interconnected digital world, APIs (Application Programming Interfaces) play a crucial role in allowing different software systems to communicate with each other. Among the various types of APIs, REST (Representational State Transfer) APIs have become"
+  ),
+  (object) array(
     "title" => "Top 10 Free WordPress Security Plugins in 2024",
     "image" => "top-10-free-wordpress-security-plugins-in-2024.png",
     "href" => "top-10-free-wordpress-security-plugins-in-2024",
-    "description" => "Securing your WordPress website is an important factor that businesses look up to. As WordPress development services continue to advance, so do the threats facing websites. Fortunately, there are numerous free security plugins available to help protect your site."
+    "description" => "Securing your WordPress website is an important factor that businesses look up to. As WordPress development services continue to advance, so do the threats facing websites. Fortunately, there are numerous free security plugins available to help protect."
   ),
   (object) array(
     "title" => "Hire Remote Angular Developers: Risky or Rewarding? Find Out Here",
