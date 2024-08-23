@@ -7,7 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Reach Buildnetic: Your Partner Among Tech Outsourcing Companies in UK</title>
 
-  <meta name="description" content="Looking for reliable tech outsourcing companies in UK? Contact Buildnetic for cutting-edge solutions tailored to your needs. Let's collaborate for success!">
+  <meta name="description"
+    content="Looking for reliable tech outsourcing companies in UK? Contact Buildnetic for cutting-edge solutions tailored to your needs. Let's collaborate for success!">
 
   <link rel="canonical" href="https://buildnetic.com/contact-us.html">
 
@@ -15,7 +16,7 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-LF922RPFG3"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+    function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
 
     gtag('config', 'G-LF922RPFG3');
@@ -28,7 +29,8 @@
   <link rel="shortcut icon" href="./images/buildnetic-fav.ico" type="image/x-icon" />
 
   <!-- bootstrap 5 CSS cdn link -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous" />
 
   <!-- custom CSS link for INDEX page -->
   <link rel="stylesheet" href="./css/index.css" />
@@ -37,7 +39,9 @@
   <link rel="stylesheet" href="./css/contact-us.css" />
 
   <!-- fontawesome link -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+    integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
   <script src="https://www.google.com/recaptcha/api.js"></script>
 </head>
 
@@ -118,8 +122,7 @@
             <p class="mb-4">5-03 Plus, 20 Cecil Street Singapore 049705</p>
             <h5 class="mb-3">India</h5>
             <p class="mb-4">
-              927, JMD Megapolis, Sohna Road, Sector 48 Gurgaon, Haryana
-              122018, India
+              Wework , Blueone Square Building, 246, Phase IV, Udyog Vihar Gurugram, HR 122016
             </p>
             <h5 class="mb-3">Canada</h5>
             <p class="mb-4">
@@ -137,13 +140,15 @@
       </div>
 
       <div class="mail-block mt-5">
-        <a href="mailto:sales@buildnetic.com" class="text-decoration-none py-3 px-4 mx-auto mb-5" target="_blank">You can also email us at: sales@buildnetic.com
+        <a href="mailto:sales@buildnetic.com" class="text-decoration-none py-3 px-4 mx-auto mb-5" target="_blank">You
+          can also email us at: sales@buildnetic.com
         </a>
       </div>
     </div>
 
     <div class="contact-form container py-5 ">
-      <form action="submit_contact.php" novalidate method="post" onsubmit="return validateForm();" class="form py-5" id="contact-form">
+      <form action="submit_contact.php" novalidate method="post" onsubmit="return validateForm();" class="form py-5"
+        id="contact-form">
         <div class="row">
           <div class="col-lg-8 mx-auto">
             <form class="p-5">
@@ -151,12 +156,14 @@
                 <div class="row">
                   <div class="col-12 col-md-6 form-group">
                     <label for="fullName" class="form-label">Full Name:</label>
-                    <input type="text" required class="form-control mb-3" name="full_name" id="fullName" placeholder="John Doe" />
+                    <input type="text" required class="form-control mb-3" name="full_name" id="fullName"
+                      placeholder="John Doe" />
 
                   </div>
                   <div class="col-12 col-md-6 mt-3 mt-md-0 form-group">
                     <label for="organization" class="form-label">Organization:</label>
-                    <input type="text" name="company_name" required class="form-control mb-3" id="organization" placeholder="Company Name" />
+                    <input type="text" name="company_name" required class="form-control mb-3" id="organization"
+                      placeholder="Company Name" />
                   </div>
                 </div>
               </div>
@@ -164,11 +171,13 @@
                 <div class="row">
                   <div class="col-12 col-md-6 form-group">
                     <label for="email" class="form-label">Email:</label>
-                    <input type="email" name="email" required class="form-control mb-3" id="email" placeholder="name@company.com" />
+                    <input type="email" name="email" required class="form-control mb-3" id="email"
+                      placeholder="name@company.com" />
                   </div>
                   <div class="col-12 col-md-6 mt-3 mt-md-0 form-group">
                     <label for="phone" class="form-label">Phone Number:</label>
-                    <input type="tel" name="mobile" required class="form-control mb-3" id="phone" placeholder="Full Number (incl. prefix)" />
+                    <input type="tel" name="mobile" required class="form-control mb-3" id="phone"
+                      placeholder="Full Number (incl. prefix)" />
                   </div>
                 </div>
               </div>
@@ -176,7 +185,8 @@
                 <div class="row">
                   <div class="col-12 col-md-6 form-group">
                     <label for="companySize" class="form-label">Company size:</label>
-                    <select class="form-select mb-3" name="company_size" aria-label="Default select example" id="companySize">
+                    <select class="form-select mb-3" name="company_size" aria-label="Default select example"
+                      id="companySize">
 
                       <option value="1(Freelancer)">1 (Freelancer)</option>
                       <option value="2-19">2-19</option>
@@ -186,7 +196,8 @@
                   </div>
                   <div class="col-12 col-md-6 mt-3 mt-md-0 form-group">
                     <label for="inquiry" class="form-label">What’s your inquiry about?</label>
-                    <select class="form-select mb-3" name="enquiry_about" aria-label="Default select example" id="inquiry">
+                    <select class="form-select mb-3" name="enquiry_about" aria-label="Default select example"
+                      id="inquiry">
 
                       <option value="General Information Request">
                         General Information Request
@@ -205,9 +216,11 @@
               </div>
               <div class="mb-3 form-group">
                 <label for="exampleFormControlTextarea1" class="form-label">How can we help you?</label>
-                <textarea class="form-control" name="message" id="exampleFormControlTextarea1" rows="3" placeholder="Let us know what you need"></textarea>
+                <textarea class="form-control" name="message" id="exampleFormControlTextarea1" rows="3"
+                  placeholder="Let us know what you need"></textarea>
               </div>
-              <button class="g-recaptcha btn btn-primary mt-3" data-sitekey="6LdR3MgkAAAAAOUnRChNIU9tUh3CST0Cnsa1ggO-" data-callback='onSubmit' data-action='submit'>Submit</button>
+              <button class="g-recaptcha btn btn-primary mt-3" data-sitekey="6LdR3MgkAAAAAOUnRChNIU9tUh3CST0Cnsa1ggO-"
+                data-callback='onSubmit' data-action='submit'>Submit</button>
 
             </form>
           </div>
@@ -238,8 +251,8 @@
     }
   </script>
   <!-- footer section start -->
-  <?php include 'partials/footer.php' 
-  ?>
+  <?php include 'partials/footer.php'
+    ?>
   <style>
     .has-success .form-control {
       border-bottom: 2px solid #168b3f;
